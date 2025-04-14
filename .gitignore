@@ -1,2 +1,7 @@
+*.jpg
+*.tif
+*.png
 impr/src
 impr/in_src
+impr/output/kraken
+htr/impr/datasets/*.arrow
