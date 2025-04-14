@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-01-10T18:07:07.328+01:00</Created>
+        <LastChange>2022-01-31T21:17:29.931+01:00</LastChange>
+        <TranskribusMetadata docId="888829" pageId="34072557" pageNr="111" tsid="73009095" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=XKNFBGMOERLMAEDEBMJLBQIT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ARLJFGTGJWFSYOXUPHCIQRWG" imageId="27321884"/>
+    </Metadata>
+    <Page imageFilename="GOST_Th_0111_34072557.jpg" imageWidth="1787" imageHeight="2459">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1643660249931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643630998613_190"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643630998613_189"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1643630997480_185"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1643630996332_181"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1643630995270_177"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1643630998613_190" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="179,245 1496,245 1496,301 179,301"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="759,290 785,292 811,293 838,293 864,293 891,293 917,293 943,294 970,295 996,297 1023,301 1023,256 996,252 970,250 943,249 917,248 891,248 864,248 838,248 811,248 785,247 759,245"/>
+                <Baseline points="759,275 785,277 811,278 838,278 864,278 891,278 917,278 943,279 970,280 996,282 1023,286"/>
+                <TextEquiv>
+                    <Unicode>Folio. lvj.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Folio. lvj.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630998613_189" custom="readingOrder {index:1;} structure {type:DocParagraf;}">
+            <Coords points="179,301 1496,301 1496,572 179,572"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="223,353 286,353 350,352 413,352 477,353 541,353 604,354 668,355 732,357 795,358 859,360 923,362 986,363 1050,365 1114,367 1177,368 1241,370 1305,371 1368,372 1432,373 1496,374 1496,340 1432,339 1368,338 1305,337 1241,336 1177,334 1114,333 1050,331 986,329 923,328 859,326 795,324 732,323 668,321 604,320 541,319 477,319 413,318 350,318 286,319 223,319"/>
+                <Baseline points="223,342 286,342 350,341 413,341 477,342 541,342 604,343 668,344 732,346 795,347 859,349 923,351 986,352 1050,354 1114,356 1177,357 1241,359 1305,360 1368,361 1432,362 1496,363"/>
+                <TextEquiv>
+                    <Unicode>Corollarium~ sextu~ ⁊ vltimu~: Eadem substantia est ingenerabilis ⁊ generabilis. Incorru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="216,400 279,400 342,401 406,401 469,402 533,402 596,403 660,404 723,405 787,407 850,408 913,409 977,411 1040,413 1104,414 1167,416 1231,417 1294,419 1358,421 1421,422 1485,424 1485,390 1421,388 1358,387 1294,385 1231,383 1167,382 1104,380 1040,379 977,377 913,375 850,374 787,373 723,371 660,370 596,369 533,368 469,368 406,367 342,367 279,366 216,366"/>
+                <Baseline points="216,389 279,389 342,390 406,390 469,391 533,391 596,392 660,393 723,394 787,396 850,397 913,398 977,400 1040,402 1104,403 1167,405 1231,406 1294,408 1358,410 1421,411 1485,413"/>
+                <TextEquiv>
+                    <Unicode>ptibilis ⁊ corruptibilis vt pote homo; sed alia ⁊ alia ratio~e: qⁱa vt est methaphisicus est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="215,448 278,448 342,448 405,449 469,450 532,450 596,451 659,453 723,454 786,456 850,457 913,459 977,460 1040,462 1104,463 1167,465 1231,466 1294,468 1358,469 1421,470 1485,471 1485,437 1421,436 1358,435 1294,434 1231,432 1167,431 1104,429 1040,428 977,426 913,425 850,423 786,422 723,420 659,419 596,417 532,416 469,416 405,415 342,414 278,414 215,414"/>
+                <Baseline points="215,437 278,437 342,437 405,438 469,439 532,439 596,440 659,442 723,443 786,445 850,446 913,448 977,449 1040,451 1104,452 1167,454 1231,455 1294,457 1358,458 1421,459 1485,460"/>
+                <TextEquiv>
+                    <Unicode>ingenerabilis ⁊ incorruptibilis. Ut au~t est phisicus ⁊ logicꝰ est generabilis ⁊ corrupti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="213,495 276,496 340,496 403,497 467,498 530,499 594,501 657,502 721,503 784,505 848,507 912,508 975,510 1039,511 1102,513 1166,514 1229,516 1293,517 1356,519 1420,520 1484,521 1484,487 1420,486 1356,485 1293,483 1229,482 1166,480 1102,479 1039,477 975,476 912,474 848,473 784,471 721,469 657,468 594,467 530,465 467,464 403,463 340,462 276,462 213,461"/>
+                <Baseline points="213,484 276,485 340,485 403,486 467,487 530,488 594,490 657,491 721,492 784,494 848,496 912,497 975,499 1039,500 1102,502 1166,503 1229,505 1293,506 1356,508 1420,509 1484,510"/>
+                <TextEquiv>
+                    <Unicode>bilis. Et ta~tu~ causa breuitatis. ⁊ etia~ qⁱa oi~a que hic deberent adduci adducta sunt i~ p~ce-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="212,544 238,544 264,544 290,544 316,544 342,544 368,545 394,545 420,545 446,546 472,547 498,548 498,514 472,513 446,512 420,511 394,511 368,511 342,510 316,510 290,510 264,510 238,510 212,510"/>
+                <Baseline points="212,533 238,533 264,533 290,533 316,533 342,533 368,534 394,534 420,534 446,535 472,536 498,537"/>
+                <TextEquiv>
+                    <Unicode>denti propositione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Corollarium~ sextu~ ⁊ vltimu~: Eadem substantia est ingenerabilis ⁊ generabilis. Incorru&#13;
+ptibilis ⁊ corruptibilis vt pote homo; sed alia ⁊ alia ratio~e: qⁱa vt est methaphisicus est&#13;
+ingenerabilis ⁊ incorruptibilis. Ut au~t est phisicus ⁊ logicꝰ est generabilis ⁊ corrupti-&#13;
+bilis. Et ta~tu~ causa breuitatis. ⁊ etia~ qⁱa oi~a que hic deberent adduci adducta sunt i~ p~ce-&#13;
+denti propositione.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630997480_185" custom="readingOrder {index:2;} structure {type:propositio;}">
+            <Coords points="179,572 1496,572 1496,1094 179,1094"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+                <Coords points="218,632 284,633 350,634 416,634 483,635 549,636 615,637 681,637 748,638 814,639 880,641 946,642 1013,643 1079,644 1145,646 1211,648 1278,650 1344,651 1410,653 1477,656 1477,611 1410,608 1344,606 1278,605 1211,603 1145,601 1079,599 1013,598 946,597 880,596 814,594 748,593 681,592 615,592 549,591 483,590 416,589 350,589 284,588 218,587"/>
+                <Baseline points="218,617 284,618 350,619 416,619 483,620 549,621 615,622 681,622 748,623 814,624 880,626 946,627 1013,628 1079,629 1145,631 1211,633 1278,635 1344,636 1410,638 1477,641"/>
+                <TextEquiv>
+                    <Unicode>Si autem quis dicat ꝙ possibile est vt substantia stans per seipsam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="214,726 277,726 340,726 403,727 467,727 530,728 593,728 657,729 720,730 783,730 847,731 910,732 973,733 1036,734 1100,736 1163,737 1226,739 1290,741 1353,743 1416,745 1480,747 1480,702 1416,700 1353,698 1290,696 1226,694 1163,692 1100,691 1036,689 973,688 910,687 847,686 783,685 720,685 657,684 593,683 530,683 467,682 403,682 340,681 277,681 214,681"/>
+                <Baseline points="214,711 277,711 340,711 403,712 467,712 530,713 593,713 657,714 720,715 783,715 847,716 910,717 973,718 1036,719 1100,721 1163,722 1226,724 1290,726 1353,728 1416,730 1480,732"/>
+                <TextEquiv>
+                    <Unicode>cadat sub corruptione. Dicemus si spossibile est vt substantia per se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+                <Coords points="215,818 278,818 341,819 404,819 467,820 530,820 593,821 657,822 720,823 783,824 846,825 909,826 972,827 1035,828 1099,829 1162,831 1225,832 1288,833 1351,834 1414,835 1478,836 1478,791 1414,790 1351,789 1288,788 1225,787 1162,786 1099,784 1035,783 972,782 909,781 846,780 783,779 720,778 657,777 593,776 530,775 467,775 404,774 341,774 278,773 215,773"/>
+                <Baseline points="215,803 278,803 341,804 404,804 467,805 530,805 593,806 657,807 720,808 783,809 846,810 909,811 972,812 1035,813 1099,814 1162,816 1225,817 1288,818 1351,819 1414,820 1478,821"/>
+                <TextEquiv>
+                    <Unicode>ipsam stans cadas sub corruptione possibile est vt separetur ab eius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="206,902 269,903 333,903 397,904 460,904 524,905 588,906 651,906 715,907 779,908 843,909 906,910 970,911 1034,912 1097,914 1161,915 1225,917 1288,918 1352,920 1416,922 1480,925 1480,880 1416,877 1352,875 1288,873 1225,872 1161,870 1097,869 1034,867 970,866 906,865 843,864 779,863 715,862 651,861 588,861 524,860 460,859 397,859 333,858 269,858 206,857"/>
+                <Baseline points="206,887 269,888 333,888 397,889 460,889 524,890 588,891 651,891 715,892 779,893 843,894 906,895 970,896 1034,897 1097,899 1161,900 1225,902 1288,903 1352,905 1416,907 1480,910"/>
+                <TextEquiv>
+                    <Unicode>essentia ⁊ sit stans fixa per essentiam suam sine essentia sua hoc est in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="207,996 270,995 334,995 398,995 461,995 525,995 589,996 652,997 716,997 780,998 844,999 907,1001 971,1002 1035,1003 1098,1005 1162,1006 1226,1008 1289,1009 1353,1011 1417,1013 1481,1014 1481,969 1417,968 1353,966 1289,964 1226,963 1162,961 1098,960 1035,958 971,957 907,956 844,954 780,953 716,952 652,952 589,951 525,950 461,950 398,950 334,950 270,950 207,951"/>
+                <Baseline points="207,981 270,980 334,980 398,980 461,980 525,980 589,981 652,982 716,982 780,983 844,984 907,986 971,987 1035,988 1098,990 1162,991 1226,993 1289,994 1353,996 1417,998 1481,999"/>
+                <TextEquiv>
+                    <Unicode>co~ueniens ⁊ impossibile. quoniam propterea ꝙ est vna simplex non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="200,1082 251,1082 302,1083 353,1084 405,1084 456,1085 507,1085 558,1086 610,1087 661,1087 712,1088 763,1089 815,1090 866,1090 917,1091 968,1092 1020,1093 1071,1093 1122,1094 1173,1095 1225,1096 1225,1057 1173,1056 1122,1055 1071,1054 1020,1054 968,1053 917,1052 866,1051 815,1051 763,1050 712,1049 661,1048 610,1048 558,1047 507,1046 456,1046 405,1045 353,1045 302,1044 251,1043 200,1043"/>
+                <Baseline points="200,1069 251,1069 302,1070 353,1071 405,1071 456,1072 507,1072 558,1073 610,1074 661,1074 712,1075 763,1076 815,1077 866,1077 917,1078 968,1079 1020,1080 1071,1080 1122,1081 1173,1082 1225,1083"/>
+                <TextEquiv>
+                    <Unicode>composita est. Causa enim ip~a ⁊ causatum simul sunt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Si autem quis dicat ꝙ possibile est vt substantia stans per seipsam&#13;
+cadat sub corruptione. Dicemus si spossibile est vt substantia per se-&#13;
+ipsam stans cadas sub corruptione possibile est vt separetur ab eius&#13;
+essentia ⁊ sit stans fixa per essentiam suam sine essentia sua hoc est in-&#13;
+co~ueniens ⁊ impossibile. quoniam propterea ꝙ est vna simplex non&#13;
+composita est. Causa enim ip~a ⁊ causatum simul sunt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630996332_181" custom="readingOrder {index:3;} structure {type:DocParagraf;}">
+            <Coords points="179,1094 1496,1094 1496,1698 179,1698"/>
+            <TextLine id="r1l13" custom="readingOrder {index:0;}">
+                <Coords points="207,1136 270,1136 333,1136 397,1137 460,1137 524,1138 587,1139 650,1140 714,1141 777,1142 841,1143 904,1144 967,1145 1031,1146 1094,1148 1158,1149 1221,1150 1284,1151 1348,1152 1411,1154 1475,1154 1475,1120 1411,1120 1348,1118 1284,1117 1221,1116 1158,1115 1094,1114 1031,1112 967,1111 904,1110 841,1109 777,1108 714,1107 650,1106 587,1105 524,1104 460,1103 397,1103 333,1102 270,1102 207,1102"/>
+                <Baseline points="207,1125 270,1125 333,1125 397,1126 460,1126 524,1127 587,1128 650,1129 714,1130 777,1131 841,1132 904,1133 967,1134 1031,1135 1094,1137 1158,1138 1221,1139 1284,1140 1348,1141 1411,1143 1475,1143"/>
+                <TextEquiv>
+                    <Unicode>Proposita ꝓpositione declarat ⁊ manifestat ea~. Circa qd' quatuor facit. Quia pⁱmo ꝓ-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:1;}">
+                <Coords points="197,1184 260,1184 324,1184 388,1185 451,1185 515,1186 579,1187 642,1188 706,1189 770,1190 834,1191 897,1192 961,1193 1025,1195 1088,1196 1152,1197 1216,1198 1279,1199 1343,1200 1407,1201 1471,1202 1471,1168 1407,1167 1343,1166 1279,1165 1216,1164 1152,1163 1088,1162 1025,1161 961,1159 897,1158 834,1157 770,1156 706,1155 642,1154 579,1153 515,1152 451,1151 388,1151 324,1150 260,1150 197,1150"/>
+                <Baseline points="197,1173 260,1173 324,1173 388,1174 451,1174 515,1175 579,1176 642,1177 706,1178 770,1179 834,1180 897,1181 961,1182 1025,1184 1088,1185 1152,1186 1216,1187 1279,1188 1343,1189 1407,1190 1471,1191"/>
+                <TextEquiv>
+                    <Unicode>bat ꝓpositionem videlicet ꝙ substantia per se stans no~ cadit sub corruptio~e co~parando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:2;}">
+                <Coords points="205,1233 268,1233 332,1233 395,1234 459,1234 522,1235 586,1236 649,1237 713,1238 776,1239 840,1240 903,1242 967,1243 1030,1244 1094,1245 1157,1246 1221,1247 1284,1248 1348,1248 1411,1248 1475,1249 1475,1215 1411,1214 1348,1214 1284,1214 1221,1213 1157,1212 1094,1211 1030,1210 967,1209 903,1208 840,1206 776,1205 713,1204 649,1203 586,1202 522,1201 459,1200 395,1200 332,1199 268,1199 205,1199"/>
+                <Baseline points="205,1222 268,1222 332,1222 395,1223 459,1223 522,1224 586,1225 649,1226 713,1227 776,1228 840,1229 903,1231 967,1232 1030,1233 1094,1234 1157,1235 1221,1236 1284,1237 1348,1237 1411,1237 1475,1238"/>
+                <TextEquiv>
+                    <Unicode>talem substantia~ ad seipsam per quam est forma. Secu~do ꝓbat hoc idem co~parando ta-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:3;}">
+                <Coords points="207,1281 270,1281 333,1281 396,1282 460,1283 523,1284 586,1285 650,1286 713,1287 776,1288 840,1290 903,1291 966,1292 1029,1293 1093,1294 1156,1295 1219,1296 1283,1296 1346,1297 1409,1297 1473,1297 1473,1263 1409,1263 1346,1263 1283,1262 1219,1262 1156,1261 1093,1260 1029,1259 966,1258 903,1257 840,1256 776,1254 713,1253 650,1252 586,1251 523,1250 460,1249 396,1248 333,1247 270,1247 207,1247"/>
+                <Baseline points="207,1270 270,1270 333,1270 396,1271 460,1272 523,1273 586,1274 650,1275 713,1276 776,1277 840,1279 903,1280 966,1281 1029,1282 1093,1283 1156,1284 1219,1285 1283,1285 1346,1286 1409,1286 1473,1286"/>
+                <TextEquiv>
+                    <Unicode>lem substantiam ad sua~ causam ꝑ qua~ est effectiue. Tertio remouer quandam cauillatio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:4;}">
+                <Coords points="201,1329 264,1329 327,1330 391,1330 454,1331 517,1332 581,1333 644,1334 707,1335 771,1337 834,1338 897,1339 961,1340 1024,1341 1087,1342 1151,1343 1214,1344 1277,1344 1341,1345 1404,1345 1468,1345 1468,1311 1404,1311 1341,1311 1277,1310 1214,1310 1151,1309 1087,1308 1024,1307 961,1306 897,1305 834,1304 771,1303 707,1301 644,1300 581,1299 517,1298 454,1297 391,1296 327,1296 264,1295 201,1295"/>
+                <Baseline points="201,1318 264,1318 327,1319 391,1319 454,1320 517,1321 581,1322 644,1323 707,1324 771,1326 834,1327 897,1328 961,1329 1024,1330 1087,1331 1151,1332 1214,1333 1277,1333 1341,1334 1404,1334 1468,1334"/>
+                <TextEquiv>
+                    <Unicode>nem circa p~tacta. Quarto epilogat circa determinata. Partes patebunt per diuisioneʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:5;}">
+                <Coords points="199,1377 262,1378 326,1378 389,1379 453,1380 517,1380 580,1381 644,1383 708,1384 771,1385 835,1386 899,1387 962,1388 1026,1390 1090,1391 1153,1391 1217,1392 1281,1393 1344,1393 1408,1393 1472,1393 1472,1359 1408,1359 1344,1359 1281,1359 1217,1358 1153,1357 1090,1357 1026,1356 962,1354 899,1353 835,1352 771,1351 708,1350 644,1349 580,1347 517,1346 453,1346 389,1345 326,1344 262,1344 199,1343"/>
+                <Baseline points="199,1366 262,1367 326,1367 389,1368 453,1369 517,1369 580,1370 644,1372 708,1373 771,1374 835,1375 899,1376 962,1377 1026,1379 1090,1380 1153,1380 1217,1381 1281,1382 1344,1382 1408,1382 1472,1382"/>
+                <TextEquiv>
+                    <Unicode>Circa pⁱmu~ dicit. Si aliqⁱs proteruiendo diceret ꝙ substantia stans per seip~am corrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:6;}">
+                <Coords points="201,1427 264,1427 327,1427 390,1427 453,1428 516,1429 579,1430 643,1431 706,1432 769,1433 832,1434 895,1435 958,1436 1021,1437 1085,1438 1148,1439 1211,1440 1274,1441 1337,1441 1400,1441 1464,1441 1464,1407 1400,1407 1337,1407 1274,1407 1211,1406 1148,1405 1085,1404 1021,1403 958,1402 895,1401 832,1400 769,1399 706,1398 643,1397 579,1396 516,1395 453,1394 390,1393 327,1393 264,1393 201,1393"/>
+                <Baseline points="201,1416 264,1416 327,1416 390,1416 453,1417 516,1418 579,1419 643,1420 706,1421 769,1422 832,1423 895,1424 958,1425 1021,1426 1085,1427 1148,1428 1211,1429 1274,1430 1337,1430 1400,1430 1464,1430"/>
+                <TextEquiv>
+                    <Unicode>pi potest. Ostendit^ hoc esse impossibile. Falso eni~ ⁊ impossibili posito qd' accidit falsuʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:7;}">
+                <Coords points="195,1474 258,1474 322,1474 386,1475 450,1475 513,1476 577,1477 641,1478 705,1480 768,1481 832,1482 896,1483 960,1484 1023,1485 1087,1486 1151,1487 1215,1488 1278,1488 1342,1489 1406,1489 1470,1488 1470,1454 1406,1455 1342,1455 1278,1454 1215,1454 1151,1453 1087,1452 1023,1451 960,1450 896,1449 832,1448 768,1447 705,1446 641,1444 577,1443 513,1442 450,1441 386,1441 322,1440 258,1440 195,1440"/>
+                <Baseline points="195,1463 258,1463 322,1463 386,1464 450,1464 513,1465 577,1466 641,1467 705,1469 768,1470 832,1471 896,1472 960,1473 1023,1474 1087,1475 1151,1476 1215,1477 1278,1477 1342,1478 1406,1478 1470,1477"/>
+                <TextEquiv>
+                    <Unicode>est ⁊ impossibile ponat^: ergo ꝙ stat ꝑ seip~am ⁊ etia~ corru~pit^. Et qⁱa omne qd' corrupit^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:8;}">
+                <Coords points="201,1522 264,1522 327,1522 390,1523 453,1524 517,1524 580,1525 643,1526 706,1527 769,1528 833,1530 896,1531 959,1532 1022,1533 1085,1534 1149,1535 1212,1535 1275,1536 1338,1536 1401,1536 1465,1536 1465,1502 1401,1502 1338,1502 1275,1502 1212,1501 1149,1501 1085,1500 1022,1499 959,1498 896,1497 833,1496 769,1494 706,1493 643,1492 580,1491 517,1490 453,1490 390,1489 327,1488 264,1488 201,1488"/>
+                <Baseline points="201,1511 264,1511 327,1511 390,1512 453,1513 517,1513 580,1514 643,1515 706,1516 769,1517 833,1519 896,1520 959,1521 1022,1522 1085,1523 1149,1524 1212,1524 1275,1525 1338,1525 1401,1525 1465,1525"/>
+                <TextEquiv>
+                    <Unicode>ab essentia sua separat^ Qd' au~t ab essentia sua separat^ no~ est stans per seip~m qd' est impos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:9;}">
+                <Coords points="189,1571 252,1571 316,1571 380,1571 444,1571 508,1572 572,1573 636,1574 700,1575 764,1576 828,1577 891,1579 955,1580 1019,1581 1083,1582 1147,1583 1211,1583 1275,1584 1339,1584 1403,1584 1467,1584 1467,1550 1403,1550 1339,1550 1275,1550 1211,1549 1147,1549 1083,1548 1019,1547 955,1546 891,1545 828,1543 764,1542 700,1541 636,1540 572,1539 508,1538 444,1537 380,1537 316,1537 252,1537 189,1537"/>
+                <Baseline points="189,1560 252,1560 316,1560 380,1560 444,1560 508,1561 572,1562 636,1563 700,1564 764,1565 828,1566 891,1568 955,1569 1019,1570 1083,1571 1147,1572 1211,1572 1275,1573 1339,1573 1403,1573 1467,1573"/>
+                <TextEquiv>
+                    <Unicode>sibileꝰ Stans eni~ scd'm esse ⁊ scd'm diffinitionem semꝑ est in vno ꝑmanens ⁊ fixu~. ⁊ si de-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:10;}">
+                <Coords points="195,1618 258,1618 321,1618 384,1619 448,1620 511,1621 574,1622 638,1623 701,1624 764,1625 828,1626 891,1627 954,1628 1017,1629 1081,1630 1144,1631 1207,1632 1271,1633 1334,1633 1397,1634 1461,1634 1461,1600 1397,1600 1334,1599 1271,1599 1207,1598 1144,1597 1081,1596 1017,1595 954,1594 891,1593 828,1592 764,1591 701,1590 638,1589 574,1588 511,1587 448,1586 384,1585 321,1584 258,1584 195,1584"/>
+                <Baseline points="195,1607 258,1607 321,1607 384,1608 448,1609 511,1610 574,1611 638,1612 701,1613 764,1614 828,1615 891,1616 954,1617 1017,1618 1081,1619 1144,1620 1207,1621 1271,1622 1334,1622 1397,1623 1461,1623"/>
+                <TextEquiv>
+                    <Unicode>tur illud corrupi aliquando separat^ ab essentia sua ⁊ quiditate: quare sequit^ ꝙ semꝑer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:11;}">
+                <Coords points="191,1667 251,1667 311,1667 372,1668 432,1669 492,1669 553,1670 613,1671 673,1672 734,1673 794,1674 854,1675 915,1676 975,1677 1035,1678 1096,1679 1156,1680 1216,1681 1277,1681 1337,1681 1398,1682 1398,1648 1337,1647 1277,1647 1216,1647 1156,1646 1096,1645 1035,1644 975,1643 915,1642 854,1641 794,1640 734,1639 673,1638 613,1637 553,1636 492,1635 432,1635 372,1634 311,1633 251,1633 191,1633"/>
+                <Baseline points="191,1656 251,1656 311,1656 372,1657 432,1658 492,1658 553,1659 613,1660 673,1661 734,1662 794,1663 854,1664 915,1665 975,1666 1035,1667 1096,1668 1156,1669 1216,1670 1277,1670 1337,1670 1398,1671"/>
+                <TextEquiv>
+                    <Unicode>stans per essentiam suam no~ semꝑ stat per essentia~ sua~ quod penitus impossibile est.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Proposita ꝓpositione declarat ⁊ manifestat ea~. Circa qd' quatuor facit. Quia pⁱmo ꝓ-&#13;
+bat ꝓpositionem videlicet ꝙ substantia per se stans no~ cadit sub corruptio~e co~parando&#13;
+talem substantia~ ad seipsam per quam est forma. Secu~do ꝓbat hoc idem co~parando ta-&#13;
+lem substantiam ad sua~ causam ꝑ qua~ est effectiue. Tertio remouer quandam cauillatio&#13;
+nem circa p~tacta. Quarto epilogat circa determinata. Partes patebunt per diuisioneʒ&#13;
+Circa pⁱmu~ dicit. Si aliqⁱs proteruiendo diceret ꝙ substantia stans per seip~am corrum&#13;
+pi potest. Ostendit^ hoc esse impossibile. Falso eni~ ⁊ impossibili posito qd' accidit falsuʒ&#13;
+est ⁊ impossibile ponat^: ergo ꝙ stat ꝑ seip~am ⁊ etia~ corru~pit^. Et qⁱa omne qd' corrupit^&#13;
+ab essentia sua separat^ Qd' au~t ab essentia sua separat^ no~ est stans per seip~m qd' est impos&#13;
+sibileꝰ Stans eni~ scd'm esse ⁊ scd'm diffinitionem semꝑ est in vno ꝑmanens ⁊ fixu~. ⁊ si de-&#13;
+tur illud corrupi aliquando separat^ ab essentia sua ⁊ quiditate: quare sequit^ ꝙ semꝑer&#13;
+stans per essentiam suam no~ semꝑ stat per essentia~ sua~ quod penitus impossibile est.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630995270_177" custom="readingOrder {index:4;} structure {type:propositio;}">
+            <Coords points="179,1698 1496,1698 1496,2135 179,2135"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="194,1764 257,1764 320,1765 383,1765 447,1766 510,1767 573,1768 637,1769 700,1770 763,1772 827,1773 890,1774 953,1775 1016,1777 1080,1778 1143,1779 1206,1780 1270,1781 1333,1782 1396,1783 1460,1783 1460,1738 1396,1738 1333,1737 1270,1736 1206,1735 1143,1734 1080,1733 1016,1732 953,1730 890,1729 827,1728 763,1727 700,1725 637,1724 573,1723 510,1722 447,1721 383,1720 320,1720 257,1719 194,1719"/>
+                <Baseline points="194,1749 257,1749 320,1750 383,1750 447,1751 510,1752 573,1753 637,1754 700,1755 763,1757 827,1758 890,1759 953,1760 1016,1762 1080,1763 1143,1764 1206,1765 1270,1766 1333,1767 1396,1768 1460,1768"/>
+                <TextEquiv>
+                    <Unicode>Omnis aute~ rei cadentis sub corruptione no~ fit corruptio. nisi per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;}">
+                <Coords points="190,1852 253,1852 316,1852 379,1853 442,1853 505,1854 568,1855 631,1855 694,1856 757,1858 821,1859 884,1860 947,1861 1010,1863 1073,1864 1136,1865 1199,1867 1262,1868 1325,1869 1388,1871 1452,1872 1452,1827 1388,1826 1325,1824 1262,1823 1199,1822 1136,1820 1073,1819 1010,1818 947,1816 884,1815 821,1814 757,1813 694,1811 631,1810 568,1810 505,1809 442,1808 379,1808 316,1807 253,1807 190,1807"/>
+                <Baseline points="190,1837 253,1837 316,1837 379,1838 442,1838 505,1839 568,1840 631,1840 694,1841 757,1843 821,1844 884,1845 947,1846 1010,1848 1073,1849 1136,1850 1199,1852 1262,1853 1325,1854 1388,1856 1452,1857"/>
+                <TextEquiv>
+                    <Unicode>separationem suam a causa sua. Dum ergo permanet res pendens ꝑ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:2;}">
+                <Coords points="194,1941 257,1940 320,1940 384,1940 447,1941 511,1941 574,1942 638,1944 701,1945 765,1946 828,1948 891,1949 955,1951 1018,1952 1082,1953 1145,1954 1209,1955 1272,1955 1336,1955 1399,1955 1463,1954 1463,1909 1399,1910 1336,1910 1272,1910 1209,1910 1145,1909 1082,1908 1018,1907 955,1906 891,1904 828,1903 765,1901 701,1900 638,1899 574,1897 511,1896 447,1896 384,1895 320,1895 257,1895 194,1896"/>
+                <Baseline points="194,1926 257,1925 320,1925 384,1925 447,1926 511,1926 574,1927 638,1929 701,1930 765,1931 828,1933 891,1934 955,1936 1018,1937 1082,1938 1145,1939 1209,1940 1272,1940 1336,1940 1399,1940 1463,1939"/>
+                <TextEquiv>
+                    <Unicode>suam causam retinentem eam ⁊ seruanteʒ illa no~ peribit neqʒ destru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:3;}">
+                <Coords points="185,2031 248,2031 312,2031 376,2032 440,2032 504,2032 568,2033 631,2034 695,2035 759,2036 823,2036 887,2037 951,2038 1015,2039 1078,2041 1142,2042 1206,2042 1270,2043 1334,2044 1398,2045 1462,2046 1462,2001 1398,2000 1334,1999 1270,1998 1206,1997 1142,1997 1078,1996 1015,1994 951,1993 887,1992 823,1991 759,1991 695,1990 631,1989 568,1988 504,1987 440,1987 376,1987 312,1986 248,1986 185,1986"/>
+                <Baseline points="185,2016 248,2016 312,2016 376,2017 440,2017 504,2017 568,2018 631,2019 695,2020 759,2021 823,2021 887,2022 951,2023 1015,2024 1078,2026 1142,2027 1206,2027 1270,2028 1334,2029 1398,2030 1462,2031"/>
+                <TextEquiv>
+                    <Unicode>itur. Si ergo est ita substantia stans per essentiam suam no~ separat^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:4;}">
+                <Coords points="179,2118 242,2118 306,2119 370,2119 434,2120 498,2121 562,2121 626,2122 690,2123 754,2124 818,2125 881,2126 945,2127 1009,2128 1073,2129 1137,2130 1201,2131 1265,2132 1329,2133 1393,2134 1457,2135 1457,2090 1393,2089 1329,2088 1265,2087 1201,2086 1137,2085 1073,2084 1009,2083 945,2082 881,2081 818,2080 754,2079 690,2078 626,2077 562,2076 498,2076 434,2075 370,2074 306,2074 242,2073 179,2073"/>
+                <Baseline points="179,2103 242,2103 306,2104 370,2104 434,2105 498,2106 562,2106 626,2107 690,2108 754,2109 818,2110 881,2111 945,2112 1009,2113 1073,2114 1137,2115 1201,2116 1265,2117 1329,2118 1393,2119 1457,2120"/>
+                <TextEquiv>
+                    <Unicode>ab eius causa semper quoniam est inseparabilis ab essentia sua. pro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Omnis aute~ rei cadentis sub corruptione no~ fit corruptio. nisi per&#13;
+separationem suam a causa sua. Dum ergo permanet res pendens ꝑ&#13;
+suam causam retinentem eam ⁊ seruanteʒ illa no~ peribit neqʒ destru&#13;
+itur. Si ergo est ita substantia stans per essentiam suam no~ separat^&#13;
+ab eius causa semper quoniam est inseparabilis ab essentia sua. pro-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

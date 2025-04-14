@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-04T17:11:19.145+01:00</Created>
+        <LastChange>2022-02-06T14:11:38.660+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="13"/>
+    </Metadata>
+    <Page imageFilename="ZABOR_Tract-0093.jpg" imageWidth="1803" imageHeight="2634">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1644153098668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1644151667965_670"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1644152158510_903"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1644152158510_902"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1644152141621_895"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1644152141620_894"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1644152131605_886"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1644151667965_670" custom="readingOrder {index:0;} structure {type:[heading];}">
+            <Coords points="191,184 1568,184 1568,503 191,503"/>
+            <TextLine id="line_1644151726828_682" custom="readingOrder {index:0;}">
+                <Coords points="298,220 1510,220 1510,289 298,289"/>
+                <TextEquiv>
+                    <Unicode>Incipit Repertorium seu tabula </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151729317_685" custom="readingOrder {index:1;}">
+                <Coords points="264,328 1508,328 1508,397 264,397"/>
+                <TextEquiv>
+                    <Unicode>declaratoria contentorum in pre=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151731740_688" custom="readingOrder {index:2;}">
+                <Coords points="257,414 791,414 791,499 257,499"/>
+                <TextEquiv>
+                    <Unicode>senti tractatu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Incipit Repertorium seu tabula &#13;
+declaratoria contentorum in pre=&#13;
+senti tractatu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1644152158510_903" custom="readingOrder {index:1;} structure {type:[heading];}">
+            <Coords points="195,511 872,511 872,617 195,617"/>
+            <TextLine id="line_1644151733988_691" custom="readingOrder {index:0;}">
+                <Coords points="364,526 742,526 742,603 364,603"/>
+                <TextEquiv>
+                    <Unicode>De A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644152158510_902" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="195,617 872,617 872,2147 195,2147"/>
+            <TextLine id="line_1644151739093_694" custom="readingOrder {index:0;}">
+                <Coords points="224,624 862,624 862,668 224,668"/>
+                <TextEquiv>
+                    <Unicode>Adminitratores regni qui dicu~tur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151742188_697" custom="readingOrder {index:1;}">
+                <Coords points="278,679 539,679 539,708 278,708"/>
+                <TextEquiv>
+                    <Unicode>ij. parte. $. iiij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151744539_700" custom="readingOrder {index:2;}">
+                <Coords points="217,728 855,728 855,765 217,765"/>
+                <TextEquiv>
+                    <Unicode>Adulteri regnum dei non posside=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151746996_703" custom="readingOrder {index:3;}">
+                <Coords points="276,784 727,784 727,811 276,811"/>
+                <TextEquiv>
+                    <Unicode>bunt. eadem parte. $. iij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151750445_706" custom="readingOrder {index:4;}">
+                <Coords points="224,823 863,823 863,860 224,860"/>
+                <TextEquiv>
+                    <Unicode>Adulterij crimine damnatur quicq~d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151752932_709" custom="readingOrder {index:5;}">
+                <Coords points="268,870 863,870 863,909 268,909"/>
+                <TextEquiv>
+                    <Unicode>commissum fuerit extra matrimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151755500_712" custom="readingOrder {index:6;}">
+                <Coords points="281,924 858,924 858,971 281,971"/>
+                <TextEquiv>
+                    <Unicode>nium. Ibidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151758460_715" custom="readingOrder {index:7;}">
+                <Coords points="220,973 794,973 794,1012 220,1012"/>
+                <TextEquiv>
+                    <Unicode>Ad regnum celorum via que sit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151760548_718" custom="readingOrder {index:8;}">
+                <Coords points="283,1024 620,1024 620,1068 283,1068"/>
+                <TextEquiv>
+                    <Unicode>vltima parte. $. v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151762916_721" custom="readingOrder {index:9;}">
+                <Coords points="219,1069 860,1069 860,1103 219,1103"/>
+                <TextEquiv>
+                    <Unicode>Afflictio populi dicitur podagra re=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151764996_724" custom="readingOrder {index:10;}">
+                <Coords points="278,1117 669,1117 669,1147 278,1147"/>
+                <TextEquiv>
+                    <Unicode>ctoris. ij. parte. $. iij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151767756_727" custom="readingOrder {index:11;}">
+                <Coords points="220,1155 868,1155 868,1201 220,1201"/>
+                <TextEquiv>
+                    <Unicode>Aliena~s co~tra iura ipse idem potest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151957012_731" custom="readingOrder {index:12;}">
+                <Coords points="279,1210 722,1210 722,1249 279,1249"/>
+                <TextEquiv>
+                    <Unicode>reuocare. iij. parte. $ x</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151959764_734" custom="readingOrder {index:13;}">
+                <Coords points="225,1254 878,1254 878,1295 225,1295"/>
+                <TextEquiv>
+                    <Unicode>Aliena res necessario est restituenda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151962252_737" custom="readingOrder {index:14;}">
+                <Coords points="288,1309 523,1309 523,1339 288,1339"/>
+                <TextEquiv>
+                    <Unicode>vlti. parte. $. j</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151965108_740" custom="readingOrder {index:15;}">
+                <Coords points="229,1357 860,1357 860,1396 229,1396"/>
+                <TextEquiv>
+                    <Unicode>Aliena res fructifera cum fructibus e~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151967828_743" custom="readingOrder {index:16;}">
+                <Coords points="288,1401 816,1401 816,1444 288,1444"/>
+                <TextEquiv>
+                    <Unicode>restituenda. vlti. ꝑte. $. ij. et. iij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151970372_746" custom="readingOrder {index:17;}">
+                <Coords points="220,1458 873,1458 873,1499 220,1499"/>
+                <TextEquiv>
+                    <Unicode>Alienari prohibita impignorari etia~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151972801_749" custom="readingOrder {index:18;}">
+                <Coords points="290,1499 803,1499 803,1543 290,1543"/>
+                <TextEquiv>
+                    <Unicode>prohibentur. iij. parte. $. vij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151975452_752" custom="readingOrder {index:19;}">
+                <Coords points="231,1545 834,1545 834,1587 231,1587"/>
+                <TextEquiv>
+                    <Unicode>Ambiciosi si non sunt promouendi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151977724_755" custom="readingOrder {index:20;}">
+                <Coords points="284,1598 685,1598 685,1629 284,1629"/>
+                <TextEquiv>
+                    <Unicode>ij. parte. $. viij et. ix. et. x.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151980571_758" custom="readingOrder {index:21;}">
+                <Coords points="222,1650 867,1650 867,1686 222,1686"/>
+                <TextEquiv>
+                    <Unicode>Ambicio e~ g~~ue pctm~. Ibidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151983964_761" custom="readingOrder {index:22;}">
+                <Coords points="236,1694 819,1694 819,1729 236,1729"/>
+                <TextEquiv>
+                    <Unicode>Anima quare est iuncta corpori.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151985716_764" custom="readingOrder {index:23;}">
+                <Coords points="290,1745 529,1745 529,1775 290,1775"/>
+                <TextEquiv>
+                    <Unicode>e. parte $. iij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151988652_767" custom="readingOrder {index:24;}">
+                <Coords points="227,1795 854,1795 854,1839 227,1839"/>
+                <TextEquiv>
+                    <Unicode>Anima auari vel ambiciosi quare sa=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151991492_770" custom="readingOrder {index:25;}">
+                <Coords points="295,1843 799,1843 799,1883 295,1883"/>
+                <TextEquiv>
+                    <Unicode>ciari non potest. ij. ꝑte. $. ix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151994572_773" custom="readingOrder {index:26;}">
+                <Coords points="236,1892 862,1892 862,1931 236,1931"/>
+                <TextEquiv>
+                    <Unicode>Arma clericoꝝ q~ sunt iij. ꝑte. $. viij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151997124_776" custom="readingOrder {index:27;}">
+                <Coords points="236,1938 862,1938 862,1977 236,1977"/>
+                <TextEquiv>
+                    <Unicode>Artes litterrarum rex non ꝓmoue~s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644151999411_779" custom="readingOrder {index:28;}">
+                <Coords points="293,1984 759,1984 759,2027 293,2027"/>
+                <TextEquiv>
+                    <Unicode>dr~ tyrannus. ij. ꝑte. $. viij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152001892_782" custom="readingOrder {index:29;}">
+                <Coords points="214,2027 867,2027 867,2080 214,2080"/>
+                <TextEquiv>
+                    <Unicode>Auctoritas superioris requiritur in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152004140_785" custom="readingOrder {index:30;}">
+                <Coords points="279,2080 858,2080 858,2133 279,2133"/>
+                <TextEquiv>
+                    <Unicode>alienationibus bonorum feuda=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Adminitratores regni qui dicu~tur.&#13;
+ij. parte. $. iiij.&#13;
+Adulteri regnum dei non posside=&#13;
+bunt. eadem parte. $. iij.&#13;
+Adulterij crimine damnatur quicq~d&#13;
+commissum fuerit extra matrimo&#13;
+nium. Ibidem&#13;
+Ad regnum celorum via que sit.&#13;
+vltima parte. $. v.&#13;
+Afflictio populi dicitur podagra re=&#13;
+ctoris. ij. parte. $. iij.&#13;
+Aliena~s co~tra iura ipse idem potest&#13;
+reuocare. iij. parte. $ x&#13;
+Aliena res necessario est restituenda&#13;
+vlti. parte. $. j&#13;
+Aliena res fructifera cum fructibus e~&#13;
+restituenda. vlti. ꝑte. $. ij. et. iij&#13;
+Alienari prohibita impignorari etia~&#13;
+prohibentur. iij. parte. $. vij.&#13;
+Ambiciosi si non sunt promouendi.&#13;
+ij. parte. $. viij et. ix. et. x.&#13;
+Ambicio e~ g~~ue pctm~. Ibidem&#13;
+Anima quare est iuncta corpori.&#13;
+e. parte $. iij&#13;
+Anima auari vel ambiciosi quare sa=&#13;
+ciari non potest. ij. ꝑte. $. ix&#13;
+Arma clericoꝝ q~ sunt iij. ꝑte. $. viij&#13;
+Artes litterrarum rex non ꝓmoue~s&#13;
+dr~ tyrannus. ij. ꝑte. $. viij.&#13;
+Auctoritas superioris requiritur in&#13;
+alienationibus bonorum feuda=</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644152141621_895" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="889,500 1569,500 1569,826 889,826"/>
+            <TextLine id="line_1644152020476_789" custom="readingOrder {index:0;}">
+                <Coords points="947,533 1323,533 1323,568 947,568"/>
+                <TextEquiv>
+                    <Unicode>lium. ea. parte. $. iiij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152022756_792" custom="readingOrder {index:1;}">
+                <Coords points="889,581 1529,581 1529,623 889,623"/>
+                <TextEquiv>
+                    <Unicode>Aureum seculu~ qd' dicebatur. eadem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152024811_795" custom="readingOrder {index:2;}">
+                <Coords points="956,625 1180,625 1180,666 956,666"/>
+                <TextEquiv>
+                    <Unicode>parte. $. viij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152027292_798" custom="readingOrder {index:3;}">
+                <Coords points="914,671 1533,671 1533,718 914,718"/>
+                <TextEquiv>
+                    <Unicode>Auarus non est verus christianus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152030308_801" custom="readingOrder {index:4;}">
+                <Coords points="962,724 1531,724 1531,768 962,768"/>
+                <TextEquiv>
+                    <Unicode>sed ydolatra quia auaricia est ydo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152032604_804" custom="readingOrder {index:5;}">
+                <Coords points="961,773 1501,773 1501,829 961,829"/>
+                <TextEquiv>
+                    <Unicode>lorum seruitus ea parte. $. iij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lium. ea. parte. $. iiij.&#13;
+Aureum seculu~ qd' dicebatur. eadem&#13;
+parte. $. viij&#13;
+Auarus non est verus christianus.&#13;
+sed ydolatra quia auaricia est ydo&#13;
+lorum seruitus ea parte. $. iij.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1644152141620_894" custom="readingOrder {index:4;} structure {type:[heading];}">
+            <Coords points="889,826 1569,826 1569,909 889,909"/>
+            <TextLine id="line_1644152034676_807" custom="readingOrder {index:0;}">
+                <Coords points="1055,833 1396,833 1396,901 1055,901"/>
+                <TextEquiv>
+                    <Unicode>De B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De B</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644152131605_886" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="889,909 1569,909 1569,2192 889,2192"/>
+            <TextLine id="line_1644152037940_810" custom="readingOrder {index:0;}">
+                <Coords points="912,907 1523,907 1523,964 912,964"/>
+                <TextEquiv>
+                    <Unicode>Bella q~~re deus ꝑmittit. ij. ꝑte. $ iij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152040556_813" custom="readingOrder {index:1;}">
+                <Coords points="902,961 1538,961 1538,1012 902,1012"/>
+                <TextEquiv>
+                    <Unicode>Bella seu certamina anime que sunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152042532_816" custom="readingOrder {index:2;}">
+                <Coords points="964,1017 1137,1017 1137,1059 964,1059"/>
+                <TextEquiv>
+                    <Unicode>Ibidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152045380_819" custom="readingOrder {index:3;}">
+                <Coords points="904,1059 1551,1059 1551,1105 904,1105"/>
+                <TextEquiv>
+                    <Unicode>Bellare clericis an liceat iij. parte. $</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152048052_822" custom="readingOrder {index:4;}">
+                <Coords points="959,1105 1333,1105 1333,1155 959,1155"/>
+                <TextEquiv>
+                    <Unicode>viij. et vlti. parte. $. vj.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152051196_825" custom="readingOrder {index:5;}">
+                <Coords points="906,1155 1526,1155 1526,1207 906,1207"/>
+                <TextEquiv>
+                    <Unicode>Beneficia qualiter et quibus sunt co~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152053588_828" custom="readingOrder {index:6;}">
+                <Coords points="964,1202 1511,1202 1511,1247 964,1247"/>
+                <TextEquiv>
+                    <Unicode>ferenda. ij parte $. viij. et. ix. et. x</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152057276_831" custom="readingOrder {index:7;}">
+                <Coords points="912,1252 1526,1252 1526,1301 912,1301"/>
+                <TextEquiv>
+                    <Unicode>Beneficium curatum habere est pe=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152073900_834" custom="readingOrder {index:8;}">
+                <Coords points="952,1305 1492,1305 1492,1358 952,1358"/>
+                <TextEquiv>
+                    <Unicode>riculosissimu~ e par $ ix. et. xiij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152076614_837" custom="readingOrder {index:9;}">
+                <Coords points="902,1353 1536,1353 1536,1397 902,1397"/>
+                <TextEquiv>
+                    <Unicode>Bn~ficiu~ an liceat petere ij. ꝑte. $. ix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152079820_840" custom="readingOrder {index:10;}">
+                <Coords points="911,1405 1534,1405 1534,1451 911,1451"/>
+                <TextEquiv>
+                    <Unicode>Birgitta sancta quid dicit de regno.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152081948_843" custom="readingOrder {index:11;}">
+                <Coords points="958,1454 1183,1454 1183,1490 958,1490"/>
+                <TextEquiv>
+                    <Unicode>j. parte. $. iij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152084796_846" custom="readingOrder {index:12;}">
+                <Coords points="908,1504 1529,1504 1529,1549 908,1549"/>
+                <TextEquiv>
+                    <Unicode>Boni quare aliquando in presenti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152087323_849" custom="readingOrder {index:13;}">
+                <Coords points="956,1547 1418,1547 1418,1593 956,1593"/>
+                <TextEquiv>
+                    <Unicode>affliguntur ij. parte. $. iij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152089580_852" custom="readingOrder {index:14;}">
+                <Coords points="913,1593 1521,1593 1521,1639 913,1639"/>
+                <TextEquiv>
+                    <Unicode>Bona opera peccatum mortificat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152091212_855" custom="readingOrder {index:15;}">
+                <Coords points="952,1641 1118,1641 1118,1676 952,1676"/>
+                <TextEquiv>
+                    <Unicode>Ibidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152093580_858" custom="readingOrder {index:16;}">
+                <Coords points="900,1695 1543,1695 1543,1737 900,1737"/>
+                <TextEquiv>
+                    <Unicode>Bona alienari prohibita an p~scribi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152096499_861" custom="readingOrder {index:17;}">
+                <Coords points="959,1743 1542,1743 1542,1783 959,1783"/>
+                <TextEquiv>
+                    <Unicode>possunt. ʒ parte. 1 2 3 4 5. et 6. $</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152098820_864" custom="readingOrder {index:18;}">
+                <Coords points="908,1783 1532,1783 1532,1831 908,1831"/>
+                <TextEquiv>
+                    <Unicode>Bona eccl. sijs quare data sunt. iij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152101643_867" custom="readingOrder {index:19;}">
+                <Coords points="967,1848 1542,1848 1542,1891 967,1891"/>
+                <TextEquiv>
+                    <Unicode>parte. $. ix. et parte vltima. $. etia~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152103356_870" custom="readingOrder {index:20;}">
+                <Coords points="952,1887 1105,1887 1105,1918 952,1918"/>
+                <TextEquiv>
+                    <Unicode>vltimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152105572_873" custom="readingOrder {index:21;}">
+                <Coords points="919,1933 1529,1933 1529,1983 919,1983"/>
+                <TextEquiv>
+                    <Unicode>Bona ecclesiasticis surripientes qd'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152107624_876" custom="readingOrder {index:22;}">
+                <Coords points="965,1985 1516,1985 1516,2025 965,2025"/>
+                <TextEquiv>
+                    <Unicode>peccatu~ incurrunt. iij. ꝑte. $. ix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152110004_879" custom="readingOrder {index:23;}">
+                <Coords points="917,2025 1540,2025 1540,2088 917,2088"/>
+                <TextEquiv>
+                    <Unicode>Bona clericorum sunt exempta ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644152112619_882" custom="readingOrder {index:24;}">
+                <Coords points="900,2092 1538,2092 1538,2142 900,2142"/>
+                <TextEquiv>
+                    <Unicode>extra ordinarijs exactionibus vlti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bella q~~re deus ꝑmittit. ij. ꝑte. $ iij.&#13;
+Bella seu certamina anime que sunt&#13;
+Ibidem&#13;
+Bellare clericis an liceat iij. parte. $&#13;
+viij. et vlti. parte. $. vj.&#13;
+Beneficia qualiter et quibus sunt co~&#13;
+ferenda. ij parte $. viij. et. ix. et. x&#13;
+Beneficium curatum habere est pe=&#13;
+riculosissimu~ e par $ ix. et. xiij&#13;
+Bn~ficiu~ an liceat petere ij. ꝑte. $. ix&#13;
+Birgitta sancta quid dicit de regno.&#13;
+j. parte. $. iij&#13;
+Boni quare aliquando in presenti&#13;
+affliguntur ij. parte. $. iij&#13;
+Bona opera peccatum mortificat.&#13;
+Ibidem&#13;
+Bona alienari prohibita an p~scribi&#13;
+possunt. ʒ parte. 1 2 3 4 5. et 6. $&#13;
+Bona eccl. sijs quare data sunt. iij.&#13;
+parte. $. ix. et parte vltima. $. etia~&#13;
+vltimo&#13;
+Bona ecclesiasticis surripientes qd'&#13;
+peccatu~ incurrunt. iij. ꝑte. $. ix&#13;
+Bona clericorum sunt exempta ab&#13;
+extra ordinarijs exactionibus vlti.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

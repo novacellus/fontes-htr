@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-16T13:39:47.120+02:00</Created>
+        <LastChange>2022-12-14T13:43:56.041+01:00</LastChange>
+        <TranskribusMetadata docId="1002841" pageId="38390230" pageNr="22" tsid="82346778" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=FMIORLTZRBHUGEHIVFRPOGEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHBSBJGYMPBJQVVNOPABMXGC" imageId="30936961"/>
+    </Metadata>
+    <Page imageFilename="16526990558888bsb11110894-0022.jpg" imageWidth="7666" imageHeight="10300">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671021836056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1660650507745_81"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1660650515252_87"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1660650520085_93"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1660650524558_98"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1660650524557_97"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660650507745_81" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="772,820 5899,820 5899,4342 772,4342"/>
+            <TextLine id="line_1660650561362_113" custom="readingOrder {index:0;}">
+                <Coords points="1160,846 1185,843 1235,838 1285,836 1460,830 2824,820 2997,820 5457,848 5575,850 5899,858 5899,963 1160,951"/>
+                <Baseline points="1160,916 1185,913 1210,911 1235,908 1260,907 1285,906 1310,906 1335,906 1360,906 1385,906 1410,904 1435,902 1460,900 2260,898 2303,900 2346,900 2390,900 2433,900 2477,899 2520,898 2563,898 2607,896 2650,896 2694,894 2737,892 2780,892 2824,890 2867,890 2911,890 2954,890 2997,890 3041,892 3084,892 3128,894 3684,902 3802,904 3920,906 4038,908 4156,908 4275,910 4393,910 4511,910 4629,912 4747,912 4866,912 4984,914 5102,914 5220,916 5338,918 5457,918 5575,920 5693,924 5811,926 5899,928"/>
+                <TextEquiv>
+                    <Unicode>pars et totum sunt eiusdem rationis et denominationis. unum etiam corpus homoge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393408_20" custom="readingOrder {index:1;}">
+                <Coords points="844,1058 1168,1058 1492,1056 1816,1054 2141,1052 2465,1048 2789,1046 3114,1046 3438,1044 3762,1046 4087,1048 4411,1052 4735,1058 5059,1068 5384,1079 5708,1093 5899,1103 5899,1208 5708,1198 5384,1184 5059,1173 4735,1163 4411,1157 4087,1153 3762,1151 3438,1149 3114,1151 2789,1151 2465,1153 2141,1157 1816,1159 1492,1161 1168,1163 844,1163"/>
+                <Baseline points="844,1128 1168,1128 1492,1126 1816,1124 2141,1122 2465,1118 2789,1116 3114,1116 3438,1114 3762,1116 4087,1118 4411,1122 4735,1128 5059,1138 5384,1149 5708,1163 5899,1173"/>
+                <TextEquiv>
+                    <Unicode>nium ab homos grece quod est idem vel unum et genus generis quasi corpus eius-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393412_22" custom="readingOrder {index:2;}">
+                <Coords points="818,1278 1077,1272 1336,1268 1595,1264 1855,1262 2114,1260 3151,1260 3411,1262 3670,1264 3929,1266 4188,1268 4448,1271 4707,1274 4966,1276 5226,1280 5485,1282 5744,1286 5899,1287 5899,1392 5744,1391 5485,1387 5226,1385 4966,1381 4707,1379 4448,1376 4188,1373 3929,1371 3670,1369 3411,1367 3151,1365 2114,1365 1855,1367 1595,1369 1336,1373 1077,1377 818,1383"/>
+                <Baseline points="818,1348 1077,1342 1336,1338 1595,1334 1855,1332 2114,1330 2373,1330 2633,1330 2892,1330 3151,1330 3411,1332 3670,1334 3929,1336 4188,1338 4448,1341 4707,1344 4966,1346 5226,1350 5485,1352 5744,1356 5899,1357"/>
+                <TextEquiv>
+                    <Unicode>dem nature et denominationis in toto et etiam in parte dicitur unum corpus homo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650710173_124" custom="readingOrder {index:3;}">
+                <Coords points="932,1496 1530,1484 1979,1482 3328,1482 3778,1484 4902,1494 5576,1504 5899,1509 5899,1614 964,1605 932,1601"/>
+                <Baseline points="932,1566 964,1570 996,1566 1530,1554 1754,1554 1979,1552 2204,1552 2429,1552 2654,1552 2878,1552 3103,1552 3328,1552 3553,1554 3778,1554 4002,1556 4227,1558 4452,1560 4677,1562 4902,1564 5126,1568 5351,1572 5576,1574 5801,1578 5899,1579"/>
+                <TextEquiv>
+                    <Unicode>genium diffinitur sic est corpus quod in toto et in parte eiusdem nature et deno-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393416_26" custom="readingOrder {index:4;}">
+                <Coords points="858,1710 1115,1706 1373,1702 1631,1700 1889,1698 2147,1696 2405,1694 2921,1694 3179,1696 3437,1697 3694,1698 3952,1701 4210,1704 4468,1708 4726,1712 4984,1716 5242,1720 5500,1726 5758,1731 5899,1734 5899,1839 5758,1836 5500,1831 5242,1825 4984,1821 4726,1817 4468,1813 4210,1809 3952,1806 3694,1803 3437,1802 3179,1801 2921,1799 2405,1799 2147,1801 1889,1803 1631,1805 1373,1807 1115,1811 858,1815"/>
+                <Baseline points="858,1780 1115,1776 1373,1772 1631,1770 1889,1768 2147,1766 2405,1764 2663,1764 2921,1764 3179,1766 3437,1767 3694,1768 3952,1771 4210,1774 4468,1778 4726,1782 4984,1786 5242,1790 5500,1796 5758,1801 5899,1804"/>
+                <TextEquiv>
+                    <Unicode>minationis. ut ignis cuius quelibet pars est ignis. Tercia proprietas quatu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393420_28" custom="readingOrder {index:5;}">
+                <Coords points="836,1922 1091,1922 1347,1920 1602,1920 1858,1918 2114,1918 2369,1916 2880,1916 3136,1914 3392,1914 3647,1916 3903,1916 4158,1918 4414,1920 4670,1924 4925,1927 5181,1932 5436,1938 5692,1944 5899,1950 5899,2055 5692,2049 5436,2043 5181,2037 4925,2032 4670,2029 4414,2025 4158,2023 3903,2021 3647,2021 3392,2019 3136,2019 2880,2021 2369,2021 2114,2023 1858,2023 1602,2025 1347,2025 1091,2027 836,2027"/>
+                <Baseline points="836,1992 1091,1992 1347,1990 1602,1990 1858,1988 2114,1988 2369,1986 2625,1986 2880,1986 3136,1984 3392,1984 3647,1986 3903,1986 4158,1988 4414,1990 4670,1994 4925,1997 5181,2002 5436,2008 5692,2014 5899,2020"/>
+                <TextEquiv>
+                    <Unicode>or elementorum est que ex commixtione quatuor elementorum virtute influentie celestis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393422_30" custom="readingOrder {index:6;}">
+                <Coords points="838,2150 1096,2146 1354,2142 1612,2138 1870,2136 2129,2134 2387,2132 2645,2132 2903,2130 3161,2132 3420,2132 3678,2134 3936,2136 4194,2140 4452,2144 4711,2146 4969,2152 5227,2156 5485,2162 5743,2168 5899,2171 5899,2276 5743,2273 5485,2267 5227,2261 4969,2257 4711,2251 4452,2249 4194,2245 3936,2241 3678,2239 3420,2237 3161,2237 2903,2235 2645,2237 2387,2237 2129,2239 1870,2241 1612,2243 1354,2247 1096,2251 838,2255"/>
+                <Baseline points="838,2220 1096,2216 1354,2212 1612,2208 1870,2206 2129,2204 2387,2202 2645,2202 2903,2200 3161,2202 3420,2202 3678,2204 3936,2206 4194,2210 4452,2214 4711,2216 4969,2222 5227,2226 5485,2232 5743,2238 5899,2241"/>
+                <TextEquiv>
+                    <Unicode>generantur ex ipsis diverse species rerum hoc est suppositorum et rerum proprie enim speci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393422_32" custom="readingOrder {index:7;}">
+                <Coords points="806,2360 1103,2356 1401,2354 1698,2352 1996,2350 2294,2348 2591,2346 2889,2346 3186,2348 3484,2348 3782,2350 4079,2352 4377,2356 4674,2360 4972,2365 5270,2371 5567,2378 5865,2386 5899,2386 5899,2491 5865,2491 5567,2483 5270,2476 4972,2470 4674,2465 4377,2461 4079,2457 3782,2455 3484,2453 3186,2453 2889,2451 2591,2451 2294,2453 1996,2455 1698,2457 1401,2459 1103,2461 806,2465"/>
+                <Baseline points="806,2430 1103,2426 1401,2424 1698,2422 1996,2420 2294,2418 2591,2416 2889,2416 3186,2418 3484,2418 3782,2420 4079,2422 4377,2426 4674,2430 4972,2435 5270,2441 5567,2448 5865,2456 5899,2456"/>
+                <TextEquiv>
+                    <Unicode>es non generantur secundum enim Aristotilem sexto metaph. Species rerum sunt eterne sed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660651071420_136" custom="readingOrder {index:8;}">
+                <Coords points="774,2574 2664,2568 3555,2568 4150,2572 4447,2576 4744,2580 5041,2585 5338,2592 5899,2608 5899,2713 970,2691 802,2682 774,2679"/>
+                <Baseline points="774,2644 802,2647 830,2648 858,2648 886,2648 914,2649 942,2650 970,2656 1178,2644 1475,2642 1772,2642 2069,2640 2366,2640 2664,2638 2961,2638 3258,2638 3555,2638 3852,2640 4150,2642 4447,2646 4744,2650 5041,2655 5338,2662 5636,2671 5899,2678"/>
+                <TextEquiv>
+                    <Unicode>individuorum est generatio et corruptio. ut dicitur i. meth. omnes enim generationes et ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393427_36" custom="readingOrder {index:9;}">
+                <Coords points="836,2788 3655,2788 3911,2790 4167,2792 4424,2794 4680,2798 4936,2802 5193,2806 5449,2812 5705,2818 5899,2824 5899,2929 5705,2923 5449,2917 5193,2911 4936,2907 4680,2903 4424,2899 4167,2897 3911,2895 3655,2893 836,2893"/>
+                <Baseline points="836,2858 1092,2858 1348,2858 1604,2858 1861,2858 2117,2858 2373,2858 2630,2858 2886,2858 3142,2858 3399,2858 3655,2858 3911,2860 4167,2862 4424,2864 4680,2868 4936,2872 5193,2876 5449,2882 5705,2888 5899,2894"/>
+                <TextEquiv>
+                    <Unicode>tus sunt singularium et suppositorum. Dicit etiam autor in textu. Que quatuor ele-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393431_38" custom="readingOrder {index:10;}">
+                <Coords points="844,3002 1141,3004 3519,3004 3817,3006 4114,3008 4411,3012 4708,3016 5006,3022 5303,3030 5600,3040 5898,3051 5899,3051 5899,3156 5898,3156 5600,3145 5303,3135 5006,3127 4708,3121 4411,3117 4114,3113 3817,3111 3519,3109 1141,3109 844,3107"/>
+                <Baseline points="844,3072 1141,3074 1438,3074 1735,3074 2033,3074 2330,3074 2627,3074 2925,3074 3222,3074 3519,3074 3817,3076 4114,3078 4411,3082 4708,3086 5006,3092 5303,3100 5600,3110 5898,3121 5899,3121"/>
+                <TextEquiv>
+                    <Unicode>menta sunt corpora simplicia hoc est intelligendum inquantum simplex opponitur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393432_40" custom="readingOrder {index:11;}">
+                <Coords points="856,3218 2920,3218 3215,3220 3510,3221 3805,3224 4099,3226 4394,3230 4689,3236 4984,3242 5279,3249 5574,3256 5869,3268 5899,3269 5899,3374 5869,3373 5574,3361 5279,3354 4984,3347 4689,3341 4394,3335 4099,3331 3805,3329 3510,3326 3215,3325 2920,3323 856,3323"/>
+                <Baseline points="856,3288 1150,3288 1445,3288 1740,3288 2035,3288 2330,3288 2625,3288 2920,3288 3215,3290 3510,3291 3805,3294 4099,3296 4394,3300 4689,3306 4984,3312 5279,3319 5574,3326 5869,3338 5899,3339"/>
+                <TextEquiv>
+                    <Unicode>mixto quatuor enim elementa non sunt mixta. sed inquantum simplex opponitur con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393432_42" custom="readingOrder {index:12;}">
+                <Coords points="904,3440 1154,3439 1404,3438 1654,3436 1904,3436 2155,3434 3155,3434 3406,3436 3656,3436 3906,3438 4156,3440 4406,3444 4657,3448 4907,3452 5157,3456 5407,3462 5657,3468 5899,3475 5899,3580 5657,3573 5407,3567 5157,3561 4907,3557 4657,3553 4406,3549 4156,3545 3906,3543 3656,3541 3406,3541 3155,3539 2155,3539 1904,3541 1654,3541 1404,3543 1154,3544 904,3545"/>
+                <Baseline points="904,3510 1154,3509 1404,3508 1654,3506 1904,3506 2155,3504 2405,3504 2655,3504 2905,3504 3155,3504 3406,3506 3656,3506 3906,3508 4156,3510 4406,3514 4657,3518 4907,3522 5157,3526 5407,3532 5657,3538 5899,3545"/>
+                <TextEquiv>
+                    <Unicode>posito sic quatuor elementa non sunt simplicia: et sunt corpora. modo omne corpus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393437_44" custom="readingOrder {index:13;}">
+                <Coords points="820,3658 1078,3656 1336,3656 1594,3654 1852,3652 2368,3652 2626,3650 3142,3650 3400,3652 3658,3652 3916,3654 4174,3656 4432,3660 4690,3664 4948,3668 5206,3674 5464,3680 5722,3687 5899,3693 5899,3798 5722,3792 5464,3785 5206,3779 4948,3773 4690,3769 4432,3765 4174,3761 3916,3759 3658,3757 3400,3757 3142,3755 2626,3755 2368,3757 1852,3757 1594,3759 1336,3761 1078,3761 820,3763"/>
+                <Baseline points="820,3728 1078,3726 1336,3726 1594,3724 1852,3722 2110,3722 2368,3722 2626,3720 2884,3720 3142,3720 3400,3722 3658,3722 3916,3724 4174,3726 4432,3730 4690,3734 4948,3738 5206,3744 5464,3750 5722,3757 5899,3763"/>
+                <TextEquiv>
+                    <Unicode>est compositum ex materia et forma. Et etiam elementa possunt dici corpora simplicia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393438_46" custom="readingOrder {index:14;}">
+                <Coords points="804,3889 1061,3886 1319,3883 1577,3881 1835,3881 2093,3879 2609,3879 2867,3881 3125,3883 3383,3885 3640,3887 3898,3889 4156,3893 4414,3897 4672,3901 4930,3905 5188,3911 5446,3916 5704,3922 5899,3927 5899,4018 5704,4013 5446,4007 5188,4002 4930,3996 4672,3992 4414,3988 4156,3984 3898,3980 3640,3978 3383,3976 3125,3974 2867,3972 2609,3970 2093,3970 1835,3972 1577,3972 1319,3974 1061,3977 804,3980"/>
+                <Baseline points="804,3950 1061,3947 1319,3944 1577,3942 1835,3942 2093,3940 2351,3940 2609,3940 2867,3942 3125,3944 3383,3946 3640,3948 3898,3950 4156,3954 4414,3958 4672,3962 4930,3966 5188,3972 5446,3977 5704,3983 5899,3988"/>
+                <TextEquiv>
+                    <Unicode>motive. et moventur motu simplici. ut levia sursum et gravia deorsum. ut primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:15;}">
+                <Coords points="806,4206 925,4204 1045,4202 1164,4200 1284,4198 1403,4196 1523,4194 1642,4194 1762,4194 1881,4194 2001,4194 2120,4194 2240,4194 2359,4196 2479,4196 2598,4196 2718,4198 2837,4198 2957,4200 3076,4200 3196,4200 3196,4098 3076,4098 2957,4098 2837,4096 2718,4096 2598,4094 2479,4094 2359,4094 2240,4092 2120,4092 2001,4092 1881,4092 1762,4092 1642,4092 1523,4092 1403,4094 1284,4096 1164,4098 1045,4100 925,4102 806,4104"/>
+                <Baseline points="806,4172 925,4170 1045,4168 1164,4166 1284,4164 1403,4162 1523,4160 1642,4160 1762,4160 1881,4160 2001,4160 2120,4160 2240,4160 2359,4162 2479,4162 2598,4162 2718,4164 2837,4164 2957,4166 3076,4166 3196,4166"/>
+                <TextEquiv>
+                    <Unicode>celi. motus enim rectus est simplex.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>pars et totum sunt eiusdem rationis et denominationis. unum etiam corpus homoge-&#13;
+nium ab homos grece quod est idem vel unum et genus generis quasi corpus eius-&#13;
+dem nature et denominationis in toto et etiam in parte dicitur unum corpus homo-&#13;
+genium diffinitur sic est corpus quod in toto et in parte eiusdem nature et deno-&#13;
+minationis. ut ignis cuius quelibet pars est ignis. Tercia proprietas quatu&#13;
+or elementorum est que ex commixtione quatuor elementorum virtute influentie celestis&#13;
+generantur ex ipsis diverse species rerum hoc est suppositorum et rerum proprie enim speci&#13;
+es non generantur secundum enim Aristotilem sexto metaph. Species rerum sunt eterne sed&#13;
+individuorum est generatio et corruptio. ut dicitur i. meth. omnes enim generationes et ac&#13;
+tus sunt singularium et suppositorum. Dicit etiam autor in textu. Que quatuor ele-&#13;
+menta sunt corpora simplicia hoc est intelligendum inquantum simplex opponitur&#13;
+mixto quatuor enim elementa non sunt mixta. sed inquantum simplex opponitur con&#13;
+posito sic quatuor elementa non sunt simplicia: et sunt corpora. modo omne corpus&#13;
+est compositum ex materia et forma. Et etiam elementa possunt dici corpora simplicia&#13;
+motive. et moventur motu simplici. ut levia sursum et gravia deorsum. ut primo&#13;
+celi. motus enim rectus est simplex.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660650515252_87" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="772,4342 5899,4342 5899,5423 772,5423"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="884,4603 1130,4601 1377,4599 1624,4597 1871,4597 2118,4597 2364,4597 2611,4597 2858,4599 3105,4601 3352,4603 3598,4605 3845,4608 4092,4611 4339,4615 4586,4619 4832,4623 5079,4628 5326,4632 5573,4637 5820,4643 5820,4543 5573,4537 5326,4532 5079,4528 4832,4523 4586,4519 4339,4515 4092,4511 3845,4508 3598,4505 3352,4503 3105,4501 2858,4499 2611,4497 2364,4497 2118,4497 1871,4497 1624,4497 1377,4499 1130,4501 884,4503"/>
+                <Baseline points="884,4570 1130,4568 1377,4566 1624,4564 1871,4564 2118,4564 2364,4564 2611,4564 2858,4566 3105,4568 3352,4570 3598,4572 3845,4575 4092,4578 4339,4582 4586,4586 4832,4590 5079,4595 5326,4599 5573,4604 5820,4610"/>
+                <TextEquiv>
+                    <Unicode>Quorum trium quodlibet terram orbiculariter undique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660651572308_168" custom="readingOrder {index:1;}">
+                <Coords points="874,4919 961,4914 1137,4909 1224,4907 1400,4903 1751,4903 3685,4908 3949,4910 4346,4916 4610,4920 5139,4932 5668,4946 5668,5039 874,5013"/>
+                <Baseline points="874,4982 961,4977 1049,4975 1137,4972 1224,4970 1312,4968 1400,4966 1487,4966 1575,4966 1663,4966 1751,4966 1838,4968 1926,4968 2014,4970 2101,4971 2189,4972 2277,4974 2364,4976 2452,4978 2540,4978 2628,4980 3024,4970 3156,4970 3288,4970 3420,4970 3552,4970 3685,4970 3817,4972 3949,4972 4081,4974 4213,4976 4346,4978 4478,4980 4610,4982 4742,4986 4874,4988 5006,4991 5139,4994 5271,4998 5403,5001 5535,5006 5668,5008"/>
+                <TextEquiv>
+                    <Unicode>circundat nisi quantum siccitas terre humori aque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:2;}">
+                <Coords points="930,5405 1114,5403 1298,5401 1482,5401 1666,5401 1850,5401 2034,5403 2218,5403 2402,5403 2586,5405 2770,5406 2954,5407 3138,5409 3322,5409 3506,5409 3690,5411 3874,5411 4058,5411 4242,5411 4426,5409 4610,5409 4610,5304 4426,5304 4242,5306 4058,5306 3874,5306 3690,5306 3506,5304 3322,5304 3138,5304 2954,5302 2770,5301 2586,5300 2402,5298 2218,5298 2034,5298 1850,5296 1666,5296 1482,5296 1298,5296 1114,5298 930,5300"/>
+                <Baseline points="930,5370 1114,5368 1298,5366 1482,5366 1666,5366 1850,5366 2034,5368 2218,5368 2402,5368 2586,5370 2770,5371 2954,5372 3138,5374 3322,5374 3506,5374 3690,5376 3874,5376 4058,5376 4242,5376 4426,5374 4610,5374"/>
+                <TextEquiv>
+                    <Unicode>obsistit ad vitam animalium tuendam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quorum trium quodlibet terram orbiculariter undique&#13;
+circundat nisi quantum siccitas terre humori aque&#13;
+obsistit ad vitam animalium tuendam.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660650520085_93" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="772,5423 5899,5423 5899,5931 772,5931"/>
+            <TextLine id="r1l38" custom="readingOrder {index:0;}">
+                <Coords points="1240,5601 1469,5605 1699,5607 1929,5609 2159,5611 2389,5611 2618,5613 2848,5615 3078,5615 3308,5617 3538,5618 3767,5619 3997,5621 4227,5624 4457,5627 4687,5631 4916,5635 5146,5640 5376,5647 5606,5653 5836,5661 5836,5556 5606,5548 5376,5542 5146,5535 4916,5530 4687,5526 4457,5522 4227,5519 3997,5516 3767,5514 3538,5513 3308,5512 3078,5510 2848,5510 2618,5508 2389,5506 2159,5506 1929,5504 1699,5502 1469,5500 1240,5496"/>
+                <Baseline points="1240,5566 1469,5570 1699,5572 1929,5574 2159,5576 2389,5576 2618,5578 2848,5580 3078,5580 3308,5582 3538,5583 3767,5584 3997,5586 4227,5589 4457,5592 4687,5596 4916,5600 5146,5605 5376,5612 5606,5618 5836,5626"/>
+                <TextEquiv>
+                    <Unicode>¶ Autor consequenter ostendit de quatuor elementis quo situm eorum et figu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:1;}">
+                <Coords points="824,5823 1033,5827 1242,5831 1451,5833 1660,5835 1869,5837 2078,5837 2287,5839 2496,5839 2705,5837 2915,5837 3124,5837 3333,5837 3542,5837 3751,5839 3960,5841 4169,5841 4378,5845 4587,5849 4796,5853 5006,5859 5006,5754 4796,5748 4587,5744 4378,5740 4169,5736 3960,5736 3751,5734 3542,5732 3333,5732 3124,5732 2915,5732 2705,5732 2496,5734 2287,5734 2078,5732 1869,5732 1660,5730 1451,5728 1242,5726 1033,5722 824,5718"/>
+                <Baseline points="824,5788 1033,5792 1242,5796 1451,5798 1660,5800 1869,5802 2078,5802 2287,5804 2496,5804 2705,5802 2915,5802 3124,5802 3333,5802 3542,5802 3751,5804 3960,5806 4169,5806 4378,5810 4587,5814 4796,5818 5006,5824"/>
+                <TextEquiv>
+                    <Unicode>ram et dicit que quodlibet elementum circundat aliud circulariter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Autor consequenter ostendit de quatuor elementis quo situm eorum et figu&#13;
+ram et dicit que quodlibet elementum circundat aliud circulariter.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660650524558_98" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="772,5931 5899,5931 5899,8458 772,8458"/>
+            <TextLine id="line_1660650393445_50" custom="readingOrder {index:0;} drop-capital {offset:0; length:49;}">
+                <Coords points="850,6134 1148,6128 1447,6126 1745,6124 2044,6124 2342,6126 2641,6128 2939,6132 3238,6136 3536,6140 3835,6144 4133,6148 4432,6152 4730,6154 5029,6156 5327,6154 5626,6153 5899,6149 5899,6254 5626,6258 5327,6259 5029,6261 4730,6259 4432,6257 4133,6253 3835,6249 3536,6245 3238,6241 2939,6237 2641,6233 2342,6231 2044,6229 1745,6229 1447,6231 1148,6233 850,6239"/>
+                <Baseline points="850,6204 1148,6198 1447,6196 1745,6194 2044,6194 2342,6196 2641,6198 2939,6202 3238,6206 3536,6210 3835,6214 4133,6218 4432,6222 4730,6224 5029,6226 5327,6224 5626,6223 5899,6219"/>
+                <TextEquiv>
+                    <Unicode>Pro intellectu textus. Notandum que principalis causa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393445_52" custom="readingOrder {index:1;}">
+                <Coords points="820,6326 1092,6334 1365,6338 1638,6340 1911,6342 2184,6344 3820,6344 4093,6346 4366,6348 4639,6354 4912,6359 5184,6368 5457,6377 5730,6389 5899,6398 5899,6503 5730,6494 5457,6482 5184,6473 4912,6464 4639,6459 4366,6453 4093,6451 3820,6449 2184,6449 1911,6447 1638,6445 1365,6443 1092,6439 820,6431"/>
+                <Baseline points="820,6396 1092,6404 1365,6408 1638,6410 1911,6412 2184,6414 2456,6414 2729,6414 3002,6414 3275,6414 3548,6414 3820,6414 4093,6416 4366,6418 4639,6424 4912,6429 5184,6438 5457,6447 5730,6459 5899,6468"/>
+                <TextEquiv>
+                    <Unicode>que Aqua non ex omni parte circumdat terra est propter vitam hominum et animalium hic in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393445_54" custom="readingOrder {index:2;}">
+                <Coords points="866,6558 1132,6556 2198,6556 2465,6558 2731,6558 2998,6560 3264,6560 3531,6562 3797,6565 4064,6568 4330,6570 4597,6574 4863,6578 5130,6582 5396,6586 5663,6591 5899,6595 5899,6700 5663,6696 5396,6691 5130,6687 4863,6683 4597,6679 4330,6675 4064,6673 3797,6670 3531,6667 3264,6665 2998,6665 2731,6663 2465,6663 2198,6661 1132,6661 866,6663"/>
+                <Baseline points="866,6628 1132,6626 1399,6626 1665,6626 1932,6626 2198,6626 2465,6628 2731,6628 2998,6630 3264,6630 3531,6632 3797,6635 4064,6638 4330,6640 4597,6644 4863,6648 5130,6652 5396,6656 5663,6661 5899,6665"/>
+                <TextEquiv>
+                    <Unicode>mundo habitantium que in aqua vitam habere non possunt. In principio enim creationis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393445_56" custom="readingOrder {index:3;}">
+                <Coords points="796,6778 1055,6776 1314,6774 2868,6774 3127,6775 3387,6776 3646,6778 3905,6780 4164,6784 4423,6786 4682,6790 4941,6795 5200,6800 5459,6806 5718,6812 5899,6817 5899,6922 5718,6917 5459,6911 5200,6905 4941,6900 4682,6895 4423,6891 4164,6889 3905,6885 3646,6883 3387,6881 3127,6880 2868,6879 1314,6879 1055,6881 796,6883"/>
+                <Baseline points="796,6848 1055,6846 1314,6844 1573,6844 1832,6844 2091,6844 2350,6844 2609,6844 2868,6844 3127,6845 3387,6846 3646,6848 3905,6850 4164,6854 4423,6856 4682,6860 4941,6865 5200,6870 5459,6876 5718,6882 5899,6887"/>
+                <TextEquiv>
+                    <Unicode>mundi ut ostendit Cameracensis in tractatu suo de ymagine mundi tota</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393455_58" custom="readingOrder {index:4;}">
+                <Coords points="852,6992 1429,6992 1718,6994 2296,6994 2584,6996 2873,6996 3162,6998 3451,6998 3740,7000 4028,7002 4317,7005 4606,7008 4895,7011 5184,7016 5472,7020 5761,7025 5899,7027 5899,7132 5761,7130 5472,7125 5184,7121 4895,7116 4606,7113 4317,7110 4028,7107 3740,7105 3451,7103 3162,7103 2873,7101 2584,7101 2296,7099 1718,7099 1429,7097 852,7097"/>
+                <Baseline points="852,7062 1140,7062 1429,7062 1718,7064 2007,7064 2296,7064 2584,7066 2873,7066 3162,7068 3451,7068 3740,7070 4028,7072 4317,7075 4606,7078 4895,7081 5184,7086 5472,7090 5761,7095 5899,7097"/>
+                <TextEquiv>
+                    <Unicode>terra fuit tecta aquis sed postea virtute divina actum est. ut aliqua pars totius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393455_60" custom="readingOrder {index:5;}">
+                <Coords points="820,7208 1718,7208 2018,7209 2317,7210 2617,7212 2916,7214 3216,7216 3515,7218 3815,7220 4114,7222 4414,7224 4713,7226 5013,7226 5312,7228 5899,7228 5899,7333 5312,7333 5013,7331 4713,7331 4414,7329 4114,7327 3815,7325 3515,7323 3216,7321 2916,7319 2617,7317 2317,7315 2018,7314 1718,7313 820,7313"/>
+                <Baseline points="820,7278 1119,7278 1419,7278 1718,7278 2018,7279 2317,7280 2617,7282 2916,7284 3216,7286 3515,7288 3815,7290 4114,7292 4414,7294 4713,7296 5013,7296 5312,7298 5612,7298 5899,7298"/>
+                <TextEquiv>
+                    <Unicode>elementi terre est liberata ab aquis propter vitam dictum est animalium. Un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393455_62" custom="readingOrder {index:6;}">
+                <Coords points="836,7414 1091,7420 1347,7424 1602,7426 1858,7430 2113,7430 2369,7432 2880,7432 3135,7434 3902,7434 4157,7436 4413,7436 4668,7439 4924,7442 5179,7446 5435,7452 5690,7458 5899,7464 5899,7569 5690,7563 5435,7557 5179,7551 4924,7547 4668,7544 4413,7541 4157,7541 3902,7539 3135,7539 2880,7537 2369,7537 2113,7535 1858,7535 1602,7531 1347,7529 1091,7525 836,7519"/>
+                <Baseline points="836,7484 1091,7490 1347,7494 1602,7496 1858,7500 2113,7500 2369,7502 2624,7502 2880,7502 3135,7504 3391,7504 3646,7504 3902,7504 4157,7506 4413,7506 4668,7509 4924,7512 5179,7516 5435,7522 5690,7528 5899,7534"/>
+                <TextEquiv>
+                    <Unicode>de et ptholemeus scribit in sapientiis almagesti que quarta pars elementi to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393461_64" custom="readingOrder {index:7;}">
+                <Coords points="820,7630 1122,7636 1425,7642 1728,7645 2030,7647 2333,7648 2636,7650 3847,7650 4149,7652 4452,7654 4755,7658 5057,7664 5360,7672 5663,7682 5899,7690 5899,7795 5663,7787 5360,7777 5057,7769 4755,7763 4452,7759 4149,7757 3847,7755 2636,7755 2333,7753 2030,7752 1728,7750 1425,7747 1122,7741 820,7735"/>
+                <Baseline points="820,7700 1122,7706 1425,7712 1728,7715 2030,7717 2333,7718 2636,7720 2938,7720 3241,7720 3544,7720 3847,7720 4149,7722 4452,7724 4755,7728 5057,7734 5360,7742 5663,7752 5899,7760"/>
+                <TextEquiv>
+                    <Unicode>cius terre et modicum ultra est libera ab aqua propter vitam animalium. Alii autem di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:8;}">
+                <Coords points="828,7961 1101,7963 1374,7963 1647,7965 1921,7965 2194,7967 2467,7969 2741,7971 3014,7973 3287,7973 3561,7977 3834,7979 4107,7981 4380,7983 4654,7985 4927,7989 5200,7992 5474,7995 5747,7999 6020,8002 6294,8005 6294,7900 6020,7897 5747,7894 5474,7890 5200,7887 4927,7884 4654,7880 4380,7878 4107,7876 3834,7874 3561,7872 3287,7868 3014,7868 2741,7866 2467,7864 2194,7862 1921,7860 1647,7860 1374,7858 1101,7858 828,7856"/>
+                <Baseline points="828,7926 1101,7928 1374,7928 1647,7930 1921,7930 2194,7932 2467,7934 2741,7936 3014,7938 3287,7938 3561,7942 3834,7944 4107,7946 4380,7948 4654,7950 4927,7954 5200,7957 5474,7960 5747,7964 5899,7965"/>
+                <TextEquiv>
+                    <Unicode>cunt pure naturaliter loquendo quod hoc est ex parte polorum dicunt enim que polus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:9;}">
+                <Coords points="848,8171 1115,8176 1382,8181 1650,8184 1917,8185 2185,8187 2452,8187 2719,8187 2987,8187 3254,8187 3522,8187 3789,8187 4056,8189 4324,8191 4591,8195 4858,8199 5126,8205 5393,8215 5661,8225 5928,8238 6196,8255 6196,8150 5928,8133 5661,8120 5393,8110 5126,8100 4858,8094 4591,8090 4324,8086 4056,8084 3789,8082 3522,8082 3254,8082 2987,8082 2719,8082 2452,8082 2185,8082 1917,8080 1650,8079 1382,8076 1115,8071 848,8066"/>
+                <Baseline points="848,8136 1115,8141 1382,8146 1650,8149 1917,8150 2185,8152 2452,8152 2719,8152 2987,8152 3254,8152 3522,8152 3789,8152 4056,8154 4324,8156 4591,8160 4858,8164 5126,8170 5393,8180 5661,8190 5899,8201"/>
+                <TextEquiv>
+                    <Unicode>antarticus attrahit ad se humorem et aquam. Articus vero polus attrahit sic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660650393464_66" custom="readingOrder {index:10;}">
+                <Coords points="772,8308 1036,8310 1301,8312 1566,8312 1831,8314 2096,8314 2360,8316 3155,8316 3420,8318 3684,8318 3949,8320 4214,8322 4479,8324 4744,8326 5008,8328 5273,8332 5538,8336 5803,8342 5899,8343 5899,8448 5803,8447 5538,8441 5273,8437 5008,8433 4744,8431 4479,8429 4214,8427 3949,8425 3684,8423 3420,8423 3155,8421 2360,8421 2096,8419 1831,8419 1566,8417 1301,8417 1036,8415 772,8413"/>
+                <Baseline points="772,8378 1036,8380 1301,8382 1566,8382 1831,8384 2096,8384 2360,8386 2625,8386 2890,8386 3155,8386 3420,8388 3684,8388 3949,8390 4214,8392 4479,8394 4744,8396 5008,8398 5273,8402 5538,8406 5803,8412 5899,8413"/>
+                <TextEquiv>
+                    <Unicode>ea et dicunt simile esse in magnete qui in una parte attrahit ferrum et in alia parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pro intellectu textus. Notandum que principalis causa&#13;
+que Aqua non ex omni parte circumdat terra est propter vitam hominum et animalium hic in&#13;
+mundo habitantium que in aqua vitam habere non possunt. In principio enim creationis&#13;
+mundi ut ostendit Cameracensis in tractatu suo de ymagine mundi tota&#13;
+terra fuit tecta aquis sed postea virtute divina actum est. ut aliqua pars totius&#13;
+elementi terre est liberata ab aquis propter vitam dictum est animalium. Un&#13;
+de et ptholemeus scribit in sapientiis almagesti que quarta pars elementi to&#13;
+cius terre et modicum ultra est libera ab aqua propter vitam animalium. Alii autem di-&#13;
+cunt pure naturaliter loquendo quod hoc est ex parte polorum dicunt enim que polus&#13;
+antarticus attrahit ad se humorem et aquam. Articus vero polus attrahit sic&#13;
+ea et dicunt simile esse in magnete qui in una parte attrahit ferrum et in alia parte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="catch-word" id="TextRegion_1660650524557_97" custom="readingOrder {index:4;} structure {type:catch-word;}">
+            <Coords points="772,8458 5899,8458 5899,8663 772,8663"/>
+            <TextLine id="r1l59" custom="readingOrder {index:0;}">
+                <Coords points="4141,8572 4233,8583 4325,8593 4417,8600 4509,8605 4601,8608 4693,8610 4785,8612 4877,8612 4969,8612 5062,8610 5154,8610 5246,8610 5338,8610 5430,8612 5522,8614 5614,8618 5706,8623 5798,8631 5890,8641 5983,8654 5983,8549 5890,8536 5798,8526 5706,8518 5614,8513 5522,8509 5430,8507 5338,8505 5246,8505 5154,8505 5062,8505 4969,8507 4877,8507 4785,8507 4693,8505 4601,8503 4509,8500 4417,8495 4325,8488 4233,8478 4141,8467"/>
+                <Baseline points="2772,8636 2864,8647 2956,8657 3034,8663"/>
+                <TextEquiv>
+                    <Unicode>B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>B</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

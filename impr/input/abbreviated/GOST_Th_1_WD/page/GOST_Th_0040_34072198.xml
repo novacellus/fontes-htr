@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-01-10T18:03:24.096+01:00</Created>
+        <LastChange>2022-01-18T10:34:36.835+01:00</LastChange>
+        <TranskribusMetadata docId="888829" pageId="34072198" pageNr="40" tsid="73008875" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=PMXFRDEJRJYNIKDLUVHAAPCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGQDTXEFDQRZWRAVIDEETAQE" imageId="27321525"/>
+    </Metadata>
+    <Page imageFilename="GOST_Th_0040_34072198.jpg" imageWidth="1754" imageHeight="2447">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1642498476845" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1642237148664_304"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1642237148664_303"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1642237147064_299"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1642237145336_295"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1642237148664_304" custom="readingOrder {index:0;} structure {type:propositio;}">
+            <Coords points="292,340 1606,340 1606,482 292,482"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="292,399 356,397 420,395 484,394 548,392 612,391 676,390 740,390 804,389 868,389 932,388 996,388 1060,388 1124,387 1188,387 1252,386 1316,386 1380,384 1444,383 1508,382 1573,380 1573,340 1508,342 1444,343 1380,344 1316,346 1252,346 1188,347 1124,347 1060,348 996,348 932,348 868,349 804,349 740,350 676,350 612,351 548,352 484,354 420,355 356,357 292,359"/>
+                <Baseline points="292,386 356,384 420,382 484,381 548,379 612,378 676,377 740,377 804,376 868,376 932,375 996,375 1060,375 1124,374 1188,374 1252,373 1316,373 1380,371 1444,370 1508,369 1573,367"/>
+                <TextEquiv>
+                    <Unicode>sensu ⁊ me itatione ⁊ cogitatione ⁊ intelligentia ⁊ loquela non est er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="308,491 333,490 359,489 384,488 410,488 436,487 461,487 487,486 512,485 538,483 564,481 564,442 538,444 512,446 487,447 461,448 436,448 410,449 384,449 359,450 333,451 308,452"/>
+                <Baseline points="308,478 333,477 359,476 384,475 410,475 436,474 461,474 487,473 512,472 538,470 564,468"/>
+                <TextEquiv>
+                    <Unicode>go narrabilis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sensu ⁊ me itatione ⁊ cogitatione ⁊ intelligentia ⁊ loquela non est er&#13;
+go narrabilis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1642237148664_303" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="292,482 1606,482 1606,1235 292,1235"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="316,544 378,541 441,538 504,536 567,534 630,533 693,532 755,532 818,531 881,531 944,531 1007,531 1070,531 1133,530 1195,530 1258,529 1321,529 1384,528 1447,526 1510,524 1573,522 1573,488 1510,490 1447,492 1384,494 1321,495 1258,495 1195,496 1133,496 1070,497 1007,497 944,497 881,497 818,497 755,498 693,498 630,499 567,500 504,502 441,504 378,507 316,510"/>
+                <Baseline points="316,533 378,530 441,527 504,525 567,523 630,522 693,521 755,521 818,520 881,520 944,520 1007,520 1070,520 1133,519 1195,519 1258,518 1321,518 1384,517 1447,515 1510,513 1573,511"/>
+                <TextEquiv>
+                    <Unicode>Proba scd'm formando talem co~clusionem. Causa prima no~ est diffinibilis nec cogno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="317,592 379,589 441,587 503,585 566,583 628,582 690,581 753,581 815,580 877,580 940,580 1002,580 1064,579 1126,579 1189,579 1251,578 1313,578 1376,576 1438,575 1500,573 1563,571 1563,537 1500,539 1438,541 1376,542 1313,544 1251,544 1189,545 1126,545 1064,545 1002,546 940,546 877,546 815,546 753,547 690,547 628,548 566,549 503,551 441,553 379,555 317,558"/>
+                <Baseline points="317,581 379,578 441,576 503,574 566,572 628,571 690,570 753,570 815,569 877,569 940,569 1002,569 1064,568 1126,568 1189,568 1251,567 1313,567 1376,565 1438,564 1500,562 1563,560"/>
+                <TextEquiv>
+                    <Unicode>scibilis quo ad nos quo ad quid est duabus rationibꝰ. Prima. Omne diffinibile ⁊ cogno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="310,641 373,638 436,635 499,633 562,631 625,630 688,629 752,628 815,628 878,628 941,627 1004,627 1067,627 1130,627 1194,626 1257,626 1320,625 1383,624 1446,622 1509,620 1573,618 1573,584 1509,586 1446,588 1383,590 1320,591 1257,592 1194,592 1130,593 1067,593 1004,593 941,593 878,594 815,594 752,594 688,595 625,596 562,597 499,599 436,601 373,604 310,607"/>
+                <Baseline points="310,630 373,627 436,624 499,622 562,620 625,619 688,618 752,617 815,617 878,617 941,616 1004,616 1067,616 1130,616 1194,615 1257,615 1320,614 1383,613 1446,611 1509,609 1573,607"/>
+                <TextEquiv>
+                    <Unicode>scibile quo ad nos est aliquomodo narrabile: sed pⁱma causa quo ad nos nullomodo est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} textStyle {offset:12; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="313,690 376,686 439,684 502,682 565,680 628,679 691,678 754,677 817,677 880,677 944,676 1007,676 1070,676 1133,676 1196,675 1259,675 1322,674 1385,673 1448,672 1511,670 1575,668 1575,634 1511,636 1448,638 1385,639 1322,640 1259,641 1196,641 1133,642 1070,642 1007,642 944,642 880,643 817,643 754,643 691,644 628,645 565,646 502,648 439,650 376,652 313,656"/>
+                <Baseline points="313,679 376,675 439,673 502,671 565,669 628,668 691,667 754,666 817,666 880,666 944,665 1007,665 1070,665 1133,665 1196,664 1259,664 1322,663 1385,662 1448,661 1511,659 1575,657"/>
+                <TextEquiv>
+                    <Unicode>narrabilis go ⁊c~ Maior est nota Minoreʒ ꝓbat qⁱa causa prima tra~sit suꝑ omneʒ cogni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="316,737 378,734 441,732 504,730 567,728 629,727 692,726 755,725 818,725 880,724 943,724 1006,724 1069,724 1131,723 1194,723 1257,722 1320,722 1382,721 1445,719 1508,718 1571,716 1571,682 1508,684 1445,685 1382,687 1320,688 1257,688 1194,689 1131,689 1069,690 1006,690 943,690 880,690 818,691 755,691 692,692 629,693 567,694 504,696 441,698 378,700 316,703"/>
+                <Baseline points="316,726 378,723 441,721 504,719 567,717 629,716 692,715 755,714 818,714 880,713 943,713 1006,713 1069,713 1131,712 1194,712 1257,711 1320,711 1382,710 1445,708 1508,707 1571,705"/>
+                <TextEquiv>
+                    <Unicode>tioneʒ igit^ suꝑ omneʒ narrationeʒ. Consequentia~ ꝓbat. Oi~s eni~ narratio aliq~ significat^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="321,787 384,783 447,780 510,777 573,776 636,774 699,773 762,773 825,773 888,772 951,772 1014,772 1077,772 1140,772 1203,772 1266,772 1329,771 1392,770 1455,768 1518,766 1581,763 1581,730 1518,733 1455,735 1392,737 1329,738 1266,739 1203,739 1140,739 1077,739 1014,739 951,739 888,739 825,740 762,740 699,740 636,741 573,743 510,744 447,747 384,750 321,754"/>
+                <Baseline points="321,776 384,772 447,769 510,766 573,765 636,763 699,762 762,762 825,762 888,761 951,761 1014,761 1077,761 1140,761 1203,761 1266,761 1329,760 1392,759 1455,757 1518,755 1581,752"/>
+                <TextEquiv>
+                    <Unicode>ꝑ loq~la~. no~ au~t loq~ndo Ↄtigit significari nisi qd' i~telligit^ ⁊ cognoscit^ nec i~telligit^ nisi qd'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="327,832 389,829 452,828 514,826 577,824 639,823 702,822 764,821 827,821 889,821 952,821 1014,821 1077,820 1139,820 1202,820 1264,819 1327,819 1389,817 1452,816 1514,814 1577,812 1577,779 1514,781 1452,783 1389,784 1327,786 1264,786 1202,787 1139,787 1077,787 1014,788 952,788 889,788 827,788 764,788 702,789 639,790 577,791 514,793 452,795 389,796 327,799"/>
+                <Baseline points="327,821 389,818 452,817 514,815 577,813 639,812 702,811 764,810 827,810 889,810 952,810 1014,810 1077,809 1139,809 1202,809 1264,808 1327,808 1389,806 1452,805 1514,803 1577,801"/>
+                <TextEquiv>
+                    <Unicode>cognitione. ide est cogitatio~e ⁊ collocatio~e co~prehendit^: sicut co~fert^ genꝰ cu~ differentia ⁊</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="317,881 379,878 442,876 505,873 568,872 631,871 694,870 757,869 820,869 883,869 946,869 1008,869 1071,869 1134,868 1197,868 1260,868 1323,867 1386,866 1449,865 1512,863 1575,860 1575,826 1512,829 1449,831 1386,832 1323,833 1260,834 1197,834 1134,834 1071,835 1008,835 946,835 883,835 820,835 757,835 694,836 631,837 568,838 505,839 442,842 379,844 317,847"/>
+                <Baseline points="317,870 379,867 442,865 505,862 568,861 631,860 694,859 757,858 820,858 883,858 946,858 1008,858 1071,858 1134,857 1197,857 1260,857 1323,856 1386,855 1449,854 1512,852 1575,849"/>
+                <TextEquiv>
+                    <Unicode>potentia cu~ actu: ⁊ termina~s cu~ terminato co~fusione generis vel potentie. Talis autem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="321,929 384,926 447,923 510,921 573,920 636,919 699,918 762,917 825,917 888,917 951,917 1014,917 1077,916 1140,916 1203,916 1266,916 1329,915 1392,914 1455,912 1518,911 1581,908 1581,874 1518,877 1455,878 1392,880 1329,881 1266,882 1203,882 1140,882 1077,882 1014,883 951,883 888,883 825,883 762,883 699,884 636,885 573,886 510,887 447,889 384,892 321,895"/>
+                <Baseline points="321,918 384,915 447,912 510,910 573,909 636,908 699,907 762,906 825,906 888,906 951,906 1014,906 1077,905 1140,905 1203,905 1266,905 1329,904 1392,903 1455,901 1518,900 1581,897"/>
+                <TextEquiv>
+                    <Unicode>cogitatio no~ potest esse nisi ꝑ frequentationem mentis conuerse suꝑ cogitatum: que fre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="315,976 378,974 441,971 504,970 567,968 631,967 694,967 757,966 820,965 883,965 947,965 1010,965 1073,965 1136,965 1199,964 1263,964 1326,963 1389,963 1452,962 1515,961 1579,959 1579,926 1515,928 1452,929 1389,930 1326,930 1263,931 1199,931 1136,932 1073,932 1010,932 947,932 883,932 820,932 757,933 694,934 631,934 567,935 504,937 441,938 378,941 315,943"/>
+                <Baseline points="315,965 378,963 441,960 504,959 567,957 631,956 694,956 757,955 820,954 883,954 947,954 1010,954 1073,954 1136,954 1199,953 1263,953 1326,952 1389,952 1452,951 1515,950 1579,948"/>
+                <TextEquiv>
+                    <Unicode>quens co~uersio metis meditatio vocat^. Meditaio au~t talis de his est que accipiu~t^ per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="315,1024 378,1022 441,1020 504,1018 567,1017 631,1016 694,1015 757,1014 820,1014 883,1014 947,1013 1010,1013 1073,1013 1136,1013 1199,1012 1263,1012 1326,1011 1389,1010 1452,1008 1515,1006 1579,1004 1579,971 1515,973 1452,975 1389,977 1326,978 1263,979 1199,979 1136,980 1073,980 1010,980 947,980 883,981 820,981 757,981 694,982 631,983 567,984 504,985 441,987 378,989 315,991"/>
+                <Baseline points="315,1013 378,1011 441,1009 504,1007 567,1006 631,1005 694,1004 757,1003 820,1003 883,1003 947,1002 1010,1002 1073,1002 1136,1002 1199,1001 1263,1001 1326,1000 1389,999 1452,997 1515,995 1579,993"/>
+                <TextEquiv>
+                    <Unicode>sensum in illa eni~ possimus meditando ex eo ꝙ oi~s nostra demo~stratio ex sensibilibꝰ ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="316,1073 379,1070 442,1068 505,1067 569,1065 632,1064 695,1063 758,1063 822,1063 885,1062 948,1062 1011,1062 1075,1062 1138,1062 1201,1061 1264,1061 1328,1060 1391,1059 1454,1057 1517,1056 1581,1053 1581,1019 1517,1022 1454,1023 1391,1025 1328,1026 1264,1027 1201,1027 1138,1028 1075,1028 1011,1028 948,1028 885,1028 822,1029 758,1029 695,1029 632,1030 569,1031 505,1033 442,1034 379,1036 316,1039"/>
+                <Baseline points="316,1062 379,1059 442,1057 505,1056 569,1054 632,1053 695,1052 758,1052 822,1052 885,1051 948,1051 1011,1051 1075,1051 1138,1051 1201,1050 1264,1050 1328,1049 1391,1048 1454,1046 1517,1045 1581,1042"/>
+                <TextEquiv>
+                    <Unicode>bet ortu~. Cu~ ergo meditatio informet^ ex sensu: ⁊ cogitatio ex meditatio~e ⁊ intelligentia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="309,1122 372,1120 436,1117 500,1115 564,1113 628,1112 691,1112 755,1111 819,1111 883,1110 947,1110 1010,1110 1074,1110 1138,1110 1202,1109 1266,1109 1329,1108 1393,1107 1457,1106 1521,1104 1585,1101 1585,1068 1521,1071 1457,1073 1393,1074 1329,1075 1266,1076 1202,1076 1138,1077 1074,1077 1010,1077 947,1077 883,1077 819,1078 755,1078 691,1079 628,1079 564,1080 500,1082 436,1084 372,1087 309,1089"/>
+                <Baseline points="309,1111 372,1109 436,1106 500,1104 564,1102 628,1101 691,1101 755,1100 819,1100 883,1099 947,1099 1010,1099 1074,1099 1138,1099 1202,1098 1266,1098 1329,1097 1393,1096 1457,1095 1521,1093 1585,1090"/>
+                <TextEquiv>
+                    <Unicode>nr~a ex cogitatione sequit^ ꝙ intelligentia nr~a ex sensibilibus ortu~ habet: Sed pⁱma causa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="318,1167 381,1165 444,1164 508,1162 571,1161 635,1160 698,1160 762,1159 825,1159 889,1158 952,1158 1015,1158 1079,1157 1142,1157 1206,1157 1269,1156 1333,1155 1396,1154 1460,1153 1523,1152 1587,1151 1587,1118 1523,1119 1460,1120 1396,1121 1333,1122 1269,1123 1206,1124 1142,1124 1079,1124 1015,1125 952,1125 889,1125 825,1126 762,1126 698,1127 635,1127 571,1128 508,1129 444,1131 381,1132 318,1134"/>
+                <Baseline points="318,1156 381,1154 444,1153 508,1151 571,1150 635,1149 698,1149 762,1148 825,1148 889,1147 952,1147 1015,1147 1079,1146 1142,1146 1206,1146 1269,1145 1333,1144 1396,1143 1460,1142 1523,1141 1587,1140"/>
+                <TextEquiv>
+                    <Unicode>est supra sensum ex eo ꝙ est supra omnes res quare nec sub cogitatione nec sub narratio~e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="316,1218 379,1215 442,1213 506,1211 569,1210 633,1208 696,1207 760,1207 823,1206 887,1206 950,1206 1013,1206 1077,1206 1140,1206 1204,1205 1267,1205 1331,1205 1394,1204 1458,1203 1521,1202 1585,1200 1585,1166 1521,1168 1458,1169 1394,1170 1331,1171 1267,1171 1204,1171 1140,1172 1077,1172 1013,1172 950,1172 887,1172 823,1172 760,1173 696,1173 633,1174 569,1176 506,1177 442,1179 379,1181 316,1184"/>
+                <Baseline points="316,1207 379,1204 442,1202 506,1200 569,1199 633,1197 696,1196 760,1196 823,1195 887,1195 950,1195 1013,1195 1077,1195 1140,1195 1204,1194 1267,1194 1331,1194 1394,1193 1458,1192 1521,1191 1585,1189"/>
+                <TextEquiv>
+                    <Unicode>⁊ ꝑ consequens nec sub sermone diffinit^. q~re nec sub cogitatione nostra. ⁊ ita minor vera.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Proba scd'm formando talem co~clusionem. Causa prima no~ est diffinibilis nec cogno&#13;
+scibilis quo ad nos quo ad quid est duabus rationibꝰ. Prima. Omne diffinibile ⁊ cogno&#13;
+scibile quo ad nos est aliquomodo narrabile: sed pⁱma causa quo ad nos nullomodo est&#13;
+narrabilis go ⁊c~ Maior est nota Minoreʒ ꝓbat qⁱa causa prima tra~sit suꝑ omneʒ cogni&#13;
+tioneʒ igit^ suꝑ omneʒ narrationeʒ. Consequentia~ ꝓbat. Oi~s eni~ narratio aliq~ significat^&#13;
+ꝑ loq~la~. no~ au~t loq~ndo Ↄtigit significari nisi qd' i~telligit^ ⁊ cognoscit^ nec i~telligit^ nisi qd'&#13;
+cognitione. ide est cogitatio~e ⁊ collocatio~e co~prehendit^: sicut co~fert^ genꝰ cu~ differentia ⁊&#13;
+potentia cu~ actu: ⁊ termina~s cu~ terminato co~fusione generis vel potentie. Talis autem&#13;
+cogitatio no~ potest esse nisi ꝑ frequentationem mentis conuerse suꝑ cogitatum: que fre-&#13;
+quens co~uersio metis meditatio vocat^. Meditaio au~t talis de his est que accipiu~t^ per&#13;
+sensum in illa eni~ possimus meditando ex eo ꝙ oi~s nostra demo~stratio ex sensibilibꝰ ha&#13;
+bet ortu~. Cu~ ergo meditatio informet^ ex sensu: ⁊ cogitatio ex meditatio~e ⁊ intelligentia&#13;
+nr~a ex cogitatione sequit^ ꝙ intelligentia nr~a ex sensibilibus ortu~ habet: Sed pⁱma causa&#13;
+est supra sensum ex eo ꝙ est supra omnes res quare nec sub cogitatione nec sub narratio~e&#13;
+⁊ ꝑ consequens nec sub sermone diffinit^. q~re nec sub cogitatione nostra. ⁊ ita minor vera.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1642237147064_299" custom="readingOrder {index:2;} structure {type:propositio;}">
+            <Coords points="292,1235 1606,1235 1606,1832 292,1832"/>
+            <TextLine id="r1l18" custom="readingOrder {index:0;}">
+                <Coords points="320,1318 383,1315 446,1312 509,1310 573,1308 636,1306 699,1305 762,1304 826,1303 889,1302 952,1301 1015,1301 1079,1300 1142,1300 1205,1299 1268,1299 1332,1298 1395,1297 1458,1296 1521,1295 1585,1294 1585,1254 1521,1255 1458,1256 1395,1257 1332,1258 1268,1259 1205,1259 1142,1260 1079,1260 1015,1261 952,1261 889,1262 826,1263 762,1264 699,1265 636,1266 573,1268 509,1270 446,1272 383,1275 320,1278"/>
+                <Baseline points="320,1305 383,1302 446,1299 509,1297 573,1295 636,1293 699,1292 762,1291 826,1290 889,1289 952,1288 1015,1288 1079,1287 1142,1287 1205,1286 1268,1286 1332,1285 1395,1284 1458,1283 1521,1282 1585,1281"/>
+                <TextEquiv>
+                    <Unicode>Et dico iteru~ ꝙ res quelibet est sensibilis ⁊ cadit sub sensu. aut medi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;}">
+                <Coords points="326,1403 389,1400 452,1398 515,1395 578,1393 642,1392 705,1390 768,1388 831,1387 894,1386 958,1385 1021,1385 1084,1384 1147,1384 1210,1383 1274,1383 1337,1383 1400,1383 1463,1382 1526,1382 1590,1382 1590,1342 1526,1342 1463,1342 1400,1343 1337,1343 1274,1343 1210,1343 1147,1344 1084,1344 1021,1345 958,1345 894,1346 831,1347 768,1348 705,1350 642,1352 578,1353 515,1355 452,1358 389,1360 326,1363"/>
+                <Baseline points="326,1390 389,1387 452,1385 515,1382 578,1380 642,1379 705,1377 768,1375 831,1374 894,1373 958,1372 1021,1372 1084,1371 1147,1371 1210,1370 1274,1370 1337,1370 1400,1370 1463,1369 1526,1369 1590,1369"/>
+                <TextEquiv>
+                    <Unicode>tabilis ⁊ cadit sub meditatione. Aut est fixa stans scd'm dispositione~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:2;}">
+                <Coords points="322,1491 386,1489 450,1486 514,1484 578,1482 642,1480 706,1478 770,1477 834,1476 898,1475 962,1474 1026,1473 1090,1472 1154,1471 1218,1471 1282,1470 1346,1470 1410,1469 1474,1469 1538,1469 1603,1468 1603,1428 1538,1429 1474,1429 1410,1429 1346,1430 1282,1430 1218,1431 1154,1431 1090,1432 1026,1433 962,1434 898,1435 834,1436 770,1437 706,1438 642,1440 578,1442 514,1444 450,1446 386,1449 322,1451"/>
+                <Baseline points="322,1478 386,1476 450,1473 514,1471 578,1469 642,1467 706,1465 770,1464 834,1463 898,1462 962,1461 1026,1460 1090,1459 1154,1458 1218,1458 1282,1457 1346,1457 1410,1456 1474,1456 1538,1456 1603,1455"/>
+                <TextEquiv>
+                    <Unicode>vnam ⁊ sic est intelligibils. Aut est co~uertibilis in vna dispositione i~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:3;}">
+                <Coords points="322,1577 385,1575 448,1573 511,1571 575,1569 638,1567 701,1565 764,1564 828,1563 891,1561 954,1560 1017,1559 1081,1558 1144,1557 1207,1556 1270,1555 1334,1554 1397,1554 1460,1553 1523,1553 1587,1552 1587,1512 1523,1513 1460,1513 1397,1514 1334,1514 1270,1515 1207,1516 1144,1517 1081,1518 1017,1519 954,1520 891,1521 828,1523 764,1524 701,1525 638,1527 575,1529 511,1531 448,1533 385,1535 322,1537"/>
+                <Baseline points="322,1564 385,1562 448,1560 511,1558 575,1556 638,1554 701,1552 764,1551 828,1550 891,1548 954,1547 1017,1546 1081,1545 1144,1544 1207,1543 1270,1542 1334,1541 1397,1541 1460,1540 1523,1540 1587,1539"/>
+                <TextEquiv>
+                    <Unicode>aliam vel destructibilis cade~s sub generatione ⁊ corruptio~e ⁊ est ca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:4;}">
+                <Coords points="324,1664 387,1663 450,1661 514,1659 577,1657 641,1656 704,1654 768,1652 831,1650 895,1648 958,1647 1021,1645 1085,1644 1148,1643 1212,1643 1275,1642 1339,1642 1402,1643 1466,1644 1529,1645 1593,1647 1593,1607 1529,1605 1466,1604 1402,1603 1339,1602 1275,1602 1212,1603 1148,1603 1085,1604 1021,1605 958,1607 895,1608 831,1610 768,1612 704,1614 641,1616 577,1617 514,1619 450,1621 387,1623 324,1624"/>
+                <Baseline points="324,1651 387,1650 450,1648 514,1646 577,1644 641,1643 704,1641 768,1639 831,1637 895,1635 958,1634 1021,1632 1085,1631 1148,1630 1212,1630 1275,1629 1339,1629 1402,1630 1466,1631 1529,1632 1593,1634"/>
+                <TextEquiv>
+                    <Unicode>dens sub cogitatione. ⁊ causa prima est supra res intelligibiles ⁊ suꝑ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:5;}">
+                <Coords points="328,1748 391,1745 454,1744 518,1741 581,1740 645,1738 708,1736 772,1735 835,1734 899,1733 962,1731 1025,1730 1089,1730 1152,1729 1216,1728 1279,1728 1343,1728 1406,1728 1470,1728 1533,1728 1597,1728 1597,1688 1533,1688 1470,1688 1406,1688 1343,1688 1279,1688 1216,1688 1152,1689 1089,1690 1025,1690 962,1691 899,1693 835,1694 772,1695 708,1696 645,1698 581,1700 518,1701 454,1704 391,1705 328,1708"/>
+                <Baseline points="328,1735 391,1732 454,1731 518,1728 581,1727 645,1725 708,1723 772,1722 835,1721 899,1720 962,1718 1025,1717 1089,1717 1152,1716 1216,1715 1279,1715 1343,1715 1406,1715 1470,1715 1533,1715 1597,1715"/>
+                <TextEquiv>
+                    <Unicode>res destructibiles. quapropter no~ cadunt supra eam neqʒ meditatio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:6;}">
+                <Coords points="334,1833 373,1831 413,1829 453,1828 493,1826 533,1825 573,1824 613,1822 653,1822 693,1821 733,1820 772,1819 812,1819 852,1818 892,1818 932,1817 972,1816 1012,1816 1052,1816 1092,1815 1132,1815 1132,1776 1092,1776 1052,1777 1012,1777 972,1777 932,1778 892,1779 852,1779 812,1780 772,1780 733,1781 693,1782 653,1783 613,1783 573,1785 533,1786 493,1787 453,1789 413,1790 373,1792 334,1794"/>
+                <Baseline points="334,1820 373,1818 413,1816 453,1815 493,1813 533,1812 573,1811 613,1809 653,1809 693,1808 733,1807 772,1806 812,1806 852,1805 892,1805 932,1804 972,1803 1012,1803 1052,1803 1092,1802 1132,1802"/>
+                <TextEquiv>
+                    <Unicode>neqʒ sensus nec cogitatio nec intelligentia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Et dico iteru~ ꝙ res quelibet est sensibilis ⁊ cadit sub sensu. aut medi-&#13;
+tabilis ⁊ cadit sub meditatione. Aut est fixa stans scd'm dispositione~&#13;
+vnam ⁊ sic est intelligibils. Aut est co~uertibilis in vna dispositione i~&#13;
+aliam vel destructibilis cade~s sub generatione ⁊ corruptio~e ⁊ est ca-&#13;
+dens sub cogitatione. ⁊ causa prima est supra res intelligibiles ⁊ suꝑ&#13;
+res destructibiles. quapropter no~ cadunt supra eam neqʒ meditatio&#13;
+neqʒ sensus nec cogitatio nec intelligentia.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1642237145336_295" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="292,1832 1606,1832 1606,2173 292,2173"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="337,1884 399,1881 462,1879 525,1877 587,1875 650,1874 713,1872 775,1871 838,1870 901,1869 964,1868 1026,1868 1089,1867 1152,1867 1214,1866 1277,1866 1340,1865 1402,1864 1465,1864 1528,1863 1591,1862 1591,1828 1528,1829 1465,1830 1402,1830 1340,1831 1277,1832 1214,1832 1152,1833 1089,1833 1026,1834 964,1834 901,1835 838,1836 775,1837 713,1838 650,1840 587,1841 525,1843 462,1845 399,1847 337,1850"/>
+                <Baseline points="337,1873 399,1870 462,1868 525,1866 587,1864 650,1863 713,1861 775,1860 838,1859 901,1858 964,1857 1026,1857 1089,1856 1152,1856 1214,1855 1277,1855 1340,1854 1402,1853 1465,1853 1528,1852 1591,1851"/>
+                <TextEquiv>
+                    <Unicode>Secunda ratio que probat per diuersorum cogitationem ꝙ prima causa non est diffini-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;}">
+                <Coords points="341,1932 404,1930 467,1928 530,1926 594,1924 657,1922 720,1920 783,1919 847,1918 910,1917 973,1916 1036,1915 1100,1914 1163,1914 1226,1913 1289,1913 1353,1913 1416,1912 1479,1912 1542,1912 1606,1911 1606,1877 1542,1878 1479,1878 1416,1878 1353,1879 1289,1879 1226,1879 1163,1880 1100,1880 1036,1881 973,1882 910,1883 847,1884 783,1885 720,1886 657,1888 594,1890 530,1892 467,1894 404,1896 341,1898"/>
+                <Baseline points="341,1921 404,1919 467,1917 530,1915 594,1913 657,1911 720,1909 783,1908 847,1907 910,1906 973,1905 1036,1904 1100,1903 1163,1903 1226,1902 1289,1902 1353,1902 1416,1901 1479,1901 1542,1901 1606,1900"/>
+                <TextEquiv>
+                    <Unicode>bilis nec cognoscibilis quo ad nos. Eorum enim que per se cognoscuntur a nobis que-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:2;}">
+                <Coords points="339,1980 401,1978 464,1975 527,1973 590,1971 653,1970 716,1968 779,1967 842,1966 905,1965 968,1964 1030,1963 1093,1963 1156,1962 1219,1962 1282,1962 1345,1961 1408,1961 1471,1961 1534,1961 1597,1960 1597,1926 1534,1927 1471,1927 1408,1927 1345,1927 1282,1928 1219,1928 1156,1928 1093,1929 1030,1929 968,1930 905,1931 842,1932 779,1933 716,1934 653,1936 590,1937 527,1939 464,1941 401,1944 339,1946"/>
+                <Baseline points="339,1969 401,1967 464,1964 527,1962 590,1960 653,1959 716,1957 779,1956 842,1955 905,1954 968,1953 1030,1952 1093,1952 1156,1951 1219,1951 1282,1951 1345,1950 1408,1950 1471,1950 1534,1950 1597,1949"/>
+                <TextEquiv>
+                    <Unicode>dam cognoscuntur sensu sicut res sensibiles. Quedam meditatione ⁊ ymaginatione. si-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:3;}">
+                <Coords points="344,2029 406,2026 469,2024 531,2021 594,2019 656,2017 719,2016 781,2014 844,2013 906,2012 969,2011 1031,2011 1094,2010 1156,2010 1219,2009 1281,2009 1344,2009 1406,2008 1469,2008 1531,2008 1594,2007 1594,1974 1531,1975 1469,1975 1406,1975 1344,1976 1281,1976 1219,1976 1156,1977 1094,1977 1031,1978 969,1978 906,1979 844,1980 781,1981 719,1983 656,1984 594,1986 531,1988 469,1991 406,1993 344,1996"/>
+                <Baseline points="344,2018 406,2015 469,2013 531,2010 594,2008 656,2006 719,2005 781,2003 844,2002 906,2001 969,2000 1031,2000 1094,1999 1156,1999 1219,1998 1281,1998 1344,1998 1406,1997 1469,1997 1531,1997 1594,1996"/>
+                <TextEquiv>
+                    <Unicode>cut res ymaginabiles. que sensui non subiacent. Quedam ꝟo intellectu. sicut res necessa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:4;}">
+                <Coords points="341,2075 403,2073 466,2071 529,2069 592,2067 655,2066 718,2064 781,2063 844,2061 907,2060 970,2060 1032,2059 1095,2058 1158,2058 1221,2057 1284,2057 1347,2056 1410,2056 1473,2056 1536,2056 1599,2055 1599,2022 1536,2023 1473,2023 1410,2023 1347,2023 1284,2024 1221,2024 1158,2025 1095,2025 1032,2026 970,2027 907,2027 844,2028 781,2030 718,2031 655,2033 592,2034 529,2036 466,2038 403,2040 341,2042"/>
+                <Baseline points="341,2064 403,2062 466,2060 529,2058 592,2056 655,2055 718,2053 781,2052 844,2050 907,2049 970,2049 1032,2048 1095,2047 1158,2047 1221,2046 1284,2046 1347,2045 1410,2045 1473,2045 1536,2045 1599,2044"/>
+                <TextEquiv>
+                    <Unicode>rie ⁊ immobiles. Quedam ꝟo ratione siue cognitione. sicut res generabiles ⁊ corrupti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:5;}">
+                <Coords points="341,2122 403,2120 466,2118 529,2117 592,2115 655,2114 717,2112 780,2111 843,2110 906,2108 969,2107 1031,2106 1094,2105 1157,2105 1220,2104 1283,2104 1345,2104 1408,2105 1471,2105 1534,2106 1597,2107 1597,2073 1534,2072 1471,2071 1408,2071 1345,2070 1283,2070 1220,2070 1157,2071 1094,2071 1031,2072 969,2073 906,2074 843,2076 780,2077 717,2078 655,2080 592,2081 529,2083 466,2084 403,2086 341,2088"/>
+                <Baseline points="341,2111 403,2109 466,2107 529,2106 592,2104 655,2103 717,2101 780,2100 843,2099 906,2097 969,2096 1031,2095 1094,2094 1157,2094 1220,2093 1283,2093 1345,2093 1408,2094 1471,2094 1534,2095 1597,2096"/>
+                <TextEquiv>
+                    <Unicode>biles. Sed prima causa est supra omnes huiusmodi. ergo regulariter nullomodo illoꝝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:6;}">
+                <Coords points="347,2173 404,2172 461,2170 518,2168 575,2167 633,2165 690,2164 747,2162 804,2161 861,2160 919,2159 976,2158 1033,2157 1090,2156 1147,2156 1205,2155 1262,2155 1319,2155 1376,2155 1433,2155 1491,2155 1491,2119 1433,2119 1376,2119 1319,2119 1262,2119 1205,2119 1147,2120 1090,2120 1033,2121 976,2122 919,2123 861,2124 804,2125 747,2126 690,2128 633,2129 575,2131 518,2132 461,2134 404,2136 347,2137"/>
+                <Baseline points="347,2161 404,2160 461,2158 518,2156 575,2155 633,2153 690,2152 747,2150 804,2149 861,2148 919,2147 976,2146 1033,2145 1090,2144 1147,2144 1205,2143 1262,2143 1319,2143 1376,2143 1433,2143 1491,2143"/>
+                <TextEquiv>
+                    <Unicode>modorum cognosci potest. Istam minorem ponit in litera. ibi est causo prima.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Secunda ratio que probat per diuersorum cogitationem ꝙ prima causa non est diffini-&#13;
+bilis nec cognoscibilis quo ad nos. Eorum enim que per se cognoscuntur a nobis que-&#13;
+dam cognoscuntur sensu sicut res sensibiles. Quedam meditatione ⁊ ymaginatione. si-&#13;
+cut res ymaginabiles. que sensui non subiacent. Quedam ꝟo intellectu. sicut res necessa-&#13;
+rie ⁊ immobiles. Quedam ꝟo ratione siue cognitione. sicut res generabiles ⁊ corrupti-&#13;
+biles. Sed prima causa est supra omnes huiusmodi. ergo regulariter nullomodo illoꝝ&#13;
+modorum cognosci potest. Istam minorem ponit in litera. ibi est causo prima.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

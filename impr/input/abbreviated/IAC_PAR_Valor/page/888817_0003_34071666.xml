@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:21.437+01:00</Created>
+        <LastChange>2022-01-15T14:47:05.093+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071666" pageNr="3" tsid="73003348" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=VODVGVGPFYMYCHYSVHVTNYWH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WIRKGIHUDCPOIFRWQLCGKULP" imageId="27321010"/>
+    </Metadata>
+    <Page imageFilename="888817_0003_34071666.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1642254425114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642252967485_11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1642252967485_11" custom="readingOrder {index:0;} structure {type:[heading];}">
+            <Coords points="349,291 1523,291 1523,728 349,728"/>
+            <TextLine id="line_1642252975480_14" custom="readingOrder {index:0;}">
+                <Coords points="375,313 1490,313 1490,405 375,405"/>
+                <TextEquiv>
+                    <Unicode>De ualore et utilitate missaru~ ꝓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642252980501_17" custom="readingOrder {index:1;}">
+                <Coords points="386,418 1483,418 1483,494 386,494"/>
+                <TextEquiv>
+                    <Unicode>defu~ctis celebrataru~ ꝑ sacre theo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642252985293_20" custom="readingOrder {index:2;}">
+                <Coords points="380,509 1475,509 1475,599 380,599"/>
+                <TextEquiv>
+                    <Unicode>logie ꝓfessoreʒ Iacobu~ ordinis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642252988509_23" custom="readingOrder {index:3;}">
+                <Coords points="375,608 1084,608 1084,694 375,694"/>
+                <TextEquiv>
+                    <Unicode>carthusiensis edita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De ualore et utilitate missaru~ ꝓ&#13;
+defu~ctis celebrataru~ ꝑ sacre theo&#13;
+logie ꝓfessoreʒ Iacobu~ ordinis&#13;
+carthusiensis edita.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

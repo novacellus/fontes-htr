@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-04T17:11:19.028+01:00</Created>
+        <LastChange>2022-12-23T17:47:14.337+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="9"/>
+    </Metadata>
+    <Page imageFilename="ZABOR_Tract-0085.jpg" imageWidth="1780" imageHeight="2626">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671814034353" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1644142720319_134"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1644142724216_139"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1644142724215_138"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="TextRegion_1644142720319_134" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="100,165 1493,165 1493,319 100,319"/>
+            <TextLine id="line_1644142552497_27" custom="readingOrder {index:0;} DocNumer {offset:11; length:6;}">
+                <Coords points="325,233 1324,233 1324,323 325,323"/>
+                <TextEquiv>
+                    <Unicode>Pars iiij. .$. vj</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pars iiij. .$. vj</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644142724216_139" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="100,319 1493,319 1493,1984 100,1984"/>
+            <TextLine id="line_1644142574217_30" custom="readingOrder {index:0;}">
+                <Coords points="191,322 1450,322 1450,376 191,376"/>
+                <TextEquiv>
+                    <Unicode>nissime. adde. quod non. idem Panor. in. c. Sententiam. Ne cle. vel. mo. Atten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142577409_33" custom="readingOrder {index:1;}">
+                <Coords points="1446,387 182,387 182,427 1446,427"/>
+                <TextEquiv>
+                    <Unicode>dendo etiam id dictum saluatoris inquientis. Dico autem vobis quia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142580946_36" custom="readingOrder {index:2;}">
+                <Coords points="187,432 1450,432 1450,481 187,481"/>
+                <TextEquiv>
+                    <Unicode>templo maior est hic Mathei. xij. Et illud Hieronymi. Cur tot captiui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142584129_39" custom="readingOrder {index:3;}">
+                <Coords points="1448,490 179,490 179,520 1448,520"/>
+                <TextEquiv>
+                    <Unicode>in captiuitate ducti nec redempti ab hoste occisi melius fuerat. vt vasa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142587009_42" custom="readingOrder {index:4;}">
+                <Coords points="182,527 1439,527 1439,585 182,585"/>
+                <TextEquiv>
+                    <Unicode>viuentium seruares quam metallorum. Hijs non potes responsum referre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142590809_45" custom="readingOrder {index:5;}">
+                <Coords points="1429,597 173,597 173,621 1429,621"/>
+                <TextEquiv>
+                    <Unicode>quid enim dices timui ne templo dei ornatus deesset. respondet. Aurum sa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142594786_48" custom="readingOrder {index:6;}">
+                <Coords points="175,627 1441,627 1441,676 175,676"/>
+                <TextEquiv>
+                    <Unicode>cramenta non querunt neque auro placent. que auro non emuntur ornatur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142597129_51" custom="readingOrder {index:7;}">
+                <Coords points="1436,679 184,679 184,718 1436,718"/>
+                <TextEquiv>
+                    <Unicode>sacrorum redemptio captiuorum est etc. xij. q. ij. c. Aurum habet ecclesia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142601793_54" custom="readingOrder {index:8;}">
+                <Coords points="184,728 1441,728 1441,779 184,779"/>
+                <TextEquiv>
+                    <Unicode>Et id. c. Sicut omnino ea. q. dicendum est. et ecclesiam ad contribuendum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142603905_57" custom="readingOrder {index:9;}">
+                <Coords points="1441,779 173,779 173,809 1441,809"/>
+                <TextEquiv>
+                    <Unicode>teneri ad hunc actum videlicet captiuorum reuocationis prosequendum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142607433_60" custom="readingOrder {index:10;}">
+                <Coords points="179,810 1441,810 1441,866 179,866"/>
+                <TextEquiv>
+                    <Unicode>Sed eum tanta captiuorum multitudo redeminequeat. et vniuversalis ec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142609497_63" custom="readingOrder {index:11;}">
+                <Coords points="1441,866 177,866 177,907 1441,907"/>
+                <TextEquiv>
+                    <Unicode>clesie par acquiri. nisi id fiat per expugnationem infidelium. Igitur vniuersi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142612338_66" custom="readingOrder {index:12;}">
+                <Coords points="175,914 1438,914 1438,973 175,973"/>
+                <TextEquiv>
+                    <Unicode>christi fideles vnanimes benedictione seu cruce assumpta a Romanorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142615441_69" custom="readingOrder {index:13;}">
+                <Coords points="1432,979 163,979 163,1005 1432,1005"/>
+                <TextEquiv>
+                    <Unicode>ponitifce exemplo dei saluatoris sui dispersas querant oues. et in vnum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142619577_72" custom="readingOrder {index:14;}">
+                <Coords points="168,1005 1424,1005 1424,1066 168,1066"/>
+                <TextEquiv>
+                    <Unicode>ouile congregent. Quid enim in hominum vita magis necessarium censeri debet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142622553_75" custom="readingOrder {index:15;}">
+                <Coords points="1424,1066 177,1066 177,1099 1424,1099"/>
+                <TextEquiv>
+                    <Unicode>quam. aut id maxime omnium sequi quod honestum sit. aut id omni ope atque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142627809_78" custom="readingOrder {index:16;}">
+                <Coords points="170,1106 1436,1106 1436,1150 170,1150"/>
+                <TextEquiv>
+                    <Unicode>opera aspernari quod afferat secum aliquam turpitudinis feditatem. non enim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142630706_81" custom="readingOrder {index:17;}">
+                <Coords points="1434,1157 177,1157 177,1199 1434,1199"/>
+                <TextEquiv>
+                    <Unicode>ad cibum ac potum: non ad prurientem corporis voluptatem. que ipsa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142634482_84" custom="readingOrder {index:18;}">
+                <Coords points="177,1204 1439,1204 1439,1264 177,1264"/>
+                <TextEquiv>
+                    <Unicode>nobis cum pecudibus sunt communia Sed ad decus dignita: eque nati sumus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142655313_87" custom="readingOrder {index:19;}">
+                <Coords points="166,1267 1432,1267 1432,1308 166,1308"/>
+                <TextEquiv>
+                    <Unicode>iccirco nobis mens data est immortalis ac diuina vt immortalitati seruien-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142658593_90" custom="readingOrder {index:20;}">
+                <Coords points="1437,1317 170,1317 170,1341 1437,1341"/>
+                <TextEquiv>
+                    <Unicode>tes deo simus similes. et quo pacto proprius ad deum accedimus et nos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142662945_93" custom="readingOrder {index:21;}">
+                <Coords points="166,1348 1424,1348 1424,1391 166,1391"/>
+                <TextEquiv>
+                    <Unicode>assimilando quam eius [......] et exempla sequendo. Non frustra quippe di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142666009_96" custom="readingOrder {index:22;}">
+                <Coords points="1427,1402 186,1402 186,1441 1427,1441"/>
+                <TextEquiv>
+                    <Unicode>ctum est. exemplum dedi vobis. vt quemadmodum ego feci. ita et vos fa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142668865_99" custom="readingOrder {index:23;}">
+                <Coords points="173,1451 1434,1451 1434,1499 173,1499"/>
+                <TextEquiv>
+                    <Unicode>ciatis Ioannis. xiij. Ita enim de iure dicendum videtur nobis saluo semper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142672186_102" custom="readingOrder {index:24;}">
+                <Coords points="1434,1502 165,1502 165,1536 1434,1536"/>
+                <TextEquiv>
+                    <Unicode>saniori iurisperitorum iudicio. quibus hoc totum presentis tractatus ne-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142675513_105" custom="readingOrder {index:25;}">
+                <Coords points="165,1544 1421,1544 1421,1591 165,1591"/>
+                <TextEquiv>
+                    <Unicode>gocium committendum consulo. Mos etenim est (vt refert. Bar. in tractatu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142678601_108" custom="readingOrder {index:26;}">
+                <Coords points="1424,1599 166,1599 166,1632 1424,1632"/>
+                <TextEquiv>
+                    <Unicode>de reipub. regimine) regum et principum ceterorumque vniuersalium dominorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142681840_111" custom="readingOrder {index:27;}">
+                <Coords points="168,1645 1429,1645 1429,1685 168,1685"/>
+                <TextEquiv>
+                    <Unicode>rempub. regni aut alicuius ciuitatis reformare volentium iurisperitos con-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142684521_114" custom="readingOrder {index:28;}">
+                <Coords points="1429,1695 157,1695 157,1729 1429,1729"/>
+                <TextEquiv>
+                    <Unicode>sulere vel eis in solidum committere. Et in hoc finit hic Tractatus ab laudem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142686937_117" custom="readingOrder {index:29;}">
+                <Coords points="158,1737 1417,1737 1417,1783 158,1783"/>
+                <TextEquiv>
+                    <Unicode>gloriam et honorem et qui palam in sacro euangelio Ioannis. viij. c. Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142689825_120" custom="readingOrder {index:30;}">
+                <Coords points="1422,1787 165,1787 165,1830 1422,1830"/>
+                <TextEquiv>
+                    <Unicode>dicit et clamat Ego sum lux mundi qui sequitur me non ambulat in tene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142691833_123" custom="readingOrder {index:31;}">
+                <Coords points="170,1838 1440,1838 1440,1886 170,1886"/>
+                <TextEquiv>
+                    <Unicode>bris sed habebit lumen vite. Hoc est domino nostro Ihesu christo sal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644142694777_126" custom="readingOrder {index:32;}">
+                <Coords points="1205,1902 152,1902 152,1947 1205,1947"/>
+                <TextEquiv>
+                    <Unicode>uatori mundi qui est benedictus in secula seculorum Amen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nissime. adde. quod non. idem Panor. in. c. Sententiam. Ne cle. vel. mo. Atten&#13;
+dendo etiam id dictum saluatoris inquientis. Dico autem vobis quia&#13;
+templo maior est hic Mathei. xij. Et illud Hieronymi. Cur tot captiui&#13;
+in captiuitate ducti nec redempti ab hoste occisi melius fuerat. vt vasa&#13;
+viuentium seruares quam metallorum. Hijs non potes responsum referre.&#13;
+quid enim dices timui ne templo dei ornatus deesset. respondet. Aurum sa-&#13;
+cramenta non querunt neque auro placent. que auro non emuntur ornatur&#13;
+sacrorum redemptio captiuorum est etc. xij. q. ij. c. Aurum habet ecclesia&#13;
+Et id. c. Sicut omnino ea. q. dicendum est. et ecclesiam ad contribuendum&#13;
+teneri ad hunc actum videlicet captiuorum reuocationis prosequendum.&#13;
+Sed eum tanta captiuorum multitudo redeminequeat. et vniuversalis ec&#13;
+clesie par acquiri. nisi id fiat per expugnationem infidelium. Igitur vniuersi&#13;
+christi fideles vnanimes benedictione seu cruce assumpta a Romanorum&#13;
+ponitifce exemplo dei saluatoris sui dispersas querant oues. et in vnum&#13;
+ouile congregent. Quid enim in hominum vita magis necessarium censeri debet&#13;
+quam. aut id maxime omnium sequi quod honestum sit. aut id omni ope atque&#13;
+opera aspernari quod afferat secum aliquam turpitudinis feditatem. non enim&#13;
+ad cibum ac potum: non ad prurientem corporis voluptatem. que ipsa&#13;
+nobis cum pecudibus sunt communia Sed ad decus dignita: eque nati sumus&#13;
+iccirco nobis mens data est immortalis ac diuina vt immortalitati seruien-&#13;
+tes deo simus similes. et quo pacto proprius ad deum accedimus et nos &#13;
+assimilando quam eius [......] et exempla sequendo. Non frustra quippe di&#13;
+ctum est. exemplum dedi vobis. vt quemadmodum ego feci. ita et vos fa-&#13;
+ciatis Ioannis. xiij. Ita enim de iure dicendum videtur nobis saluo semper&#13;
+saniori iurisperitorum iudicio. quibus hoc totum presentis tractatus ne-&#13;
+gocium committendum consulo. Mos etenim est (vt refert. Bar. in tractatu&#13;
+de reipub. regimine) regum et principum ceterorumque vniuersalium dominorum&#13;
+rempub. regni aut alicuius ciuitatis reformare volentium iurisperitos con-&#13;
+sulere vel eis in solidum committere. Et in hoc finit hic Tractatus ab laudem&#13;
+gloriam et honorem et qui palam in sacro euangelio Ioannis. viij. c. Et&#13;
+dicit et clamat Ego sum lux mundi qui sequitur me non ambulat in tene&#13;
+bris sed habebit lumen vite. Hoc est domino nostro Ihesu christo sal-&#13;
+uatori mundi qui est benedictus in secula seculorum Amen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="TextRegion_1644142724215_138" custom="readingOrder {index:2;} structure {type:catch-word;}">
+            <Coords points="100,1984 1493,1984 1493,2151 100,2151"/>
+            <TextLine id="line_1644142699744_129" custom="readingOrder {index:0;}">
+                <Coords points="1342,2046 1213,2046 1213,2092 1342,2092"/>
+                <TextEquiv>
+                    <Unicode>G 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>G 3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

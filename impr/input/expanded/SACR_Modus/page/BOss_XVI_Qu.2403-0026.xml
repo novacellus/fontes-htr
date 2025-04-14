@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-08T15:48:21.696+02:00</Created>
+        <LastChange>2022-12-21T12:03:55.248+01:00</LastChange>
+        <TranskribusMetadata docId="1020853" pageId="43064369" pageNr="26" tsid="87734724" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=UWPYSIQFNSWWLLBYWBRBEEFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTSKPVEPBUCRMOFTEOYNCUQQ" imageId="35312181"/>
+    </Metadata>
+    <Page imageFilename="BOss_XVI_Qu.2403-0026.jpg" imageWidth="1887" imageHeight="2383">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671620635389" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1656060290468_11"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1656061012220_275"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1656061012219_274"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1656060300194_21"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1656060305227_26"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1656060308582_31"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1656060308581_30"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1656060290468_11" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="490,162 1745,162 1745,210 490,210"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="645,209 693,209 742,208 790,208 839,208 887,208 936,208 984,209 1033,209 1081,210 1130,210 1179,211 1227,211 1276,212 1324,212 1373,212 1421,213 1470,213 1518,213 1567,212 1616,212 1616,166 1567,166 1518,167 1470,167 1421,167 1373,166 1324,166 1276,166 1227,165 1179,165 1130,164 1081,164 1033,163 984,163 936,162 887,162 839,162 790,162 742,162 693,163 645,163"/>
+                <Baseline points="645,194 693,194 742,193 790,193 839,193 887,193 936,193 984,194 1033,194 1081,195 1130,195 1179,196 1227,196 1276,197 1324,197 1373,197 1421,198 1470,198 1518,198 1567,197 1616,197"/>
+                <TextEquiv>
+                    <Unicode>IO. SDCRANI MODVS EPISTOLANDI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>IO. SDCRANI MODVS EPISTOLANDI</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656061012220_275" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="490,210 1745,210 1745,417 490,417"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} drop-capital {offset:0; length:5;}">
+                <Coords points="506,275 567,275 629,276 690,276 752,277 814,277 875,277 937,278 998,278 1060,278 1122,279 1183,279 1245,279 1306,280 1368,280 1430,281 1491,282 1553,282 1614,283 1676,285 1738,286 1738,240 1676,239 1614,237 1553,236 1491,236 1430,235 1368,234 1306,234 1245,233 1183,233 1122,233 1060,232 998,232 937,232 875,231 814,231 752,231 690,230 629,230 567,229 506,229"/>
+                <Baseline points="506,260 567,260 629,261 690,261 752,262 814,262 875,262 937,263 998,263 1060,263 1122,264 1183,264 1245,264 1306,265 1368,265 1430,266 1491,267 1553,267 1614,268 1676,270 1738,271"/>
+                <TextEquiv>
+                    <Unicode>SI ME amas (vt certe amas) non te oro retrahas ab officio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="517,343 578,343 639,344 701,344 762,344 824,344 885,344 946,344 1008,344 1069,344 1131,345 1192,345 1253,345 1315,345 1376,346 1438,346 1499,347 1560,348 1622,349 1683,350 1745,352 1745,306 1683,304 1622,303 1560,302 1499,301 1438,300 1376,300 1315,299 1253,299 1192,299 1131,299 1069,298 1008,298 946,298 885,298 824,298 762,298 701,298 639,298 578,297 517,297"/>
+                <Baseline points="517,328 578,328 639,329 701,329 762,329 824,329 885,329 946,329 1008,329 1069,329 1131,330 1192,330 1253,330 1315,330 1376,331 1438,331 1499,332 1560,333 1622,334 1683,335 1745,337"/>
+                <TextEquiv>
+                    <Unicode>quo quod honorificum fructuosum que in me conduceres, cum et id</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656061001410_270" custom="readingOrder {index:2;} heading {offset:41; length:5;}">
+                <Coords points="506,362 543,362 1036,363 1573,366 1573,412 1546,413 1264,414 581,409 506,408"/>
+                <Baseline points="506,393 543,393 581,394 619,394 657,394 695,394 733,394 771,394 809,394 847,394 885,394 922,394 960,394 998,394 1036,394 1074,395 1112,395 1150,396 1188,397 1226,398 1264,399 1385,398 1411,397 1438,397 1465,397 1492,397 1519,398 1546,398 1573,397"/>
+                <TextEquiv>
+                    <Unicode>honeste ac licenter fieri abs te potest. ALIVD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SI ME amas (vt certe amas) non te oro retrahas ab officio&#13;
+quo quod honorificum fructuosum que in me conduceres, cum et id&#13;
+honeste ac licenter fieri abs te potest. ALIVD</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656061012219_274" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="490,417 1745,417 1745,733 490,733"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;}">
+                <Coords points="509,476 570,475 631,475 692,475 754,475 815,475 876,475 937,476 999,476 1060,476 1121,477 1182,477 1244,478 1305,478 1366,479 1427,479 1489,480 1550,480 1611,481 1672,481 1734,482 1734,436 1672,435 1611,435 1550,434 1489,434 1427,433 1366,433 1305,432 1244,432 1182,431 1121,431 1060,430 999,430 937,430 876,429 815,429 754,429 692,429 631,429 570,429 509,430"/>
+                <Baseline points="509,461 570,460 631,460 692,460 754,460 815,460 876,460 937,461 999,461 1060,461 1121,462 1182,462 1244,463 1305,463 1366,464 1427,464 1489,465 1550,465 1611,466 1672,466 1734,467"/>
+                <TextEquiv>
+                    <Unicode>Amoris tui pulcerrimum munus singulari gratia complector,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+                <Coords points="508,542 569,541 630,541 692,541 753,541 815,541 876,541 937,541 999,542 1060,542 1122,543 1183,543 1244,544 1306,544 1367,544 1429,545 1490,545 1551,545 1613,546 1674,546 1736,546 1736,500 1674,500 1613,500 1551,499 1490,499 1429,499 1367,498 1306,498 1244,498 1183,497 1122,497 1060,496 999,496 937,495 876,495 815,495 753,495 692,495 630,495 569,495 508,496"/>
+                <Baseline points="508,527 569,526 630,526 692,526 753,526 815,526 876,526 937,526 999,527 1060,527 1122,528 1183,528 1244,529 1306,529 1367,529 1429,530 1490,530 1551,530 1613,531 1674,531 1736,531"/>
+                <TextEquiv>
+                    <Unicode>mirifice delectatus que hominis gratissimi officium preteferens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="505,608 566,608 628,608 690,608 752,608 814,608 875,608 937,608 999,608 1061,609 1123,609 1184,609 1246,609 1308,610 1370,610 1432,611 1493,611 1555,611 1617,612 1679,612 1741,613 1741,567 1679,566 1617,566 1555,565 1493,565 1432,565 1370,564 1308,564 1246,563 1184,563 1123,563 1061,563 999,562 937,562 875,562 814,562 752,562 690,562 628,562 566,562 505,562"/>
+                <Baseline points="505,593 566,593 628,593 690,593 752,593 814,593 875,593 937,593 999,593 1061,594 1123,594 1184,594 1246,594 1308,595 1370,595 1432,596 1493,596 1555,596 1617,597 1679,597 1741,598"/>
+                <TextEquiv>
+                    <Unicode>beniuolentie me munere liberalissime complecteris. Ingratus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="501,672 563,672 625,672 687,672 749,672 811,672 873,672 935,673 997,673 1059,673 1122,673 1184,674 1246,674 1308,675 1370,675 1432,676 1494,677 1556,678 1618,678 1680,679 1743,680 1743,635 1680,634 1618,633 1556,633 1494,632 1432,631 1370,630 1308,630 1246,629 1184,629 1122,628 1059,628 997,628 935,628 873,627 811,627 749,627 687,627 625,627 563,627 501,627"/>
+                <Baseline points="501,657 563,657 625,657 687,657 749,657 811,657 873,657 935,658 997,658 1059,658 1122,658 1184,659 1246,659 1308,660 1370,660 1432,661 1494,662 1556,663 1618,663 1680,664 1743,665"/>
+                <TextEquiv>
+                    <Unicode>sim si quoque non cognosces te uno neminem omnium esse mihi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656061486781_290" custom="readingOrder {index:4;}">
+                <Coords points="505,694 531,693 639,692 922,690 1023,690 1098,691 1174,693 1225,696 1225,741 505,737"/>
+                <Baseline points="505,723 531,722 558,722 585,722 612,722 639,721 666,721 693,721 720,722 747,722 872,721 897,721 922,720 947,720 972,720 998,720 1023,720 1048,721 1073,721 1098,721 1124,722 1149,723 1174,723 1199,725 1225,726"/>
+                <TextEquiv>
+                    <Unicode>chariorem. CONTRARIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Amoris tui pulcerrimum munus singulari gratia complector,&#13;
+mirifice delectatus que hominis gratissimi officium preteferens&#13;
+beniuolentie me munere liberalissime complecteris. Ingratus&#13;
+sim si quoque non cognosces te uno neminem omnium esse mihi&#13;
+chariorem. CONTRARIA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656060300194_21" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="490,733 1745,733 1745,1063 490,1063"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;} drop-capital {offset:0; length:3;}">
+                <Coords points="508,795 569,796 630,797 691,798 752,799 814,800 875,801 936,801 997,802 1058,803 1120,803 1181,804 1242,804 1303,804 1364,805 1426,805 1487,805 1548,805 1609,805 1670,806 1732,806 1732,764 1670,764 1609,763 1548,763 1487,763 1426,763 1364,763 1303,762 1242,762 1181,762 1120,761 1058,761 997,760 936,759 875,759 814,758 752,757 691,756 630,755 569,754 508,753"/>
+                <Baseline points="508,781 569,782 630,783 691,784 752,785 814,786 875,787 936,787 997,788 1058,789 1120,789 1181,790 1242,790 1303,790 1364,791 1426,791 1487,791 1548,791 1609,791 1670,792 1732,792"/>
+                <TextEquiv>
+                    <Unicode>NON tam mihi molestum foret abs te lentius adamari, si non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+                <Coords points="504,863 565,865 627,866 689,867 750,867 812,868 874,868 935,868 997,869 1059,869 1121,869 1182,869 1244,869 1306,869 1367,869 1429,869 1491,869 1552,870 1614,870 1676,871 1738,872 1738,826 1676,825 1614,824 1552,824 1491,823 1429,823 1367,823 1306,823 1244,823 1182,823 1121,823 1059,823 997,823 935,822 874,822 812,822 750,821 689,821 627,820 565,819 504,817"/>
+                <Baseline points="504,848 565,850 627,851 689,852 750,852 812,853 874,853 935,853 997,854 1059,854 1121,854 1182,854 1244,854 1306,854 1367,854 1429,854 1491,854 1552,855 1614,855 1676,856 1738,857"/>
+                <TextEquiv>
+                    <Unicode>ipse amoris facibus in te deflagrarem; etenim in amicitię offi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;} heading {offset:41; length:5;}">
+                <Coords points="503,930 557,931 611,931 666,932 720,932 775,933 829,933 884,934 938,934 993,934 1047,935 1101,935 1156,935 1210,935 1265,935 1319,935 1374,934 1428,934 1483,934 1537,933 1592,933 1592,888 1537,888 1483,889 1428,889 1374,889 1319,890 1265,890 1210,890 1156,890 1101,890 1047,890 993,889 938,889 884,889 829,888 775,888 720,887 666,887 611,886 557,886 503,885"/>
+                <Baseline points="503,915 557,916 611,916 666,917 720,917 775,918 829,918 884,919 938,919 993,919 1047,920 1101,920 1156,920 1210,920 1265,920 1319,920 1374,919 1428,919 1483,919 1537,918 1592,918"/>
+                <TextEquiv>
+                    <Unicode>cio videre mihi videor te iam dormitare. ALIVD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;}">
+                <Coords points="506,992 567,994 629,996 690,997 752,998 813,998 875,999 936,1000 998,1000 1059,1000 1121,1000 1183,1001 1244,1001 1306,1001 1367,1002 1429,1002 1490,1003 1552,1004 1613,1005 1675,1006 1737,1008 1737,963 1675,961 1613,960 1552,959 1490,958 1429,957 1367,957 1306,956 1244,956 1183,956 1121,955 1059,955 998,955 936,955 875,954 813,953 752,953 690,952 629,951 567,949 506,947"/>
+                <Baseline points="506,977 567,979 629,981 690,982 752,983 813,983 875,984 936,985 998,985 1059,985 1121,985 1183,986 1244,986 1306,986 1367,987 1429,987 1490,988 1552,989 1613,990 1675,991 1737,993"/>
+                <TextEquiv>
+                    <Unicode>¶ Iure accusandus es qui nec amas me neque curas, vt opera tua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;}">
+                <Coords points="506,1057 559,1057 613,1058 666,1059 720,1059 773,1060 827,1060 880,1061 934,1062 987,1062 1041,1063 1094,1064 1148,1064 1201,1065 1255,1065 1308,1065 1362,1066 1415,1066 1469,1066 1522,1066 1576,1066 1576,1023 1522,1023 1469,1023 1415,1023 1362,1023 1308,1022 1255,1022 1201,1022 1148,1021 1094,1021 1041,1020 987,1019 934,1019 880,1018 827,1017 773,1017 720,1016 666,1016 613,1015 559,1014 506,1014"/>
+                <Baseline points="506,1043 559,1043 613,1044 666,1045 720,1045 773,1046 827,1046 880,1047 934,1048 987,1048 1041,1049 1094,1050 1148,1050 1201,1051 1255,1051 1308,1051 1362,1052 1415,1052 1469,1052 1522,1052 1576,1052"/>
+                <TextEquiv>
+                    <Unicode>ornamenta ac vsui oportune mihi fores profuturus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NON tam mihi molestum foret abs te lentius adamari, si non&#13;
+ipse amoris facibus in te deflagrarem; etenim in amicitię offi&#13;
+cio videre mihi videor te iam dormitare. ALIVD&#13;
+¶ Iure accusandus es qui nec amas me neque curas, vt opera tua&#13;
+ornamenta ac vsui oportune mihi fores profuturus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656060305227_26" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="490,1063 1745,1063 1745,1326 490,1326"/>
+            <TextLine id="line_1656061658277_300" custom="readingOrder {index:0;}">
+                <Coords points="505,1075 768,1076 1740,1085 1740,1128 1508,1128 557,1120 505,1118"/>
+                <Baseline points="505,1104 531,1105 557,1106 584,1106 610,1106 636,1105 663,1105 689,1105 716,1105 742,1105 768,1105 795,1106 821,1107 848,1108 861,1108 907,1108 953,1108 999,1108 1046,1109 1092,1109 1138,1110 1184,1110 1231,1111 1277,1111 1323,1112 1369,1112 1416,1113 1462,1113 1508,1114 1554,1114 1601,1114 1647,1114 1693,1114 1740,1114"/>
+                <TextEquiv>
+                    <Unicode>A GAVDIO RENVNCIATVM pergraues inprimis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;}">
+                <Coords points="503,1187 564,1187 626,1187 688,1187 750,1188 811,1188 873,1188 935,1188 997,1189 1058,1189 1120,1190 1182,1190 1244,1190 1305,1191 1367,1192 1429,1192 1491,1193 1552,1194 1614,1195 1676,1195 1738,1196 1738,1150 1676,1149 1614,1149 1552,1148 1491,1147 1429,1146 1367,1146 1305,1145 1244,1144 1182,1144 1120,1144 1058,1143 997,1143 935,1142 873,1142 811,1142 750,1142 688,1141 626,1141 564,1141 503,1141"/>
+                <Baseline points="503,1172 564,1172 626,1172 688,1172 750,1173 811,1173 873,1173 935,1173 997,1174 1058,1174 1120,1175 1182,1175 1244,1175 1305,1176 1367,1177 1429,1177 1491,1178 1552,1179 1614,1180 1676,1180 1738,1181"/>
+                <TextEquiv>
+                    <Unicode>viros ad me est te gaudere vehementer que e calamitosę fortu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:2;}">
+                <Coords points="496,1252 558,1252 620,1252 682,1253 744,1253 806,1253 868,1254 930,1254 992,1254 1054,1255 1116,1255 1178,1256 1240,1257 1302,1257 1364,1258 1426,1259 1488,1259 1550,1260 1612,1261 1674,1262 1737,1263 1737,1217 1674,1216 1612,1215 1550,1214 1488,1213 1426,1213 1364,1212 1302,1211 1240,1211 1178,1210 1116,1209 1054,1209 992,1208 930,1208 868,1208 806,1207 744,1207 682,1207 620,1206 558,1206 496,1206"/>
+                <Baseline points="496,1237 558,1237 620,1237 682,1238 744,1238 806,1238 868,1239 930,1239 992,1239 1054,1240 1116,1240 1178,1241 1240,1242 1302,1242 1364,1243 1426,1244 1488,1244 1550,1245 1612,1246 1674,1247 1737,1248"/>
+                <TextEquiv>
+                    <Unicode>nę tempestatibus ereptus, pristinę virę conditioni redditus sim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:3;} heading {offset:46; length:5;}">
+                <Coords points="503,1321 562,1320 622,1320 682,1320 742,1321 801,1321 861,1321 921,1322 981,1322 1040,1323 1100,1324 1160,1324 1220,1325 1279,1325 1339,1326 1399,1326 1459,1326 1518,1326 1578,1326 1638,1326 1698,1325 1698,1280 1638,1281 1578,1281 1518,1281 1459,1281 1399,1281 1339,1281 1279,1280 1220,1280 1160,1279 1100,1279 1040,1278 981,1277 921,1277 861,1276 801,1276 742,1276 682,1275 622,1275 562,1275 503,1276"/>
+                <Baseline points="503,1306 562,1305 622,1305 682,1305 742,1306 801,1306 861,1306 921,1307 981,1307 1040,1308 1100,1309 1160,1309 1220,1310 1279,1310 1339,1311 1399,1311 1459,1311 1518,1311 1578,1311 1638,1311 1698,1310"/>
+                <TextEquiv>
+                    <Unicode>quod virtuti admodum maxime tuę do et tribuo. ALIVD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A GAVDIO RENVNCIATVM pergraues inprimis&#13;
+viros ad me est te gaudere vehementer que e calamitosę fortu-&#13;
+nę tempestatibus ereptus, pristinę virę conditioni redditus sim&#13;
+quod virtuti admodum maxime tuę do et tribuo. ALIVD</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656060308582_31" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="490,1326 1745,1326 1745,1635 490,1635"/>
+            <TextLine id="r1l22" custom="readingOrder {index:0;}">
+                <Coords points="505,1381 566,1382 627,1382 688,1383 750,1384 811,1385 872,1385 933,1386 995,1387 1056,1387 1117,1388 1178,1388 1240,1389 1301,1389 1362,1389 1423,1389 1485,1389 1546,1389 1607,1389 1668,1388 1730,1387 1730,1344 1668,1345 1607,1346 1546,1346 1485,1346 1423,1346 1362,1346 1301,1346 1240,1346 1178,1345 1117,1345 1056,1344 995,1344 933,1343 872,1342 811,1342 750,1341 688,1340 627,1339 566,1339 505,1338"/>
+                <Baseline points="505,1367 566,1368 627,1368 688,1369 750,1370 811,1371 872,1371 933,1372 995,1373 1056,1373 1117,1374 1178,1374 1240,1375 1301,1375 1362,1375 1423,1375 1485,1375 1546,1375 1607,1375 1668,1374 1730,1373"/>
+                <TextEquiv>
+                    <Unicode>¶ Non sum is qui nesciam te gaudere plurimum et palam glo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:1;}">
+                <Coords points="502,1442 563,1444 624,1445 686,1446 747,1447 809,1447 870,1448 931,1448 993,1448 1054,1448 1116,1448 1177,1448 1238,1448 1300,1448 1361,1448 1423,1449 1484,1449 1545,1450 1607,1451 1668,1452 1730,1454 1730,1411 1668,1409 1607,1408 1545,1407 1484,1406 1423,1406 1361,1405 1300,1405 1238,1405 1177,1405 1116,1405 1054,1405 993,1405 931,1405 870,1405 809,1404 747,1404 686,1403 624,1402 563,1401 502,1399"/>
+                <Baseline points="502,1428 563,1430 624,1431 686,1432 747,1433 809,1433 870,1434 931,1434 993,1434 1054,1434 1116,1434 1177,1434 1238,1434 1300,1434 1361,1434 1423,1435 1484,1435 1545,1436 1607,1437 1668,1438 1730,1440"/>
+                <TextEquiv>
+                    <Unicode>riari que in iure pontificio doctoralis culminis munus, omnium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:2;}">
+                <Coords points="500,1507 562,1508 624,1509 686,1510 748,1511 810,1511 872,1512 934,1512 996,1512 1058,1513 1120,1513 1182,1513 1244,1513 1306,1514 1368,1514 1430,1515 1492,1516 1554,1517 1616,1518 1678,1520 1741,1521 1741,1475 1678,1474 1616,1472 1554,1471 1492,1470 1430,1469 1368,1468 1306,1468 1244,1467 1182,1467 1120,1467 1058,1467 996,1466 934,1466 872,1466 810,1465 748,1465 686,1464 624,1463 562,1462 500,1461"/>
+                <Baseline points="500,1492 562,1493 624,1494 686,1495 748,1496 810,1496 872,1497 934,1497 996,1497 1058,1498 1120,1498 1182,1498 1244,1498 1306,1499 1368,1499 1430,1500 1492,1501 1554,1502 1616,1503 1678,1505 1741,1506"/>
+                <TextEquiv>
+                    <Unicode>eiusdem ordinis patrum consensu sit his in me diebus cumula</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:3;}">
+                <Coords points="502,1574 563,1575 624,1575 685,1576 747,1576 808,1577 869,1577 931,1577 992,1577 1053,1577 1115,1577 1176,1578 1237,1578 1298,1579 1360,1579 1421,1581 1482,1582 1544,1584 1605,1585 1666,1588 1728,1591 1728,1545 1666,1542 1605,1539 1544,1538 1482,1536 1421,1535 1360,1533 1298,1533 1237,1532 1176,1532 1115,1531 1053,1531 992,1531 931,1531 869,1531 808,1531 747,1530 685,1530 624,1529 563,1529 502,1528"/>
+                <Baseline points="502,1559 563,1560 624,1560 685,1561 747,1561 808,1562 869,1562 931,1562 992,1562 1053,1562 1115,1562 1176,1563 1237,1563 1298,1564 1360,1564 1421,1566 1482,1567 1544,1569 1605,1570 1666,1573 1728,1576"/>
+                <TextEquiv>
+                    <Unicode>tum, eamque te rem ducere censeo perinde atque cuiusdam tuę fe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656061887285_314" custom="readingOrder {index:4;} heading {offset:16; length:9;}">
+                <Coords points="494,1591 1012,1595 1241,1598 1241,1644 885,1645 765,1643 575,1639 494,1636"/>
+                <Baseline points="494,1621 521,1622 548,1623 575,1624 602,1624 629,1624 656,1624 683,1625 710,1625 737,1626 765,1628 885,1630 910,1628 935,1627 961,1627 986,1626 1012,1626 1037,1627 1063,1627 1088,1628 1113,1628 1139,1629 1164,1629 1190,1629 1215,1629 1241,1629"/>
+                <TextEquiv>
+                    <Unicode>licitatis loco. CONTRARIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Non sum is qui nesciam te gaudere plurimum et palam glo-&#13;
+riari que in iure pontificio doctoralis culminis munus, omnium&#13;
+eiusdem ordinis patrum consensu sit his in me diebus cumula&#13;
+tum, eamque te rem ducere censeo perinde atque cuiusdam tuę fe-&#13;
+licitatis loco. CONTRARIA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656060308581_30" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="490,1635 1745,1635 1745,2048 490,2048"/>
+            <TextLine id="r1l28" custom="readingOrder {index:0;} drop-capital {offset:0; length:11;}">
+                <Coords points="494,1698 555,1700 617,1702 679,1703 741,1705 802,1706 864,1706 926,1707 988,1707 1049,1708 1111,1708 1173,1708 1235,1708 1296,1709 1358,1709 1420,1709 1482,1710 1543,1711 1605,1712 1667,1713 1729,1714 1729,1669 1667,1668 1605,1667 1543,1666 1482,1665 1420,1664 1358,1664 1296,1664 1235,1663 1173,1663 1111,1663 1049,1663 988,1662 926,1662 864,1661 802,1661 741,1660 679,1658 617,1657 555,1655 494,1653"/>
+                <Baseline points="494,1683 555,1685 617,1687 679,1688 741,1690 802,1691 864,1691 926,1692 988,1692 1049,1693 1111,1693 1173,1693 1235,1693 1296,1694 1358,1694 1420,1694 1482,1695 1543,1696 1605,1697 1667,1698 1729,1699"/>
+                <TextEquiv>
+                    <Unicode>INDOLVISSE diceris et imoderate tulisse fortunas meas;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:1;}">
+                <Coords points="502,1766 563,1767 624,1768 686,1768 747,1769 808,1770 870,1770 931,1771 992,1772 1054,1772 1115,1773 1176,1773 1238,1774 1299,1774 1360,1774 1422,1775 1483,1775 1544,1775 1606,1776 1667,1776 1729,1776 1729,1731 1667,1731 1606,1731 1544,1730 1483,1730 1422,1730 1360,1729 1299,1729 1238,1729 1176,1728 1115,1728 1054,1727 992,1727 931,1726 870,1725 808,1725 747,1724 686,1723 624,1723 563,1722 502,1721"/>
+                <Baseline points="502,1751 563,1752 624,1753 686,1753 747,1754 808,1755 870,1755 931,1756 992,1757 1054,1757 1115,1758 1176,1758 1238,1759 1299,1759 1360,1759 1422,1760 1483,1760 1544,1760 1606,1761 1667,1761 1729,1761"/>
+                <TextEquiv>
+                    <Unicode>dum audisses me in curiam principis inuitatum esse, video te</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:2;}">
+                <Coords points="490,1832 552,1832 614,1832 676,1832 738,1833 800,1833 862,1834 924,1835 986,1835 1048,1836 1110,1837 1172,1838 1234,1839 1296,1839 1358,1840 1420,1840 1482,1840 1544,1840 1606,1840 1668,1839 1730,1838 1730,1793 1668,1794 1606,1795 1544,1795 1482,1795 1420,1795 1358,1795 1296,1794 1234,1794 1172,1793 1110,1792 1048,1791 986,1790 924,1790 862,1789 800,1788 738,1788 676,1787 614,1787 552,1787 490,1787"/>
+                <Baseline points="490,1817 552,1817 614,1817 676,1817 738,1818 800,1818 862,1819 924,1820 986,1820 1048,1821 1110,1822 1172,1823 1234,1824 1296,1824 1358,1825 1420,1825 1482,1825 1544,1825 1606,1825 1668,1824 1730,1823"/>
+                <TextEquiv>
+                    <Unicode>contra omne humanitatis ius agere. Proinde non possum non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:3;}">
+                <Coords points="495,1895 555,1896 615,1897 675,1897 735,1898 795,1899 855,1900 915,1901 975,1902 1035,1903 1095,1904 1155,1905 1215,1906 1275,1906 1335,1907 1395,1907 1455,1907 1515,1907 1575,1907 1635,1907 1696,1906 1696,1860 1635,1861 1575,1861 1515,1861 1455,1861 1395,1861 1335,1861 1275,1860 1215,1860 1155,1859 1095,1858 1035,1857 975,1856 915,1855 855,1854 795,1853 735,1852 675,1851 615,1851 555,1850 495,1849"/>
+                <Baseline points="495,1880 555,1881 615,1882 675,1882 735,1883 795,1884 855,1885 915,1886 975,1887 1035,1888 1095,1889 1155,1890 1215,1891 1275,1891 1335,1892 1395,1892 1455,1892 1515,1892 1575,1892 1635,1892 1696,1891"/>
+                <TextEquiv>
+                    <Unicode>existimare a pestifero animi tui liuore id omnino procedere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:4;} drop-capital {offset:0; length:5;}">
+                <Coords points="493,1957 554,1959 615,1962 677,1964 738,1965 800,1967 861,1968 923,1969 984,1969 1046,1970 1107,1970 1168,1971 1230,1971 1291,1971 1353,1972 1414,1972 1476,1972 1537,1973 1599,1973 1660,1974 1722,1975 1722,1929 1660,1928 1599,1927 1537,1927 1476,1926 1414,1926 1353,1926 1291,1925 1230,1925 1168,1925 1107,1924 1046,1924 984,1923 923,1923 861,1922 800,1921 738,1919 677,1918 615,1916 554,1913 493,1911"/>
+                <Baseline points="493,1942 554,1944 615,1947 677,1949 738,1950 800,1952 861,1953 923,1954 984,1954 1046,1955 1107,1955 1168,1956 1230,1956 1291,1956 1353,1957 1414,1957 1476,1957 1537,1958 1599,1958 1660,1959 1722,1960"/>
+                <TextEquiv>
+                    <Unicode>ALIVD ¶ Vicio do que curis cruciatuque tanto consumeris, eger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:5;}">
+                <Coords points="490,2027 552,2029 614,2031 676,2032 739,2034 801,2035 863,2036 926,2037 988,2038 1050,2038 1113,2039 1175,2040 1237,2040 1299,2041 1362,2042 1424,2042 1486,2043 1549,2044 1611,2045 1673,2046 1736,2048 1736,2002 1673,2000 1611,1999 1549,1998 1486,1997 1424,1996 1362,1996 1299,1995 1237,1994 1175,1994 1113,1993 1050,1992 988,1992 926,1991 863,1990 801,1989 739,1988 676,1986 614,1985 552,1983 490,1981"/>
+                <Baseline points="490,2012 552,2014 614,2016 676,2017 739,2019 801,2020 863,2021 926,2022 988,2023 1050,2023 1113,2024 1175,2025 1237,2025 1299,2026 1362,2027 1424,2027 1486,2028 1549,2029 1611,2030 1673,2031 1736,2033"/>
+                <TextEquiv>
+                    <Unicode>rimoque animo esse te palam monstras, que res pro voto libidineque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>INDOLVISSE diceris et imoderate tulisse fortunas meas;&#13;
+dum audisses me in curiam principis inuitatum esse, video te&#13;
+contra omne humanitatis ius agere. Proinde non possum non&#13;
+existimare a pestifero animi tui liuore id omnino procedere.&#13;
+ALIVD ¶ Vicio do que curis cruciatuque tanto consumeris, eger&#13;
+rimoque animo esse te palam monstras, que res pro voto libidineque</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

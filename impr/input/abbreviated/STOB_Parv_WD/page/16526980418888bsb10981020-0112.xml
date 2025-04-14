@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-16T13:42:39.359+02:00</Created>
+        <LastChange>2022-07-05T11:19:19.829+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1002823" pageId="38390068" pageNr="112" tsid="82349484" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=WDJQRDYCCZEVNUIWFHWTEXAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NOBOXOGKVHQNRVKVTSQKWOPX" imageId="30936799"/>
+    </Metadata>
+    <Page imageFilename="16526980418888bsb10981020-0112.jpg" imageWidth="6904" imageHeight="9562">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1657012759839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1656760524884_1275"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1656760524884_1274"/>
+                <RegionRefIndexed index="2" regionRef="region_1656760536150_1279"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1656760524884_1275" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="778,221 6644,221 6644,613 778,613"/>
+            <TextLine id="line_1656102785668_263" custom="readingOrder {index:0;}">
+                <Coords points="1386,489 1418,488 1451,487 2044,473 5604,487 6210,493 6350,495 6490,499 6490,608 4263,608 3598,608 1386,598"/>
+                <Baseline points="1386,562 1418,561 1451,560 1484,560 1517,559 1550,558 1583,558 1616,558 1649,558 1682,556 1715,556 1747,556 1780,556 1813,555 1846,555 1879,554 1912,553 1945,552 1978,550 2011,548 2044,546 2266,558 2399,560 2532,561 2665,562 2798,564 2932,566 3065,567 3198,568 3331,570 3464,570 3598,572 3731,572 3864,572 3997,572 4130,572 4263,572 4397,570 4530,570 4663,568 4796,566 4930,564 5558,560 5604,560 5651,562 5697,562 5744,563 5791,564 5837,564 5884,564 5930,564 5977,564 6024,566 6070,566 6117,566 6163,566 6210,566 6257,568 6303,568 6350,568 6396,570 6443,571 6490,572"/>
+                <TextEquiv>
+                    <Unicode>Paruuli philosophie natu. Fo. LVI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Paruuli philosophie natu. Fo. LVI</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1656760524884_1274" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="778,613 5966,657 5966,8440 778,8396"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+                <Coords points="842,840 1099,838 1357,838 1615,836 1873,836 2131,836 2389,838 2647,838 2905,838 3163,840 3421,840 3678,840 3936,842 4194,842 4452,842 4710,840 4968,840 5226,838 5484,834 5742,832 6000,828 6000,720 5742,724 5484,726 5226,730 4968,732 4710,732 4452,734 4194,734 3936,734 3678,732 3421,732 3163,732 2905,730 2647,730 2389,730 2131,728 1873,728 1615,728 1357,730 1099,730 842,732"/>
+                <Baseline points="842,804 1099,802 1357,802 1615,800 1873,800 2131,800 2389,802 2647,802 2905,802 3163,804 3421,804 3678,804 3936,806 4194,806 4452,806 4710,804 4968,804 5226,802 5484,798 5742,796 6000,792"/>
+                <TextEquiv>
+                    <Unicode>sensataru~ ita vis memoratiua est thesaurus intentionu~ scʒ specieru~ no~ sensataru~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105125775_273" custom="readingOrder {index:1;}">
+                <Coords points="866,876 1153,878 1440,878 1728,880 2015,882 2303,882 2590,884 2877,884 3165,886 3740,886 4027,884 4314,884 4602,882 4889,880 5177,877 5464,874 5751,868 5944,865 5944,973 5751,976 5464,982 5177,985 4889,988 4602,990 4314,992 4027,992 3740,994 3165,994 2877,992 2590,992 2303,990 2015,990 1728,988 1440,986 1153,986 866,984"/>
+                <Baseline points="866,948 1153,950 1440,950 1728,952 2015,954 2303,954 2590,956 2877,956 3165,958 3452,958 3740,958 4027,956 4314,956 4602,954 4889,952 5177,949 5464,946 5751,940 5944,937"/>
+                <TextEquiv>
+                    <Unicode>quas estimatiua elicit ex speciebꝰ sensatis. Ex hoc potest haberi sensus clarus dif</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105132274_278" custom="readingOrder {index:2;}">
+                <Coords points="888,1024 1174,1026 1461,1026 1747,1028 2034,1030 2320,1032 2607,1034 2893,1034 3180,1036 3466,1037 3753,1038 4039,1038 4326,1036 4612,1036 4899,1032 5185,1030 5472,1025 5758,1020 5951,1015 5951,1123 5758,1128 5472,1133 5185,1138 4899,1140 4612,1144 4326,1144 4039,1146 3753,1146 3466,1145 3180,1144 2893,1142 2607,1142 2320,1140 2034,1138 1747,1136 1461,1134 1174,1134 888,1132"/>
+                <Baseline points="888,1096 1174,1098 1461,1098 1747,1100 2034,1102 2320,1104 2607,1106 2893,1106 3180,1108 3466,1109 3753,1110 4039,1110 4326,1108 4612,1108 4899,1104 5185,1102 5472,1097 5758,1092 5951,1087"/>
+                <TextEquiv>
+                    <Unicode>finitionis memoratiue virtutis in qua dicit^ q3 est pote~tia recipie~s intentiones .i.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105138547_283" custom="readingOrder {index:3;}">
+                <Coords points="830,1176 1120,1178 1411,1182 1702,1184 1992,1186 2283,1186 2574,1188 3446,1188 3737,1186 4027,1186 4318,1184 4609,1182 4899,1180 5190,1178 5481,1176 5771,1173 5958,1171 5958,1279 5771,1281 5481,1284 5190,1286 4899,1288 4609,1290 4318,1292 4027,1294 3737,1294 3446,1296 2574,1296 2283,1294 1992,1294 1702,1292 1411,1290 1120,1286 830,1284"/>
+                <Baseline points="830,1248 1120,1250 1411,1254 1702,1256 1992,1258 2283,1258 2574,1260 2864,1260 3155,1260 3446,1260 3737,1258 4027,1258 4318,1256 4609,1254 4899,1252 5190,1250 5481,1248 5771,1245 5958,1243"/>
+                <TextEquiv>
+                    <Unicode>species no~ sensatas ⁊ eas co~serua~s. Patet etia~ corrolariu~ qd' ex diffinitio~e infert^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105144864_288" custom="readingOrder {index:4;}">
+                <Coords points="868,1333 2219,1333 2489,1335 4380,1335 4650,1333 4921,1333 5191,1331 5461,1327 5731,1325 5965,1320 5965,1429 5731,1434 5461,1436 5191,1440 4921,1442 4650,1442 4380,1444 2489,1444 2219,1442 868,1442"/>
+                <Baseline points="868,1406 1138,1406 1408,1406 1678,1406 1948,1406 2219,1406 2489,1408 2759,1408 3029,1408 3299,1408 3570,1408 3840,1408 4110,1408 4380,1408 4650,1406 4921,1406 5191,1404 5461,1400 5731,1398 5965,1393"/>
+                <TextEquiv>
+                    <Unicode>vicʒ q3 memoratiua est thesaurus intentionu~. ¶ Postea autor ostendit q3 actus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="854,1582 1108,1586 1363,1588 1617,1591 1872,1592 2127,1594 2381,1596 2636,1596 2890,1596 3145,1596 3400,1595 3654,1594 3909,1594 4163,1592 4418,1592 4673,1590 4927,1590 5182,1588 5436,1588 5691,1588 5946,1588 5946,1479 5691,1479 5436,1479 5182,1479 4927,1481 4673,1481 4418,1483 4163,1483 3909,1485 3654,1485 3400,1486 3145,1487 2890,1487 2636,1487 2381,1487 2127,1485 1872,1483 1617,1482 1363,1479 1108,1477 854,1473"/>
+                <Baseline points="854,1546 1108,1550 1363,1552 1617,1555 1872,1556 2127,1558 2381,1560 2636,1560 2890,1560 3145,1560 3400,1559 3654,1558 3909,1558 4163,1556 4418,1556 4673,1554 4927,1554 5182,1552 5436,1552 5691,1552 5946,1552"/>
+                <TextEquiv>
+                    <Unicode>actus memoratiui virtutis est memorari de quo iam copiose dictum est in priori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="838,1736 1093,1742 1349,1744 1604,1748 1860,1750 2116,1750 2371,1750 2627,1750 2882,1750 3138,1750 3394,1748 3649,1748 3905,1746 4160,1746 4416,1744 4672,1744 4927,1744 5183,1746 5438,1748 5694,1750 5950,1754 5950,1645 5694,1641 5438,1639 5183,1637 4927,1635 4672,1635 4416,1635 4160,1637 3905,1637 3649,1639 3394,1639 3138,1641 2882,1641 2627,1641 2371,1641 2116,1641 1860,1641 1604,1639 1349,1635 1093,1633 838,1627"/>
+                <Baseline points="838,1700 1093,1706 1349,1708 1604,1712 1860,1714 2116,1714 2371,1714 2627,1714 2882,1714 3138,1714 3394,1712 3649,1712 3905,1710 4160,1710 4416,1708 4672,1708 4927,1708 5183,1710 5438,1712 5694,1714 5950,1718"/>
+                <TextEquiv>
+                    <Unicode>acceptione memorie. Ultimo autor ostendit modu~ memorandi q3 ex his que nu~c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="832,1894 1037,1898 1243,1900 1449,1902 1655,1904 1861,1906 2066,1908 2272,1908 2478,1908 2684,1910 2890,1910 3095,1910 3301,1910 3507,1908 3713,1908 3919,1908 4124,1906 4330,1906 4536,1904 4742,1904 4948,1902 4948,1793 4742,1795 4536,1795 4330,1797 4124,1797 3919,1799 3713,1799 3507,1799 3301,1801 3095,1801 2890,1801 2684,1801 2478,1799 2272,1799 2066,1799 1861,1797 1655,1795 1449,1793 1243,1791 1037,1789 832,1785"/>
+                <Baseline points="832,1858 1037,1862 1243,1864 1449,1866 1655,1868 1861,1870 2066,1872 2272,1872 2478,1872 2684,1874 2890,1874 3095,1874 3301,1874 3507,1872 3713,1872 3919,1872 4124,1870 4330,1870 4536,1868 4742,1868 4948,1866"/>
+                <TextEquiv>
+                    <Unicode>cognoscimus memoramur similia his que prius cognoueramus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="866,2392 1119,2396 1372,2399 1625,2402 1878,2405 2131,2408 2384,2410 2637,2410 2890,2412 3143,2412 3396,2413 3649,2414 3902,2414 4155,2414 4408,2414 4661,2412 4914,2412 5167,2412 5420,2412 5673,2412 5926,2412 5926,2303 5673,2303 5420,2303 5167,2303 4914,2303 4661,2303 4408,2305 4155,2305 3902,2305 3649,2305 3396,2304 3143,2303 2890,2303 2637,2301 2384,2301 2131,2299 1878,2296 1625,2293 1372,2290 1119,2287 866,2283"/>
+                <Baseline points="866,2356 1119,2360 1372,2363 1625,2366 1878,2369 2131,2372 2384,2374 2637,2374 2890,2376 3143,2376 3396,2377 3649,2378 3902,2378 4155,2378 4408,2378 4661,2376 4914,2376 5167,2376 5420,2376 5673,2376 5926,2376"/>
+                <TextEquiv>
+                    <Unicode>Uirtus motiua est duplex. Queda~ est motiua motu naturali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="824,2924 1078,2924 1333,2926 1587,2926 1842,2926 2097,2926 2351,2926 2606,2926 2860,2925 3115,2924 3370,2924 3624,2922 3879,2922 4133,2920 4388,2918 4643,2916 4897,2914 5152,2912 5406,2910 5661,2906 5916,2904 5916,2795 5661,2797 5406,2801 5152,2803 4897,2805 4643,2807 4388,2809 4133,2811 3879,2813 3624,2813 3370,2815 3115,2815 2860,2816 2606,2817 2351,2817 2097,2817 1842,2817 1587,2817 1333,2817 1078,2815 824,2815"/>
+                <Baseline points="824,2888 1078,2888 1333,2890 1587,2890 1842,2890 2097,2890 2351,2890 2606,2890 2860,2889 3115,2888 3370,2888 3624,2886 3879,2886 4133,2884 4388,2882 4643,2880 4897,2878 5152,2876 5406,2874 5661,2870 5916,2868"/>
+                <TextEquiv>
+                    <Unicode>que moiet no~ s'm apprehensione~ nec est subiecta imperio re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="798,3430 1054,3430 1311,3430 1567,3430 1824,3430 2081,3430 2337,3428 2594,3428 2850,3428 3107,3428 3364,3428 3620,3428 3877,3428 4133,3428 4390,3428 4647,3430 4903,3430 5160,3430 5416,3432 5673,3432 5930,3434 5930,3325 5673,3323 5416,3323 5160,3321 4903,3321 4647,3321 4390,3319 4133,3319 3877,3319 3620,3319 3364,3319 3107,3319 2850,3319 2594,3319 2337,3319 2081,3321 1824,3321 1567,3321 1311,3321 1054,3321 798,3321"/>
+                <Baseline points="798,3394 1054,3394 1311,3394 1567,3394 1824,3394 2081,3394 2337,3392 2594,3392 2850,3392 3107,3392 3364,3392 3620,3392 3877,3392 4133,3392 4390,3392 4647,3394 4903,3394 5160,3394 5416,3396 5673,3396 5930,3398"/>
+                <TextEquiv>
+                    <Unicode>tionis qualis est virtꝰ vtialis siue pulsatiua. Est aute~ hec vis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="778,3884 1032,3882 1287,3880 1542,3880 1797,3880 2052,3880 2306,3880 2561,3880 2816,3880 3071,3880 3326,3880 3580,3882 3835,3881 4090,3880 4345,3880 4600,3878 4854,3876 5109,3872 5364,3869 5619,3864 5874,3858 5874,3749 5619,3755 5364,3760 5109,3763 4854,3767 4600,3769 4345,3771 4090,3771 3835,3772 3580,3773 3326,3771 3071,3771 2816,3771 2561,3771 2306,3771 2052,3771 1797,3771 1542,3771 1287,3771 1032,3773 778,3775"/>
+                <Baseline points="778,3848 1032,3846 1287,3844 1542,3844 1797,3844 2052,3844 2306,3844 2561,3844 2816,3844 3071,3844 3326,3844 3580,3846 3835,3845 4090,3844 4345,3844 4600,3842 4854,3840 5109,3836 5364,3833 5619,3828 5874,3822"/>
+                <TextEquiv>
+                    <Unicode>in corde sicut in organo ⁊ est vis per inspiratione~ ⁊ respiratio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="812,4326 1058,4324 1304,4322 1550,4322 1796,4320 2042,4322 2288,4322 2534,4322 2780,4324 3026,4326 3273,4326 3519,4328 3765,4328 4011,4330 4257,4330 4503,4330 4749,4328 4995,4328 5241,4326 5487,4322 5734,4318 5734,4209 5487,4213 5241,4217 4995,4219 4749,4219 4503,4221 4257,4221 4011,4221 3765,4219 3519,4219 3273,4217 3026,4217 2780,4215 2534,4213 2288,4213 2042,4213 1796,4211 1550,4213 1304,4213 1058,4215 812,4217"/>
+                <Baseline points="812,4290 1058,4288 1304,4286 1550,4286 1796,4284 2042,4286 2288,4286 2534,4286 2780,4288 3026,4290 3273,4290 3519,4292 3765,4292 4011,4294 4257,4294 4503,4294 4749,4292 4995,4292 5241,4290 5487,4286 5734,4282"/>
+                <TextEquiv>
+                    <Unicode>nem primcipium existe~s tempera~tie caloris ⁊ corporis cuius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="808,4770 1061,4770 1315,4770 1569,4770 1822,4770 2076,4770 2330,4772 2583,4774 2837,4774 3091,4776 3345,4778 3598,4778 3852,4780 4106,4780 4359,4780 4613,4780 4867,4778 5120,4776 5374,4774 5628,4770 5882,4766 5882,4657 5628,4661 5374,4665 5120,4667 4867,4669 4613,4671 4359,4671 4106,4671 3852,4671 3598,4669 3345,4669 3091,4667 2837,4665 2583,4665 2330,4663 2076,4661 1822,4661 1569,4661 1315,4661 1061,4661 808,4661"/>
+                <Baseline points="808,4734 1061,4734 1315,4734 1569,4734 1822,4734 2076,4734 2330,4736 2583,4738 2837,4738 3091,4740 3345,4742 3598,4742 3852,4744 4106,4744 4359,4744 4613,4744 4867,4742 5120,4740 5374,4738 5628,4734 5882,4730"/>
+                <TextEquiv>
+                    <Unicode>consyderatio spectat ad physicum. Ubi nota q3 cum virtu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="800,5220 1053,5222 1307,5222 1561,5222 1814,5224 2068,5224 2322,5226 2575,5226 2829,5226 3083,5228 3337,5228 3590,5230 3844,5230 4098,5230 4351,5230 4605,5230 4859,5230 5112,5230 5366,5228 5620,5228 5874,5226 5874,5117 5620,5119 5366,5119 5112,5121 4859,5121 4605,5121 4351,5121 4098,5121 3844,5121 3590,5121 3337,5119 3083,5119 2829,5117 2575,5117 2322,5117 2068,5115 1814,5115 1561,5113 1307,5113 1053,5113 800,5111"/>
+                <Baseline points="800,5184 1053,5186 1307,5186 1561,5186 1814,5188 2068,5188 2322,5190 2575,5190 2829,5190 3083,5192 3337,5192 3590,5194 3844,5194 4098,5194 4351,5194 4605,5194 4859,5194 5112,5194 5366,5192 5620,5192 5874,5190"/>
+                <TextEquiv>
+                    <Unicode>tes animales intenduntur naturales remittuntur vt patet in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="816,5678 1049,5676 1282,5674 1515,5674 1748,5672 1981,5672 2214,5672 2447,5672 2680,5674 2913,5674 3146,5676 3379,5676 3612,5678 3845,5680 4078,5680 4311,5682 4544,5682 4777,5682 5010,5682 5243,5682 5476,5682 5476,5573 5243,5573 5010,5573 4777,5573 4544,5573 4311,5573 4078,5571 3845,5571 3612,5569 3379,5567 3146,5567 2913,5565 2680,5565 2447,5563 2214,5563 1981,5563 1748,5563 1515,5565 1282,5565 1049,5567 816,5569"/>
+                <Baseline points="816,5642 1049,5640 1282,5638 1515,5638 1748,5636 1981,5636 2214,5636 2447,5636 2680,5638 2913,5638 3146,5640 3379,5640 3612,5642 3845,5644 4078,5644 4311,5646 4544,5646 4777,5646 5010,5646 5243,5646 5476,5646"/>
+                <TextEquiv>
+                    <Unicode>homine dormie~te vel stude~te. Alia est motiua motu animali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="798,6114 1052,6114 1306,6114 1561,6116 1815,6116 2070,6116 2324,6118 2578,6120 2833,6122 3087,6124 3342,6126 3596,6126 3850,6128 4105,6130 4359,6132 4614,6134 4868,6134 5122,6136 5377,6136 5631,6136 5886,6136 5886,6027 5631,6027 5377,6027 5122,6027 4868,6025 4614,6025 4359,6023 4105,6021 3850,6019 3596,6017 3342,6017 3087,6015 2833,6013 2578,6011 2324,6009 2070,6007 1815,6007 1561,6007 1306,6005 1052,6005 798,6005"/>
+                <Baseline points="798,6078 1052,6078 1306,6078 1561,6080 1815,6080 2070,6080 2324,6082 2578,6084 2833,6086 3087,6088 3342,6090 3596,6090 3850,6092 4105,6094 4359,6096 4614,6098 4868,6098 5122,6100 5377,6100 5631,6100 5886,6100"/>
+                <TextEquiv>
+                    <Unicode>cuius actus subest rationi que vocatur appetitiua siue desy-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="792,6566 1045,6566 1299,6568 1553,6570 1807,6570 2061,6572 2315,6572 2569,6574 2823,6574 3077,6574 3331,6576 3584,6576 3838,6576 4092,6576 4346,6578 4600,6578 4854,6578 5108,6578 5362,6578 5616,6580 5870,6580 5870,6471 5616,6471 5362,6469 5108,6469 4854,6469 4600,6469 4346,6469 4092,6467 3838,6467 3584,6467 3331,6467 3077,6465 2823,6465 2569,6465 2315,6463 2061,6463 1807,6461 1553,6461 1299,6459 1045,6457 792,6457"/>
+                <Baseline points="792,6530 1045,6530 1299,6532 1553,6534 1807,6534 2061,6536 2315,6536 2569,6538 2823,6538 3077,6538 3331,6540 3584,6540 3838,6540 4092,6540 4346,6542 4600,6542 4854,6542 5108,6542 5362,6542 5616,6544 5870,6544"/>
+                <TextEquiv>
+                    <Unicode>deratiua que a theologis vocat^ sensualitas. Que e~ duplex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105551263_312" custom="readingOrder {index:18;}">
+                <Coords points="796,6905 5524,6907 5788,6911 5815,6912 5841,6913 5868,6915 5868,7024 3750,7028 2841,7026 1932,7022 1250,7018 796,7014"/>
+                <Baseline points="796,6978 1023,6980 1250,6982 1477,6982 1705,6984 1932,6986 2159,6986 2387,6988 2614,6988 2841,6990 3069,6990 3296,6990 3523,6990 3750,6992 3978,6990 4205,6990 4432,6990 4660,6990 4887,6988 5114,6988 5342,6986 5524,6980 5550,6982 5576,6983 5603,6984 5629,6986 5656,6986 5682,6985 5709,6984 5735,6984 5762,6984 5788,6984 5815,6985 5841,6986 5868,6988"/>
+                <TextEquiv>
+                    <Unicode>scʒ impera~s ⁊ imperata. Imperata est duplex scʒ irascibilis ⁊</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="810,7460 1042,7460 1274,7460 1506,7462 1739,7464 1971,7466 2203,7468 2436,7470 2668,7472 2900,7474 3133,7476 3365,7478 3597,7480 3829,7480 4062,7480 4294,7480 4526,7478 4759,7474 4991,7471 5223,7466 5456,7460 5456,7351 5223,7357 4991,7362 4759,7365 4526,7369 4294,7371 4062,7371 3829,7371 3597,7371 3365,7369 3133,7367 2900,7365 2668,7363 2436,7361 2203,7359 1971,7357 1739,7355 1506,7353 1274,7351 1042,7351 810,7351"/>
+                <Baseline points="810,7424 1042,7424 1274,7424 1506,7426 1739,7428 1971,7430 2203,7432 2436,7434 2668,7436 2900,7438 3133,7440 3365,7442 3597,7444 3829,7444 4062,7444 4294,7444 4526,7442 4759,7438 4991,7435 5223,7430 5456,7424"/>
+                <TextEquiv>
+                    <Unicode>co~cupiscibilis. Co~cupiscibilis e~ appetitiua boni delectabilis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+                <Coords points="792,7912 1041,7914 1291,7916 1541,7918 1790,7921 2040,7924 2290,7926 2539,7930 2789,7932 3039,7934 3289,7936 3538,7936 3788,7938 4038,7938 4287,7936 4537,7934 4787,7930 5036,7926 5286,7920 5536,7912 5786,7902 5786,7793 5536,7803 5286,7811 5036,7817 4787,7821 4537,7825 4287,7827 4038,7829 3788,7829 3538,7827 3289,7827 3039,7825 2789,7823 2539,7821 2290,7817 2040,7815 1790,7812 1541,7809 1291,7807 1041,7805 792,7803"/>
+                <Baseline points="792,7876 1041,7878 1291,7880 1541,7882 1790,7885 2040,7888 2290,7890 2539,7894 2789,7896 3039,7898 3289,7900 3538,7900 3788,7902 4038,7902 4287,7900 4537,7898 4787,7894 5036,7890 5286,7884 5536,7876 5786,7866"/>
+                <TextEquiv>
+                    <Unicode>sed irascibił e~ appetitiua boni ardui expedietis. Ex qⁱbꝰ duabꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:21;}">
+                <Coords points="818,8362 1068,8368 1318,8374 1568,8380 1818,8384 2068,8387 2318,8390 2568,8392 2818,8394 3068,8396 3318,8396 3568,8394 3818,8394 4068,8392 4318,8390 4568,8386 4818,8382 5068,8376 5318,8370 5568,8365 5818,8358 5818,8249 5568,8256 5318,8261 5068,8267 4818,8273 4568,8277 4318,8281 4068,8283 3818,8285 3568,8285 3318,8287 3068,8287 2818,8285 2568,8283 2318,8281 2068,8278 1818,8275 1568,8271 1318,8265 1068,8259 818,8253"/>
+                <Baseline points="818,8326 1068,8332 1318,8338 1568,8344 1818,8348 2068,8351 2318,8354 2568,8356 2818,8358 3068,8360 3318,8360 3568,8358 3818,8358 4068,8356 4318,8354 4568,8350 4818,8346 5068,8340 5318,8334 5568,8329 5818,8322"/>
+                <TextEquiv>
+                    <Unicode>oriunt^ quatuor affectꝰ scʒ gaudiu~ spes dolor et timor. Im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sensataru~ ita vis memoratiua est thesaurus intentionu~ scʒ specieru~ no~ sensataru~&#13;
+quas estimatiua elicit ex speciebꝰ sensatis. Ex hoc potest haberi sensus clarus dif&#13;
+finitionis memoratiue virtutis in qua dicit^ q3 est pote~tia recipie~s intentiones .i.&#13;
+species no~ sensatas ⁊ eas co~serua~s. Patet etia~ corrolariu~ qd' ex diffinitio~e infert^&#13;
+vicʒ q3 memoratiua est thesaurus intentionu~. ¶ Postea autor ostendit q3 actus&#13;
+actus memoratiui virtutis est memorari de quo iam copiose dictum est in priori&#13;
+acceptione memorie. Ultimo autor ostendit modu~ memorandi q3 ex his que nu~c&#13;
+cognoscimus memoramur similia his que prius cognoueramus.&#13;
+Uirtus motiua est duplex. Queda~ est motiua motu naturali&#13;
+que moiet no~ s'm apprehensione~ nec est subiecta imperio re-&#13;
+tionis qualis est virtꝰ vtialis siue pulsatiua. Est aute~ hec vis&#13;
+in corde sicut in organo ⁊ est vis per inspiratione~ ⁊ respiratio-&#13;
+nem primcipium existe~s tempera~tie caloris ⁊ corporis cuius&#13;
+consyderatio spectat ad physicum. Ubi nota q3 cum virtu-&#13;
+tes animales intenduntur naturales remittuntur vt patet in&#13;
+homine dormie~te vel stude~te. Alia est motiua motu animali&#13;
+cuius actus subest rationi que vocatur appetitiua siue desy-&#13;
+deratiua que a theologis vocat^ sensualitas. Que e~ duplex&#13;
+scʒ impera~s ⁊ imperata. Imperata est duplex scʒ irascibilis ⁊&#13;
+co~cupiscibilis. Co~cupiscibilis e~ appetitiua boni delectabilis&#13;
+sed irascibił e~ appetitiua boni ardui expedietis. Ex qⁱbꝰ duabꝰ&#13;
+oriunt^ quatuor affectꝰ scʒ gaudiu~ spes dolor et timor. Im-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1656760536150_1279" custom="readingOrder {index:2;} structure {type:margin;}">
+            <Coords points="6640,753 5984,753 5984,1442 6640,1442"/>
+            <TextLine id="line_1656105125775_272" custom="readingOrder {index:0;}">
+                <Coords points="5944,865 6039,864 6326,858 6614,850 6614,958 6326,966 6039,972 5944,973"/>
+                <Baseline points="5944,937 6039,936 6326,930 6614,922"/>
+                <TextEquiv>
+                    <Unicode>Expositio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105132274_277" custom="readingOrder {index:1;}">
+                <Coords points="5951,1015 6045,1013 6331,1004 6618,994 6618,1102 6331,1112 6045,1121 5951,1123"/>
+                <Baseline points="5951,1087 6045,1085 6331,1076 6618,1066"/>
+                <TextEquiv>
+                    <Unicode>diffinitio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105138547_282" custom="readingOrder {index:2;}">
+                <Coords points="5958,1171 6062,1170 6353,1168 6644,1164 6644,1272 6353,1276 6062,1278 5958,1279"/>
+                <Baseline points="5958,1243 6062,1242 6353,1240 6644,1236"/>
+                <TextEquiv>
+                    <Unicode>nis memo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656105144864_287" custom="readingOrder {index:3;}">
+                <Coords points="5965,1320 6001,1320 6272,1315 6272,1424 6001,1429 5965,1429"/>
+                <Baseline points="5965,1393 6001,1393 6272,1388"/>
+                <TextEquiv>
+                    <Unicode>rie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Expositio&#13;
+diffinitio-&#13;
+nis memo&#13;
+rie.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

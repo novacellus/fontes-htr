@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-01-10T18:06:48.170+01:00</Created>
+        <LastChange>2022-01-31T20:39:47.767+01:00</LastChange>
+        <TranskribusMetadata docId="888829" pageId="34072512" pageNr="105" tsid="73009043" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=TPPDNJPMSJUMRHGPARLYHKHW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUFZVIGGSKVQORDMBORPJNUR" imageId="27321839"/>
+    </Metadata>
+    <Page imageFilename="GOST_Th_0105_34072512.jpg" imageWidth="1759" imageHeight="2445">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1643657987767" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643630954480_149"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643630954480_148"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1643630952524_144"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1643630951473_140"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1643630950342_136"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1643630949223_132"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1643630954480_149" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="195,232 1505,232 1505,298 195,298"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="733,281 758,285 783,289 809,291 834,292 860,292 885,292 910,291 936,292 961,292 987,294 987,245 961,243 936,243 910,242 885,243 860,243 834,243 809,242 783,240 758,236 733,232"/>
+                <Baseline points="733,265 758,269 783,273 809,275 834,276 860,276 885,276 910,275 936,276 961,276 987,278"/>
+                <TextEquiv>
+                    <Unicode>Folio. liij.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Folio. liij.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630954480_148" custom="readingOrder {index:1;} structure {type:DocParagraf;}">
+            <Coords points="195,298 1505,298 1505,491 195,491"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="195,353 259,353 323,354 387,354 451,354 515,355 579,355 643,355 707,355 771,355 836,355 900,356 964,356 1028,356 1092,357 1156,358 1220,359 1284,360 1348,361 1412,363 1477,365 1477,331 1412,329 1348,327 1284,326 1220,325 1156,324 1092,323 1028,322 964,322 900,322 836,321 771,321 707,321 643,321 579,321 515,321 451,320 387,320 323,320 259,319 195,319"/>
+                <Baseline points="195,342 259,342 323,343 387,343 451,343 515,344 579,344 643,344 707,344 771,344 836,344 900,345 964,345 1028,345 1092,346 1156,347 1220,348 1284,349 1348,350 1412,352 1477,354"/>
+                <TextEquiv>
+                    <Unicode>do vnum ⁊ idem agens est in diuersis rebus. ⁊ vnaqueqʒ recipit de illo scd'm modum sue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="202,401 265,402 329,402 392,403 456,403 519,403 583,403 646,403 710,403 773,403 837,403 900,403 964,404 1027,404 1091,405 1154,406 1218,407 1281,408 1345,409 1408,411 1472,413 1472,379 1408,377 1345,375 1281,374 1218,373 1154,372 1091,371 1027,370 964,370 900,369 837,369 773,369 710,369 646,369 583,369 519,369 456,369 392,369 329,368 265,368 202,367"/>
+                <Baseline points="202,390 265,391 329,391 392,392 456,392 519,392 583,392 646,392 710,392 773,392 837,392 900,392 964,393 1027,393 1091,394 1154,395 1218,396 1281,397 1345,398 1408,400 1472,402"/>
+                <TextEquiv>
+                    <Unicode>potentie tunc est vniformitas ex parte agentis ⁊ difformitas ex parte recipietium. Sed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="199,451 262,452 326,452 389,453 453,453 517,453 580,453 644,454 707,454 771,455 835,455 898,455 962,456 1025,456 1089,457 1153,458 1216,458 1280,459 1343,460 1407,461 1471,462 1471,426 1407,425 1343,424 1280,423 1216,422 1153,422 1089,421 1025,420 962,420 898,419 835,419 771,419 707,418 644,418 580,417 517,417 453,417 389,417 326,416 262,416 199,415"/>
+                <Baseline points="199,439 262,440 326,440 389,441 453,441 517,441 580,441 644,442 707,442 771,443 835,443 898,443 962,444 1025,444 1089,445 1153,446 1216,446 1280,447 1343,448 1407,449 1471,450"/>
+                <TextEquiv>
+                    <Unicode>sic est in prima causa ⁊ respectu rerum productarum. ergo et cetera. Maiorem ponit in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="212,505 244,506 276,506 308,506 308,452 276,452 244,452 212,451"/>
+                <Baseline points="212,487 244,488 276,488 308,488"/>
+                <TextEquiv>
+                    <Unicode>litera.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>do vnum ⁊ idem agens est in diuersis rebus. ⁊ vnaqueqʒ recipit de illo scd'm modum sue&#13;
+potentie tunc est vniformitas ex parte agentis ⁊ difformitas ex parte recipietium. Sed&#13;
+sic est in prima causa ⁊ respectu rerum productarum. ergo et cetera. Maiorem ponit in&#13;
+litera.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630952524_144" custom="readingOrder {index:2;} structure {type:propositio;}">
+            <Coords points="195,491 1505,491 1505,1037 195,1037"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;}">
+                <Coords points="205,592 268,592 331,592 395,593 458,593 522,593 585,593 649,593 712,593 776,594 839,594 902,594 966,594 1029,595 1093,595 1156,596 1220,596 1283,597 1347,598 1410,599 1474,600 1474,546 1410,545 1347,544 1283,543 1220,542 1156,542 1093,541 1029,541 966,540 902,540 839,540 776,540 712,539 649,539 585,539 522,539 458,539 395,539 331,538 268,538 205,538"/>
+                <Baseline points="205,574 268,574 331,574 395,575 458,575 522,575 585,575 649,575 712,575 776,576 839,576 902,576 966,576 1029,577 1093,577 1156,578 1220,578 1283,579 1347,580 1410,581 1474,582"/>
+                <TextEquiv>
+                    <Unicode>ꝙ est quia ex rebus sunt ⁊ que recipiunt receptio~e vnica causaʒ pri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+                <Coords points="203,675 266,676 330,677 394,678 457,678 521,678 585,679 648,679 712,679 776,680 840,680 903,680 967,681 1031,681 1094,682 1158,683 1222,683 1285,685 1349,686 1413,687 1477,689 1477,635 1413,633 1349,632 1285,631 1222,629 1158,629 1094,628 1031,627 967,627 903,626 840,626 776,626 712,625 648,625 585,625 521,624 457,624 394,624 330,623 266,622 203,621"/>
+                <Baseline points="203,657 266,658 330,659 394,660 457,660 521,660 585,661 648,661 712,661 776,662 840,662 903,662 967,663 1031,663 1094,664 1158,665 1222,665 1285,667 1349,668 1413,669 1477,671"/>
+                <TextEquiv>
+                    <Unicode>mam ⁊ ex eis sunt que recipiunt receptione multiplicata eaʒ ⁊ ex eis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="206,762 269,763 332,764 395,764 459,765 522,765 585,765 648,766 712,766 775,766 838,767 901,767 965,768 1028,769 1091,769 1154,770 1218,771 1281,773 1344,774 1407,776 1471,778 1471,724 1407,722 1344,720 1281,719 1218,717 1154,716 1091,715 1028,715 965,714 901,713 838,713 775,712 712,712 648,712 585,711 522,711 459,711 395,710 332,710 269,709 206,708"/>
+                <Baseline points="206,744 269,745 332,746 395,746 459,747 522,747 585,747 648,748 712,748 775,748 838,749 901,749 965,750 1028,751 1091,751 1154,752 1218,753 1281,755 1344,756 1407,758 1471,760"/>
+                <TextEquiv>
+                    <Unicode>unt que recipiunt eam receptione eterna. ⁊ ex eis quedam sunt que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="208,853 271,853 334,853 397,853 461,853 524,853 587,853 650,853 714,853 777,853 840,854 903,854 967,855 1030,855 1093,856 1156,857 1220,858 1283,860 1346,861 1409,863 1473,865 1473,811 1409,809 1346,807 1283,806 1220,804 1156,803 1093,802 1030,801 967,801 903,800 840,800 777,799 714,799 650,799 587,799 524,799 461,799 397,799 334,799 271,799 208,799"/>
+                <Baseline points="208,835 271,835 334,835 397,835 461,835 524,835 587,835 650,835 714,835 777,835 840,836 903,836 967,837 1030,837 1093,838 1156,839 1220,840 1283,842 1346,843 1409,845 1473,847"/>
+                <TextEquiv>
+                    <Unicode>recipiunt eam receptione temporali. Et exeis sunt que recipiunt re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="215,949 279,949 343,949 407,949 471,949 535,949 599,949 663,949 727,949 791,950 855,950 919,951 983,951 1047,952 1111,953 1175,954 1239,955 1303,956 1367,957 1431,959 1495,961 1495,907 1431,905 1367,903 1303,902 1239,901 1175,900 1111,899 1047,898 983,897 919,897 855,896 791,896 727,895 663,895 599,895 535,895 471,895 407,895 343,895 279,895 215,895"/>
+                <Baseline points="215,931 279,931 343,931 407,931 471,931 535,931 599,931 663,931 727,931 791,932 855,932 919,933 983,933 1047,934 1111,935 1175,936 1239,937 1303,938 1367,939 1431,941 1495,943"/>
+                <TextEquiv>
+                    <Unicode>ceptione spirituali. Et ex eis sunt que recipiunt receptione corpo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="218,1036 245,1034 272,1033 300,1034 300,980 272,979 245,980 218,982"/>
+                <Baseline points="218,1018 245,1016 272,1015 300,1016"/>
+                <TextEquiv>
+                    <Unicode>rali.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ꝙ est quia ex rebus sunt ⁊ que recipiunt receptio~e vnica causaʒ pri&#13;
+mam ⁊ ex eis sunt que recipiunt receptione multiplicata eaʒ ⁊ ex eis&#13;
+unt que recipiunt eam receptione eterna. ⁊ ex eis quedam sunt que&#13;
+recipiunt eam receptione temporali. Et exeis sunt que recipiunt re-&#13;
+ceptione spirituali. Et ex eis sunt que recipiunt receptione corpo-&#13;
+rali.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630951473_140" custom="readingOrder {index:3;} structure {type:DocParagraf;}">
+            <Coords points="195,1037 1505,1037 1505,1278 195,1278"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+                <Coords points="222,1106 285,1106 348,1106 412,1106 475,1106 538,1106 602,1105 665,1105 728,1105 792,1105 855,1105 918,1106 982,1106 1045,1107 1108,1107 1172,1109 1235,1110 1298,1111 1362,1113 1425,1116 1489,1118 1489,1084 1425,1082 1362,1079 1298,1077 1235,1076 1172,1075 1108,1073 1045,1073 982,1072 918,1072 855,1071 792,1071 728,1071 665,1071 602,1071 538,1072 475,1072 412,1072 348,1072 285,1072 222,1072"/>
+                <Baseline points="222,1095 285,1095 348,1095 412,1095 475,1095 538,1095 602,1094 665,1094 728,1094 792,1094 855,1094 918,1095 982,1095 1045,1096 1108,1096 1172,1098 1235,1099 1298,1100 1362,1102 1425,1105 1489,1107"/>
+                <TextEquiv>
+                    <Unicode>Declarat in speciali propositionem propositam quomodo sit diuersitas ex parte recipi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+                <Coords points="226,1154 292,1154 358,1154 424,1154 491,1154 557,1154 623,1154 689,1154 756,1154 822,1154 888,1154 954,1154 1021,1155 1087,1156 1153,1157 1219,1158 1286,1160 1352,1162 1418,1164 1485,1167 1485,1133 1418,1130 1352,1128 1286,1126 1219,1124 1153,1123 1087,1122 1021,1121 954,1120 888,1120 822,1120 756,1120 689,1120 623,1120 557,1120 491,1120 424,1120 358,1120 292,1120 226,1120"/>
+                <Baseline points="226,1143 292,1143 358,1143 424,1143 491,1143 557,1143 623,1143 689,1143 756,1143 822,1143 888,1143 954,1143 1021,1144 1087,1145 1153,1146 1219,1147 1286,1149 1352,1151 1418,1153 1485,1156"/>
+                <TextEquiv>
+                    <Unicode>entis. Circa quod tria facit. Quia primo facit quod dictum est. scilicet quia ex rebus su~t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;}">
+                <Coords points="225,1203 287,1204 350,1204 413,1204 476,1204 539,1204 601,1203 664,1203 727,1203 790,1203 853,1203 915,1203 978,1203 1041,1204 1104,1205 1167,1206 1229,1208 1292,1210 1355,1212 1418,1215 1481,1219 1481,1185 1418,1181 1355,1178 1292,1176 1229,1174 1167,1172 1104,1171 1041,1170 978,1169 915,1169 853,1169 790,1169 727,1169 664,1169 601,1169 539,1170 476,1170 413,1170 350,1170 287,1170 225,1169"/>
+                <Baseline points="225,1192 287,1193 350,1193 413,1193 476,1193 539,1193 601,1192 664,1192 727,1192 790,1192 853,1192 915,1192 978,1192 1041,1193 1104,1194 1167,1195 1229,1197 1292,1199 1355,1201 1418,1204 1481,1208"/>
+                <TextEquiv>
+                    <Unicode>quedam que recipiunt causam primam acceptione vna. Ut patet hoc clare ⁊ sufficienter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;}">
+                <Coords points="214,1252 240,1253 267,1253 294,1252 321,1252 348,1254 348,1220 321,1218 294,1218 267,1219 240,1219 214,1218"/>
+                <Baseline points="214,1241 240,1242 267,1242 294,1241 321,1241 348,1243"/>
+                <TextEquiv>
+                    <Unicode>in textu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Declarat in speciali propositionem propositam quomodo sit diuersitas ex parte recipi-&#13;
+entis. Circa quod tria facit. Quia primo facit quod dictum est. scilicet quia ex rebus su~t&#13;
+quedam que recipiunt causam primam acceptione vna. Ut patet hoc clare ⁊ sufficienter&#13;
+in textu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643630950342_136" custom="readingOrder {index:4;} structure {type:propositio;}">
+            <Coords points="195,1278 1505,1278 1505,1925 195,1925"/>
+            <TextLine id="r1l16" custom="readingOrder {index:0;}">
+                <Coords points="226,1348 288,1347 351,1347 414,1346 477,1345 539,1345 602,1344 665,1344 728,1343 790,1343 853,1343 916,1343 979,1343 1041,1344 1104,1344 1167,1345 1230,1346 1292,1348 1355,1350 1418,1352 1481,1355 1481,1301 1418,1298 1355,1296 1292,1294 1230,1292 1167,1291 1104,1290 1041,1290 979,1289 916,1289 853,1289 790,1289 728,1289 665,1290 602,1290 539,1291 477,1291 414,1292 351,1293 288,1293 226,1294"/>
+                <Baseline points="226,1330 288,1329 351,1329 414,1328 477,1327 539,1327 602,1326 665,1326 728,1325 790,1325 853,1325 916,1325 979,1325 1041,1326 1104,1326 1167,1327 1230,1328 1292,1330 1355,1332 1418,1334 1481,1337"/>
+                <TextEquiv>
+                    <Unicode>Et diuersitas quidem receptionis non fit ex prima causa. sed propt^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:1;}">
+                <Coords points="215,1440 279,1438 343,1437 408,1436 472,1435 537,1434 601,1433 665,1432 730,1432 794,1431 859,1431 923,1431 987,1431 1052,1432 1116,1433 1181,1433 1245,1435 1309,1436 1374,1438 1438,1440 1503,1442 1503,1388 1438,1386 1374,1384 1309,1382 1245,1381 1181,1379 1116,1379 1052,1378 987,1377 923,1377 859,1377 794,1377 730,1378 665,1378 601,1379 537,1380 472,1381 408,1382 343,1383 279,1384 215,1386"/>
+                <Baseline points="215,1422 279,1420 343,1419 408,1418 472,1417 537,1416 601,1415 665,1414 730,1414 794,1413 859,1413 923,1413 987,1413 1052,1414 1116,1415 1181,1415 1245,1417 1309,1418 1374,1420 1438,1422 1503,1424"/>
+                <TextEquiv>
+                    <Unicode>recipiens. ꝙ est quia suscipiens diuersificatur. propter id ergo su-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+                <Coords points="229,1534 292,1533 355,1532 418,1531 481,1530 544,1529 607,1528 670,1528 733,1527 796,1527 859,1527 922,1527 985,1527 1048,1527 1111,1528 1174,1528 1237,1529 1300,1530 1363,1532 1426,1533 1490,1535 1490,1481 1426,1479 1363,1478 1300,1476 1237,1475 1174,1474 1111,1474 1048,1473 985,1473 922,1473 859,1473 796,1473 733,1473 670,1474 607,1474 544,1475 481,1476 418,1477 355,1478 292,1479 229,1480"/>
+                <Baseline points="229,1516 292,1515 355,1514 418,1513 481,1512 544,1511 607,1510 670,1510 733,1509 796,1509 859,1509 922,1509 985,1509 1048,1509 1111,1510 1174,1510 1237,1511 1300,1512 1363,1514 1426,1515 1490,1517"/>
+                <TextEquiv>
+                    <Unicode>sceptum diuersificatur. Influens ergo existens vnum non diuersuʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+                <Coords points="226,1626 289,1624 352,1622 415,1621 478,1619 541,1618 604,1617 668,1616 731,1615 794,1614 857,1614 920,1613 983,1613 1046,1613 1110,1614 1173,1615 1236,1616 1299,1617 1362,1619 1425,1621 1489,1623 1489,1569 1425,1567 1362,1565 1299,1563 1236,1562 1173,1561 1110,1560 1046,1559 983,1559 920,1559 857,1560 794,1560 731,1561 668,1562 604,1563 541,1564 478,1565 415,1567 352,1568 289,1570 226,1572"/>
+                <Baseline points="226,1608 289,1606 352,1604 415,1603 478,1601 541,1600 604,1599 668,1598 731,1597 794,1596 857,1596 920,1595 983,1595 1046,1595 1110,1596 1173,1597 1236,1598 1299,1599 1362,1601 1425,1603 1489,1605"/>
+                <TextEquiv>
+                    <Unicode>influit super omnes res bonitates equaliter. Bonitas nanqʒ influit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:4;}">
+                <Coords points="229,1717 291,1715 354,1713 417,1711 480,1710 542,1708 605,1707 668,1706 731,1705 793,1704 856,1704 919,1703 982,1703 1044,1704 1107,1704 1170,1705 1233,1706 1295,1707 1358,1709 1421,1711 1484,1713 1484,1659 1421,1657 1358,1655 1295,1653 1233,1652 1170,1651 1107,1650 1044,1650 982,1649 919,1649 856,1650 793,1650 731,1651 668,1652 605,1653 542,1654 480,1656 417,1657 354,1659 291,1661 229,1663"/>
+                <Baseline points="229,1699 291,1697 354,1695 417,1693 480,1692 542,1690 605,1689 668,1688 731,1687 793,1686 856,1686 919,1685 982,1685 1044,1686 1107,1686 1170,1687 1233,1688 1295,1689 1358,1691 1421,1693 1484,1695"/>
+                <TextEquiv>
+                    <Unicode>super omnes res ex causa prima equaliter. Res ergo sunt causa di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:5;}">
+                <Coords points="229,1805 292,1803 356,1800 420,1798 484,1797 548,1795 611,1794 675,1793 739,1793 803,1792 867,1792 930,1792 994,1792 1058,1792 1122,1793 1186,1794 1249,1794 1313,1796 1377,1797 1441,1799 1505,1800 1505,1746 1441,1745 1377,1743 1313,1742 1249,1740 1186,1740 1122,1739 1058,1738 994,1738 930,1738 867,1738 803,1738 739,1739 675,1739 611,1740 548,1741 484,1743 420,1744 356,1746 292,1749 229,1751"/>
+                <Baseline points="229,1787 292,1785 356,1782 420,1780 484,1779 548,1777 611,1776 675,1775 739,1775 803,1774 867,1774 930,1774 994,1774 1058,1774 1122,1775 1186,1776 1249,1776 1313,1778 1377,1779 1441,1781 1505,1782"/>
+                <TextEquiv>
+                    <Unicode>uersitatis influxionis ⁊ bonitatis super res. Proculdubio ergo no~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+                <Coords points="229,1898 280,1895 332,1892 383,1890 435,1888 486,1887 538,1886 589,1885 641,1885 692,1885 744,1885 795,1885 847,1885 898,1885 950,1885 1001,1885 1053,1885 1104,1884 1156,1883 1208,1882 1208,1828 1156,1829 1104,1830 1053,1831 1001,1831 950,1831 898,1831 847,1831 795,1831 744,1831 692,1831 641,1831 589,1831 538,1832 486,1833 435,1834 383,1836 332,1838 280,1841 229,1844"/>
+                <Baseline points="229,1880 280,1877 332,1874 383,1872 435,1870 486,1869 538,1868 589,1867 641,1867 692,1867 744,1867 795,1867 847,1867 898,1867 950,1867 1001,1867 1053,1867 1104,1866 1156,1865 1208,1864"/>
+                <TextEquiv>
+                    <Unicode>inueniuntur omnes res in primo per modum vnum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Et diuersitas quidem receptionis non fit ex prima causa. sed propt^&#13;
+recipiens. ꝙ est quia suscipiens diuersificatur. propter id ergo su-&#13;
+sceptum diuersificatur. Influens ergo existens vnum non diuersuʒ&#13;
+influit super omnes res bonitates equaliter. Bonitas nanqʒ influit&#13;
+super omnes res ex causa prima equaliter. Res ergo sunt causa di-&#13;
+uersitatis influxionis ⁊ bonitatis super res. Proculdubio ergo no~&#13;
+inueniuntur omnes res in primo per modum vnum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="catch-word" id="TextRegion_1643630949223_132" custom="readingOrder {index:5;} structure {type:catch-word;}">
+            <Coords points="195,1925 1505,1925 1505,2043 195,2043"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;}">
+                <Coords points="1329,2043 1359,2037 1390,2038 1421,2033 1421,1979 1390,1984 1359,1983 1329,1989"/>
+                <Baseline points="1329,2025 1359,2019 1390,2020 1421,2015"/>
+                <TextEquiv>
+                    <Unicode>i iiij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>i iiij</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-04T17:11:19.000+01:00</Created>
+        <LastChange>2022-12-23T17:35:03.541+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="8"/>
+    </Metadata>
+    <Page imageFilename="ZABOR_Tract-0083.jpg" imageWidth="1759" imageHeight="2626">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671813303557" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1644071822466_1365"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1644071827465_1370"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1644071827465_1369"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="TextRegion_1644071822466_1365" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="107,158 1454,158 1454,340 107,340"/>
+            <TextLine id="line_1644071682736_1246" custom="readingOrder {index:0;} DocNumer {offset:13; length:5;}">
+                <Coords points="281,253 1248,253 1248,305 281,305"/>
+                <TextEquiv>
+                    <Unicode>Pars. iiij. .$. vj</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pars. iiij. .$. vj</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644071827465_1370" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="107,340 1454,340 1454,2126 107,2126"/>
+            <TextLine id="line_1644071687208_1249" custom="readingOrder {index:0;}">
+                <Coords points="132,351 1383,351 1383,377 132,377"/>
+                <TextEquiv>
+                    <Unicode>dotem ecclesie. eis collatis. Hanc questionem post alios doctores format</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071690089_1252" custom="readingOrder {index:1;}">
+                <Coords points="1387,386 141,386 141,432 1387,432"/>
+                <TextEquiv>
+                    <Unicode>prefatus Panor. et eam decidit in. c. fi. de vi. et ho. cleri. et. c. j. decensibus. et in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071694026_1255" custom="readingOrder {index:2;}">
+                <Coords points="138,447 1385,447 1385,470 138,470"/>
+                <TextEquiv>
+                    <Unicode>d. c. Non minus de immuni. eccle. que ibidem videatur. Nunc vero restat videre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071697809_1258" custom="readingOrder {index:3;}">
+                <Coords points="1385,474 136,474 136,525 1385,525"/>
+                <TextEquiv>
+                    <Unicode>An et ipsa ecclesia vel clerici regni huius Polonie in parte quam plurima de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071700968_1261" custom="readingOrder {index:4;}">
+                <Coords points="136,534 1382,534 1382,578 136,578"/>
+                <TextEquiv>
+                    <Unicode>vastati vna cum laycis ad predictas exactiones extra ordinarias videlicet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071703605_1264" custom="readingOrder {index:5;}">
+                <Coords points="1388,582 139,582 139,626 1388,626"/>
+                <TextEquiv>
+                    <Unicode>sit obligata. Uidetur enim ex supradictis que sit. Quoniam videmus que nedum laycorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071706081_1267" custom="readingOrder {index:6;}">
+                <Coords points="140,633 1389,633 1389,668 140,668"/>
+                <TextEquiv>
+                    <Unicode>bona verum etiam ipse ecclesie vna cum bonis earum per prauas societates vastantur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071708720_1270" custom="readingOrder {index:7;}">
+                <Coords points="1391,675 134,675 134,723 1391,723"/>
+                <TextEquiv>
+                    <Unicode>igneque consumuntur. Et quod plus est incomparabilis christi thesaurus eius pre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071711120_1273" custom="readingOrder {index:8;}">
+                <Coords points="136,728 1393,728 1393,764 136,764"/>
+                <TextEquiv>
+                    <Unicode>ciosissimo redemptus sanguine Ah misere et crudeliter tractatur quibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071714224_1276" custom="readingOrder {index:9;}">
+                <Coords points="1396,766 135,766 135,819 1396,819"/>
+                <TextEquiv>
+                    <Unicode>vt occurratur nature ius et diuinum astringit adeo que nemo excusari potest. ergo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071716521_1279" custom="readingOrder {index:10;}">
+                <Coords points="145,822 1384,822 1384,870 145,870"/>
+                <TextEquiv>
+                    <Unicode>nec ecclesia ar. c. Peruenit de immuni. eccle. Et. c. Dilecto desentem. excom. li.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071719281_1282" custom="readingOrder {index:11;}">
+                <Coords points="1387,872 143,872 143,905 1387,905"/>
+                <TextEquiv>
+                    <Unicode>vj. Et. l. Nullus penitus. C. de cursu. publi. li. xij. Uerum quidem hoc esse fa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071734841_1285" custom="readingOrder {index:12;}">
+                <Coords points="140,924 1386,924 1386,961 140,961"/>
+                <TextEquiv>
+                    <Unicode>teor que vt predictis occurratur succurraturque calamitatibus nature ius et di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071737112_1288" custom="readingOrder {index:13;}">
+                <Coords points="1388,967 145,967 145,1015 1388,1015"/>
+                <TextEquiv>
+                    <Unicode>uinum ac etiam humanum nos compellat. non tamen confuse sed quadam ordinis dispo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071739568_1291" custom="readingOrder {index:14;}">
+                <Coords points="140,1024 1391,1024 1391,1061 140,1061"/>
+                <TextEquiv>
+                    <Unicode>sitione et vnum magis quam alium. Ut autem hoc recte percipi possit notandum est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071741624_1294" custom="readingOrder {index:15;}">
+                <Coords points="1394,1064 139,1064 139,1108 1394,1108"/>
+                <TextEquiv>
+                    <Unicode>Que duo actus equidem necessarij adeo que nullo pacto diuini equitate iuris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071743904_1297" custom="readingOrder {index:16;}">
+                <Coords points="142,1114 1394,1114 1394,1153 142,1153"/>
+                <TextEquiv>
+                    <Unicode>exigente preteriti possunt regno nostro incumbunt. Unus quidem patrie de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071749577_1300" custom="readingOrder {index:17;}">
+                <Coords points="1398,1161 147,1161 147,1198 1398,1198"/>
+                <TextEquiv>
+                    <Unicode>fensionis alius captiuorum reuocationis. Quorum primus actuum directe: vt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071752800_1303" custom="readingOrder {index:18;}">
+                <Coords points="147,1206 1391,1206 1391,1250 147,1250"/>
+                <TextEquiv>
+                    <Unicode>supra dictum est. rempublicam respicit mundanam seculares dumtaxat afficiendo per-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071755193_1306" custom="readingOrder {index:19;}">
+                <Coords points="1393,1258 143,1258 143,1308 1393,1308"/>
+                <TextEquiv>
+                    <Unicode>sonas. tunc ponderatis iuribus et viso hoc regno Polonie non minus viris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071757672_1309" custom="readingOrder {index:20;}">
+                <Coords points="136,1310 1395,1310 1395,1339 136,1339"/>
+                <TextEquiv>
+                    <Unicode>fortibus quam tributis seu censibus ordinarijs perpetuo rebus annexis. abundante.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071759984_1312" custom="readingOrder {index:21;}">
+                <Coords points="1391,1349 137,1349 137,1395 1391,1395"/>
+                <TextEquiv>
+                    <Unicode>Dico nedum ecclesias. verum etiam ceteros regnicolas ad extra ordinarias non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071762128_1315" custom="readingOrder {index:22;}">
+                <Coords points="136,1402 1398,1402 1398,1439 136,1439"/>
+                <TextEquiv>
+                    <Unicode>teneri exactiones. Quis enim nostrum ignoret hoc regnum Polonie Baronibus et per=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071764712_1318" custom="readingOrder {index:23;}">
+                <Coords points="1397,1442 150,1442 150,1495 1397,1495"/>
+                <TextEquiv>
+                    <Unicode>petuis reipub. militibus abundare latisque possessionibus ac tributis proventibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071775225_1321" custom="readingOrder {index:24;}">
+                <Coords points="137,1507 1394,1507 1394,1544 137,1544"/>
+                <TextEquiv>
+                    <Unicode>ve ordinarijs equidem copiosis affluere quibus vrbes et oppida in finibus regni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071777960_1324" custom="readingOrder {index:25;}">
+                <Coords points="1392,1551 135,1551 135,1596 1392,1596"/>
+                <TextEquiv>
+                    <Unicode>sita quam munitissima reddi possint et defensio. Nec minus tormentis bali-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071781688_1327" custom="readingOrder {index:26;}">
+                <Coords points="141,1609 1383,1609 1383,1637 141,1637"/>
+                <TextEquiv>
+                    <Unicode>stis et scorpionibus et alijs instrumentis bellicis quam muris cingi et inexpugna-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071784552_1330" custom="readingOrder {index:27;}">
+                <Coords points="1388,1655 144,1655 144,1686 1388,1686"/>
+                <TextEquiv>
+                    <Unicode>bilibus turribus. Hac enim ratione regnum firmum et tutissimum efficeretur et ni nobos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071787520_1333" custom="readingOrder {index:28;}">
+                <Coords points="141,1707 1378,1707 1378,1734 141,1734"/>
+                <TextEquiv>
+                    <Unicode>defuerimus amplum semper et quietum regnum habebimus. Quantum vero ad secundum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071790400_1336" custom="readingOrder {index:29;}">
+                <Coords points="1385,1742 145,1742 145,1781 1385,1781"/>
+                <TextEquiv>
+                    <Unicode>actum captiuorum videlicet reuocationis dico excusari posse neminem et ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071792889_1339" custom="readingOrder {index:30;}">
+                <Coords points="140,1794 1383,1794 1383,1828 140,1828"/>
+                <TextEquiv>
+                    <Unicode>xime reipublice rectores quorum culpa captiuitates et damna regno illata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071795768_1342" custom="readingOrder {index:31;}">
+                <Coords points="1385,1841 144,1841 144,1887 1385,1887"/>
+                <TextEquiv>
+                    <Unicode>sunt. Non minus culpabiles censentur dominici gregis pastores in specu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071798153_1345" custom="readingOrder {index:32;}">
+                <Coords points="136,1891 1385,1891 1385,1934 136,1934"/>
+                <TextEquiv>
+                    <Unicode>latores constituti. Nam de eis dicitur Si veniente gladio non insonuerit tuba neque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071800712_1348" custom="readingOrder {index:33;}">
+                <Coords points="1388,1940 140,1940 140,1987 1388,1987"/>
+                <TextEquiv>
+                    <Unicode>significauerit. Et veniens gladius acceperit animam. illa quidem mortua erit propter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071803032_1351" custom="readingOrder {index:34;}">
+                <Coords points="127,1994 1405,1994 1405,2022 127,2022"/>
+                <TextEquiv>
+                    <Unicode>iniquitates suas sanguinem autem eius de manu speculatoris requiram. Ezechielis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071805328_1354" custom="readingOrder {index:35;}">
+                <Coords points="1405,2035 141,2035 141,2073 1405,2073"/>
+                <TextEquiv>
+                    <Unicode>xxxiij. Hij etenim cernentes videntesque culpas secularium rempublicam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644071807608_1357" custom="readingOrder {index:36;}">
+                <Coords points="142,2077 1398,2077 1398,2125 142,2125"/>
+                <TextEquiv>
+                    <Unicode>male administrantium tuba sonare debebant. et si necesse erat ecclesiastica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dotem ecclesie. eis collatis. Hanc questionem post alios doctores format&#13;
+prefatus Panor. et eam decidit in. c. fi. de vi. et ho. cleri. et. c. j. decensibus. et in&#13;
+d. c. Non minus de immuni. eccle. que ibidem videatur. Nunc vero restat videre&#13;
+An et ipsa ecclesia vel clerici regni huius Polonie in parte quam plurima de&#13;
+vastati vna cum laycis ad predictas exactiones extra ordinarias videlicet&#13;
+sit obligata. Uidetur enim ex supradictis que sit. Quoniam videmus que nedum laycorum&#13;
+bona verum etiam ipse ecclesie vna cum bonis earum per prauas societates vastantur&#13;
+igneque consumuntur. Et quod plus est incomparabilis christi thesaurus eius pre-&#13;
+ciosissimo redemptus sanguine Ah misere et crudeliter tractatur quibus&#13;
+vt occurratur nature ius et diuinum astringit adeo que nemo excusari potest. ergo&#13;
+nec ecclesia ar. c. Peruenit de immuni. eccle. Et. c. Dilecto desentem. excom. li.&#13;
+vj. Et. l. Nullus penitus. C. de cursu. publi. li. xij. Uerum quidem hoc esse fa-&#13;
+teor que vt predictis occurratur succurraturque calamitatibus nature ius et di-&#13;
+uinum ac etiam humanum nos compellat. non tamen confuse sed quadam ordinis dispo&#13;
+sitione et vnum magis quam alium. Ut autem hoc recte percipi possit notandum est&#13;
+Que duo actus equidem necessarij adeo que nullo pacto diuini equitate iuris&#13;
+exigente preteriti possunt regno nostro incumbunt. Unus quidem patrie de&#13;
+fensionis alius captiuorum reuocationis. Quorum primus actuum directe: vt&#13;
+supra dictum est. rempublicam respicit mundanam seculares dumtaxat afficiendo per-&#13;
+sonas. tunc ponderatis iuribus et viso hoc regno Polonie non minus viris&#13;
+fortibus quam tributis seu censibus ordinarijs perpetuo rebus annexis. abundante.&#13;
+Dico nedum ecclesias. verum etiam ceteros regnicolas ad extra ordinarias non&#13;
+teneri exactiones. Quis enim nostrum ignoret hoc regnum Polonie Baronibus et per=&#13;
+petuis reipub. militibus abundare latisque possessionibus ac tributis proventibus&#13;
+ve ordinarijs equidem copiosis affluere quibus vrbes et oppida in finibus regni&#13;
+sita quam munitissima reddi possint et defensio. Nec minus tormentis bali-&#13;
+stis et scorpionibus et alijs instrumentis bellicis quam muris cingi et inexpugna-&#13;
+bilibus turribus. Hac enim ratione regnum firmum et tutissimum efficeretur et ni nobos&#13;
+defuerimus amplum semper et quietum regnum habebimus. Quantum vero ad secundum&#13;
+actum captiuorum videlicet reuocationis dico excusari posse neminem et ma-&#13;
+xime reipublice rectores quorum culpa captiuitates et damna regno illata&#13;
+sunt. Non minus culpabiles censentur dominici gregis pastores in specu&#13;
+latores constituti. Nam de eis dicitur Si veniente gladio non insonuerit tuba neque&#13;
+significauerit. Et veniens gladius acceperit animam. illa quidem mortua erit propter&#13;
+iniquitates suas sanguinem autem eius de manu speculatoris requiram. Ezechielis&#13;
+xxxiij. Hij etenim cernentes videntesque culpas secularium rempublicam&#13;
+male administrantium tuba sonare debebant. et si necesse erat ecclesiastica</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="TextRegion_1644071827465_1369" custom="readingOrder {index:2;} structure {type:catch-word;}">
+            <Coords points="107,2126 1454,2126 1454,2233 107,2233"/>
+            <TextLine id="line_1644071810496_1360" custom="readingOrder {index:0;}">
+                <Coords points="1325,2135 1199,2135 1199,2175 1325,2175"/>
+                <TextEquiv>
+                    <Unicode>G 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>G 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

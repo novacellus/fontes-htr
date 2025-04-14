@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-02T01:49:41.192+01:00</Created>
+        <LastChange>2022-12-20T16:31:08.288+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="12"/>
+    </Metadata>
+    <Page imageFilename="SACR_Elucid_-053.tif" imageWidth="2177" imageHeight="2783">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671550268304" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646506182702_429"/>
+                <RegionRefIndexed index="1" regionRef="region_1646506193373_432"/>
+                <RegionRefIndexed index="2" regionRef="region_1646506195526_435"/>
+                <RegionRefIndexed index="3" regionRef="region_1646506199086_438"/>
+                <RegionRefIndexed index="4" regionRef="region_1646506203974_441"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1646506182702_429" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="744,131 1691,131 1691,257 744,257"/>
+            <TextLine id="line_1646506238342_456" custom="readingOrder {index:0;}">
+                <Coords points="767,139 1653,139 1653,230 767,230"/>
+                <TextEquiv>
+                    <Unicode>Tractatus Tertius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tractatus Tertius</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646506193373_432" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="470,268 1235,268 1235,2166 470,2166"/>
+            <TextLine id="line_1646506246846_459" custom="readingOrder {index:0;}">
+                <Coords points="495,276 1246,276 1246,331 495,331"/>
+                <TextEquiv>
+                    <Unicode>habentes illud. propter quod est lata. tum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506249014_462" custom="readingOrder {index:1;}">
+                <Coords points="1246,328 495,328 495,378 1246,378"/>
+                <TextEquiv>
+                    <Unicode>etiam non habentes r Unde lex baptismi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506250870_465" custom="readingOrder {index:2;}">
+                <Coords points="492,380 1227,380 1227,430 492,430"/>
+                <TextEquiv>
+                    <Unicode>et si contra originale institutum sit tamen et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506252550_468" custom="readingOrder {index:3;}">
+                <Coords points="1217,448 477,448 477,471 1217,471"/>
+                <TextEquiv>
+                    <Unicode>est lata generaliter Ioannis tertio. nisi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506254661_471" custom="readingOrder {index:4;}">
+                <Coords points="485,482 1227,482 1227,541 485,541"/>
+                <TextEquiv>
+                    <Unicode>quis renatus fuerit. etcetera Ideo omnes ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506256806_474" custom="readingOrder {index:5;}">
+                <Coords points="1225,541 492,541 492,585 1225,585"/>
+                <TextEquiv>
+                    <Unicode>ligat et iustificatos in utero vel flamine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506258702_477" custom="readingOrder {index:6;}">
+                <Coords points="479,606 1220,606 1220,645 479,645"/>
+                <TextEquiv>
+                    <Unicode>penitentie et non iustificatos. Item ba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506260166_480" custom="readingOrder {index:7;}">
+                <Coords points="1209,656 485,656 485,697 1209,697"/>
+                <TextEquiv>
+                    <Unicode>ptismos etiam exconsequenti institutus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506262014_483" custom="readingOrder {index:8;}">
+                <Coords points="482,715 1230,715 1230,767 482,767"/>
+                <TextEquiv>
+                    <Unicode>est ad discretionem fidelium ab infidelibus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506263823_486" custom="readingOrder {index:9;}">
+                <Coords points="1230,767 479,767 479,806 1230,806"/>
+                <TextEquiv>
+                    <Unicode>eius susceptione in Ecclesia militanti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506266014_489" custom="readingOrder {index:10;}">
+                <Coords points="477,809 1217,809 1217,876 477,876"/>
+                <TextEquiv>
+                    <Unicode>Ideo ut in iudicio eiusdem Ecclesie nu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506267658_492" custom="readingOrder {index:11;}">
+                <Coords points="1217,879 487,879 487,910 1217,910"/>
+                <TextEquiv>
+                    <Unicode>merentur inter fideles. iustificati tenentur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506269382_495" custom="readingOrder {index:12;}">
+                <Coords points="485,926 1220,926 1220,980 485,980"/>
+                <TextEquiv>
+                    <Unicode>ad sacramentum baptismi fluminis. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506271334_498" custom="readingOrder {index:13;}">
+                <Coords points="1220,983 466,983 466,1011 1220,1011"/>
+                <TextEquiv>
+                    <Unicode>ut dicit Albertus in tercio circa dis. ter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506273966_501" custom="readingOrder {index:14;}">
+                <Coords points="477,1037 1202,1037 1202,1087 477,1087"/>
+                <TextEquiv>
+                    <Unicode>ciam. et in scripto quarti circa dis. vi. que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506277670_504" custom="readingOrder {index:15;}">
+                <Coords points="1204,1092 464,1092 464,1141 1204,1141"/>
+                <TextEquiv>
+                    <Unicode>licet gratia sanctificationis simpliciter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506280222_507" custom="readingOrder {index:16;}">
+                <Coords points="474,1144 1212,1144 1212,1196 474,1196"/>
+                <TextEquiv>
+                    <Unicode>maior sit quam baptismi. quia plus debilitat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506284246_510" custom="readingOrder {index:17;}">
+                <Coords points="1194,1204 482,1204 482,1237 1194,1237"/>
+                <TextEquiv>
+                    <Unicode>fomitem. Gratia tamen baptismalis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506292582_514" custom="readingOrder {index:18;}">
+                <Coords points="469,1258 1217,1258 1217,1305 469,1305"/>
+                <TextEquiv>
+                    <Unicode>secundum hoc maior est quia imprimit ca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506294550_517" custom="readingOrder {index:19;}">
+                <Coords points="1217,1310 464,1310 464,1352 1217,1352"/>
+                <TextEquiv>
+                    <Unicode>ractarem signum discretionis. Idem dicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506296398_520" custom="readingOrder {index:20;}">
+                <Coords points="464,1362 1202,1362 1202,1419 464,1419"/>
+                <TextEquiv>
+                    <Unicode>circa dis. quartam quarti. talis afflatus in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506298062_523" custom="readingOrder {index:21;}">
+                <Coords points="1202,1424 472,1424 472,1453 1202,1453"/>
+                <TextEquiv>
+                    <Unicode>conversione seu penitentia. peccatorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506299798_526" custom="readingOrder {index:22;}">
+                <Coords points="477,1469 1204,1469 1204,1513 477,1513"/>
+                <TextEquiv>
+                    <Unicode>remissionem inducit ubi articulus necessi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506301510_529" custom="readingOrder {index:23;}">
+                <Coords points="1209,1533 464,1533 464,1562 1209,1562"/>
+                <TextEquiv>
+                    <Unicode>tatis. non contentus religionis sacramentum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506303158_532" custom="readingOrder {index:24;}">
+                <Coords points="461,1575 1202,1575 1202,1624 461,1624"/>
+                <TextEquiv>
+                    <Unicode>excludit s Baptismus vero san-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506317838_536" custom="readingOrder {index:25;}">
+                <Coords points="468,1634 1202,1634 1202,1691 468,1691"/>
+                <TextEquiv>
+                    <Unicode>guinis in martirio suscipitur qui ut dicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506319206_539" custom="readingOrder {index:26;}">
+                <Coords points="1205,1698 468,1698 468,1724 1205,1724"/>
+                <TextEquiv>
+                    <Unicode>Albertus ubi supra in hoc meliorem que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506321406_542" custom="readingOrder {index:27;}">
+                <Coords points="480,1731 1193,1731 1193,1790 480,1790"/>
+                <TextEquiv>
+                    <Unicode>non inquinatur secundis sordibus. et quia ad-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506322934_545" custom="readingOrder {index:28;}">
+                <Coords points="1198,1799 463,1799 463,1828 1198,1828"/>
+                <TextEquiv>
+                    <Unicode>ducit meritum aureole et radit falce acer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506325798_548" custom="readingOrder {index:29;}">
+                <Coords points="482,1835 1209,1835 1209,1891 482,1891"/>
+                <TextEquiv>
+                    <Unicode>bitatis adherentiam venialium quorum nullum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506327678_551" custom="readingOrder {index:30;}">
+                <Coords points="1205,1901 475,1901 475,1943 1205,1943"/>
+                <TextEquiv>
+                    <Unicode>necessario facit baptismus aque. sed non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506329398_554" custom="readingOrder {index:31;}">
+                <Coords points="480,1950 1200,1950 1200,2012 480,2012"/>
+                <TextEquiv>
+                    <Unicode>in hoc que imprimit caracterem quia ille de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506333110_557" custom="readingOrder {index:32;}">
+                <Coords points="1198,2021 459,2021 459,2040 1198,2040"/>
+                <TextEquiv>
+                    <Unicode>betur invocationi Trinitatis in elemento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506335270_560" custom="readingOrder {index:33;}">
+                <Coords points="468,2066 1183,2066 1183,2102 468,2102"/>
+                <TextEquiv>
+                    <Unicode>aque t Solus ergo baptismus fluminis sacra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506337158_563" custom="readingOrder {index:34;}">
+                <Coords points="1188,2106 444,2106 444,2151 1188,2151"/>
+                <TextEquiv>
+                    <Unicode>mentum est et imprimit Caracterem non alii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>habentes illud. propter quod est lata. tum&#13;
+etiam non habentes r Unde lex baptismi&#13;
+et si contra originale institutum sit tamen et&#13;
+est lata generaliter Ioannis tertio. nisi&#13;
+quis renatus fuerit. etcetera Ideo omnes ob&#13;
+ligat et iustificatos in utero vel flamine&#13;
+penitentie et non iustificatos. Item ba&#13;
+ptismos etiam exconsequenti institutus&#13;
+est ad discretionem fidelium ab infidelibus.&#13;
+eius susceptione in Ecclesia militanti-&#13;
+Ideo ut in iudicio eiusdem Ecclesie nu&#13;
+merentur inter fideles. iustificati tenentur&#13;
+ad sacramentum baptismi fluminis. et&#13;
+ut dicit Albertus in tercio circa dis. ter-&#13;
+ciam. et in scripto quarti circa dis. vi. que&#13;
+licet gratia sanctificationis simpliciter&#13;
+maior sit quam baptismi. quia plus debilitat&#13;
+fomitem. Gratia tamen baptismalis&#13;
+secundum hoc maior est quia imprimit ca-&#13;
+ractarem signum discretionis. Idem dicit&#13;
+circa dis. quartam quarti. talis afflatus in&#13;
+conversione seu penitentia. peccatorum&#13;
+remissionem inducit ubi articulus necessi&#13;
+tatis. non contentus religionis sacramentum&#13;
+excludit s Baptismus vero san-&#13;
+guinis in martirio suscipitur qui ut dicit&#13;
+Albertus ubi supra in hoc meliorem que&#13;
+non inquinatur secundis sordibus. et quia ad-&#13;
+ducit meritum aureole et radit falce acer-&#13;
+bitatis adherentiam venialium quorum nullum&#13;
+necessario facit baptismus aque. sed non&#13;
+in hoc que imprimit caracterem quia ille de&#13;
+betur invocationi Trinitatis in elemento&#13;
+aque t Solus ergo baptismus fluminis sacra&#13;
+mentum est et imprimit Caracterem non alii.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646506195526_435" custom="readingOrder {index:2;} structure {type:[heading];}">
+            <Coords points="1212,2276 432,2276 432,2169 1212,2169"/>
+            <TextLine id="line_1646506343502_567" custom="readingOrder {index:0;}">
+                <Coords points="449,2184 1183,2184 1183,2257 449,2257"/>
+                <TextEquiv>
+                    <Unicode>Capitulum tertium de for-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Capitulum tertium de for-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646506199086_438" custom="readingOrder {index:3;} structure {type:[heading];}">
+            <Coords points="1276,276 2018,276 2018,447 1276,447"/>
+            <TextLine id="line_1646506355278_571" custom="readingOrder {index:0;}">
+                <Coords points="1294,299 2006,299 2006,361 1294,361"/>
+                <TextEquiv>
+                    <Unicode>ma baptismi primo aposto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506357214_574" custom="readingOrder {index:1;}">
+                <Coords points="1985,383 1294,383 1294,443 1985,443"/>
+                <TextEquiv>
+                    <Unicode>lorum Secundo ecclesie latine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ma baptismi primo aposto&#13;
+lorum Secundo ecclesie latine.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646506203974_441" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="2018,458 1231,458 1231,2230 2018,2230"/>
+            <TextLine id="line_1646506371446_578" custom="readingOrder {index:0;}">
+                <Coords points="1272,486 2015,486 2015,460 1272,460"/>
+                <TextEquiv>
+                    <Unicode>His itaque premissis Sciendum que si non ser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506374318_581" custom="readingOrder {index:1;}">
+                <Coords points="2008,507 1276,507 1276,544 2008,544"/>
+                <TextEquiv>
+                    <Unicode>vatur ritus ecclesie secundum materiam et formam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506376438_584" custom="readingOrder {index:2;}">
+                <Coords points="1270,554 2008,554 2008,604 1270,604"/>
+                <TextEquiv>
+                    <Unicode>eius in hoc et in aliis Sacramentis sa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506378470_587" custom="readingOrder {index:3;}">
+                <Coords points="2006,623 1268,623 1268,651 2006,651"/>
+                <TextEquiv>
+                    <Unicode>cramentum non est. quia velud dictum est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506380454_590" custom="readingOrder {index:4;}">
+                <Coords points="1266,664 2006,664 2006,720 1266,720"/>
+                <TextEquiv>
+                    <Unicode>accedente verbo ad elementum fit sacra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506382101_593" custom="readingOrder {index:5;}">
+                <Coords points="2006,724 1259,724 1259,767 2006,767"/>
+                <TextEquiv>
+                    <Unicode>mentum. dicit enim. Albertus in quarto circa dis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506384061_596" custom="readingOrder {index:6;}">
+                <Coords points="1259,767 2013,767 2013,818 1259,818"/>
+                <TextEquiv>
+                    <Unicode>primam Hugonem allegans. que non confertur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506385717_599" custom="readingOrder {index:7;}">
+                <Coords points="2013,821 1257,821 1257,866 2013,866"/>
+                <TextEquiv>
+                    <Unicode>invisibilis gratia nisi ex institutione signi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506387846_602" custom="readingOrder {index:8;}">
+                <Coords points="1259,881 1998,881 1998,924 1259,924"/>
+                <TextEquiv>
+                    <Unicode>et sanctificatione verbi. et iustificatio ex o-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506389870_605" custom="readingOrder {index:9;}">
+                <Coords points="1993,936 1259,936 1259,971 1993,971"/>
+                <TextEquiv>
+                    <Unicode>pere operato. unde et in hac parte tercia tra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506392302_608" custom="readingOrder {index:10;}">
+                <Coords points="1264,986 2011,986 2011,1039 1264,1039"/>
+                <TextEquiv>
+                    <Unicode>ctatus totius de duobus sacramentis prin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506394222_611" custom="readingOrder {index:11;}">
+                <Coords points="1998,1039 1261,1039 1261,1080 1998,1080"/>
+                <TextEquiv>
+                    <Unicode>cipalis restat determinatio. que dispariter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506396390_614" custom="readingOrder {index:12;}">
+                <Coords points="1261,1095 1996,1095 1996,1145 1261,1145"/>
+                <TextEquiv>
+                    <Unicode>latina seu occidentalis et orientalis dis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506397957_617" custom="readingOrder {index:13;}">
+                <Coords points="1998,1149 1244,1149 1244,1198 1998,1198"/>
+                <TextEquiv>
+                    <Unicode>pensat ecclesia. Quantum igitur ad latine seu Ec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506411238_621" custom="readingOrder {index:14;}">
+                <Coords points="1250,1207 2003,1207 2003,1258 1250,1258"/>
+                <TextEquiv>
+                    <Unicode>clesie Romane ritum pertinet nunc dicetur et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506413014_624" custom="readingOrder {index:15;}">
+                <Coords points="2005,1261 1244,1261 1244,1310 2005,1310"/>
+                <TextEquiv>
+                    <Unicode>primo v De baptismi forma. Si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506415518_627" custom="readingOrder {index:16;}">
+                <Coords points="1254,1322 1991,1322 1991,1361 1254,1361"/>
+                <TextEquiv>
+                    <Unicode>quidem in ecclesia primitiva apud apostolos specialiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506417430_630" custom="readingOrder {index:17;}">
+                <Coords points="1999,1363 1261,1363 1261,1412 1999,1412"/>
+                <TextEquiv>
+                    <Unicode>forma ex causa legittima servata fuit et per eos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506419998_633" custom="readingOrder {index:18;}">
+                <Coords points="1263,1418 1985,1418 1985,1466 1263,1466"/>
+                <TextEquiv>
+                    <Unicode>instituta ut quisque. in unius persone Christi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506421678_636" custom="readingOrder {index:19;}">
+                <Coords points="1985,1478 1250,1478 1250,1511 1985,1511"/>
+                <TextEquiv>
+                    <Unicode>noimine baptisaretur. ut scribitur Actuum secundo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506423477_639" custom="readingOrder {index:20;}">
+                <Coords points="1250,1527 2007,1527 2007,1574 1250,1574"/>
+                <TextEquiv>
+                    <Unicode>quarto octavo et decimo capitulis. hac ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506425518_642" custom="readingOrder {index:21;}">
+                <Coords points="2005,1580 1250,1580 1250,1622 2005,1622"/>
+                <TextEquiv>
+                    <Unicode>cessitate provocati fecerunt apostoli. Sicut dicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506427678_645" custom="readingOrder {index:22;}">
+                <Coords points="1246,1636 1989,1636 1989,1687 1246,1687"/>
+                <TextEquiv>
+                    <Unicode>Albertus in quarto dis. tercia. et dum vidissent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506429574_648" custom="readingOrder {index:23;}">
+                <Coords points="1991,1693 1259,1693 1259,1732 1991,1732"/>
+                <TextEquiv>
+                    <Unicode>hoc nomen Christus salutare. fuisse iudeis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506431910_651" custom="readingOrder {index:24;}">
+                <Coords points="1255,1751 1976,1751 1976,1794 1255,1794"/>
+                <TextEquiv>
+                    <Unicode>Exosum iuxta illud primo. ad Chorin. i.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506433854_654" custom="readingOrder {index:25;}">
+                <Coords points="1977,1796 1234,1796 1234,1841 1977,1841"/>
+                <TextEquiv>
+                    <Unicode>nos predicamus Christum crucifixun. iudeis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506435542_657" custom="readingOrder {index:26;}">
+                <Coords points="1240,1851 1983,1851 1983,1894 1240,1894"/>
+                <TextEquiv>
+                    <Unicode>quidem scandalum. etcetera in ergo nomine oportet omnem ho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506437174_660" custom="readingOrder {index:27;}">
+                <Coords points="1985,1905 1242,1905 1242,1941 1985,1941"/>
+                <TextEquiv>
+                    <Unicode>minem salvum fieri. cernentesque spiritum sanctum vi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506438958_663" custom="readingOrder {index:28;}">
+                <Coords points="1248,1956 1981,1956 1981,2009 1248,2009"/>
+                <TextEquiv>
+                    <Unicode>sibiliter descendere ad invocationem eius nominis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506440678_666" custom="readingOrder {index:29;}">
+                <Coords points="1981,2009 1240,2009 1240,2048 1981,2048"/>
+                <TextEquiv>
+                    <Unicode>ut igitur cunctis nomen hoc venerabile et ama-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506442358_669" custom="readingOrder {index:30;}">
+                <Coords points="1238,2058 1979,2058 1979,2112 1238,2112"/>
+                <TextEquiv>
+                    <Unicode>bile monstraretur. voluit spiritus sanctus ut in illo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506444222_672" custom="readingOrder {index:31;}">
+                <Coords points="1977,2120 1240,2120 1240,2153 1977,2153"/>
+                <TextEquiv>
+                    <Unicode>nomine baptisarentur ad tempus ex eius dispensatione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646506446534_675" custom="readingOrder {index:32;}">
+                <Coords points="1250,2173 1968,2173 1968,2222 1250,2222"/>
+                <TextEquiv>
+                    <Unicode>donec nocius nomen ipsum Christus magisque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>His itaque premissis Sciendum que si non ser&#13;
+vatur ritus ecclesie secundum materiam et formam&#13;
+eius in hoc et in aliis Sacramentis sa-&#13;
+cramentum non est. quia velud dictum est&#13;
+accedente verbo ad elementum fit sacra-&#13;
+mentum. dicit enim. Albertus in quarto circa dis.&#13;
+primam Hugonem allegans. que non confertur&#13;
+invisibilis gratia nisi ex institutione signi&#13;
+et sanctificatione verbi. et iustificatio ex o-&#13;
+pere operato. unde et in hac parte tercia tra-&#13;
+ctatus totius de duobus sacramentis prin&#13;
+cipalis restat determinatio. que dispariter&#13;
+latina seu occidentalis et orientalis dis-&#13;
+pensat ecclesia. Quantum igitur ad latine seu Ec&#13;
+clesie Romane ritum pertinet nunc dicetur et&#13;
+primo v De baptismi forma. Si&#13;
+quidem in ecclesia primitiva apud apostolos specialiter&#13;
+forma ex causa legittima servata fuit et per eos&#13;
+instituta ut quisque. in unius persone Christi&#13;
+noimine baptisaretur. ut scribitur Actuum secundo&#13;
+quarto octavo et decimo capitulis. hac ne&#13;
+cessitate provocati fecerunt apostoli. Sicut dicit&#13;
+Albertus in quarto dis. tercia. et dum vidissent&#13;
+hoc nomen Christus salutare. fuisse iudeis&#13;
+Exosum iuxta illud primo. ad Chorin. i.&#13;
+nos predicamus Christum crucifixun. iudeis&#13;
+quidem scandalum. etcetera in ergo nomine oportet omnem ho&#13;
+minem salvum fieri. cernentesque spiritum sanctum vi-&#13;
+sibiliter descendere ad invocationem eius nominis&#13;
+ut igitur cunctis nomen hoc venerabile et ama-&#13;
+bile monstraretur. voluit spiritus sanctus ut in illo&#13;
+nomine baptisarentur ad tempus ex eius dispensatione&#13;
+donec nocius nomen ipsum Christus magisque</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

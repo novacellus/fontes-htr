@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:47:27.616+02:00</Created>
+        <LastChange>2022-12-12T13:15:26.412+01:00</LastChange>
+        <TranskribusMetadata docId="955440" pageId="37131875" pageNr="216" tsid="79649028" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=DFPWJCTIPUHMZCKTXOBZSSDK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MYSRFCUUPBDRFJVIEUSFMBAJ" imageId="29937500"/>
+    </Metadata>
+    <Page imageFilename="GLOG_AnPost-0216.jpg" imageWidth="1765" imageHeight="2613">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1670847326421" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1651935719250_169"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1651935719250_168"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1651935719250_169" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="560,179 1718,179 1718,253 560,253"/>
+            <TextLine id="line_1651944269682_562" custom="readingOrder {index:0;}">
+                <Coords points="705,195 730,194 933,189 1624,179 1624,246 1570,252 1489,259 1435,261 705,261"/>
+                <Baseline points="705,239 730,238 755,238 781,238 806,238 831,237 857,237 882,236 907,235 933,233 1301,236 1327,238 1354,239 1381,239 1408,239 1435,239 1462,238 1489,237 1516,234 1543,232 1570,230 1597,227 1624,224"/>
+                <TextEquiv>
+                    <Unicode>Liber Primus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Liber Primus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651935719250_168" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="560,253 1718,253 1718,1995 560,1995"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="600,352 655,350 711,349 767,349 823,349 879,350 935,351 991,353 1047,354 1103,355 1159,356 1214,356 1270,357 1326,356 1382,355 1438,353 1494,349 1550,344 1606,339 1662,331 1718,323 1718,259 1662,267 1606,275 1550,280 1494,285 1438,289 1382,291 1326,292 1270,293 1214,292 1159,292 1103,291 1047,290 991,289 935,287 879,286 823,285 767,285 711,285 655,286 600,288"/>
+                <Baseline points="600,331 655,329 711,328 767,328 823,328 879,329 935,330 991,332 1047,333 1103,334 1159,335 1214,335 1270,336 1326,335 1382,334 1438,332 1494,328 1550,323 1606,318 1662,310 1718,302"/>
+                <TextEquiv>
+                    <Unicode>que in illis logice aliqua quidem speculentur hoc manifestum est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="598,439 653,439 709,440 765,441 820,442 876,444 932,445 987,447 1043,448 1099,449 1155,450 1210,451 1266,451 1322,450 1377,449 1433,446 1489,443 1544,439 1600,434 1656,427 1712,420 1712,356 1656,363 1600,370 1544,375 1489,379 1433,382 1377,385 1322,386 1266,387 1210,387 1155,386 1099,385 1043,384 987,383 932,381 876,380 820,378 765,377 709,376 653,375 598,375"/>
+                <Baseline points="598,418 653,418 709,419 765,420 820,421 876,423 932,424 987,426 1043,427 1099,428 1155,429 1210,430 1266,430 1322,429 1377,428 1433,425 1489,422 1544,418 1600,413 1656,406 1712,399"/>
+                <TextEquiv>
+                    <Unicode>in his quidem igitur que in eo que quid est predicatur patet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="600,538 655,538 711,538 766,539 822,540 878,542 933,543 989,545 1044,546 1100,548 1156,549 1211,549 1267,549 1322,549 1378,548 1434,546 1489,543 1545,539 1600,534 1656,529 1712,521 1712,454 1656,462 1600,467 1545,472 1489,476 1434,479 1378,481 1322,482 1267,482 1211,482 1156,482 1100,481 1044,479 989,478 933,476 878,475 822,473 766,472 711,471 655,471 600,471"/>
+                <Baseline points="600,516 655,516 711,516 766,517 822,518 878,520 933,521 989,523 1044,524 1100,526 1156,527 1211,527 1267,527 1322,527 1378,526 1434,524 1489,521 1545,517 1600,512 1656,507 1712,499"/>
+                <TextEquiv>
+                    <Unicode>si enim diffinire aut si notum est quod quid erat esse. infi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="590,633 645,633 701,633 757,633 813,634 869,635 925,636 981,637 1037,638 1093,640 1149,641 1204,641 1260,641 1316,641 1372,640 1428,639 1484,636 1540,633 1596,629 1652,624 1708,617 1708,550 1652,557 1596,562 1540,566 1484,569 1428,572 1372,573 1316,574 1260,574 1204,574 1149,574 1093,573 1037,571 981,570 925,569 869,568 813,567 757,566 701,566 645,566 590,566"/>
+                <Baseline points="590,611 645,611 701,611 757,611 813,612 869,613 925,614 981,615 1037,616 1093,618 1149,619 1204,619 1260,619 1316,619 1372,618 1428,617 1484,614 1540,611 1596,607 1652,602 1708,595"/>
+                <TextEquiv>
+                    <Unicode>nita autem non est transire. Necesse ergo fieri in eo quod quid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="590,730 645,728 701,727 757,726 813,727 869,727 924,729 980,730 1036,732 1092,733 1148,735 1203,736 1259,737 1315,737 1371,737 1427,735 1482,733 1538,729 1594,725 1650,718 1706,711 1706,647 1650,654 1594,661 1538,665 1482,669 1427,671 1371,673 1315,673 1259,673 1203,672 1148,671 1092,669 1036,668 980,666 924,665 869,663 813,663 757,662 701,663 645,664 590,666"/>
+                <Baseline points="590,709 645,707 701,706 757,705 813,706 869,706 924,708 980,709 1036,711 1092,712 1148,714 1203,715 1259,716 1315,716 1371,716 1427,714 1482,712 1538,708 1594,704 1650,697 1706,690"/>
+                <TextEquiv>
+                    <Unicode>predicantia universaliter autem sic dicimus. Est enim verum dice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="584,820 640,817 696,816 752,816 808,817 865,818 921,819 977,821 1033,823 1089,825 1146,827 1202,829 1258,830 1314,831 1370,831 1427,830 1483,828 1539,825 1595,821 1651,815 1708,808 1708,742 1651,749 1595,755 1539,759 1483,762 1427,764 1370,765 1314,765 1258,764 1202,763 1146,761 1089,759 1033,757 977,755 921,753 865,752 808,751 752,750 696,750 640,751 584,754"/>
+                <Baseline points="584,798 640,795 696,794 752,794 808,795 865,796 921,797 977,799 1033,801 1089,803 1146,805 1202,807 1258,808 1314,809 1370,809 1427,808 1483,806 1539,803 1595,799 1651,793 1708,786"/>
+                <TextEquiv>
+                    <Unicode>re album ambulare et magnum illud lignum esse. et iterum li-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="582,913 638,911 694,909 751,909 807,909 864,910 920,912 976,914 1033,916 1089,918 1146,920 1202,923 1258,924 1315,925 1371,925 1428,924 1484,921 1540,918 1597,913 1653,907 1710,898 1710,832 1653,841 1597,847 1540,852 1484,855 1428,858 1371,859 1315,859 1258,858 1202,857 1146,854 1089,852 1033,850 976,848 920,846 864,844 807,843 751,843 694,843 638,845 582,847"/>
+                <Baseline points="582,891 638,889 694,887 751,887 807,887 864,888 920,890 976,892 1033,894 1089,896 1146,898 1202,901 1258,902 1315,903 1371,903 1428,902 1484,899 1540,896 1597,891 1653,885 1710,876"/>
+                <TextEquiv>
+                    <Unicode>gnum magnum esse. et hominem ambulare. Alterum igitur est di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="586,1009 641,1007 697,1007 753,1008 808,1009 864,1010 920,1012 975,1014 1031,1016 1087,1019 1143,1021 1198,1022 1254,1023 1310,1024 1365,1024 1421,1023 1477,1021 1532,1018 1588,1013 1644,1008 1700,1001 1700,934 1644,941 1588,946 1532,951 1477,954 1421,956 1365,957 1310,957 1254,956 1198,955 1143,954 1087,952 1031,949 975,947 920,945 864,943 808,942 753,941 697,940 641,940 586,942"/>
+                <Baseline points="586,987 641,985 697,985 753,986 808,987 864,988 920,990 975,992 1031,994 1087,997 1143,999 1198,1000 1254,1001 1310,1002 1365,1002 1421,1001 1477,999 1532,996 1588,991 1644,986 1700,979"/>
+                <TextEquiv>
+                    <Unicode>cere sic. aut illo modo. Cum enim album quidem dico esse lig-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="579,1110 635,1108 691,1107 747,1107 803,1107 859,1108 915,1110 972,1111 1028,1113 1084,1115 1140,1117 1196,1119 1252,1120 1308,1121 1365,1121 1421,1120 1477,1118 1533,1115 1589,1111 1645,1106 1702,1098 1702,1031 1645,1039 1589,1044 1533,1048 1477,1051 1421,1053 1365,1054 1308,1054 1252,1053 1196,1052 1140,1050 1084,1048 1028,1046 972,1044 915,1043 859,1041 803,1040 747,1040 691,1040 635,1041 579,1043"/>
+                <Baseline points="579,1088 635,1086 691,1085 747,1085 803,1085 859,1086 915,1088 972,1089 1028,1091 1084,1093 1140,1095 1196,1097 1252,1098 1308,1099 1365,1099 1421,1098 1477,1096 1533,1093 1589,1089 1645,1084 1702,1076"/>
+                <TextEquiv>
+                    <Unicode>gnum tunc dico cui accidit album esse. lignum est sed non que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="566,1205 622,1203 679,1203 735,1203 792,1204 849,1206 905,1208 962,1210 1018,1212 1075,1215 1132,1216 1188,1218 1245,1219 1301,1220 1358,1220 1415,1218 1471,1216 1528,1213 1584,1208 1641,1202 1698,1193 1698,1126 1641,1135 1584,1141 1528,1146 1471,1149 1415,1151 1358,1153 1301,1153 1245,1152 1188,1151 1132,1149 1075,1148 1018,1145 962,1143 905,1141 849,1139 792,1137 735,1136 679,1136 622,1136 566,1138"/>
+                <Baseline points="566,1183 622,1181 679,1181 735,1181 792,1182 849,1184 905,1186 962,1188 1018,1190 1075,1193 1132,1194 1188,1196 1245,1197 1301,1198 1358,1198 1415,1196 1471,1194 1528,1191 1584,1186 1641,1180 1698,1171"/>
+                <TextEquiv>
+                    <Unicode>subiectum ligno album est. Et nanque neque quod cum album</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="578,1302 634,1299 690,1298 746,1297 802,1298 858,1299 914,1301 970,1303 1026,1305 1082,1308 1139,1310 1195,1312 1251,1313 1307,1314 1363,1314 1419,1313 1475,1311 1531,1308 1587,1303 1643,1297 1700,1289 1700,1222 1643,1230 1587,1236 1531,1241 1475,1244 1419,1246 1363,1247 1307,1247 1251,1246 1195,1245 1139,1243 1082,1241 1026,1238 970,1236 914,1234 858,1232 802,1231 746,1230 690,1231 634,1232 578,1235"/>
+                <Baseline points="578,1280 634,1277 690,1276 746,1275 802,1276 858,1277 914,1279 970,1281 1026,1283 1082,1286 1139,1288 1195,1290 1251,1291 1307,1292 1363,1292 1419,1291 1475,1289 1531,1286 1587,1281 1643,1275 1700,1267"/>
+                <TextEquiv>
+                    <Unicode>est. neque aliquod vere factum est lignum. quare non est secundum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="572,1393 628,1390 684,1389 741,1388 797,1389 854,1390 910,1392 966,1394 1023,1397 1079,1399 1136,1401 1192,1403 1248,1405 1305,1406 1361,1406 1418,1405 1474,1403 1530,1401 1587,1396 1643,1390 1700,1382 1700,1315 1643,1323 1587,1329 1530,1334 1474,1336 1418,1338 1361,1339 1305,1339 1248,1338 1192,1336 1136,1334 1079,1332 1023,1330 966,1327 910,1325 854,1323 797,1322 741,1321 684,1322 628,1323 572,1326"/>
+                <Baseline points="572,1371 628,1368 684,1367 741,1366 797,1367 854,1368 910,1370 966,1372 1023,1375 1079,1377 1136,1379 1192,1381 1248,1383 1305,1384 1361,1384 1418,1383 1474,1381 1530,1379 1587,1374 1643,1368 1700,1360"/>
+                <TextEquiv>
+                    <Unicode>se primo sed aut secundum accidens. Cum vero lignum album esse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="574,1493 630,1491 686,1490 742,1490 798,1490 854,1492 910,1494 966,1495 1022,1498 1078,1500 1135,1502 1191,1504 1247,1505 1303,1506 1359,1505 1415,1504 1471,1502 1527,1498 1583,1493 1639,1486 1696,1477 1696,1410 1639,1419 1583,1426 1527,1431 1471,1435 1415,1437 1359,1438 1303,1439 1247,1438 1191,1437 1135,1435 1078,1433 1022,1431 966,1428 910,1427 854,1425 798,1423 742,1423 686,1423 630,1424 574,1426"/>
+                <Baseline points="574,1471 630,1469 686,1468 742,1468 798,1468 854,1470 910,1472 966,1473 1022,1476 1078,1478 1135,1480 1191,1482 1247,1483 1303,1484 1359,1483 1415,1482 1471,1480 1527,1476 1583,1471 1639,1464 1696,1455"/>
+                <TextEquiv>
+                    <Unicode>dico. non que alterum aliquod sit album illi enim accidit li-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="566,1594 622,1591 678,1590 734,1589 790,1590 847,1591 903,1592 959,1595 1015,1597 1071,1599 1128,1600 1184,1602 1240,1603 1296,1604 1352,1603 1409,1602 1465,1600 1521,1596 1577,1591 1633,1585 1690,1577 1690,1510 1633,1518 1577,1524 1521,1529 1465,1533 1409,1535 1352,1536 1296,1537 1240,1536 1184,1535 1128,1533 1071,1532 1015,1530 959,1528 903,1525 847,1524 790,1523 734,1522 678,1523 622,1524 566,1527"/>
+                <Baseline points="566,1572 622,1569 678,1568 734,1567 790,1568 847,1569 903,1570 959,1573 1015,1575 1071,1577 1128,1578 1184,1580 1240,1581 1296,1582 1352,1581 1409,1580 1465,1578 1521,1574 1577,1569 1633,1563 1690,1555"/>
+                <TextEquiv>
+                    <Unicode>gnum esse. ut sum musicum album esse. dico tunc quoniam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="568,1690 624,1688 680,1686 736,1686 792,1686 848,1687 904,1689 960,1691 1016,1693 1072,1696 1128,1697 1184,1699 1240,1701 1296,1701 1352,1701 1408,1701 1464,1699 1520,1695 1576,1690 1632,1684 1688,1676 1688,1609 1632,1617 1576,1623 1520,1628 1464,1632 1408,1634 1352,1634 1296,1634 1240,1634 1184,1632 1128,1630 1072,1629 1016,1626 960,1624 904,1622 848,1620 792,1619 736,1619 680,1619 624,1621 568,1623"/>
+                <Baseline points="568,1668 624,1666 680,1664 736,1664 792,1664 848,1665 904,1667 960,1669 1016,1671 1072,1674 1128,1675 1184,1677 1240,1679 1296,1679 1352,1679 1408,1679 1464,1677 1520,1673 1576,1668 1632,1662 1688,1654"/>
+                <TextEquiv>
+                    <Unicode>albus homo est. cui accidit musicum esse dico. Sed quod li-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="564,1790 620,1787 676,1786 732,1785 789,1785 845,1786 901,1788 958,1790 1014,1792 1070,1794 1127,1796 1183,1798 1239,1799 1295,1799 1352,1799 1408,1798 1464,1796 1521,1793 1577,1788 1633,1781 1690,1773 1690,1706 1633,1714 1577,1721 1521,1726 1464,1729 1408,1731 1352,1732 1295,1732 1239,1732 1183,1731 1127,1729 1070,1727 1014,1725 958,1723 901,1721 845,1719 789,1718 732,1718 676,1719 620,1720 564,1723"/>
+                <Baseline points="564,1768 620,1765 676,1764 732,1763 789,1763 845,1764 901,1766 958,1768 1014,1770 1070,1772 1127,1774 1183,1776 1239,1777 1295,1777 1352,1777 1408,1776 1464,1774 1521,1771 1577,1766 1633,1759 1690,1751"/>
+                <TextEquiv>
+                    <Unicode>gnum est subiectum. quia quod vere subiectum factum est.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="560,1889 616,1886 673,1885 729,1884 786,1885 843,1886 899,1888 956,1890 1012,1891 1069,1894 1126,1896 1182,1897 1239,1899 1295,1899 1352,1899 1409,1897 1465,1895 1522,1892 1578,1886 1635,1879 1692,1871 1692,1804 1635,1812 1578,1819 1522,1825 1465,1828 1409,1830 1352,1832 1295,1832 1239,1832 1182,1830 1126,1829 1069,1827 1012,1824 956,1823 899,1821 843,1819 786,1818 729,1817 673,1818 616,1819 560,1822"/>
+                <Baseline points="560,1867 616,1864 673,1863 729,1862 786,1863 843,1864 899,1866 956,1868 1012,1869 1069,1872 1126,1874 1182,1875 1239,1877 1295,1877 1352,1877 1409,1875 1465,1873 1522,1870 1578,1864 1635,1857 1692,1849"/>
+                <TextEquiv>
+                    <Unicode>non que aliud alterum quam quod vere est lignum. aut lignum ali-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="560,1981 616,1980 672,1980 728,1981 784,1982 840,1984 896,1985 952,1988 1008,1990 1064,1991 1120,1993 1176,1994 1232,1995 1288,1995 1344,1995 1400,1993 1456,1991 1512,1988 1568,1984 1624,1977 1680,1970 1680,1903 1624,1910 1568,1917 1512,1921 1456,1924 1400,1926 1344,1928 1288,1928 1232,1928 1176,1927 1120,1926 1064,1924 1008,1923 952,1921 896,1918 840,1917 784,1915 728,1914 672,1913 616,1913 560,1914"/>
+                <Baseline points="560,1959 616,1958 672,1958 728,1959 784,1960 840,1962 896,1963 952,1966 1008,1968 1064,1969 1120,1971 1176,1972 1232,1973 1288,1973 1344,1973 1400,1971 1456,1969 1512,1966 1568,1962 1624,1955 1680,1948"/>
+                <TextEquiv>
+                    <Unicode>quod. Si igitur oportet nomina ponere et sic dicere predicari. sed illo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>que in illis logice aliqua quidem speculentur hoc manifestum est&#13;
+in his quidem igitur que in eo que quid est predicatur patet&#13;
+si enim diffinire aut si notum est quod quid erat esse. infi-&#13;
+nita autem non est transire. Necesse ergo fieri in eo quod quid&#13;
+predicantia universaliter autem sic dicimus. Est enim verum dice&#13;
+re album ambulare et magnum illud lignum esse. et iterum li-&#13;
+gnum magnum esse. et hominem ambulare. Alterum igitur est di&#13;
+cere sic. aut illo modo. Cum enim album quidem dico esse lig-&#13;
+gnum tunc dico cui accidit album esse. lignum est sed non que&#13;
+subiectum ligno album est. Et nanque neque quod cum album&#13;
+est. neque aliquod vere factum est lignum. quare non est secundum&#13;
+se primo sed aut secundum accidens. Cum vero lignum album esse&#13;
+dico. non que alterum aliquod sit album illi enim accidit li-&#13;
+gnum esse. ut sum musicum album esse. dico tunc quoniam&#13;
+albus homo est. cui accidit musicum esse dico. Sed quod li-&#13;
+gnum est subiectum. quia quod vere subiectum factum est.&#13;
+non que aliud alterum quam quod vere est lignum. aut lignum ali-&#13;
+quod. Si igitur oportet nomina ponere et sic dicere predicari. sed illo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

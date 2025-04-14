@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:47:29.417+02:00</Created>
+        <LastChange>2022-05-09T15:31:34.742+02:00</LastChange>
+        <TranskribusMetadata docId="955440" pageId="37132006" pageNr="322" tsid="79649435" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=ERYQUNMEPFDIJJNXSVDCOFVY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YXLXENNYNDQQQYFOQRTUFZCY" imageId="29937631"/>
+    </Metadata>
+    <Page imageFilename="GLOG_AnPost-0322.jpg" imageWidth="1752" imageHeight="2656">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1652103094754" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1652102136482_623"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1652102141377_629"/>
+                <RegionRefIndexed index="2" regionRef="region_1652102156032_640"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1652102145601_635"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1652102145601_634"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1652102136482_623" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="556,204 1679,204 1679,258 556,258"/>
+            <TextLine id="line_1652102207201_664" custom="readingOrder {index:0;}">
+                <Coords points="678,225 786,221 1599,204 1599,247 1573,251 1548,254 1522,257 1471,262 1446,264 1395,267 1319,270 921,272 678,268"/>
+                <Baseline points="678,254 705,253 732,252 759,251 786,250 813,250 840,250 867,252 894,254 921,258 1090,253 1115,254 1140,255 1166,255 1191,256 1217,256 1242,256 1268,256 1293,256 1319,256 1344,255 1369,254 1395,253 1420,251 1446,250 1471,248 1497,245 1522,243 1548,240 1573,237 1599,233"/>
+                <TextEquiv>
+                    <Unicode>Liber Secundus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Liber Secundus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1652102141377_629" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="556,258 1679,258 1679,628 556,628"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="580,328 634,327 689,326 744,326 799,327 854,328 908,329 963,331 1018,332 1073,334 1128,335 1182,335 1237,335 1292,334 1347,332 1402,330 1456,325 1511,320 1566,313 1621,304 1676,294 1676,263 1621,273 1566,282 1511,289 1456,294 1402,299 1347,301 1292,303 1237,304 1182,304 1128,304 1073,303 1018,301 963,300 908,298 854,297 799,296 744,295 689,295 634,296 580,297"/>
+                <Baseline points="580,318 634,317 689,316 744,316 799,317 854,318 908,319 963,321 1018,322 1073,324 1128,325 1182,325 1237,325 1292,324 1347,322 1402,320 1456,315 1511,310 1566,303 1621,294 1676,284"/>
+                <TextEquiv>
+                    <Unicode>subiecti. tu~c fieret petitio p~ncipij. igit^. Maior e~ nota ⁊ petitio p~nci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="577,372 631,371 686,371 741,371 796,372 850,373 905,374 960,376 1015,377 1069,378 1124,378 1179,379 1234,378 1288,377 1343,375 1398,373 1453,368 1507,363 1562,357 1617,349 1672,339 1672,309 1617,319 1562,327 1507,333 1453,338 1398,343 1343,345 1288,347 1234,348 1179,349 1124,348 1069,348 1015,347 960,346 905,344 850,343 796,342 741,341 686,341 631,341 577,342"/>
+                <Baseline points="577,362 631,361 686,361 741,361 796,362 850,363 905,364 960,366 1015,367 1069,368 1124,368 1179,369 1234,368 1288,367 1343,365 1398,363 1453,358 1507,353 1562,347 1617,339 1672,329"/>
+                <TextEquiv>
+                    <Unicode>pij nihil ꝓbat. Minor pʒ ⁊ di~o passio~is est ide~ cu~ passio~e cu~ di~o et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="584,413 638,413 692,413 746,414 801,415 855,416 909,418 964,419 1018,420 1072,421 1127,422 1181,422 1235,421 1289,420 1344,418 1398,416 1452,411 1507,406 1561,400 1615,392 1670,383 1670,353 1615,362 1561,370 1507,376 1452,381 1398,386 1344,388 1289,390 1235,391 1181,392 1127,392 1072,391 1018,390 964,389 909,388 855,386 801,385 746,384 692,383 638,383 584,383"/>
+                <Baseline points="584,403 638,403 692,403 746,404 801,405 855,406 909,408 964,409 1018,410 1072,411 1127,412 1181,412 1235,411 1289,410 1344,408 1398,406 1452,401 1507,396 1561,390 1615,382 1670,373"/>
+                <TextEquiv>
+                    <Unicode>diffinitu~ dicu~t ide~ vt on~dit doctor sanctꝰ in tractatu de q~ditatibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="578,458 632,457 687,457 742,457 797,458 852,459 907,460 962,462 1017,463 1072,464 1127,465 1181,465 1236,465 1291,464 1346,462 1401,458 1456,454 1511,449 1566,442 1621,434 1676,424 1676,394 1621,404 1566,412 1511,419 1456,424 1401,428 1346,432 1291,434 1236,435 1181,435 1127,435 1072,434 1017,433 962,432 907,430 852,429 797,428 742,427 687,427 632,427 578,428"/>
+                <Baseline points="578,448 632,447 687,447 742,447 797,448 852,449 907,450 962,452 1017,453 1072,454 1127,455 1181,455 1236,455 1291,454 1346,452 1401,448 1456,444 1511,439 1566,432 1621,424 1676,414"/>
+                <TextEquiv>
+                    <Unicode>reru~. ¶ Dico veru~ argume~tu~ co~cludit ꝙ di~o inco~pleta passio~is e~ ide~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="590,503 644,502 698,501 752,502 806,503 861,503 915,505 969,506 1023,507 1077,508 1132,508 1186,508 1240,508 1294,507 1348,505 1403,502 1457,497 1511,493 1565,486 1619,478 1674,468 1674,437 1619,447 1565,455 1511,462 1457,466 1403,471 1348,474 1294,476 1240,477 1186,477 1132,477 1077,477 1023,476 969,475 915,474 861,472 806,472 752,471 698,470 644,471 590,472"/>
+                <Baseline points="590,493 644,492 698,491 752,492 806,493 861,493 915,495 969,496 1023,497 1077,498 1132,498 1186,498 1240,498 1294,497 1348,495 1403,492 1457,487 1511,483 1565,476 1619,468 1674,458"/>
+                <TextEquiv>
+                    <Unicode>cu~ passione. sed co~pleta no~ ⁊ talis includit etia~ p~ncipia subiecti que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="580,546 634,545 689,545 743,545 798,546 852,547 907,548 961,549 1016,550 1070,551 1125,552 1179,552 1234,551 1288,550 1343,548 1397,546 1452,542 1506,536 1561,530 1615,522 1670,512 1670,482 1615,492 1561,500 1506,506 1452,512 1397,516 1343,518 1288,520 1234,521 1179,522 1125,522 1070,521 1016,520 961,519 907,518 852,517 798,516 743,515 689,515 634,515 580,516"/>
+                <Baseline points="580,536 634,535 689,535 743,535 798,536 852,537 907,538 961,539 1016,540 1070,541 1125,542 1179,542 1234,541 1288,540 1343,538 1397,536 1452,532 1506,526 1561,520 1615,512 1670,502"/>
+                <TextEquiv>
+                    <Unicode>si yde~ptifica~t^ cu~ passio~e et sic in tali demr~ato~e n~ e~ petitio p~nicipij. vn~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="576,588 631,588 686,588 741,588 796,589 851,590 906,591 961,592 1016,593 1071,594 1127,594 1182,594 1237,594 1292,592 1347,590 1402,587 1457,583 1512,577 1567,571 1622,563 1678,553 1678,523 1622,533 1567,541 1512,547 1457,553 1402,557 1347,560 1292,562 1237,564 1182,564 1127,564 1071,564 1016,563 961,562 906,561 851,560 796,559 741,558 686,558 631,558 576,558"/>
+                <Baseline points="576,578 631,578 686,578 741,578 796,579 851,580 906,581 961,582 1016,583 1071,584 1127,584 1182,584 1237,584 1292,582 1347,580 1402,577 1457,573 1512,567 1567,561 1622,553 1678,543"/>
+                <TextEquiv>
+                    <Unicode>et ꝟm natura~ p~us e~ ho~ qʒ~~ risibile. sub'a em~ est p~or accidente et sic tał</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="582,633 636,632 690,632 745,632 799,632 854,633 908,634 962,635 1017,636 1071,637 1126,638 1180,638 1234,637 1289,636 1343,634 1398,631 1452,627 1506,622 1561,615 1615,607 1670,597 1670,567 1615,577 1561,585 1506,592 1452,597 1398,601 1343,604 1289,606 1234,607 1180,608 1126,608 1071,607 1017,606 962,605 908,604 854,603 799,602 745,602 690,602 636,602 582,603"/>
+                <Baseline points="582,623 636,622 690,622 745,622 799,622 854,623 908,624 962,625 1017,626 1071,627 1126,628"/>
+                <TextEquiv>
+                    <Unicode>demr~atio in qua ponit^ co~pleta di~o passionis pro medio est ex p~oribʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>subiecti. tu~c fieret petitio p~ncipij. igit^. Maior e~ nota ⁊ petitio p~nci&#13;
+pij nihil ꝓbat. Minor pʒ ⁊ di~o passio~is est ide~ cu~ passio~e cu~ di~o et &#13;
+diffinitu~ dicu~t ide~ vt on~dit doctor sanctꝰ in tractatu de q~ditatibus&#13;
+reru~. ¶ Dico veru~ argume~tu~ co~cludit ꝙ di~o inco~pleta passio~is e~ ide~&#13;
+cu~ passione. sed co~pleta no~ ⁊ talis includit etia~ p~ncipia subiecti que&#13;
+si yde~ptifica~t^ cu~ passio~e et sic in tali demr~ato~e n~ e~ petitio p~nicipij. vn~&#13;
+et ꝟm natura~ p~us e~ ho~ qʒ~~ risibile. sub'a em~ est p~or accidente et sic tał&#13;
+demr~atio in qua ponit^ co~pleta di~o passionis pro medio est ex p~oribʒ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1652102156032_640" custom="readingOrder {index:2;} structure {type:[drop-capital];}">
+            <Coords points="557,621 670,621 670,710 557,710"/>
+            <TextLine id="line_1652102164408_646" custom="readingOrder {index:0;}">
+                <Coords points="580,636 643,636 643,695 580,695"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1652102145601_635" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="556,628 1679,628 1679,1069 556,1069"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+                <Coords points="580,671 634,672 689,673 744,674 799,675 854,677 908,678 963,679 1018,681 1073,682 1128,682 1182,682 1237,681 1292,680 1347,678 1402,674 1456,670 1511,664 1566,657 1621,650 1676,640 1676,610 1621,620 1566,627 1511,634 1456,640 1402,644 1347,648 1292,650 1237,651 1182,652 1128,652 1073,652 1018,651 963,649 908,648 854,647 799,645 744,644 689,643 634,642 580,641"/>
+                <Baseline points="580,661 634,662 689,663 744,664 799,665 854,667 908,668 963,669 1018,671 1073,672 1128,672 1182,672 1237,671 1292,670 1347,668 1402,664 1456,660 1511,654 1566,647 1621,640 1676,630"/>
+                <TextEquiv>
+                    <Unicode>rguit^ octauo et vln~o Nlła e~ di~o passio~is inco~pleta. igit^. ꝓbat^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;} textStyle {offset:66; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="572,721 626,719 681,718 735,718 790,719 844,720 899,721 953,722 1008,724 1062,725 1117,725 1172,726 1226,726 1281,725 1335,723 1390,720 1444,716 1499,711 1553,704 1608,696 1663,686 1663,656 1608,666 1553,674 1499,681 1444,686 1390,690 1335,693 1281,695 1226,696 1172,696 1117,695 1062,695 1008,694 953,692 899,691 844,690 790,689 735,688 681,688 626,689 572,691"/>
+                <Baseline points="572,711 626,709 681,708 735,708 790,709 844,710 899,711 953,712 1008,714 1062,715 1117,715 1172,716 1226,716 1281,715 1335,713 1390,710 1444,706 1499,701 1553,694 1608,686 1663,676"/>
+                <TextEquiv>
+                    <Unicode>⁊ si sic maxi~e illa q~ dat^ ꝑ p~nicipia ꝓp~a ip~iꝰ pasio~is. sʒ ho no~ ꝓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+                <Coords points="576,763 630,762 685,762 740,762 794,763 849,763 904,765 958,766 1013,767 1068,768 1123,768 1177,769 1232,768 1287,767 1341,765 1396,762 1451,758 1505,752 1560,745 1615,737 1670,726 1670,696 1615,707 1560,715 1505,722 1451,728 1396,732 1341,735 1287,737 1232,738 1177,739 1123,738 1068,738 1013,737 958,736 904,735 849,733 794,733 740,732 685,732 630,732 576,733"/>
+                <Baseline points="576,753 630,752 685,752 740,752 794,753 849,753 904,755 958,756 1013,757 1068,758 1123,758 1177,759 1232,758 1287,757 1341,755 1396,752 1451,748 1505,742 1560,735 1615,727 1670,716"/>
+                <TextEquiv>
+                    <Unicode>bat^. Oi~s di~o data ꝑ ꝓximu~ genꝰ et drn~aʒ ꝓpria~ est ꝑfecta et co~pleta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="570,803 625,802 680,802 735,803 791,804 846,805 901,806 957,808 1012,809 1067,811 1123,811 1178,812 1233,812 1288,811 1344,809 1399,806 1454,801 1510,796 1565,788 1620,780 1676,769 1676,739 1620,750 1565,758 1510,766 1454,771 1399,776 1344,779 1288,781 1233,782 1178,782 1123,781 1067,781 1012,779 957,778 901,776 846,775 791,774 735,773 680,772 625,772 570,773"/>
+                <Baseline points="570,793 625,792 680,792 735,793 791,794 846,795 901,796 957,798 1012,799 1067,801 1123,801 1178,802 1233,802 1288,801 1344,799 1399,796 1454,791 1510,786 1565,778 1620,770 1676,759"/>
+                <TextEquiv>
+                    <Unicode>Sed di~o passio~is dat^ ꝑ ꝓximu~ genꝰ et drn~am ꝓpria~. igit^ est co~pleta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="572,851 627,848 682,847 737,846 792,846 847,847 902,848 957,850 1012,851 1067,853 1122,854 1177,855 1232,855 1287,854 1342,852 1397,849 1452,845 1507,839 1562,832 1617,822 1672,811 1672,781 1617,792 1562,802 1507,809 1452,815 1397,819 1342,822 1287,824 1232,825 1177,825 1122,824 1067,823 1012,821 957,820 902,818 847,817 792,816 737,816 682,817 627,818 572,821"/>
+                <Baseline points="572,841 627,838 682,837 737,836 792,836 847,837 902,838 957,840 1012,841 1067,843 1122,844 1177,845 1232,845 1287,844 1342,842 1397,839 1452,835 1507,829 1562,822 1617,812 1672,801"/>
+                <TextEquiv>
+                    <Unicode>Maior e~ Boe. in libro diffinitionu~. Minor pʒ ⁊ ideo d'r di~o passio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+                <Coords points="576,894 630,892 685,891 739,890 794,891 848,891 903,892 957,893 1012,895 1066,896 1121,897 1175,897 1230,897 1284,896 1339,894 1393,891 1448,888 1502,882 1557,876 1611,867 1666,857 1666,827 1611,837 1557,846 1502,852 1448,858 1393,861 1339,864 1284,866 1230,867 1175,867 1121,867 1066,866 1012,865 957,863 903,862 848,861 794,861 739,860 685,861 630,862 576,864"/>
+                <Baseline points="576,884 630,882 685,881 739,880 794,881 848,881 903,882 957,883 1012,885 1066,886 1121,887 1175,887 1230,887 1284,886 1339,884 1393,881 1448,878 1502,872 1557,866 1611,857 1666,847"/>
+                <TextEquiv>
+                    <Unicode>nis. ¶ Hoc argume~tu~ soluit Paulꝰ de venetijs et d't ꝙ veꝝ e~ ꝙ di~o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="576,937 630,935 685,934 740,934 794,935 849,936 904,937 958,938 1013,940 1068,941 1123,942 1177,942 1232,941 1287,940 1341,939 1396,936 1451,931 1505,926 1560,918 1615,909 1670,899 1670,869 1615,879 1560,888 1505,896 1451,901 1396,906 1341,909 1287,910 1232,911 1177,912 1123,912 1068,911 1013,910 958,908 904,907 849,906 794,905 740,904 685,904 630,905 576,907"/>
+                <Baseline points="576,927 630,925 685,924 740,924 794,925 849,926 904,927 958,928 1013,930 1068,931 1123,932 1177,932 1232,931 1287,930 1341,929 1396,926 1451,921 1505,916 1560,908 1615,899 1670,889"/>
+                <TextEquiv>
+                    <Unicode>passio~is esset co~pleta si ee~ passio~is no~ ee~t ab alio. sed e~ ab alio quia a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+                <Coords points="574,981 628,979 683,978 738,978 793,979 848,980 902,980 957,982 1012,983 1067,984 1122,984 1176,985 1231,984 1286,983 1341,981 1396,978 1450,974 1505,968 1560,961 1615,953 1670,943 1670,913 1615,923 1560,931 1505,938 1450,944 1396,948 1341,951 1286,953 1231,954 1176,955 1122,954 1067,954 1012,953 957,952 902,950 848,950 793,949 738,948 683,948 628,949 574,951"/>
+                <Baseline points="574,971 628,969 683,968 738,968 793,969 848,970 902,970 957,972 1012,973 1067,974 1122,974 1176,975 1231,974 1286,973 1341,971 1396,968 1450,964 1505,958 1560,951 1615,943 1670,933"/>
+                <TextEquiv>
+                    <Unicode>subiecto et sic etia~ co~pleta di~o passio~is includit p~ncipia subiecti. Co~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+                <Coords points="570,1026 625,1024 680,1023 735,1022 790,1022 845,1023 900,1024 955,1025 1010,1027 1065,1028 1121,1028 1176,1029 1231,1029 1286,1028 1341,1026 1396,1023 1451,1019 1506,1013 1561,1005 1616,996 1672,985 1672,955 1616,966 1561,975 1506,983 1451,989 1396,993 1341,996 1286,998 1231,999 1176,999 1121,998 1065,998 1010,997 955,995 900,994 845,993 790,992 735,992 680,993 625,994 570,996"/>
+                <Baseline points="570,1016 625,1014 680,1013 735,1012 790,1012 845,1013 900,1014 955,1015 1010,1017 1065,1018 1121,1018 1176,1019 1231,1019 1286,1018 1341,1016 1396,1013 1451,1009 1506,1003 1561,995 1616,986 1672,975"/>
+                <TextEquiv>
+                    <Unicode>cludit Paulꝰ de venetijs ꝙ di~o rei q~ non hʒ esse a alio est co~pleta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+                <Coords points="568,1069 613,1068 658,1068 703,1069 748,1069 793,1069 838,1069 884,1069 929,1070 974,1070 1019,1070 1064,1070 1109,1070 1154,1070 1200,1070 1245,1069 1290,1069 1335,1068 1380,1067 1425,1066 1471,1065 1471,1035 1425,1036 1380,1037 1335,1038 1290,1039 1245,1039 1200,1040 1154,1040 1109,1040 1064,1040 1019,1040 974,1040 929,1040 884,1039 838,1039 793,1039 748,1039 703,1039 658,1038 613,1038 568,1039"/>
+                <Baseline points="568,1059 613,1058 658,1058 703,1059 748,1059 793,1059 838,1059 884,1059 929,1060 974,1060 1019,1060 1064,1060 1109,1060 1154,1060 1200,1060 1245,1059 1290,1059 1335,1058 1380,1057 1425,1056 1471,1055"/>
+                <TextEquiv>
+                    <Unicode>cu~ dat^ ꝑ genus et drn~am sed esse passionis est ab alio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rguit^ octauo et vln~o Nlła e~ di~o passio~is inco~pleta. igit^. ꝓbat^&#13;
+⁊ si sic maxi~e illa q~ dat^ ꝑ p~nicipia ꝓp~a ip~iꝰ pasio~is. sʒ ho no~ ꝓ&#13;
+bat^. Oi~s di~o data ꝑ ꝓximu~ genꝰ et drn~aʒ ꝓpria~ est ꝑfecta et co~pleta&#13;
+Sed di~o passio~is dat^ ꝑ ꝓximu~ genꝰ et drn~am ꝓpria~. igit^ est co~pleta&#13;
+Maior e~ Boe. in libro diffinitionu~. Minor pʒ ⁊ ideo d'r di~o passio&#13;
+nis. ¶ Hoc argume~tu~ soluit Paulꝰ de venetijs et d't ꝙ veꝝ e~ ꝙ di~o&#13;
+passio~is esset co~pleta si ee~ passio~is no~ ee~t ab alio. sed e~ ab alio quia a&#13;
+subiecto et sic etia~ co~pleta di~o passio~is includit p~ncipia subiecti. Co~&#13;
+cludit Paulꝰ de venetijs ꝙ di~o rei q~ non hʒ esse a alio est co~pleta.&#13;
+cu~ dat^ ꝑ genus et drn~am sed esse passionis est ab alio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1652102145601_634" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="556,1069 1679,1069 1679,1992 556,1992"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;}">
+                <Coords points="556,1162 612,1159 668,1157 724,1156 780,1156 836,1157 892,1158 948,1159 1004,1160 1060,1161 1117,1162 1173,1163 1229,1162 1285,1161 1341,1159 1397,1156 1453,1152 1509,1145 1565,1137 1621,1128 1678,1116 1678,1073 1621,1085 1565,1094 1509,1102 1453,1109 1397,1113 1341,1116 1285,1118 1229,1119 1173,1120 1117,1119 1060,1118 1004,1117 948,1116 892,1115 836,1114 780,1113 724,1113 668,1114 612,1116 556,1119"/>
+                <Baseline points="556,1148 612,1145 668,1143 724,1142 780,1142 836,1143 892,1144 948,1145 1004,1146 1060,1147 1117,1148 1173,1149 1229,1148 1285,1147 1341,1145 1397,1142 1453,1138 1509,1131 1565,1123 1621,1114 1678,1102"/>
+                <TextEquiv>
+                    <Unicode>Quoniam autem scire opinamur cum scimus causaʒ cause au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+                <Coords points="566,1244 621,1242 677,1241 732,1240 788,1241 843,1242 899,1243 954,1244 1010,1245 1065,1247 1121,1247 1176,1248 1232,1248 1287,1247 1343,1244 1398,1242 1454,1236 1509,1231 1565,1223 1620,1213 1676,1202 1676,1159 1620,1170 1565,1180 1509,1188 1454,1193 1398,1199 1343,1201 1287,1204 1232,1205 1176,1205 1121,1204 1065,1204 1010,1202 954,1201 899,1200 843,1199 788,1198 732,1197 677,1198 621,1199 566,1201"/>
+                <Baseline points="566,1230 621,1228 677,1227 732,1226 788,1227 843,1228 899,1229 954,1230 1010,1231 1065,1233 1121,1233 1176,1234 1232,1234 1287,1233 1343,1230 1398,1228 1454,1222 1509,1217 1565,1209 1620,1199 1676,1188"/>
+                <TextEquiv>
+                    <Unicode>tem quatuor sunt vna quidem quod quid erat esse vna vero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;}">
+                <Coords points="556,1339 612,1336 668,1335 724,1335 780,1335 836,1336 892,1338 948,1339 1004,1341 1060,1343 1116,1344 1172,1345 1228,1346 1284,1345 1340,1343 1396,1340 1452,1335 1508,1328 1564,1320 1620,1310 1676,1297 1676,1254 1620,1267 1564,1277 1508,1285 1452,1292 1396,1297 1340,1300 1284,1302 1228,1303 1172,1302 1116,1301 1060,1300 1004,1298 948,1296 892,1295 836,1293 780,1292 724,1292 668,1292 612,1293 556,1296"/>
+                <Baseline points="556,1325 612,1322 668,1321 724,1321 780,1321 836,1322 892,1324 948,1325 1004,1327 1060,1329 1116,1330 1172,1331 1228,1332 1284,1331 1340,1329 1396,1326 1452,1321 1508,1314 1564,1306 1620,1296 1676,1283"/>
+                <TextEquiv>
+                    <Unicode>cum hec sit necesse est hoc esse. altera auteʒ aliquid primo mo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:3;}">
+                <Coords points="556,1437 611,1434 667,1432 723,1432 779,1432 835,1433 890,1435 946,1436 1002,1438 1058,1440 1114,1441 1169,1442 1225,1442 1281,1441 1337,1439 1393,1436 1448,1431 1504,1424 1560,1416 1616,1404 1672,1391 1672,1348 1616,1361 1560,1373 1504,1381 1448,1388 1393,1393 1337,1396 1281,1398 1225,1399 1169,1399 1114,1398 1058,1397 1002,1395 946,1393 890,1392 835,1390 779,1389 723,1389 667,1389 611,1391 556,1394"/>
+                <Baseline points="556,1423 611,1420 667,1418 723,1418 779,1418 835,1419 890,1421 946,1422 1002,1424 1058,1426 1114,1427 1169,1428 1225,1428 1281,1427 1337,1425 1393,1422 1448,1417 1504,1410 1560,1402 1616,1390 1672,1377"/>
+                <TextEquiv>
+                    <Unicode>uet. Quarta vero causa cuius omnes bc per medium mo~stra~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:4;}">
+                <Coords points="566,1523 621,1521 677,1520 732,1520 788,1521 844,1522 899,1523 955,1524 1011,1525 1066,1526 1122,1527 1178,1527 1233,1526 1289,1525 1345,1523 1400,1519 1456,1514 1512,1508 1567,1499 1623,1489 1679,1477 1679,1434 1623,1446 1567,1456 1512,1465 1456,1471 1400,1476 1345,1480 1289,1482 1233,1483 1178,1484 1122,1484 1066,1483 1011,1482 955,1481 899,1480 844,1479 788,1478 732,1477 677,1477 621,1478 566,1480"/>
+                <Baseline points="566,1509 621,1507 677,1506 732,1506 788,1507 844,1508 899,1509 955,1510 1011,1511 1066,1512 1122,1513 1178,1513 1233,1512 1289,1511 1345,1509 1400,1505 1456,1500 1512,1494 1567,1485 1623,1475 1679,1463"/>
+                <TextEquiv>
+                    <Unicode>tur Et hoc enim quod cum sit necesse est hoc esse vna quideʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:5;}">
+                <Coords points="556,1625 612,1621 668,1620 724,1619 780,1619 836,1620 892,1621 948,1622 1004,1623 1060,1625 1116,1626 1172,1626 1228,1625 1284,1624 1340,1621 1396,1618 1452,1612 1508,1604 1564,1595 1620,1583 1676,1569 1676,1526 1620,1540 1564,1552 1508,1561 1452,1569 1396,1575 1340,1578 1284,1581 1228,1582 1172,1583 1116,1583 1060,1582 1004,1580 948,1579 892,1578 836,1577 780,1576 724,1576 668,1577 612,1578 556,1582"/>
+                <Baseline points="556,1611 612,1607 668,1606 724,1605 780,1605 836,1606 892,1607 948,1608 1004,1609 1060,1611 1116,1612 1172,1612 1228,1611 1284,1610 1340,1607 1396,1604 1452,1598 1508,1590 1564,1581 1620,1569 1676,1555"/>
+                <TextEquiv>
+                    <Unicode>propositione accepta non est duabus autem ad minus Hoc </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:6;}">
+                <Coords points="568,1722 623,1718 678,1715 734,1714 789,1714 845,1714 900,1716 955,1717 1011,1718 1066,1720 1122,1721 1177,1721 1232,1721 1288,1720 1343,1718 1399,1714 1454,1708 1509,1700 1565,1691 1620,1679 1676,1664 1676,1621 1620,1636 1565,1648 1509,1657 1454,1665 1399,1671 1343,1675 1288,1677 1232,1678 1177,1678 1122,1678 1066,1677 1011,1675 955,1674 900,1673 845,1671 789,1671 734,1671 678,1672 623,1675 568,1679"/>
+                <Baseline points="568,1708 623,1704 678,1701 734,1700 789,1700 845,1700 900,1702 955,1703 1011,1704 1066,1706 1122,1707 1177,1707 1232,1707 1288,1706 1343,1704 1399,1700 1454,1694 1509,1686 1565,1677 1620,1665 1676,1650"/>
+                <TextEquiv>
+                    <Unicode>cautm cum vnum medium habeant. Hoc igitur vno accepto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:7;}">
+                <Coords points="562,1818 617,1814 673,1812 729,1811 784,1811 840,1812 896,1813 951,1814 1007,1816 1063,1817 1119,1818 1174,1819 1230,1818 1286,1817 1341,1814 1397,1810 1453,1804 1508,1797 1564,1787 1620,1775 1676,1760 1676,1717 1620,1732 1564,1744 1508,1754 1453,1761 1397,1767 1341,1771 1286,1774 1230,1775 1174,1776 1119,1775 1063,1774 1007,1773 951,1771 896,1770 840,1769 784,1768 729,1768 673,1769 617,1771 562,1775"/>
+                <Baseline points="562,1804 617,1800 673,1798 729,1797 784,1797 840,1798 896,1799 951,1800 1007,1802 1063,1803 1119,1804 1174,1805 1230,1804 1286,1803 1341,1800 1397,1796 1453,1790 1508,1783 1564,1773 1620,1761 1676,1746"/>
+                <TextEquiv>
+                    <Unicode>conclusionem necesse est esse. manifestu~ autem est et sic ꝓpter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:8;}">
+                <Coords points="566,1905 621,1901 676,1899 732,1897 787,1897 842,1897 898,1898 953,1900 1008,1901 1064,1903 1119,1903 1174,1904 1230,1904 1285,1902 1340,1900 1396,1896 1451,1889 1506,1881 1562,1871 1617,1859 1673,1843 1673,1800 1617,1816 1562,1828 1506,1838 1451,1846 1396,1853 1340,1857 1285,1859 1230,1861 1174,1861 1119,1860 1064,1860 1008,1858 953,1857 898,1855 842,1854 787,1854 732,1854 676,1856 621,1858 566,1862"/>
+                <Baseline points="566,1891 621,1887 676,1885 732,1883 787,1883 842,1883 898,1884 953,1886 1008,1887 1064,1889 1119,1889 1174,1890 1230,1890 1285,1888 1340,1886 1396,1882 1451,1875 1506,1867 1562,1857 1617,1845 1673,1829"/>
+                <TextEquiv>
+                    <Unicode>quid rectas in medio circulo quo existe~te recta est. Sic igitur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:9;}">
+                <Coords points="560,1989 615,1986 671,1984 726,1983 782,1983 838,1984 893,1986 949,1987 1004,1989 1060,1990 1116,1992 1171,1992 1227,1991 1282,1990 1338,1987 1394,1982 1449,1976 1505,1967 1560,1956 1616,1942 1672,1926 1672,1883 1616,1899 1560,1913 1505,1924 1449,1933 1394,1939 1338,1944 1282,1947 1227,1948 1171,1949 1116,1949 1060,1947 1004,1946 949,1944 893,1943 838,1941 782,1940 726,1940 671,1941 615,1943 560,1946"/>
+                <Baseline points="560,1975 615,1972 671,1970 726,1969 782,1969 838,1970 893,1972 949,1973 1004,1975 1060,1976 1116,1978 1171,1978 1227,1977 1282,1976 1338,1973 1394,1968 1449,1962 1505,1953 1560,1942 1616,1928 1672,1912"/>
+                <TextEquiv>
+                    <Unicode>recta in quo a. duorum rectorum in quo b. que est in medio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quoniam autem scire opinamur cum scimus causaʒ cause au&#13;
+tem quatuor sunt vna quidem quod quid erat esse vna vero&#13;
+cum hec sit necesse est hoc esse. altera auteʒ aliquid primo mo&#13;
+uet. Quarta vero causa cuius omnes bc per medium mo~stra~&#13;
+tur Et hoc enim quod cum sit necesse est hoc esse vna quideʒ&#13;
+propositione accepta non est duabus autem ad minus Hoc &#13;
+cautm cum vnum medium habeant. Hoc igitur vno accepto&#13;
+conclusionem necesse est esse. manifestu~ autem est et sic ꝓpter&#13;
+quid rectas in medio circulo quo existe~te recta est. Sic igitur&#13;
+recta in quo a. duorum rectorum in quo b. que est in medio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

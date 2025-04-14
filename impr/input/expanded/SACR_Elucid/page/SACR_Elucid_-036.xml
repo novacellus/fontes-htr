@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-02T01:49:40.791+01:00</Created>
+        <LastChange>2022-12-19T18:46:13.832+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="8"/>
+    </Metadata>
+    <Page imageFilename="SACR_Elucid_-036.tif" imageWidth="2048" imageHeight="2732">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671471973848" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646413271954_930"/>
+                <RegionRefIndexed index="1" regionRef="region_1646413275506_933"/>
+                <RegionRefIndexed index="2" regionRef="region_1646413279346_936"/>
+                <RegionRefIndexed index="3" regionRef="region_1646413284682_939"/>
+                <RegionRefIndexed index="4" regionRef="region_1646413292058_942"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1646413271954_930" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="754,157 1163,157 1163,271 754,271"/>
+            <TextLine id="line_1646413326594_958" custom="readingOrder {index:0;}">
+                <Coords points="767,165 1142,165 1142,250 767,250"/>
+                <TextEquiv>
+                    <Unicode>Folio. xvii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Folio. xvii</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646413275506_933" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="160,296 965,296 965,473 160,473"/>
+            <TextLine id="line_1646413335378_962" custom="readingOrder {index:0;}">
+                <Coords points="191,310 951,310 951,354 191,354"/>
+                <TextEquiv>
+                    <Unicode>dicendi potestatem minime habere. ca-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413336714_965" custom="readingOrder {index:1;}">
+                <Coords points="935,361 178,361 178,399 935,399"/>
+                <TextEquiv>
+                    <Unicode>tholicum. Namque utpute se superiorem ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413338186_968" custom="readingOrder {index:2;}">
+                <Coords points="194,408 840,408 840,459 194,459"/>
+                <TextEquiv>
+                    <Unicode>ledicere non valet. i. excommunicare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dicendi potestatem minime habere. ca-&#13;
+tholicum. Namque utpute se superiorem ma&#13;
+ledicere non valet. i. excommunicare.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646413279346_936" custom="readingOrder {index:2;} structure {type:[heading];}">
+            <Coords points="173,481 923,481 923,903 173,903"/>
+            <TextLine id="line_1646413341770_972" custom="readingOrder {index:0;}">
+                <Coords points="207,471 929,471 929,531 207,531"/>
+                <TextEquiv>
+                    <Unicode>¶ Capitulum quartum ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413343178_975" custom="readingOrder {index:1;}">
+                <Coords points="929,557 191,557 191,601 929,601"/>
+                <TextEquiv>
+                    <Unicode>lumniam Scismaticorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413344657_978" custom="readingOrder {index:2;}">
+                <Coords points="210,617 913,617 913,687 210,687"/>
+                <TextEquiv>
+                    <Unicode>reprimens qui Catholicos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413345970_981" custom="readingOrder {index:3;}">
+                <Coords points="913,693 203,693 203,747 913,747"/>
+                <TextEquiv>
+                    <Unicode>dicunt contra Niceni con-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413347570_984" custom="readingOrder {index:4;}">
+                <Coords points="219,766 932,766 932,832 219,832"/>
+                <TextEquiv>
+                    <Unicode>cilii decretum agere et excom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413349106_987" custom="readingOrder {index:5;}">
+                <Coords points="656,823 188,823 188,899 656,899"/>
+                <TextEquiv>
+                    <Unicode>municatos esse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Capitulum quartum ca&#13;
+lumniam Scismaticorum&#13;
+reprimens qui Catholicos&#13;
+dicunt contra Niceni con-&#13;
+cilii decretum agere et excom&#13;
+municatos esse</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646413284682_939" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="173,899 927,899 927,2251 173,2251"/>
+            <TextLine id="line_1646413355226_991" custom="readingOrder {index:0;}">
+                <Coords points="199,910 940,910 940,953 199,953"/>
+                <TextEquiv>
+                    <Unicode>Ne tamen eis videatur que nicene et Ephe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413357466_994" custom="readingOrder {index:1;}">
+                <Coords points="930,959 181,959 181,1000 930,1000"/>
+                <TextEquiv>
+                    <Unicode>sine Sinodi decreta soli firmiter custo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413359490_997" custom="readingOrder {index:2;}">
+                <Coords points="191,1016 922,1016 922,1065 191,1065"/>
+                <TextEquiv>
+                    <Unicode>diant. nos vero ceu prevaricatores eorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413361363_1000" custom="readingOrder {index:3;}">
+                <Coords points="914,1077 199,1077 199,1105 914,1105"/>
+                <TextEquiv>
+                    <Unicode>Excommunicatos ut hereticos esse censerent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413363162_1003" custom="readingOrder {index:4;}">
+                <Coords points="199,1116 910,1116 910,1163 199,1163"/>
+                <TextEquiv>
+                    <Unicode>audeant utriusque decreta Sinodi et anima-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413364890_1006" custom="readingOrder {index:5;}">
+                <Coords points="910,1167 195,1167 195,1215 910,1215"/>
+                <TextEquiv>
+                    <Unicode>advertant si nos adversus ea faciamus. quam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413366602_1009" custom="readingOrder {index:6;}">
+                <Coords points="197,1222 934,1222 934,1278 197,1278"/>
+                <TextEquiv>
+                    <Unicode>vis aliqua habeamus apposita in simbolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413368235_1012" custom="readingOrder {index:7;}">
+                <Coords points="918,1281 191,1281 191,1315 918,1315"/>
+                <TextEquiv>
+                    <Unicode>o Nicenum si quidem de verbo ad verbum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413371178_1015" custom="readingOrder {index:8;}">
+                <Coords points="191,1325 918,1325 918,1376 191,1376"/>
+                <TextEquiv>
+                    <Unicode>simbolum hoc fuit. Credo in unum deum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413373618_1018" custom="readingOrder {index:9;}">
+                <Coords points="920,1390 199,1390 199,1417 920,1417"/>
+                <TextEquiv>
+                    <Unicode>patrem omnipotentem visibilium et invisibi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413375658_1021" custom="readingOrder {index:10;}">
+                <Coords points="193,1435 916,1435 916,1496 193,1496"/>
+                <TextEquiv>
+                    <Unicode>lium conditorem. Et in unum dominum nostrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413377882_1024" custom="readingOrder {index:11;}">
+                <Coords points="912,1498 193,1498 193,1521 912,1521"/>
+                <TextEquiv>
+                    <Unicode>Ihesum Christum filium dei. natum de patre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413380402_1027" custom="readingOrder {index:12;}">
+                <Coords points="195,1537 906,1537 906,1592 195,1592"/>
+                <TextEquiv>
+                    <Unicode>unigenitum hoc est de substantia patris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413391778_1031" custom="readingOrder {index:13;}">
+                <Coords points="188,1589 938,1589 938,1635 188,1635"/>
+                <TextEquiv>
+                    <Unicode>deum exdeo lumen de lumine deum verum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413393842_1034" custom="readingOrder {index:14;}">
+                <Coords points="936,1641 195,1641 195,1689 936,1689"/>
+                <TextEquiv>
+                    <Unicode>ex deo vero. natum non factum omousion patri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413395562_1037" custom="readingOrder {index:15;}">
+                <Coords points="188,1689 916,1689 916,1733 188,1733"/>
+                <TextEquiv>
+                    <Unicode>id est unius substantie cum patre per quem omnia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413397034_1040" custom="readingOrder {index:16;}">
+                <Coords points="916,1751 193,1751 193,1794 916,1794"/>
+                <TextEquiv>
+                    <Unicode>facta sunt in celo et in terra. Qui propter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413398834_1043" custom="readingOrder {index:17;}">
+                <Coords points="186,1803 918,1803 918,1845 186,1845"/>
+                <TextEquiv>
+                    <Unicode>nos homines et propter nostram salutem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413400786_1046" custom="readingOrder {index:18;}">
+                <Coords points="916,1853 182,1853 182,1899 916,1899"/>
+                <TextEquiv>
+                    <Unicode>descendit de celis. Et incarnatus est et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413402882_1049" custom="readingOrder {index:19;}">
+                <Coords points="180,1901 916,1901 916,1949 180,1949"/>
+                <TextEquiv>
+                    <Unicode>homo factus est passus mortuus est. Et re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413404466_1052" custom="readingOrder {index:20;}">
+                <Coords points="920,1958 186,1958 186,2006 920,2006"/>
+                <TextEquiv>
+                    <Unicode>surgens tertia die ascendit in celos unde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413406618_1055" custom="readingOrder {index:21;}">
+                <Coords points="188,2013 912,2013 912,2063 188,2063"/>
+                <TextEquiv>
+                    <Unicode>venturus est iudicare vivos et mortuos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413409898_1058" custom="readingOrder {index:22;}">
+                <Coords points="175,2072 925,2072 925,2118 175,2118"/>
+                <TextEquiv>
+                    <Unicode>et spiritum sanctum. Tantum de Simbolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413411970_1061" custom="readingOrder {index:23;}">
+                <Coords points="925,2118 204,2118 204,2161 925,2161"/>
+                <TextEquiv>
+                    <Unicode>Niceno. cui Simbolo in secundo Sinodo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413413818_1064" custom="readingOrder {index:24;}">
+                <Coords points="191,2172 905,2172 905,2238 191,2238"/>
+                <TextEquiv>
+                    <Unicode>Constantinopolitana Centum quinqua-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ne tamen eis videatur que nicene et Ephe&#13;
+sine Sinodi decreta soli firmiter custo-&#13;
+diant. nos vero ceu prevaricatores eorum&#13;
+Excommunicatos ut hereticos esse censerent&#13;
+audeant utriusque decreta Sinodi et anima-&#13;
+advertant si nos adversus ea faciamus. quam&#13;
+vis aliqua habeamus apposita in simbolo&#13;
+o Nicenum si quidem de verbo ad verbum&#13;
+simbolum hoc fuit. Credo in unum deum&#13;
+patrem omnipotentem visibilium et invisibi&#13;
+lium conditorem. Et in unum dominum nostrum&#13;
+Ihesum Christum filium dei. natum de patre&#13;
+unigenitum hoc est de substantia patris&#13;
+deum exdeo lumen de lumine deum verum&#13;
+ex deo vero. natum non factum omousion patri&#13;
+id est unius substantie cum patre per quem omnia&#13;
+facta sunt in celo et in terra. Qui propter&#13;
+nos homines et propter nostram salutem&#13;
+descendit de celis. Et incarnatus est et&#13;
+homo factus est passus mortuus est. Et re-&#13;
+surgens tertia die ascendit in celos unde&#13;
+venturus est iudicare vivos et mortuos&#13;
+et spiritum sanctum. Tantum de Simbolo&#13;
+Niceno. cui Simbolo in secundo Sinodo&#13;
+Constantinopolitana Centum quinqua-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646413292058_942" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="986,300 1724,300 1724,2239 986,2239"/>
+            <TextLine id="line_1646413429682_1069" custom="readingOrder {index:0;}">
+                <Coords points="998,321 1707,321 1707,361 998,361"/>
+                <TextEquiv>
+                    <Unicode>ginta patrum multa sunt apposita ubi sic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413431802_1072" custom="readingOrder {index:1;}">
+                <Coords points="1705,375 996,375 996,424 1705,424"/>
+                <TextEquiv>
+                    <Unicode>dicitur. Credimus in unum deum patrem omni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413433852_1075" custom="readingOrder {index:2;}">
+                <Coords points="1004,424 1709,424 1709,474 1004,474"/>
+                <TextEquiv>
+                    <Unicode>potentem factorem celi et terre (velud in missa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413435730_1078" custom="readingOrder {index:3;}">
+                <Coords points="1699,476 981,476 981,527 1699,527"/>
+                <TextEquiv>
+                    <Unicode>canitur) Et in spiritum sanctum dominum vivifi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413438114_1081" custom="readingOrder {index:4;}">
+                <Coords points="986,533 1717,533 1717,579 986,579"/>
+                <TextEquiv>
+                    <Unicode>cantem ex patre procedentem cum patre et fi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413439860_1084" custom="readingOrder {index:5;}">
+                <Coords points="1711,587 990,587 990,633 1711,633"/>
+                <TextEquiv>
+                    <Unicode>lio simul adorandum er giorificandum. alia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413441746_1087" custom="readingOrder {index:6;}">
+                <Coords points="990,633 1703,633 1703,694 990,694"/>
+                <TextEquiv>
+                    <Unicode>omnia eadem nobiscum ad finem. hoc Sim-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413443386_1090" custom="readingOrder {index:7;}">
+                <Coords points="1705,694 990,694 990,740 1705,740"/>
+                <TextEquiv>
+                    <Unicode>bolo cum multa additione stante ad sim-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413445482_1093" custom="readingOrder {index:8;}">
+                <Coords points="994,746 1701,746 1701,801 994,801"/>
+                <TextEquiv>
+                    <Unicode>bolum Nicenum videamus iterum decretum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413447514_1096" custom="readingOrder {index:9;}">
+                <Coords points="1701,809 988,809 988,845 1701,845"/>
+                <TextEquiv>
+                    <Unicode>Ephesine Sinodi tricentorum patrum in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413449634_1099" custom="readingOrder {index:10;}">
+                <Coords points="990,851 1703,851 1703,903 990,903"/>
+                <TextEquiv>
+                    <Unicode>qua damnata heresi Nestorii determi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413451546_1102" custom="readingOrder {index:11;}">
+                <Coords points="1709,909 988,909 988,939 1709,939"/>
+                <TextEquiv>
+                    <Unicode>natum est. que nullus aliam fidem exponeret vel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413454026_1105" custom="readingOrder {index:12;}">
+                <Coords points="1000,960 1703,960 1703,1006 1000,1006"/>
+                <TextEquiv>
+                    <Unicode>doceret. quam illam que scripta est a sanctis pa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413455930_1108" custom="readingOrder {index:13;}">
+                <Coords points="1703,1006 984,1006 984,1050 1703,1050"/>
+                <TextEquiv>
+                    <Unicode>tribus Tricentis. xvi. congregatis in Ni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413458348_1111" custom="readingOrder {index:14;}">
+                <Coords points="984,1066 1711,1066 1711,1115 984,1115"/>
+                <TextEquiv>
+                    <Unicode>cena Sinodo. et hoc fecerunt ideo. quia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413460194_1114" custom="readingOrder {index:15;}">
+                <Coords points="1711,1115 996,1115 996,1157 1711,1157"/>
+                <TextEquiv>
+                    <Unicode>Nestorius hereticus in Simbolo quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413462082_1117" custom="readingOrder {index:16;}">
+                <Coords points="994,1161 1711,1161 1711,1224 994,1224"/>
+                <TextEquiv>
+                    <Unicode>fecerat. multa posuit contra ea. que deter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413463450_1120" custom="readingOrder {index:17;}">
+                <Coords points="1711,1228 988,1228 988,1270 1711,1270"/>
+                <TextEquiv>
+                    <Unicode>minata erant in Simbolo Niceno. de-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413474418_1124" custom="readingOrder {index:18;}">
+                <Coords points="985,1284 1706,1284 1706,1329 985,1329"/>
+                <TextEquiv>
+                    <Unicode>creti igitur Ephesini tenor sequitur decrevit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413476146_1127" custom="readingOrder {index:19;}">
+                <Coords points="1696,1333 973,1333 973,1371 1696,1371"/>
+                <TextEquiv>
+                    <Unicode>sancta Sinodus. scilicet concilii tercii,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413478109_1130" custom="readingOrder {index:20;}">
+                <Coords points="987,1376 1698,1376 1698,1427 987,1427"/>
+                <TextEquiv>
+                    <Unicode>sed primi Ephesini. nulli licere aliam fidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413479474_1133" custom="readingOrder {index:21;}">
+                <Coords points="1686,1430 960,1430 960,1479 1686,1479"/>
+                <TextEquiv>
+                    <Unicode>proferre eos vero qui presumpserant aut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413481154_1136" custom="readingOrder {index:22;}">
+                <Coords points="983,1497 1695,1497 1695,1549 983,1549"/>
+                <TextEquiv>
+                    <Unicode>componere aliam. scilicet proponere vel pro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413482770_1139" custom="readingOrder {index:23;}">
+                <Coords points="1695,1553 965,1553 965,1589 1695,1589"/>
+                <TextEquiv>
+                    <Unicode>ferre aliam fidem quam Nicenam si episcopi sunt alie-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413484962_1142" custom="readingOrder {index:24;}">
+                <Coords points="969,1593 1689,1593 1689,1643 969,1643"/>
+                <TextEquiv>
+                    <Unicode>nentur a suis episcopatibus. si clerici a clero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413486874_1145" custom="readingOrder {index:25;}">
+                <Coords points="1687,1645 978,1645 978,1692 1687,1692"/>
+                <TextEquiv>
+                    <Unicode>sint alieni si monachi vel layci sint excom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413488842_1148" custom="readingOrder {index:26;}">
+                <Coords points="980,1697 1678,1697 1678,1762 980,1762"/>
+                <TextEquiv>
+                    <Unicode>municati. ex hoc decreto faciunt occa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413490738_1151" custom="readingOrder {index:27;}">
+                <Coords points="1680,1775 955,1775 955,1795 1680,1795"/>
+                <TextEquiv>
+                    <Unicode>sionem greci. contra latinos ex eius mala in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413492546_1154" custom="readingOrder {index:28;}">
+                <Coords points="982,1806 1706,1806 1706,1858 982,1858"/>
+                <TextEquiv>
+                    <Unicode>terpretatione et intelligentia non recta ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413494226_1157" custom="readingOrder {index:29;}">
+                <Coords points="1706,1858 974,1858 974,1898 1706,1898"/>
+                <TextEquiv>
+                    <Unicode>borum eius. dicentes eos contra decretum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413496082_1160" custom="readingOrder {index:30;}">
+                <Coords points="974,1910 1680,1910 1680,1959 974,1959"/>
+                <TextEquiv>
+                    <Unicode>agere et excommunicatos esse ac pro he-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413497658_1163" custom="readingOrder {index:31;}">
+                <Coords points="1686,1966 967,1966 967,1999 1686,1999"/>
+                <TextEquiv>
+                    <Unicode>reticis reputandos. et ad Niceni concilii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413499714_1166" custom="readingOrder {index:32;}">
+                <Coords points="976,2024 1706,2024 1706,2084 976,2084"/>
+                <TextEquiv>
+                    <Unicode>Simbolum addiderunt plura. Et non ad-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413501618_1169" custom="readingOrder {index:33;}">
+                <Coords points="1706,2084 980,2084 980,2107 1706,2107"/>
+                <TextEquiv>
+                    <Unicode>vertunt primo que apostolus ait ad Gala. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413503722_1172" custom="readingOrder {index:34;}">
+                <Coords points="989,2125 1686,2125 1686,2181 989,2181"/>
+                <TextEquiv>
+                    <Unicode>Misit dominus spiritum filii. et Ioannis. xvi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646413505994_1175" custom="readingOrder {index:35;}">
+                <Coords points="1686,2192 974,2192 974,2224 1686,2224"/>
+                <TextEquiv>
+                    <Unicode>dicitur spiritum veritatis. i. filij. unde quia non est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ginta patrum multa sunt apposita ubi sic&#13;
+dicitur. Credimus in unum deum patrem omni-&#13;
+potentem factorem celi et terre (velud in missa&#13;
+canitur) Et in spiritum sanctum dominum vivifi-&#13;
+cantem ex patre procedentem cum patre et fi-&#13;
+lio simul adorandum er giorificandum. alia&#13;
+omnia eadem nobiscum ad finem. hoc Sim-&#13;
+bolo cum multa additione stante ad sim-&#13;
+bolum Nicenum videamus iterum decretum&#13;
+Ephesine Sinodi tricentorum patrum in&#13;
+qua damnata heresi Nestorii determi-&#13;
+natum est. que nullus aliam fidem exponeret vel&#13;
+doceret. quam illam que scripta est a sanctis pa&#13;
+tribus Tricentis. xvi. congregatis in Ni-&#13;
+cena Sinodo. et hoc fecerunt ideo. quia&#13;
+Nestorius hereticus in Simbolo quod&#13;
+fecerat. multa posuit contra ea. que deter&#13;
+minata erant in Simbolo Niceno. de-&#13;
+creti igitur Ephesini tenor sequitur decrevit&#13;
+sancta Sinodus. scilicet concilii tercii,&#13;
+sed primi Ephesini. nulli licere aliam fidem&#13;
+proferre eos vero qui presumpserant aut&#13;
+componere aliam. scilicet proponere vel pro-&#13;
+ferre aliam fidem quam Nicenam si episcopi sunt alie-&#13;
+nentur a suis episcopatibus. si clerici a clero&#13;
+sint alieni si monachi vel layci sint excom-&#13;
+municati. ex hoc decreto faciunt occa-&#13;
+sionem greci. contra latinos ex eius mala in&#13;
+terpretatione et intelligentia non recta ver&#13;
+borum eius. dicentes eos contra decretum&#13;
+agere et excommunicatos esse ac pro he-&#13;
+reticis reputandos. et ad Niceni concilii&#13;
+Simbolum addiderunt plura. Et non ad-&#13;
+vertunt primo que apostolus ait ad Gala. 4.&#13;
+Misit dominus spiritum filii. et Ioannis. xvi.&#13;
+dicitur spiritum veritatis. i. filij. unde quia non est</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

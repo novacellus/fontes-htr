@@ -1,0 +1,647 @@
+import os
+import io
+import json
+import logging
+import pyarrow as pa
+import numpy as np
+from typing import Dict, List, Optional, Union, Tuple
+from collections import Counter, defaultdict
+
+import matplotlib.pyplot as plt
+from matplotlib.figure import Figure
+import pandas as pd
+import seaborn as sns
+from tqdm.notebook import tqdm
+from difflib import SequenceMatcher
+from PIL import Image
+
+import torch
+from torch.utils.data import Dataset, DataLoader
+from kraken.lib import vgsl, models
+
+logger = logging.getLogger(__name__)
+
+class ArrowDataset(Dataset):
+    """Custom dataset for loading Kraken Arrow files"""
+    
+    def __init__(self, arrow_file_path: str, split: str = 'validation', codec=None, expected_height=None):
+        """
+        Initialize dataset from Arrow file
+        
+        Args:
+            arrow_file_path: Path to Arrow IPC file
+            split: Which split to use ('train', 'validation', 'test')
+            codec: Optional codec for encoding/decoding text
+            expected_height: Expected image height for the model
+        """
+        self.arrow_file_path = arrow_file_path
+        self.split = split
+        self.codec = codec
+        self.expected_height = expected_height
+        
+        # Load the Arrow file
+        with pa.memory_map(arrow_file_path, 'rb') as source:
+            arrow_file = pa.ipc.open_file(source)
+            self.table = arrow_file.read_all()
+            
+            # Extract metadata
+            self.metadata = {}
+            table_metadata = self.table.schema.metadata
+            if b'lines' in table_metadata:
+                self.metadata = json.loads(table_metadata[b'lines'])
+            
+            # Get indices for the requested split
+            split_mask = self.table[split].to_numpy()
+            self.indices = np.where(split_mask)[0]
+            
+            if len(self.indices) == 0:
+                raise ValueError(f"No samples found in {split} split")
+                
+            logger.info(f"Loaded {len(self.indices)} samples from {split} split")
+    
+    def __len__(self):
+        return len(self.indices)
+    
+    def __getitem__(self, idx):
+        # Get the sample by index
+        sample_idx = self.indices[idx]
+        sample = self.table['lines'][sample_idx].as_py()
+        
+        # Extract image
+        image_bytes = sample['im']
+        image = Image.open(io.BytesIO(image_bytes))
+        
+        # Convert to grayscale if it's RGB
+        if image.mode == 'RGB':
+            image = image.convert('L')
+        
+        # Resize to expected height if specified
+        if self.expected_height is not None and image.height != self.expected_height:
+            ratio = self.expected_height / image.height
+            new_width = int(image.width * ratio)
+            image = image.resize((new_width, self.expected_height), Image.LANCZOS)
+        
+        # Convert to tensor (channels first: C×H×W)
+        image_tensor = torch.tensor(np.array(image), dtype=torch.float)
+        
+        # Handle different image modes - ensure single channel
+        if len(image_tensor.shape) == 2:  # Grayscale
+            image_tensor = image_tensor.unsqueeze(0)  # Add channel dimension
+            
+        # Normalize
+        image_tensor = image_tensor / 255.0
+            
+        # Get text
+        text = sample['text']
+
+            
+        return {
+            'image': image_tensor,
+            'text': text,
+            'idx': sample_idx
+        }
+    
+def collate_fn(batch):
+    """
+    Custom collate function for batching images of different sizes
+    """
+    # Sort by image width for more efficient batching
+    sorted_batch = sorted(batch, key=lambda x: x['image'].shape[2], reverse=True)
+    
+    # Get max dimensions
+    max_h = max([item['image'].shape[1] for item in sorted_batch])
+    max_w = max([item['image'].shape[2] for item in sorted_batch])
+    
+    # Prepare tensors
+    batch_size = len(sorted_batch)
+    channels = sorted_batch[0]['image'].shape[0]
+    images = torch.zeros(batch_size, channels, max_h, max_w)
+    seq_lens = []
+    texts = []
+    indices = []
+    
+    # Fill batch
+    for i, item in enumerate(sorted_batch):
+        img = item['image']
+        h, w = img.shape[1], img.shape[2]
+        images[i, :, :h, :w] = img
+        seq_lens.append(w)
+        texts.append(item['text'])
+        indices.append(item['idx'])
+    
+    return {
+        'image': images,
+        'seq_lens': torch.tensor(seq_lens),
+        'text': texts,
+        'idx': torch.tensor(indices)
+    }
+
+
+class HTRModelAnalyzer:
+    """Analyze and visualize performance of Kraken HTR models."""
+    
+    def __init__(self, model_path: str):
+        """
+        Initialize with a trained model path
+        
+        Args:
+            model_path: Path to trained .mlmodel file
+        """
+        self.model_path = model_path
+        self.nn = vgsl.TorchVGSLModel.load_model(model_path)
+        self.recognizer = models.TorchSeqRecognizer(self.nn)
+        
+        # Extract and store metadata
+        self.metadata = self.nn.user_metadata
+        self.hyper_params = self.nn.hyper_params
+        
+        # Extract accuracy metrics from model if available
+        self.accuracy_data = None
+        self.metrics_data = None
+        
+        if 'accuracy' in self.metadata:
+            self.accuracy_data = pd.DataFrame(self.metadata['accuracy'], 
+                                             columns=['step', 'accuracy'])
+        
+        if 'metrics' in self.metadata:
+            metrics_list = []
+            for step, metrics_dict in self.metadata['metrics']:
+                metrics_dict['step'] = step
+                metrics_list.append(metrics_dict)
+            self.metrics_data = pd.DataFrame(metrics_list)
+        
+        # Check model's expected input channels
+        self.input_channels = self.nn.input[1]
+        logger.info(f"Model expects {self.input_channels} input channels")
+    
+    def summary(self) -> Dict:
+        """Return summary of model information"""
+        return {
+            'model_path': self.model_path,
+            'spec': self.nn.spec,
+            'model_type': self.nn.model_type,
+            'alphabet_size': len(self.nn.codec),
+            'completed_epochs': self.hyper_params.get('completed_epochs', 0),
+            'best_val_accuracy': self.accuracy_data['accuracy'].max() if self.accuracy_data is not None else None,
+            'final_val_accuracy': self.accuracy_data['accuracy'].iloc[-1] if self.accuracy_data is not None else None,
+            'input_shape': f"{self.nn.input[0]}x{self.nn.input[1]}x{self.nn.input[2]}x{self.nn.input[3]}"
+        }
+    
+    def plot_training_metrics(self) -> Figure:
+        """Plot training and validation metrics"""
+        if self.metrics_data is None:
+            raise ValueError("No metrics data available in model")
+        
+        plt.figure(figsize=(14, 8))
+        
+        # Extract relevant metrics
+        metrics = [col for col in self.metrics_data.columns 
+                  if col != 'step' and not pd.isna(self.metrics_data[col]).all()]
+        
+        n_plots = len(metrics)
+        cols = 2
+        rows = (n_plots + 1) // cols
+        
+        fig, axes = plt.subplots(rows, cols, figsize=(15, 4 * rows))
+        axes = axes.flatten() if rows > 1 or cols > 1 else [axes]
+        
+        for i, metric in enumerate(metrics):
+            if i < len(axes):
+                ax = axes[i]
+                self.metrics_data.plot(x='step', y=metric, ax=ax)
+                ax.set_title(f'{metric} vs Training Step')
+                ax.set_ylabel(metric)
+                ax.grid(True, linestyle='--', alpha=0.7)
+                
+        # Hide unused subplots
+        for i in range(len(metrics), len(axes)):
+            axes[i].axis('off')
+            
+        plt.tight_layout()
+        return fig
+    
+    def evaluate_on_arrow_dataset(self, arrow_path: str, split: str = 'validation',
+                                 batch_size: int = 8, num_workers: int = 4):
+        """
+        Evaluate model on Arrow binary dataset
+        
+        Args:
+            arrow_path: Path to Arrow IPC dataset file
+            split: Dataset split to use ('train', 'validation', or 'test')
+            batch_size: Batch size for evaluation
+            num_workers: Number of workers for dataloader
+            
+        Returns:
+            Dictionary with error metrics
+        """
+        # Create custom dataset
+        ds = ArrowDataset(arrow_path, split, self.nn.codec, expected_height=self.nn.input[2])
+        
+        # Create dataloader
+        dl = DataLoader(ds, 
+                       batch_size=batch_size, 
+                       num_workers=num_workers, 
+                       collate_fn=collate_fn)
+        
+        # Collect results
+        results = []
+        char_errors = []
+        total_chars = 0
+        confusion_matrix = defaultdict(Counter)
+        
+        with torch.no_grad():
+            for batch in tqdm(dl, desc=f"Evaluating on {split} split"):
+                # Get predictions
+                predictions = self.recognizer.predict_string(batch['image'], batch['seq_lens'])
+                ground_truths = batch['text']
+                
+                # Analyze errors for each sample
+                for pred, gt in zip(predictions, ground_truths):
+                    # Character error analysis
+                    for op, i1, i2, j1, j2 in SequenceMatcher(None, gt, pred).get_opcodes():
+                        if op == 'replace':
+                            for i, j in zip(range(i1, i2), range(j1, j2)):
+                                if i < len(gt) and j < len(pred):
+                                    confusion_matrix[gt[i]][pred[j]] += 1
+                                    char_errors.append((gt[i], pred[j], 'replace'))
+                        elif op == 'delete':
+                            for i in range(i1, i2):
+                                if i < len(gt):
+                                    confusion_matrix[gt[i]][''] += 1  # Deletion
+                                    char_errors.append((gt[i], '', 'delete'))
+                        elif op == 'insert':
+                            for j in range(j1, j2):
+                                if j < len(pred):
+                                    confusion_matrix[''][pred[j]] += 1  # Insertion
+                                    char_errors.append(('', pred[j], 'insert'))
+                    
+                    total_chars += len(gt)
+                    results.append({'prediction': pred, 'ground_truth': gt})
+        
+        # Calculate CER
+        cer = len(char_errors) / total_chars if total_chars > 0 else 0
+        
+        # Find most common errors
+        error_counter = Counter()
+        for gt, pred, op in char_errors:
+            if op == 'replace':
+                error_counter[f"{gt} → {pred}"] += 1
+            elif op == 'delete':
+                error_counter[f"{gt} → ∅"] += 1
+            elif op == 'insert':
+                error_counter[f"∅ → {pred}"] += 1
+        
+        return {
+            'results': pd.DataFrame(results),
+            'char_error_rate': cer,
+            'accuracy': 1 - cer,
+            'total_chars': total_chars,
+            'errors': char_errors,
+            'common_errors': error_counter,
+            'confusion_matrix': confusion_matrix
+        }
+    
+    def plot_confusion_matrix(self, confusion_matrix, top_n=20):
+        """
+        Plot confusion matrix of character predictions
+        
+        Args:
+            confusion_matrix: Nested dict of ground truth -> prediction -> count
+            top_n: How many top characters to include
+        """
+        # Convert confusion matrix to DataFrame
+        chars = set()
+        for gt, pred_counts in confusion_matrix.items():
+            chars.add(gt)
+            chars.update(pred_counts.keys())
+        
+        chars.discard('')  # Handle separately
+        chars = sorted(list(chars))
+        
+        # Count character frequency to find most common
+        char_counts = Counter()
+        for gt, pred_counts in confusion_matrix.items():
+            if gt != '':
+                char_counts[gt] += sum(pred_counts.values())
+        
+        # Get top N characters by frequency
+        top_chars = [c for c, _ in char_counts.most_common(top_n)]
+        
+        # Create confusion matrix for top chars
+        cm_data = np.zeros((len(top_chars), len(top_chars)))
+        
+        for i, gt in enumerate(top_chars):
+            for j, pred in enumerate(top_chars):
+                cm_data[i, j] = confusion_matrix[gt][pred]
+        
+        # Plot
+        plt.figure(figsize=(12, 10))
+        sns.heatmap(cm_data, annot=True, fmt='g', 
+                    xticklabels=top_chars, yticklabels=top_chars, 
+                    cmap='viridis')
+        plt.xlabel('Predicted')
+        plt.ylabel('Ground Truth')
+        plt.title('Character Confusion Matrix')
+        return plt.gcf()
+
+    def plot_error_distribution(self, error_data, top_n=20):
+        """Plot distribution of most common errors"""
+        common_errors = error_data['common_errors'].most_common(top_n)
+        
+        labels = [error for error, _ in common_errors]
+        values = [count for _, count in common_errors]
+        
+        plt.figure(figsize=(12, 8))
+        bars = plt.barh(labels, values)
+        
+        # Add count and percentage labels
+        total_errors = sum(error_data['common_errors'].values())
+        for i, (count, bar) in enumerate(zip(values, bars)):
+            percentage = 100 * count / total_errors
+            plt.text(count + 0.1, bar.get_y() + bar.get_height()/2, 
+                    f"{count} ({percentage:.1f}%)", 
+                    va='center')
+        
+        plt.xlabel('Count')
+        plt.title(f'Top {top_n} Most Common Character Errors')
+        plt.tight_layout()
+        return plt.gcf()
+    
+    def plot_lengths_vs_errors(self, results_df):
+        """Plot relationship between text length and error rate"""
+        # Calculate lengths and errors
+        results_df['gt_length'] = results_df['ground_truth'].apply(len)
+        results_df['levenshtein_distance'] = [
+            SequenceMatcher(None, gt, pred).get_opcodes() 
+            for gt, pred in zip(results_df['ground_truth'], results_df['prediction'])
+        ]
+        results_df['error_count'] = results_df['levenshtein_distance'].apply(
+            lambda opcodes: sum(max(i2-i1, j2-j1) for op, i1, i2, j1, j2 in opcodes 
+                               if op != 'equal')
+        )
+        results_df['error_rate'] = results_df['error_count'] / results_df['gt_length']
+        
+        # Group by length buckets
+        results_df['length_bucket'] = pd.cut(results_df['gt_length'], 
+                                            bins=10, 
+                                            precision=0)
+        length_stats = results_df.groupby('length_bucket').agg(
+            avg_error_rate=('error_rate', 'mean'),
+            count=('error_rate', 'count')
+        )
+        
+        fig, ax1 = plt.subplots(figsize=(12, 6))
+        
+        # Plot average error rate
+        ax1.plot(range(len(length_stats)), length_stats['avg_error_rate'], 
+                marker='o', linestyle='-', color='blue')
+        ax1.set_xlabel('Text Length Bucket')
+        ax1.set_ylabel('Average Error Rate', color='blue')
+        ax1.tick_params(axis='y', labelcolor='blue')
+        ax1.grid(True, linestyle='--', alpha=0.7)
+        
+        # Add sample count on secondary y-axis
+        ax2 = ax1.twinx()
+        ax2.bar(range(len(length_stats)), length_stats['count'], 
+               alpha=0.3, color='gray')
+        ax2.set_ylabel('Sample Count', color='gray')
+        ax2.tick_params(axis='y', labelcolor='gray')
+        
+        # Add bucket labels
+        plt.xticks(range(len(length_stats)), 
+                  [str(b) for b in length_stats.index], 
+                  rotation=45)
+        
+        plt.title('Error Rate vs Text Length')
+        plt.tight_layout()
+        return fig
+
+
+class ModelComparator:
+    """Compare multiple Kraken HTR models."""
+    
+    def __init__(self, model_paths: List[str], model_names: Optional[List[str]] = None):
+        """
+        Initialize with multiple model paths
+        
+        Args:
+            model_paths: List of paths to trained models
+            model_names: Optional friendly names for the models (defaults to filenames)
+        """
+        self.model_paths = model_paths
+        
+        # Use filenames as default model names
+        if model_names is None:
+            self.model_names = [os.path.basename(path) for path in model_paths]
+        else:
+            if len(model_names) != len(model_paths):
+                raise ValueError("Length of model_names must match length of model_paths")
+            self.model_names = model_names
+            
+        # Load all models
+        self.analyzers = []
+        for path in model_paths:
+            try:
+                self.analyzers.append(HTRModelAnalyzer(path))
+            except Exception as e:
+                logger.error(f"Failed to load model {path}: {e}")
+        
+        if not self.analyzers:
+            raise ValueError("No models could be loaded successfully")
+            
+    def compare_training_metrics(self):
+        """Compare training metrics across models"""
+        # Extract and compile metrics
+        all_metrics = []
+        
+        for name, analyzer in zip(self.model_names, self.analyzers):
+            if analyzer.metrics_data is not None:
+                # Add model name column
+                metrics = analyzer.metrics_data.copy()
+                metrics['model'] = name
+                all_metrics.append(metrics)
+        
+        if not all_metrics:
+            raise ValueError("No models have metrics data available")
+            
+        # Combine all metrics
+        combined = pd.concat(all_metrics, ignore_index=True)
+        
+        # Find common metrics across all models
+        common_metrics = set.intersection(*[set(df.columns) for df in all_metrics])
+        common_metrics = [m for m in common_metrics if m not in ['step', 'model']]
+        
+        # Plot common metrics
+        n_metrics = len(common_metrics)
+        cols = 2
+        rows = (n_metrics + 1) // cols
+        
+        fig, axes = plt.subplots(rows, cols, figsize=(15, 5 * rows))
+        axes = axes.flatten() if rows > 1 or cols > 1 else [axes]
+        
+        for i, metric in enumerate(common_metrics):
+            if i < len(axes):
+                ax = axes[i]
+                for name in self.model_names:
+                    subset = combined[combined['model'] == name]
+                    if not subset.empty and metric in subset.columns:
+                        subset.plot(x='step', y=metric, ax=ax, label=name)
+                
+                ax.set_title(f'{metric} vs Training Step')
+                ax.set_ylabel(metric)
+                ax.grid(True, linestyle='--', alpha=0.7)
+                ax.legend()
+        
+        # Hide unused subplots
+        for i in range(n_metrics, len(axes)):
+            axes[i].axis('off')
+            
+        plt.tight_layout()
+        return fig
+    
+    def compare_summary(self):
+        """Compare summary statistics across models"""
+        # Extract summaries
+        summaries = []
+        for name, analyzer in zip(self.model_names, self.analyzers):
+            summary = analyzer.summary()
+            summary['model'] = name
+            summaries.append(summary)
+            
+        # Combine into DataFrame
+        df = pd.DataFrame(summaries)
+        
+        # Reorder columns to put model first
+        cols = ['model'] + [col for col in df.columns if col != 'model']
+        df = df[cols]
+        
+        return df
+    
+    def compare_evaluation_on_arrow(self, arrow_path: str, split: str = 'test'):
+        """
+        Compare models on same Arrow dataset split
+        
+        Args:
+            arrow_path: Path to Arrow IPC dataset file
+            split: Dataset split to use ('train', 'validation', or 'test')
+        """
+        results = {}
+        
+        for name, analyzer in zip(self.model_names, self.analyzers):
+            logger.info(f"Evaluating model: {name}")
+            try:
+                eval_result = analyzer.evaluate_on_arrow_dataset(arrow_path, split)
+                results[name] = eval_result
+            except Exception as e:
+                logger.error(f"Error evaluating model {name}: {e}")
+                
+        if not results:
+            raise ValueError("No models could be evaluated successfully")
+            
+        # Compare CER and accuracy
+        comparison = {
+            'model': [],
+            'char_error_rate': [],
+            'accuracy': [],
+            'total_chars': []
+        }
+        
+        for name, result in results.items():
+            comparison['model'].append(name)
+            comparison['char_error_rate'].append(result['char_error_rate'])
+            comparison['accuracy'].append(result['accuracy'])
+            comparison['total_chars'].append(result['total_chars'])
+            
+        # Create DataFrame
+        df = pd.DataFrame(comparison)
+        
+        # Create comparison plot
+        fig, ax = plt.subplots(figsize=(10, 6))
+        
+        # Sort by accuracy (descending)
+        df = df.sort_values('accuracy', ascending=False)
+        
+        # Plot accuracy and error rate
+        x = range(len(df))
+        width = 0.35
+        
+        ax.bar([i - width/2 for i in x], df['accuracy'], width, label='Accuracy', color='green')
+        ax.bar([i + width/2 for i in x], df['char_error_rate'], width, label='CER', color='red')
+        
+        # Add value labels
+        for i, (acc, err) in enumerate(zip(df['accuracy'], df['char_error_rate'])):
+            ax.text(i - width/2, acc + 0.01, f"{acc:.3f}", ha='center')
+            ax.text(i + width/2, err + 0.01, f"{err:.3f}", ha='center')
+            
+        ax.set_ylabel('Rate')
+        ax.set_title('Model Comparison: Accuracy vs Error Rate')
+        ax.set_xticks(x)
+        ax.set_xticklabels(df['model'], rotation=45, ha='right')
+        ax.legend()
+        ax.set_ylim(0, 1.1)
+        
+        plt.tight_layout()
+        
+        return {
+            'comparison_df': df,
+            'plot': fig,
+            'detailed_results': results
+        }
+
+    def compare_error_distribution(self, evaluation_results, top_n=10):
+        """
+        Compare error distribution across models
+        
+        Args:
+            evaluation_results: Results from compare_evaluation
+            top_n: Number of top errors to show
+        """
+        # Extract common errors across all models
+        all_errors = Counter()
+        model_errors = {}
+        
+        for model, result in evaluation_results['detailed_results'].items():
+            model_errors[model] = result['common_errors']
+            all_errors.update(result['common_errors'])
+            
+        # Get top N most common errors across all models
+        top_errors = [error for error, _ in all_errors.most_common(top_n)]
+        
+        # Create comparison DataFrame
+        comparison = []
+        
+        for error in top_errors:
+            row = {'error': error}
+            for model in self.model_names:
+                if model in model_errors:
+                    row[model] = model_errors[model][error]
+                else:
+                    row[model] = 0
+            comparison.append(row)
+            
+        df = pd.DataFrame(comparison)
+        
+        # Create comparison plot
+        plt.figure(figsize=(12, 8))
+        
+        # Create grouped bar chart
+        x = range(len(df))
+        width = 0.8 / len(self.model_names)
+        
+        for i, model in enumerate(self.model_names):
+            if model in model_errors:
+                counts = df[model].values
+                positions = [p + width * (i - len(self.model_names)/2 + 0.5) for p in x]
+                plt.bar(positions, counts, width, label=model)
+        
+        plt.ylabel('Count')
+        plt.title(f'Top {top_n} Most Common Errors by Model')
+        plt.xticks(x, df['error'], rotation=45, ha='right')
+        plt.legend()
+        
+        plt.tight_layout()
+        
+        return {
+            'error_comparison': df,
+            'plot': plt.gcf()
+        }

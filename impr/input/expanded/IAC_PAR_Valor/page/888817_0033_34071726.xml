@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.730+01:00</Created>
+        <LastChange>2022-12-16T16:49:55.047+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071726" pageNr="33" tsid="73003442" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=KSSNUGKOSGTCUQPEVQSKSCKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXHFNQWYPUXOVNWKYDLOFJVR" imageId="27321070"/>
+    </Metadata>
+    <Page imageFilename="888817_0033_34071726.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671205795063" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642268534436_1080"/>
+                <RegionRefIndexed index="1" regionRef="region_1642268538178_1083"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1642268534436_1080" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="280,322 1433,322 1433,2010 280,2010"/>
+            <TextLine id="line_1642268550740_1089" custom="readingOrder {index:0;}">
+                <Coords points="294,340 1419,340 1419,369 294,369"/>
+                <TextEquiv>
+                    <Unicode>quam res conservari potest per propria connaturalia principia vel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268553262_1092" custom="readingOrder {index:1;}">
+                <Coords points="1419,379 301,379 301,440 1419,440"/>
+                <TextEquiv>
+                    <Unicode>in loco suo naturali. unum dixit poeta ¶ In ipso vivimus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268555334_1095" custom="readingOrder {index:2;}">
+                <Coords points="294,447 1426,447 1426,500 294,500"/>
+                <TextEquiv>
+                    <Unicode>movemur et sumus. in ipso qui est entium vita viventium et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268557475_1098" custom="readingOrder {index:3;}">
+                <Coords points="1426,500 298,500 298,568 1426,568"/>
+                <TextEquiv>
+                    <Unicode>principium finale omnium. a quo dependet celum et terra et to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268559783_1101" custom="readingOrder {index:4;}">
+                <Coords points="298,568 1419,568 1419,614 298,614"/>
+                <TextEquiv>
+                    <Unicode>ta natura. Ab hoc ente derivatum est omnibus esse et vive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268561643_1104" custom="readingOrder {index:5;}">
+                <Coords points="1419,614 283,614 283,675 1419,675"/>
+                <TextEquiv>
+                    <Unicode>re ac intelligere his clarius vero obscurius primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268563714_1107" custom="readingOrder {index:6;}">
+                <Coords points="280,686 1415,686 1415,714 280,714"/>
+                <TextEquiv>
+                    <Unicode>celi Ab hoc agente primo dependit omne agens secundum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268565634_1110" custom="readingOrder {index:7;}">
+                <Coords points="1412,725 291,725 291,785 1412,785"/>
+                <TextEquiv>
+                    <Unicode>in virtute agens sibi a primo accommodata immo nul-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268568775_1113" custom="readingOrder {index:8;}">
+                <Coords points="294,799 1419,799 1419,849 294,849"/>
+                <TextEquiv>
+                    <Unicode>la creatura subsisteret nisi causa que dedit esse influeret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268570723_1116" custom="readingOrder {index:9;}">
+                <Coords points="1419,849 280,849 280,896 1419,896"/>
+                <TextEquiv>
+                    <Unicode>quare primo conventi omnis causalitas activa. et sic est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268573460_1119" custom="readingOrder {index:10;}">
+                <Coords points="283,903 1412,903 1412,963 283,963"/>
+                <TextEquiv>
+                    <Unicode>prima causa primum efficiens. summa forma ultimus fi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268576811_1122" custom="readingOrder {index:11;}">
+                <Coords points="1412,967 305,967 305,1020 1412,1020"/>
+                <TextEquiv>
+                    <Unicode>nis. alpha et o primus et novissimus. Deinde patet ul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268579041_1125" custom="readingOrder {index:12;}">
+                <Coords points="305,1020 1401,1020 1401,1081 305,1081"/>
+                <TextEquiv>
+                    <Unicode>timum illius propositionis quomodo hoc opus perfectum sit in ho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268580777_1128" custom="readingOrder {index:13;}">
+                <Coords points="1401,1081 287,1081 287,1145 1401,1145"/>
+                <TextEquiv>
+                    <Unicode>mine consummatum. et homo est finalis et ultima creatura in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268583101_1131" custom="readingOrder {index:14;}">
+                <Coords points="287,1145 1433,1145 1433,1195 287,1195"/>
+                <TextEquiv>
+                    <Unicode>qua creator suam expressit imaginem et similitudinem in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268585175_1134" custom="readingOrder {index:15;}">
+                <Coords points="1433,1195 280,1195 280,1269 1433,1269"/>
+                <TextEquiv>
+                    <Unicode>qua omnis creata perfectio in unum colligitur. ut sit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268588448_1137" custom="readingOrder {index:16;}">
+                <Coords points="301,1262 1419,1262 1419,1308 301,1308"/>
+                <TextEquiv>
+                    <Unicode>quasi rerum creatarum brevis epilogus ideo dici mus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268591854_1140" custom="readingOrder {index:17;}">
+                <Coords points="1415,1308 248,1308 248,1383 1415,1383"/>
+                <TextEquiv>
+                    <Unicode>minor mundus. quare eciam dicitur a salvatore omnis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268594862_1143" custom="readingOrder {index:18;}">
+                <Coords points="287,1376 1401,1376 1401,1426 287,1426"/>
+                <TextEquiv>
+                    <Unicode>creatura. non universaliter distributive sed finaliter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268596867_1146" custom="readingOrder {index:19;}">
+                <Coords points="1401,1426 255,1426 255,1490 1401,1490"/>
+                <TextEquiv>
+                    <Unicode>collective. Exemplat eciam in se divine motionis presi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268599362_1149" custom="readingOrder {index:20;}">
+                <Coords points="276,1494 1419,1494 1419,1543 276,1543"/>
+                <TextEquiv>
+                    <Unicode>dentia sicut enim est primus maior motu primi mobilis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268601883_1152" custom="readingOrder {index:21;}">
+                <Coords points="1419,1543 283,1543 283,1607 1419,1607"/>
+                <TextEquiv>
+                    <Unicode>totam movens naturam corporalem cuius motus est vi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268604208_1155" custom="readingOrder {index:22;}">
+                <Coords points="283,1607 1419,1607 1419,1672 283,1672"/>
+                <TextEquiv>
+                    <Unicode>ta quedam omnibus deorsum subsistentibus. sic anima hominis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268606132_1158" custom="readingOrder {index:23;}">
+                <Coords points="1419,1672 273,1672 273,1736 1419,1736"/>
+                <TextEquiv>
+                    <Unicode>movet totum corpus motu vitali cordis Itaque secundum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268608174_1161" custom="readingOrder {index:24;}">
+                <Coords points="287,1725 1412,1725 1412,1785 287,1785"/>
+                <TextEquiv>
+                    <Unicode>legitimum ordinem originalis iusticie corpus suberat ani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268610076_1164" custom="readingOrder {index:25;}">
+                <Coords points="1412,1785 283,1785 283,1860 1412,1860"/>
+                <TextEquiv>
+                    <Unicode>me. anima spiritui. spiritus deo. Tenetur ob id homo se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268612170_1167" custom="readingOrder {index:26;}">
+                <Coords points="283,1853 1398,1853 1398,1910 283,1910"/>
+                <TextEquiv>
+                    <Unicode>cundum spiritum deum colere et deo. pre omnibus crea-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268614556_1170" custom="readingOrder {index:27;}">
+                <Coords points="1398,1910 276,1910 276,1946 1398,1946"/>
+                <TextEquiv>
+                    <Unicode>turis graciarum actiones referre. in quo ne dum o-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642268617547_1173" custom="readingOrder {index:28;}">
+                <Coords points="276,1960 1419,1960 1419,2010 276,2010"/>
+                <TextEquiv>
+                    <Unicode>pus nature sed et gratie consummatum est quod est supra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>quam res conservari potest per propria connaturalia principia vel&#13;
+in loco suo naturali. unum dixit poeta ¶ In ipso vivimus&#13;
+movemur et sumus. in ipso qui est entium vita viventium et&#13;
+principium finale omnium. a quo dependet celum et terra et to&#13;
+ta natura. Ab hoc ente derivatum est omnibus esse et vive&#13;
+re ac intelligere his clarius vero obscurius primo&#13;
+celi Ab hoc agente primo dependit omne agens secundum&#13;
+in virtute agens sibi a primo accommodata immo nul-&#13;
+la creatura subsisteret nisi causa que dedit esse influeret&#13;
+quare primo conventi omnis causalitas activa. et sic est&#13;
+prima causa primum efficiens. summa forma ultimus fi-&#13;
+nis. alpha et o primus et novissimus. Deinde patet ul&#13;
+timum illius propositionis quomodo hoc opus perfectum sit in ho&#13;
+mine consummatum. et homo est finalis et ultima creatura in&#13;
+qua creator suam expressit imaginem et similitudinem in&#13;
+qua omnis creata perfectio in unum colligitur. ut sit&#13;
+quasi rerum creatarum brevis epilogus ideo dici mus&#13;
+minor mundus. quare eciam dicitur a salvatore omnis&#13;
+creatura. non universaliter distributive sed finaliter&#13;
+collective. Exemplat eciam in se divine motionis presi&#13;
+dentia sicut enim est primus maior motu primi mobilis&#13;
+totam movens naturam corporalem cuius motus est vi-&#13;
+ta quedam omnibus deorsum subsistentibus. sic anima hominis&#13;
+movet totum corpus motu vitali cordis Itaque secundum&#13;
+legitimum ordinem originalis iusticie corpus suberat ani&#13;
+me. anima spiritui. spiritus deo. Tenetur ob id homo se&#13;
+cundum spiritum deum colere et deo. pre omnibus crea-&#13;
+turis graciarum actiones referre. in quo ne dum o-&#13;
+pus nature sed et gratie consummatum est quod est supra</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1642268538178_1083" custom="readingOrder {index:1;} structure {type:catch-word;}">
+            <Coords points="1287,2017 1515,2017 1515,2106 1287,2106"/>
+            <TextLine id="line_1642268621874_1177" custom="readingOrder {index:0;}">
+                <Coords points="1458,2095 1280,2095 1280,2035 1458,2035"/>
+                <TextEquiv>
+                    <Unicode>E iiii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E iiii</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

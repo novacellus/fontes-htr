@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:47:27.770+02:00</Created>
+        <LastChange>2022-12-12T14:50:33.915+01:00</LastChange>
+        <TranskribusMetadata docId="955440" pageId="37131884" pageNr="225" tsid="79649098" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=KWPPYMHBVBXBHFJIADJCAWVD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIPGFVWIGYZBSTGMICGTXZRG" imageId="29937509"/>
+    </Metadata>
+    <Page imageFilename="GLOG_AnPost-0225.jpg" imageWidth="1734" imageHeight="2655">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1670853033931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1651947259044_639"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1651947259044_638"/>
+                <RegionRefIndexed index="2" regionRef="region_1652006087149_59"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="header" id="TextRegion_1651947259044_639" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="77,202 1185,202 1185,257 77,257"/>
+            <TextLine id="line_1652004340982_12" custom="readingOrder {index:0;}">
+                <Coords points="114,202 1174,223 1174,254 1147,258 1121,261 833,271 416,259 390,258 340,255 265,250 189,242 114,233"/>
+                <Baseline points="114,223 139,226 164,229 189,232 214,234 239,237 265,240 290,241 315,243 340,245 365,246 390,248 416,249 441,249 466,250 491,250 516,251 542,250 833,261 847,257"/>
+                <TextEquiv>
+                    <Unicode>Posteriorum Fo.CX.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Posteriorum Fo.CX.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651947259044_638" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="77,257 1185,257 1185,1985 77,1985"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="79,289 134,299 189,308 244,314 300,320 355,324 410,326 466,328 521,329 576,329 632,329 687,328 742,327 797,326 853,325 908,324 963,323 1019,323 1074,323 1129,324 1185,326 1185,295 1129,293 1074,292 1019,292 963,292 908,293 853,294 797,295 742,296 687,297 632,298 576,298 521,298 466,297 410,295 355,293 300,289 244,283 189,277 134,268 79,258"/>
+                <Baseline points="79,279 134,289 189,298 244,304 300,310 355,314 410,316 466,318 521,319 576,319 632,319 687,318 742,317 797,316 853,315 908,314 963,313 1019,313 1074,313 1129,314 1185,316"/>
+                <TextEquiv>
+                    <Unicode>Utrum determinatis extremis demonstratonis possibile sit media</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="85,333 139,343 194,352 248,358 303,363 357,368 412,371 466,373 521,373 575,374 630,374 684,373 739,372 793,371 848,370 902,369 957,368 1011,368 1066,368 1120,369 1175,370 1175,339 1120,338 1066,337 1011,337 957,337 902,338 848,339 793,340 739,341 684,342 630,343 575,343 521,342 466,342 412,340 357,337 303,332 248,327 194,321 139,312 85,302"/>
+                <Baseline points="85,323 139,333 194,342 248,348 303,353 357,358 412,361 466,363 521,363 575,364 630,364 684,363 739,362 793,361 848,360 902,359 957,358 1011,358 1066,358 1120,359 1175,360"/>
+                <TextEquiv>
+                    <Unicode>esse infinita. Pro intellectione questionis mote: Notandum est primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="78,376 133,387 188,395 243,402 298,407 353,411 408,414 463,416 518,417 573,418 628,418 683,417 738,416 793,415 848,414 903,413 958,412 1013,411 1068,411 1123,412 1179,413 1179,383 1123,382 1068,381 1013,381 958,382 903,383 848,384 793,385 738,386 683,387 628,388 573,388 518,387 463,386 408,384 353,381 298,377 243,372 188,365 133,357 78,346"/>
+                <Baseline points="78,366 133,377 188,385 243,392 298,397 353,401 408,404 463,406 518,407 573,408 628,408 683,407 738,406 793,405 848,404 903,403 958,402 1013,401 1068,401 1123,402 1179,403"/>
+                <TextEquiv>
+                    <Unicode>Que postquam Aristotiles determinavit de sylogismo generante scientiam. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="85,418 139,429 194,438 249,445 304,451 359,456 414,459 469,460 524,462 579,462 634,461 688,460 743,459 798,458 853,456 908,455 963,454 1018,454 1073,454 1128,455 1183,458 1183,428 1128,425 1073,424 1018,424 963,424 908,425 853,426 798,428 743,429 688,430 634,431 579,432 524,432 469,430 414,429 359,426 304,421 249,415 194,408 139,399 85,388"/>
+                <Baseline points="85,408 139,419 194,428 249,435 304,441 359,446 414,449 469,450 524,452 579,452 634,451 688,450 743,449 798,448 853,446 908,445 963,444 1018,444 1073,444 1128,445 1183,448"/>
+                <TextEquiv>
+                    <Unicode>etiam de sylogismo generante ignorantiam. Iam consequenter determinat de processu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="77,460 132,471 187,480 242,488 297,493 352,498 407,501 462,504 517,505 572,505 627,505 682,504 737,503 792,502 847,500 902,499 957,498 1012,497 1067,497 1122,498 1177,500 1177,469 1122,467 1067,466 1012,466 957,467 902,468 847,469 792,471 737,472 682,473 627,474 572,474 517,474 462,473 407,470 352,467 297,462 242,457 187,449 132,440 77,429"/>
+                <Baseline points="77,450 132,461 187,470 242,478 297,483 352,488 407,491 462,494 517,495 572,495 627,495 682,494 737,493 792,492 847,490 902,489 957,488 1012,487 1067,487 1122,488 1177,490"/>
+                <TextEquiv>
+                    <Unicode>et quiditate sylogismi demonstrativi. Et primo ostendit quam in demonstra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="81,502 135,514 190,524 244,532 299,538 353,543 408,546 462,548 517,549 571,549 626,549 680,548 735,546 789,545 844,543 898,542 953,541 1007,540 1062,540 1116,541 1171,543 1171,513 1116,511 1062,510 1007,510 953,511 898,512 844,513 789,515 735,516 680,518 626,519 571,519 517,519 462,518 408,516 353,513 299,508 244,502 190,494 135,484 81,472"/>
+                <Baseline points="81,492 135,504 190,514 244,522 299,528 353,533 408,536 462,538 517,539 571,539 626,539 680,538 735,536 789,535 844,533 898,532 953,531 1007,530 1062,530 1116,531 1171,533"/>
+                <TextEquiv>
+                    <Unicode>tionibus non contingit procedere in infinitum per predicata quiditativa. Secundo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="85,546 139,558 194,568 249,576 303,582 358,586 413,589 467,591 522,592 577,592 632,592 686,591 741,589 796,587 850,586 905,585 960,584 1014,584 1069,584 1124,586 1179,589 1179,559 1124,556 1069,554 1014,554 960,554 905,555 850,556 796,557 741,559 686,561 632,562 577,562 522,562 467,561 413,559 358,556 303,552 249,546 194,538 139,528 85,516"/>
+                <Baseline points="85,536 139,548 194,558 249,566 303,572 358,576 413,579 467,581 522,582 577,582 632,582 686,581 741,579 796,577 850,576 905,575 960,574 1014,574 1069,574 1124,576 1179,579"/>
+                <TextEquiv>
+                    <Unicode>ostendit qumodo non contingit procedere in infinitum per predicata substantialia. Ter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="77,587 132,600 187,610 242,618 297,626 352,630 407,633 462,635 517,636 572,636 627,635 682,634 737,633 792,631 847,629 902,628 957,627 1012,626 1067,627 1122,629 1177,631 1177,601 1122,599 1067,597 1012,596 957,597 902,598 847,599 792,601 737,603 682,604 627,605 572,606 517,606 462,605 407,603 352,600 297,596 242,588 187,580 132,570 77,557"/>
+                <Baseline points="77,577 132,590 187,600 242,608 297,616 352,620 407,623 462,625 517,626 572,626 627,625 682,624 737,623 792,621 847,619 902,618 957,617 1012,616 1067,617 1122,619 1177,621"/>
+                <TextEquiv>
+                    <Unicode>tio quomodo non per predicata accidentalia. Quarto ostendit que nullo modo et probat per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="81,630 135,643 190,653 244,661 299,668 353,672 408,676 462,678 517,679 571,679 626,678 680,677 735,676 789,674 844,672 898,671 953,669 1007,669 1062,669 1116,670 1171,672 1171,642 1116,640 1062,639 1007,639 953,639 898,641 844,642 789,644 735,646 680,647 626,648 571,649 517,649 462,648 408,646 353,642 299,638 244,631 190,623 135,613 81,600"/>
+                <Baseline points="81,620 135,633 190,643 244,651 299,658 353,662 408,666 462,668 517,669 571,669 626,668 680,667 735,666 789,664 844,662 898,661 953,659 1007,659 1062,659 1116,660 1171,662"/>
+                <TextEquiv>
+                    <Unicode>rationes demonstrativas et analecticas Ponit ergo aristotiles in primis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="85,675 139,687 194,697 248,705 303,712 358,716 412,719 467,722 521,723 576,723 631,722 685,721 740,720 794,718 849,716 904,715 958,714 1013,713 1067,713 1122,714 1177,716 1177,686 1122,684 1067,683 1013,683 958,684 904,685 849,686 794,688 740,690 685,691 631,692 576,693 521,693 467,692 412,689 358,686 303,682 248,675 194,667 139,657 85,645"/>
+                <Baseline points="85,665 139,677 194,687 248,695 303,702 358,706 412,709 467,712 521,713 576,713 631,712 685,711 740,710 794,708 849,706 904,705 958,704 1013,703 1067,703 1122,704 1177,706"/>
+                <TextEquiv>
+                    <Unicode>quasdam suppositiones Prima est ista omnis sylogismus est ex tribus terminis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="81,716 135,729 190,739 245,748 300,753 355,759 409,762 464,764 519,765 574,766 629,765 683,764 738,763 793,761 848,760 903,758 957,757 1012,757 1067,757 1122,759 1177,761 1177,731 1122,729 1067,727 1012,727 957,727 903,728 848,730 793,731 738,733 683,734 629,735 574,736 519,735 464,734 409,732 355,729 300,723 245,718 190,709 135,699 81,686"/>
+                <Baseline points="81,706 135,719 190,729 245,738 300,743 355,749 409,752 464,754 519,755 574,756 629,755 683,754 738,753 793,751 848,750 903,748 957,747 1012,747 1067,747 1122,749 1177,751"/>
+                <TextEquiv>
+                    <Unicode>maiore extremitate. minore et medio ut ostensum est in primo priorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="82,759 136,772 191,783 245,791 300,797 355,803 409,806 464,808 519,809 573,809 628,809 683,807 737,806 792,804 847,803 901,802 956,801 1011,800 1065,801 1120,802 1175,805 1175,775 1120,772 1065,771 1011,770 956,771 901,772 847,773 792,774 737,776 683,777 628,779 573,779 519,779 464,778 409,776 355,773 300,767 245,761 191,753 136,742 82,729"/>
+                <Baseline points="82,749 136,762 191,773 245,781 300,787 355,793 409,796 464,798 519,799 573,799 628,799 683,797 737,796 792,794 847,793 901,792 956,791 1011,790 1065,791 1120,792 1175,795"/>
+                <TextEquiv>
+                    <Unicode>¶ Secunda suppositio necesse est aliquam demonstrationem esse resolubilem in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="87,802 141,815 195,826 250,834 304,841 359,846 413,850 467,852 522,853 576,853 631,853 685,852 739,850 794,849 848,847 903,845 957,844 1011,844 1066,844 1120,845 1175,847 1175,817 1120,815 1066,814 1011,814 957,814 903,815 848,817 794,819 739,820 685,822 631,823 576,823 522,823 467,822 413,820 359,816 304,811 250,804 195,796 141,785 87,772"/>
+                <Baseline points="87,792 141,805 195,816 250,824 304,831 359,836 413,840 467,842 522,843 576,843 631,843 685,842 739,840 794,839 848,837 903,835 957,834 1011,834 1066,834 1120,835 1175,837"/>
+                <TextEquiv>
+                    <Unicode>immediata ratione utriusque premissarum. patet se ista omne corpus animatum est substantia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="87,845 141,858 196,869 251,878 306,884 361,889 415,893 470,895 525,896 580,897 635,896 689,895 744,894 799,892 854,890 909,889 963,888 1018,888 1073,888 1128,889 1183,891 1183,861 1128,859 1073,858 1018,858 963,858 909,859 854,860 799,862 744,864 689,865 635,866 580,867 525,866 470,865 415,863 361,859 306,854 251,848 196,839 141,828 87,815"/>
+                <Baseline points="87,835 141,848 196,859 251,868 306,874 361,879 415,883 470,885 525,886 580,887 635,886 689,885 744,884 799,882 854,880 909,879 963,878 1018,878 1073,878 1128,879 1183,881"/>
+                <TextEquiv>
+                    <Unicode>omnis homo est corpus animatum. ergo omnis homo est substantia. Maior sic resoluitur ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="89,889 143,902 198,912 252,921 307,927 362,932 416,935 471,938 525,939 580,939 635,938 689,937 744,936 798,934 853,932 908,931 962,930 1017,930 1071,931 1126,932 1181,935 1181,905 1126,902 1071,901 1017,900 962,900 908,901 853,902 798,904 744,906 689,907 635,908 580,909 525,909 471,908 416,905 362,902 307,897 252,891 198,882 143,872 89,859"/>
+                <Baseline points="89,879 143,892 198,902 252,911 307,917 362,922 416,925 471,928 525,929 580,929 635,928 689,927 744,926 798,924 853,922 908,921 962,920 1017,920 1071,921 1126,922 1181,925"/>
+                <TextEquiv>
+                    <Unicode>immediata omne corpus est substantia. omne corpus animatum est corpus, ergo omne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="85,930 139,944 193,954 247,964 302,970 356,976 410,979 465,981 519,982 573,982 628,981 682,980 736,978 790,976 845,975 899,973 953,972 1008,972 1062,973 1116,975 1171,979 1171,949 1116,945 1062,943 1008,942 953,942 899,943 845,945 790,946 736,948 682,950 628,951 573,952 519,952 465,951 410,949 356,946 302,940 247,934 193,924 139,914 85,900"/>
+                <Baseline points="85,920 139,934 193,944 247,954 302,960 356,966 410,969 465,971 519,972 573,972 628,971 682,970 736,968 790,966 845,965 899,963 953,962 1008,962 1062,963 1116,965 1171,969"/>
+                <TextEquiv>
+                    <Unicode>corpus animatum est substantia. Minor vero sic resolvitur. omne animal est corpus anima-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="87,973 141,987 196,998 250,1006 305,1013 359,1018 414,1022 468,1024 523,1025 577,1025 632,1024 686,1023 741,1021 795,1020 850,1018 904,1017 959,1016 1013,1016 1068,1017 1122,1018 1177,1022 1177,992 1122,988 1068,987 1013,986 959,986 904,987 850,988 795,990 741,991 686,993 632,994 577,995 523,995 468,994 414,992 359,988 305,983 250,976 196,968 141,957 87,943"/>
+                <Baseline points="87,963 141,977 196,988 250,996 305,1003 359,1008 414,1012 468,1014 523,1015 577,1015 632,1014 686,1013 741,1011 795,1010 850,1008 904,1007 959,1006 1013,1006 1068,1007 1122,1008 1177,1012"/>
+                <TextEquiv>
+                    <Unicode>tum. omnis homo est animal. ergo omnis homo est corpus animatum. ¶ Tertia sup-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="91,1018 145,1031 199,1041 253,1050 307,1057 362,1062 416,1065 470,1068 524,1068 578,1069 633,1068 687,1067 741,1065 795,1064 849,1062 904,1061 958,1060 1012,1059 1066,1060 1120,1062 1175,1064 1175,1034 1120,1032 1066,1030 1012,1029 958,1030 904,1031 849,1032 795,1034 741,1035 687,1037 633,1038 578,1039 524,1038 470,1038 416,1035 362,1032 307,1027 253,1020 199,1011 145,1001 91,988"/>
+                <Baseline points="91,1008 145,1021 199,1031 253,1040 307,1047 362,1052 416,1055 470,1058 524,1058 578,1059 633,1058 687,1057 741,1055 795,1054 849,1052 904,1051 958,1050 1012,1049 1066,1050 1120,1052 1175,1054"/>
+                <TextEquiv>
+                    <Unicode>positionem necesse est demonstrationem procedere ex immediatis secundum veritate-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="85,1060 139,1073 194,1083 248,1091 303,1099 357,1103 412,1107 466,1110 521,1111 575,1112 630,1111 684,1111 739,1109 793,1108 848,1107 902,1106 957,1105 1011,1105 1066,1105 1120,1106 1175,1109 1175,1079 1120,1076 1066,1075 1011,1075 957,1075 902,1076 848,1077 793,1078 739,1079 684,1081 630,1081 575,1082 521,1081 466,1080 412,1077 357,1073 303,1069 248,1061 194,1053 139,1043 85,1030"/>
+                <Baseline points="85,1050 139,1063 194,1073 248,1081 303,1089 357,1093 412,1097 466,1100 521,1101 575,1102 630,1101 684,1101 739,1099 793,1098 848,1097 902,1096 957,1095 1011,1095 1066,1095 1120,1096 1175,1099"/>
+                <TextEquiv>
+                    <Unicode>Unde per hoc differt demonstrator a dyalectico. et dyalectius procedit ex im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="83,1100 137,1114 192,1126 247,1135 302,1142 357,1148 411,1151 466,1153 521,1155 576,1155 631,1154 685,1153 740,1151 795,1150 850,1148 905,1147 959,1146 1014,1146 1069,1147 1124,1149 1179,1152 1179,1122 1124,1119 1069,1117 1014,1116 959,1116 905,1117 850,1118 795,1120 740,1121 685,1123 631,1124 576,1125 521,1125 466,1123 411,1121 357,1118 302,1112 247,1105 192,1096 137,1084 83,1070"/>
+                <Baseline points="83,1090 137,1104 192,1116 247,1125 302,1132 357,1138 411,1141 466,1143 521,1145 576,1145 631,1144 685,1143 740,1141 795,1140 850,1138 905,1137 959,1136 1014,1136 1069,1137 1124,1139 1179,1142"/>
+                <TextEquiv>
+                    <Unicode>mediatis secundum apparentiam Sed demonstrator procedit ex immediatis secundum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="89,1145 143,1159 197,1170 251,1179 306,1186 360,1191 414,1195 469,1197 523,1197 577,1197 632,1196 686,1195 740,1193 794,1191 849,1190 903,1188 957,1187 1012,1188 1066,1189 1120,1191 1175,1196 1175,1166 1120,1161 1066,1159 1012,1158 957,1157 903,1158 849,1160 794,1161 740,1163 686,1165 632,1166 577,1167 523,1167 469,1167 414,1165 360,1161 306,1156 251,1149 197,1140 143,1129 89,1115"/>
+                <Baseline points="89,1135 143,1149 197,1160 251,1169 306,1176 360,1181 414,1185 469,1187 523,1187 577,1187 632,1186 686,1185 740,1183 794,1181 849,1180 903,1178 957,1177 1012,1178 1066,1179 1120,1181 1175,1186"/>
+                <TextEquiv>
+                    <Unicode>veritatem. ¶ Quarta suppositio omnis demonstratio est ex his que per se sunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="85,1186 139,1200 194,1212 248,1221 303,1228 358,1233 412,1237 467,1240 521,1241 576,1241 631,1240 685,1239 740,1237 794,1236 849,1234 904,1233 958,1232 1013,1231 1067,1232 1122,1234 1177,1237 1177,1207 1122,1204 1067,1202 1013,1201 958,1202 904,1203 849,1204 794,1206 740,1207 685,1209 631,1210 576,1211 521,1211 467,1210 412,1207 358,1203 303,1198 248,1191 194,1182 139,1170 85,1156"/>
+                <Baseline points="85,1176 139,1190 194,1202 248,1211 303,1218 358,1223 412,1227 467,1230 521,1231 576,1231 631,1230 685,1229 740,1227 794,1226 849,1224 904,1223 958,1222 1013,1221 1067,1222 1122,1224 1177,1227"/>
+                <TextEquiv>
+                    <Unicode>et non per accidens. ut probatum est ante. Istis suppositionibus habitis aristotiles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="91,1230 145,1244 199,1255 253,1265 307,1272 362,1277 416,1281 470,1284 524,1285 578,1285 633,1285 687,1283 741,1282 795,1280 849,1279 904,1277 958,1276 1012,1275 1066,1276 1120,1277 1175,1279 1175,1249 1120,1247 1066,1246 1012,1245 958,1246 904,1247 849,1249 795,1250 741,1252 687,1253 633,1255 578,1255 524,1255 470,1254 416,1251 362,1247 307,1242 253,1235 199,1225 145,1214 91,1200"/>
+                <Baseline points="91,1220 145,1234 199,1245 253,1255 307,1262 362,1267 416,1271 470,1274 524,1275 578,1275 633,1275 687,1273 741,1272 795,1270 849,1269 904,1267 958,1266 1012,1265 1066,1266 1120,1267 1175,1269"/>
+                <TextEquiv>
+                    <Unicode>in textu movet tres questiones. ¶ Prima utrum contingat procedere in infi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="89,1273 143,1286 197,1297 251,1306 306,1314 360,1319 414,1323 469,1325 523,1327 577,1327 632,1327 686,1327 740,1325 794,1324 849,1323 903,1321 957,1321 1012,1320 1066,1321 1120,1322 1175,1324 1175,1294 1120,1292 1066,1291 1012,1290 957,1291 903,1291 849,1293 794,1294 740,1295 686,1297 632,1297 577,1297 523,1297 469,1295 414,1293 360,1289 306,1284 251,1276 197,1267 143,1256 89,1243"/>
+                <Baseline points="89,1263 143,1276 197,1287 251,1296 306,1304 360,1309 414,1313 469,1315 523,1317 577,1317 632,1317 686,1317 740,1315 794,1314 849,1313 903,1311 957,1311 1012,1310 1066,1311 1120,1312 1175,1314"/>
+                <TextEquiv>
+                    <Unicode>nitum in sursum in demonstrationibus incipiendo a minori extremitate.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="91,1316 145,1329 199,1340 253,1350 308,1357 362,1363 416,1367 471,1370 525,1371 579,1371 634,1371 688,1370 742,1369 796,1367 851,1366 905,1365 959,1364 1014,1364 1068,1364 1122,1366 1177,1368 1177,1338 1122,1336 1068,1334 1014,1334 959,1334 905,1335 851,1336 796,1337 742,1339 688,1340 634,1341 579,1341 525,1341 471,1340 416,1337 362,1333 308,1327 253,1320 199,1310 145,1299 91,1286"/>
+                <Baseline points="91,1306 145,1319 199,1330 253,1340 308,1347 362,1353 416,1357 471,1360 525,1361 579,1361 634,1361 688,1360 742,1359 796,1357 851,1356 905,1355 959,1354 1014,1354 1068,1354 1122,1356 1177,1358"/>
+                <TextEquiv>
+                    <Unicode>ut posito que socrates sit terminus de nullo predicabilis non habet enim infe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="89,1356 143,1371 197,1384 251,1393 306,1401 360,1407 414,1411 469,1414 523,1415 577,1416 632,1415 686,1414 740,1413 794,1411 849,1410 903,1409 957,1408 1012,1407 1066,1408 1120,1410 1175,1413 1175,1383 1120,1380 1066,1378 1012,1377 957,1378 903,1379 849,1380 794,1381 740,1383 686,1384 632,1385 577,1386 523,1385 469,1384 414,1381 360,1377 306,1371 251,1363 197,1354 143,1341 89,1326"/>
+                <Baseline points="89,1346 143,1361 197,1374 251,1383 306,1391 360,1397 414,1401 469,1404 523,1405 577,1406 632,1405 686,1404 740,1403 794,1401 849,1400 903,1399 957,1398 1012,1397 1066,1398 1120,1400 1175,1403"/>
+                <TextEquiv>
+                    <Unicode>rius et de socrate dicitur homo. et de homine animal. et sic in infinitum ascendendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="87,1401 141,1416 196,1427 250,1437 305,1445 359,1451 414,1455 468,1458 523,1459 577,1459 632,1459 686,1458 741,1457 795,1456 850,1454 904,1453 959,1452 1013,1452 1068,1452 1122,1454 1177,1457 1177,1427 1122,1424 1068,1422 1013,1422 959,1422 904,1423 850,1424 795,1426 741,1427 686,1428 632,1429 577,1429 523,1429 468,1428 414,1425 359,1421 305,1415 250,1407 196,1397 141,1386 87,1371"/>
+                <Baseline points="87,1391 141,1406 196,1417 250,1427 305,1435 359,1441 414,1445 468,1448 523,1449 577,1449 632,1449 686,1448 741,1447 795,1446 850,1444 904,1443 959,1442 1013,1442 1068,1442 1122,1444 1177,1447"/>
+                <TextEquiv>
+                    <Unicode>in predicatis quiditativis et magis communioribus virum ergo sit dare sta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="85,1443 139,1458 193,1470 247,1480 301,1487 356,1493 410,1497 464,1500 518,1502 572,1503 627,1502 681,1502 735,1500 789,1499 843,1497 898,1496 952,1495 1006,1494 1060,1495 1114,1496 1169,1498 1169,1468 1114,1466 1060,1465 1006,1464 952,1465 898,1466 843,1467 789,1469 735,1470 681,1472 627,1472 572,1473 518,1472 464,1470 410,1467 356,1463 301,1457 247,1450 193,1440 139,1428 85,1413"/>
+                <Baseline points="85,1433 139,1448 193,1460 247,1470 301,1477 356,1483 410,1487 464,1490 518,1492 572,1493 627,1492 681,1492 735,1490 789,1489 843,1487 898,1486 952,1485 1006,1484 1060,1485 1114,1486 1169,1488"/>
+                <TextEquiv>
+                    <Unicode>tum in aliquo predicato quiditativo sic que tale non habeat inferius aliquod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
+                <Coords points="83,1484 137,1499 191,1511 245,1522 300,1530 354,1536 408,1541 463,1544 517,1546 571,1546 626,1546 680,1545 734,1544 788,1543 843,1541 897,1540 951,1539 1006,1538 1060,1538 1114,1540 1169,1542 1169,1512 1114,1510 1060,1508 1006,1508 951,1509 897,1510 843,1511 788,1513 734,1514 680,1515 626,1516 571,1516 517,1516 463,1514 408,1511 354,1506 300,1500 245,1492 191,1481 137,1469 83,1454"/>
+                <Baseline points="83,1474 137,1489 191,1501 245,1512 300,1520 354,1526 408,1531 463,1534 517,1536 571,1536 626,1536 680,1535 734,1534 788,1533 843,1531 897,1530 951,1529 1006,1528 1060,1528 1114,1530 1169,1532"/>
+                <TextEquiv>
+                    <Unicode>¶ Secunda questio quam aristotiles movet in textu est utrum incipiendo a ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="86,1527 139,1542 193,1555 247,1566 301,1574 355,1580 409,1585 462,1587 516,1589 570,1590 624,1589 678,1589 732,1587 786,1586 839,1584 893,1582 947,1581 1001,1580 1055,1580 1109,1581 1163,1583 1163,1553 1109,1551 1055,1550 1001,1550 947,1551 893,1552 839,1554 786,1556 732,1557 678,1559 624,1559 570,1560 516,1559 462,1557 409,1555 355,1550 301,1544 247,1536 193,1525 139,1512 86,1497"/>
+                <Baseline points="86,1517 139,1532 193,1545 247,1556 301,1564 355,1570 409,1575 462,1577 516,1579 570,1580 624,1579 678,1579 732,1577 786,1576 839,1574 893,1572 947,1571 1001,1570 1055,1570 1109,1571 1163,1573"/>
+                <TextEquiv>
+                    <Unicode>iori extremitate sit procedere in infinitum deorsum descendendo. verbi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="89,1574 142,1588 196,1599 250,1609 304,1617 358,1623 412,1627 466,1630 520,1632 574,1633 628,1633 681,1632 735,1631 789,1629 843,1628 897,1626 951,1625 1005,1624 1059,1623 1113,1624 1167,1625 1167,1595 1113,1594 1059,1593 1005,1594 951,1595 897,1596 843,1598 789,1599 735,1601 681,1602 628,1603 574,1603 520,1602 466,1600 412,1597 358,1593 304,1587 250,1579 196,1569 142,1558 89,1544"/>
+                <Baseline points="89,1564 142,1578 196,1589 250,1599 304,1607 358,1613 412,1617 466,1620 520,1622 574,1623 628,1623 681,1622 735,1621 789,1619 843,1618 897,1616 951,1615 1005,1614 1059,1613 1113,1614 1167,1615"/>
+                <TextEquiv>
+                    <Unicode>gratia. ut substantia est predicatum quod non habet superius univoce. sub quo corpus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:31;}">
+                <Coords points="83,1612 137,1628 191,1642 246,1652 300,1660 355,1667 409,1671 463,1675 518,1677 572,1677 627,1677 681,1676 735,1675 790,1673 844,1671 899,1670 953,1669 1007,1668 1062,1668 1116,1670 1171,1672 1171,1642 1116,1640 1062,1638 1007,1638 953,1639 899,1640 844,1641 790,1643 735,1645 681,1646 627,1647 572,1647 518,1647 463,1645 409,1641 355,1637 300,1630 246,1622 191,1612 137,1598 83,1582"/>
+                <Baseline points="83,1602 137,1618 191,1632 246,1642 300,1650 355,1657 409,1661 463,1665 518,1667 572,1667 627,1667 681,1666 735,1665 790,1663 844,1661 899,1660 953,1659 1007,1658 1062,1658 1116,1660 1171,1662"/>
+                <TextEquiv>
+                    <Unicode>sub corpore corpus animatum. sub quo animal. et sic descendendo usque ad indi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:32;}">
+                <Coords points="89,1658 142,1673 196,1686 250,1696 304,1704 358,1710 412,1714 466,1718 520,1719 574,1720 628,1720 681,1719 735,1718 789,1717 843,1715 897,1714 951,1713 1005,1713 1059,1713 1113,1715 1167,1718 1167,1688 1113,1685 1059,1683 1005,1683 951,1683 897,1684 843,1685 789,1687 735,1688 681,1689 628,1690 574,1690 520,1689 466,1688 412,1684 358,1680 304,1674 250,1666 196,1656 142,1643 89,1628"/>
+                <Baseline points="89,1648 142,1663 196,1676 250,1686 304,1694 358,1700 412,1704 466,1708 520,1709 574,1710 628,1710 681,1709 735,1708 789,1707 843,1705 897,1704 951,1703 1005,1703 1059,1703 1113,1705 1167,1708"/>
+                <TextEquiv>
+                    <Unicode>vidua utrum ergo alicubi sit status vel sit processus in infinitum. ¶ Tertia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:33;}">
+                <Coords points="91,1699 145,1715 199,1729 253,1739 307,1747 361,1754 415,1759 469,1762 523,1764 577,1764 631,1764 685,1763 739,1762 793,1760 847,1759 901,1757 955,1756 1009,1755 1063,1756 1117,1757 1171,1759 1171,1729 1117,1727 1063,1726 1009,1725 955,1726 901,1727 847,1729 793,1730 739,1732 685,1733 631,1734 577,1734 523,1734 469,1732 415,1729 361,1724 307,1717 253,1709 199,1699 145,1685 91,1669"/>
+                <Baseline points="91,1689 145,1705 199,1719 253,1729 307,1737 361,1744 415,1749 469,1752 523,1754 577,1754 631,1754 685,1753 739,1752 793,1750 847,1749 901,1747 955,1746 1009,1745 1063,1746 1117,1747 1171,1749"/>
+                <TextEquiv>
+                    <Unicode>utrum dato statu in extremis utrum sit procedere in infinitum in mediis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:34;}">
+                <Coords points="91,1742 145,1757 199,1770 253,1781 307,1790 361,1796 415,1801 469,1805 523,1807 577,1808 631,1808 685,1807 739,1806 793,1804 847,1803 901,1801 955,1800 1009,1799 1063,1799 1117,1800 1171,1802 1171,1772 1117,1770 1063,1769 1009,1769 955,1770 901,1771 847,1773 793,1774 739,1776 685,1777 631,1778 577,1778 523,1777 469,1775 415,1771 361,1766 307,1760 253,1751 199,1740 145,1727 91,1712"/>
+                <Baseline points="91,1732 145,1747 199,1760 253,1771 307,1780 361,1786 415,1791 469,1795 523,1797 577,1798 631,1798 685,1797 739,1796 793,1794 847,1793 901,1791 955,1790 1009,1789 1063,1789 1117,1790 1171,1792"/>
+                <TextEquiv>
+                    <Unicode>ut verum inter infimum ut fortes et supremum ut substantia sit dare infinita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:35;}">
+                <Coords points="89,1784 143,1800 197,1815 251,1826 305,1834 360,1841 414,1846 468,1849 522,1851 576,1852 631,1852 685,1851 739,1850 793,1848 847,1847 902,1845 956,1844 1010,1843 1064,1844 1118,1845 1173,1847 1173,1816 1118,1814 1064,1813 1010,1812 956,1813 902,1814 847,1816 793,1817 739,1819 685,1820 631,1821 576,1821 522,1820 468,1818 414,1815 360,1810 305,1803 251,1795 197,1784 143,1769 89,1753"/>
+                <Baseline points="89,1774 143,1790 197,1805 251,1816 305,1824 360,1831 414,1836 468,1839 522,1841 576,1842 631,1842 685,1841 739,1840 793,1838 847,1837 902,1835 956,1834 1010,1833 1064,1834 1118,1835 1173,1837"/>
+                <TextEquiv>
+                    <Unicode>media vel non. Et aristotiles ostendit que iste questiones sunt necessarie. ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:36;}">
+                <Coords points="86,1827 139,1843 193,1857 247,1868 301,1877 355,1883 409,1889 462,1893 516,1895 570,1896 624,1896 678,1895 732,1895 786,1893 839,1891 893,1890 947,1889 1001,1888 1055,1888 1109,1888 1163,1890 1163,1859 1109,1857 1055,1857 1001,1857 947,1858 893,1859 839,1860 786,1862 732,1864 678,1864 624,1865 570,1865 516,1864 462,1862 409,1858 355,1852 301,1846 247,1837 193,1826 139,1812 86,1796"/>
+                <Baseline points="86,1817 139,1833 193,1847 247,1858 301,1867 355,1873 409,1879 462,1883 516,1885 570,1886 624,1886 678,1885 732,1885 786,1883 839,1881 893,1880 947,1879 1001,1878 1055,1878 1109,1878 1163,1880"/>
+                <TextEquiv>
+                    <Unicode>sciendum utrum demonstrationes procedant in infinitum. in predicatis quiditati-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:37;}">
+                <Coords points="90,1871 144,1887 198,1902 252,1912 306,1921 360,1928 414,1933 468,1937 522,1939 576,1941 630,1941 684,1940 738,1939 792,1938 846,1937 900,1935 954,1934 1008,1933 1062,1933 1116,1934 1170,1936 1170,1906 1116,1904 1062,1903 1008,1903 954,1904 900,1905 846,1907 792,1908 738,1909 684,1910 630,1911 576,1911 522,1909 468,1907 414,1903 360,1898 306,1891 252,1882 198,1872 144,1857 90,1841"/>
+                <Baseline points="90,1861 144,1877 198,1892 252,1902 306,1911 360,1918 414,1923 468,1927 522,1929 576,1931 630,1931 684,1930 738,1929 792,1928 846,1927 900,1925 954,1924 1008,1923 1062,1923 1116,1924 1170,1926"/>
+                <TextEquiv>
+                    <Unicode>vis. Si enim procederetur in infinitum tunc nihil sciretur. Infinitum enim secundum que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:38;}">
+                <Coords points="82,1911 114,1922 147,1932 179,1940 212,1948 245,1955 277,1960 310,1966 342,1971 375,1974 408,1977 440,1980 473,1982 505,1983 538,1984 571,1985 603,1985 636,1985 668,1985 701,1984 734,1983 734,1953 701,1954 668,1955 636,1955 603,1955 571,1955 538,1954 505,1953 473,1952 440,1950 408,1947 375,1944 342,1941 310,1936 277,1930 245,1925 212,1918 179,1910 147,1902 114,1892 82,1881"/>
+                <Baseline points="82,1901 114,1912 147,1922 179,1930 212,1938 245,1945 277,1950 310,1956 342,1961 375,1964 408,1967 440,1970 473,1972 505,1973 538,1974 571,1975 603,1975 636,1975 668,1975 701,1974 734,1973"/>
+                <TextEquiv>
+                    <Unicode>infinitum est ignotum ut ostenditur primo phisicorum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Utrum determinatis extremis demonstratonis possibile sit media&#13;
+esse infinita. Pro intellectione questionis mote: Notandum est primo&#13;
+Que postquam Aristotiles determinavit de sylogismo generante scientiam. et&#13;
+etiam de sylogismo generante ignorantiam. Iam consequenter determinat de processu&#13;
+et quiditate sylogismi demonstrativi. Et primo ostendit quam in demonstra-&#13;
+tionibus non contingit procedere in infinitum per predicata quiditativa. Secundo&#13;
+ostendit qumodo non contingit procedere in infinitum per predicata substantialia. Ter-&#13;
+tio quomodo non per predicata accidentalia. Quarto ostendit que nullo modo et probat per&#13;
+rationes demonstrativas et analecticas Ponit ergo aristotiles in primis&#13;
+quasdam suppositiones Prima est ista omnis sylogismus est ex tribus terminis.&#13;
+maiore extremitate. minore et medio ut ostensum est in primo priorum&#13;
+¶ Secunda suppositio necesse est aliquam demonstrationem esse resolubilem in&#13;
+immediata ratione utriusque premissarum. patet se ista omne corpus animatum est substantia&#13;
+omnis homo est corpus animatum. ergo omnis homo est substantia. Maior sic resoluitur ad&#13;
+immediata omne corpus est substantia. omne corpus animatum est corpus, ergo omne&#13;
+corpus animatum est substantia. Minor vero sic resolvitur. omne animal est corpus anima-&#13;
+tum. omnis homo est animal. ergo omnis homo est corpus animatum. ¶ Tertia sup-&#13;
+positionem necesse est demonstrationem procedere ex immediatis secundum veritate-&#13;
+Unde per hoc differt demonstrator a dyalectico. et dyalectius procedit ex im-&#13;
+mediatis secundum apparentiam Sed demonstrator procedit ex immediatis secundum&#13;
+veritatem. ¶ Quarta suppositio omnis demonstratio est ex his que per se sunt&#13;
+et non per accidens. ut probatum est ante. Istis suppositionibus habitis aristotiles&#13;
+in textu movet tres questiones. ¶ Prima utrum contingat procedere in infi&#13;
+nitum in sursum in demonstrationibus incipiendo a minori extremitate.&#13;
+ut posito que socrates sit terminus de nullo predicabilis non habet enim infe&#13;
+rius et de socrate dicitur homo. et de homine animal. et sic in infinitum ascendendo&#13;
+in predicatis quiditativis et magis communioribus virum ergo sit dare sta&#13;
+tum in aliquo predicato quiditativo sic que tale non habeat inferius aliquod&#13;
+¶ Secunda questio quam aristotiles movet in textu est utrum incipiendo a ma&#13;
+iori extremitate sit procedere in infinitum deorsum descendendo. verbi&#13;
+gratia. ut substantia est predicatum quod non habet superius univoce. sub quo corpus&#13;
+sub corpore corpus animatum. sub quo animal. et sic descendendo usque ad indi-&#13;
+vidua utrum ergo alicubi sit status vel sit processus in infinitum. ¶ Tertia&#13;
+utrum dato statu in extremis utrum sit procedere in infinitum in mediis.&#13;
+ut verum inter infimum ut fortes et supremum ut substantia sit dare infinita&#13;
+media vel non. Et aristotiles ostendit que iste questiones sunt necessarie. ad&#13;
+sciendum utrum demonstrationes procedant in infinitum. in predicatis quiditati-&#13;
+vis. Si enim procederetur in infinitum tunc nihil sciretur. Infinitum enim secundum que&#13;
+infinitum est ignotum ut ostenditur primo phisicorum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1652006087149_59" custom="readingOrder {index:2;} structure {type:catch-word;}">
+            <Coords points="1007,1946 1203,1946 1203,1997 1007,1997"/>
+            <TextLine id="r1l42" custom="readingOrder {index:0;}">
+                <Coords points="1045,1981 1071,1982 1098,1981 1124,1981 1151,1983 1151,1952 1124,1950 1098,1950 1071,1951 1045,1950"/>
+                <Baseline points="1045,1971 1071,1972 1098,1971 1124,1971 1151,1973"/>
+                <TextEquiv>
+                    <Unicode>XX 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>XX 3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

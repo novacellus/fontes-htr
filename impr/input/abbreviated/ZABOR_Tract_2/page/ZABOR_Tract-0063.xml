@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-04T17:11:18.847+01:00</Created>
+        <LastChange>2022-02-05T13:20:22.454+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="3"/>
+    </Metadata>
+    <Page imageFilename="ZABOR_Tract-0063.jpg" imageWidth="1743" imageHeight="2618">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1644063622462" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1644061811094_509"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1644061811094_508"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="TextRegion_1644061811094_509" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="123,244 1430,244 1430,336 123,336"/>
+            <TextLine id="line_1644061697894_393" custom="readingOrder {index:0;} DocNumer {offset:11; length:7;}">
+                <Coords points="265,270 1296,270 1296,343 265,343"/>
+                <TextEquiv>
+                    <Unicode>Pars. iij. .$. ix.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pars. iij. .$. ix.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644061811094_508" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="123,336 1430,336 1430,2197 123,2197"/>
+            <TextLine id="line_1644061701683_396" custom="readingOrder {index:0;}">
+                <Coords points="1405,356 149,356 149,412 1405,412"/>
+                <TextEquiv>
+                    <Unicode>sancti po~tifices viri summe perfectionis et litterature miraculis gloriosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061705448_399" custom="readingOrder {index:1;}">
+                <Coords points="149,426 1401,426 1401,444 149,444"/>
+                <TextEquiv>
+                    <Unicode>qui oi~a tꝑalia arbitrabant^ vt stercora quoꝝ doctrina ecclesia sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061707230_402" custom="readingOrder {index:2;}">
+                <Coords points="1403,454 143,454 143,503 1403,503"/>
+                <TextEquiv>
+                    <Unicode>sol et luna. Quoꝝ scripta suos lectores sanctispiritus igne acce~du~t. quoꝝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061709665_405" custom="readingOrder {index:3;}">
+                <Coords points="151,513 1396,513 1396,542 151,542"/>
+                <TextEquiv>
+                    <Unicode>plures ꝓpria~ vita~ ꝓ defensione libertatis ecclesiastice tradideru~t martirio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061711629_408" custom="readingOrder {index:4;}">
+                <Coords points="1397,548 143,548 143,606 1397,606"/>
+                <TextEquiv>
+                    <Unicode>coronari. Quis inqʒ~~ audeat dicere tales ac tantos ta~ multos sic delirasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061714965_411" custom="readingOrder {index:5;}">
+                <Coords points="151,608 1394,608 1394,650 151,650"/>
+                <TextEquiv>
+                    <Unicode>vt hmo~i tꝑalia co~tra iustitia~ ac dei voluntate~ detinussent An no~ potius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061717530_414" custom="readingOrder {index:6;}">
+                <Coords points="1396,651 154,651 154,706 1396,706"/>
+                <TextEquiv>
+                    <Unicode>vsqʒ hodie co~tradictores eoꝝ formidabili vidimus morte consumptos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061719918_417" custom="readingOrder {index:7;}">
+                <Coords points="151,708 1401,708 1401,738 151,738"/>
+                <TextEquiv>
+                    <Unicode>iuxta qd' imprecatus fuit eis Consta~tinus qn~ pagina~ imꝑialis testame~ti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061722104_420" custom="readingOrder {index:8;}">
+                <Coords points="1408,749 143,749 143,797 1408,797"/>
+                <TextEquiv>
+                    <Unicode>ꝓprijs manibus suꝑ venerandu~ corpus beati Petri posuit. distin. xcvj. c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061724699_423" custom="readingOrder {index:9;}">
+                <Coords points="142,802 1394,802 1394,833 142,833"/>
+                <TextEquiv>
+                    <Unicode>Consta~tinus. Quis vnꝙ~~ temerator nisi penituisset ha~c maledictionem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061726879_426" custom="readingOrder {index:10;}">
+                <Coords points="1399,842 145,842 145,895 1399,895"/>
+                <TextEquiv>
+                    <Unicode>euasit. Reuera possumus adducere illud Gamalielis Actuu~. v. Si a deo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061729573_429" custom="readingOrder {index:11;}">
+                <Coords points="152,895 1399,895 1399,933 152,933"/>
+                <TextEquiv>
+                    <Unicode>est no~ poteritis dissoluere ⁊c~. Tanta siquide~ ꝑ huius mundi potentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061731709_432" custom="readingOrder {index:12;}">
+                <Coords points="1399,940 145,940 145,1007 1399,1007"/>
+                <TextEquiv>
+                    <Unicode>pariter et sapientes facta legimus co~tra patrimoniu~ ecclesie pene in om=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061735157_435" custom="readingOrder {index:13;}">
+                <Coords points="143,1014 1390,1014 1390,1034 143,1034"/>
+                <TextEquiv>
+                    <Unicode>nibus finibus totius christianitatis vt nequaqʒ~~ credibile sit ꝙ humano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061737832_438" custom="readingOrder {index:14;}">
+                <Coords points="1403,1052 136,1052 136,1076 1403,1076"/>
+                <TextEquiv>
+                    <Unicode>mo~ potuisset i~sultus hmo~i tolerasse. siue aliq~d recuꝑasse. post ta~ crebras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061740503_441" custom="readingOrder {index:15;}">
+                <Coords points="145,1091 1387,1091 1387,1121 145,1121"/>
+                <TextEquiv>
+                    <Unicode>desperatasqʒ expoliationes. sed quia de celo dimicatu~ est contra eos. ideo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061742771_444" custom="readingOrder {index:16;}">
+                <Coords points="1394,1127 147,1127 147,1185 1394,1185"/>
+                <TextEquiv>
+                    <Unicode>vt sumus perieru~t vniuersi hostes ecclesie vsqʒ in presens. Ubi scd's Co~=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061745302_447" custom="readingOrder {index:17;}">
+                <Coords points="149,1192 1403,1192 1403,1227 149,1227"/>
+                <TextEquiv>
+                    <Unicode>stantinus. Arrianus. Iulianus apostata. valens. Haytanaricus. Hala=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061747886_450" custom="readingOrder {index:18;}">
+                <Coords points="1397,1228 145,1228 145,1279 1397,1279"/>
+                <TextEquiv>
+                    <Unicode>ricus. Gausaricus. Honorius attila. Seuo. totila. Theodoricus. Con=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061760512_453" custom="readingOrder {index:19;}">
+                <Coords points="146,1290 1413,1290 1413,1328 146,1328"/>
+                <TextEquiv>
+                    <Unicode>stantinus tercius et q~ntus. Leo tercius et quartus. Henricus tercius et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061763110_456" custom="readingOrder {index:20;}">
+                <Coords points="1402,1339 148,1339 148,1383 1402,1383"/>
+                <TextEquiv>
+                    <Unicode>q~~rtus. fredericus primus et scd's. Otto quartꝰ. Lodouicus q~~rtus. imꝑa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061765310_459" custom="readingOrder {index:21;}">
+                <Coords points="148,1383 1402,1383 1402,1425 148,1425"/>
+                <TextEquiv>
+                    <Unicode>tores. et ceteri p~sumptores cu~ suis co~plicibꝰ. q~ quasi hora vna eccłiam p~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061767702_462" custom="readingOrder {index:22;}">
+                <Coords points="1400,1436 146,1436 146,1482 1400,1482"/>
+                <TextEquiv>
+                    <Unicode>nare nitebat^. aut sufocare. Ubi sunt. nu~q~d p~ualueru~t. et ecce hodie floret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061770531_465" custom="readingOrder {index:23;}">
+                <Coords points="146,1488 1406,1488 1406,1526 146,1526"/>
+                <TextEquiv>
+                    <Unicode>cultus dei cu~ gloria. Et illi si penitentia~ no~ egeru~t apd' inferos Ↄtremiscu~t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061774792_468" custom="readingOrder {index:24;}">
+                <Coords points="1406,1528 157,1528 157,1579 1406,1579"/>
+                <TextEquiv>
+                    <Unicode>Sed nu~quid humana virtute actu~ credimus minime. Igit^ deus ꝓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061777221_471" custom="readingOrder {index:25;}">
+                <Coords points="154,1583 1396,1583 1396,1618 154,1618"/>
+                <TextEquiv>
+                    <Unicode>nobis q~s co~tra nos. Ecce regnat fides sancta vide~tibus et inuidentibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061779357_474" custom="readingOrder {index:26;}">
+                <Coords points="1398,1618 146,1618 146,1662 1398,1662"/>
+                <TextEquiv>
+                    <Unicode>inimicis. de~tibus suis freme~tibus nil Ↄ~~ manu~ oi~pote~tis facere vale~tibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061781445_477" custom="readingOrder {index:27;}">
+                <Coords points="144,1667 1406,1667 1406,1706 144,1706"/>
+                <TextEquiv>
+                    <Unicode>iuxta ꝓphetia~ psal. dice~tꝛ. Dixit dn~s dn~o meo sede a dextris meis. Donec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061783840_480" custom="readingOrder {index:28;}">
+                <Coords points="1396,1711 148,1711 148,1776 1396,1776"/>
+                <TextEquiv>
+                    <Unicode>pona~ inimicos tuos scabellu~ pedu~ tuoꝝ. Et iteru~ Sepe expugnauerunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061786180_483" custom="readingOrder {index:29;}">
+                <Coords points="148,1776 1409,1776 1409,1799 148,1799"/>
+                <TextEquiv>
+                    <Unicode>me ⁊c~~. Et quia grandia mala contingerunt aliqn~ ꝓpter huiusmodi dispu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061788183_486" custom="readingOrder {index:30;}">
+                <Coords points="1400,1807 144,1807 144,1858 1400,1858"/>
+                <TextEquiv>
+                    <Unicode>tationes suggere~tibus quibusda~ impijs in aures principu~ ꝙ eccłiastici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061790319_489" custom="readingOrder {index:31;}">
+                <Coords points="139,1862 1407,1862 1407,1898 139,1898"/>
+                <TextEquiv>
+                    <Unicode>terrena dominia licite no~ possiderent Ideo apłica sedes inhibuit ne a mo~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061793027_492" custom="readingOrder {index:32;}">
+                <Coords points="1407,1908 141,1908 141,1948 1407,1948"/>
+                <TextEquiv>
+                    <Unicode>fiant. neqʒ illi liceat deinceps in dubium reuocare. qd' ta~tis sanctissimoꝝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061795368_495" custom="readingOrder {index:33;}">
+                <Coords points="141,1953 1415,1953 1415,1999 141,1999"/>
+                <TextEquiv>
+                    <Unicode>virorum doctrinis et exemplis constat roboratum. Aduertant sensati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061797110_498" custom="readingOrder {index:34;}">
+                <Coords points="1402,2005 139,2005 139,2062 1402,2062"/>
+                <TextEquiv>
+                    <Unicode>principes quid eis vtile sit et salubre post tot annorum curricula ac va=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061799404_501" custom="readingOrder {index:35;}">
+                <Coords points="133,2071 1409,2071 1409,2100 133,2100"/>
+                <TextEquiv>
+                    <Unicode>rios rerum eue~tus vbi nullus vnqʒ~~ prosperatus est. neqʒ sibi promitta~t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644061801757_504" custom="readingOrder {index:36;}">
+                <Coords points="1385,2120 139,2120 139,2172 1385,2172"/>
+                <TextEquiv>
+                    <Unicode>inconsulte posse immutare quod spiritusancto dictante statutum est.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sancti po~tifices viri summe perfectionis et litterature miraculis gloriosi&#13;
+qui oi~a tꝑalia arbitrabant^ vt stercora quoꝝ doctrina ecclesia sicut&#13;
+sol et luna. Quoꝝ scripta suos lectores sanctispiritus igne acce~du~t. quoꝝ&#13;
+plures ꝓpria~ vita~ ꝓ defensione libertatis ecclesiastice tradideru~t martirio&#13;
+coronari. Quis inqʒ~~ audeat dicere tales ac tantos ta~ multos sic delirasse&#13;
+vt hmo~i tꝑalia co~tra iustitia~ ac dei voluntate~ detinussent An no~ potius&#13;
+vsqʒ hodie co~tradictores eoꝝ formidabili vidimus morte consumptos&#13;
+iuxta qd' imprecatus fuit eis Consta~tinus qn~ pagina~ imꝑialis testame~ti&#13;
+ꝓprijs manibus suꝑ venerandu~ corpus beati Petri posuit. distin. xcvj. c&#13;
+Consta~tinus. Quis vnꝙ~~ temerator nisi penituisset ha~c maledictionem&#13;
+euasit. Reuera possumus adducere illud Gamalielis Actuu~. v. Si a deo&#13;
+est no~ poteritis dissoluere ⁊c~. Tanta siquide~ ꝑ huius mundi potentes&#13;
+pariter et sapientes facta legimus co~tra patrimoniu~ ecclesie pene in om=&#13;
+nibus finibus totius christianitatis vt nequaqʒ~~ credibile sit ꝙ humano&#13;
+mo~ potuisset i~sultus hmo~i tolerasse. siue aliq~d recuꝑasse. post ta~ crebras&#13;
+desperatasqʒ expoliationes. sed quia de celo dimicatu~ est contra eos. ideo&#13;
+vt sumus perieru~t vniuersi hostes ecclesie vsqʒ in presens. Ubi scd's Co~=&#13;
+stantinus. Arrianus. Iulianus apostata. valens. Haytanaricus. Hala=&#13;
+ricus. Gausaricus. Honorius attila. Seuo. totila. Theodoricus. Con=&#13;
+stantinus tercius et q~ntus. Leo tercius et quartus. Henricus tercius et&#13;
+q~~rtus. fredericus primus et scd's. Otto quartꝰ. Lodouicus q~~rtus. imꝑa&#13;
+tores. et ceteri p~sumptores cu~ suis co~plicibꝰ. q~ quasi hora vna eccłiam p~&#13;
+nare nitebat^. aut sufocare. Ubi sunt. nu~q~d p~ualueru~t. et ecce hodie floret&#13;
+cultus dei cu~ gloria. Et illi si penitentia~ no~ egeru~t apd' inferos Ↄtremiscu~t&#13;
+Sed nu~quid humana virtute actu~ credimus minime. Igit^ deus ꝓ&#13;
+nobis q~s co~tra nos. Ecce regnat fides sancta vide~tibus et inuidentibus&#13;
+inimicis. de~tibus suis freme~tibus nil Ↄ~~ manu~ oi~pote~tis facere vale~tibus&#13;
+iuxta ꝓphetia~ psal. dice~tꝛ. Dixit dn~s dn~o meo sede a dextris meis. Donec&#13;
+pona~ inimicos tuos scabellu~ pedu~ tuoꝝ. Et iteru~ Sepe expugnauerunt&#13;
+me ⁊c~~. Et quia grandia mala contingerunt aliqn~ ꝓpter huiusmodi dispu=&#13;
+tationes suggere~tibus quibusda~ impijs in aures principu~ ꝙ eccłiastici&#13;
+terrena dominia licite no~ possiderent Ideo apłica sedes inhibuit ne a mo~&#13;
+fiant. neqʒ illi liceat deinceps in dubium reuocare. qd' ta~tis sanctissimoꝝ&#13;
+virorum doctrinis et exemplis constat roboratum. Aduertant sensati&#13;
+principes quid eis vtile sit et salubre post tot annorum curricula ac va=&#13;
+rios rerum eue~tus vbi nullus vnqʒ~~ prosperatus est. neqʒ sibi promitta~t&#13;
+inconsulte posse immutare quod spiritusancto dictante statutum est.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

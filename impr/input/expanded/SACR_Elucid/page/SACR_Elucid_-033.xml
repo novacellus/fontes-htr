@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-02T01:49:40.715+01:00</Created>
+        <LastChange>2022-12-19T18:18:32.473+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="6"/>
+    </Metadata>
+    <Page imageFilename="SACR_Elucid_-033.tif" imageWidth="2081" imageHeight="2783">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671470312536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646411077337_390"/>
+                <RegionRefIndexed index="1" regionRef="region_1646411096994_393"/>
+                <RegionRefIndexed index="2" regionRef="region_1646411105954_396"/>
+                <RegionRefIndexed index="3" regionRef="region_1646411108194_399"/>
+                <RegionRefIndexed index="4" regionRef="region_1646411115178_402"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1646411077337_390" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="654,166 1628,166 1628,267 654,267"/>
+            <TextLine id="line_1646412638686_418" custom="readingOrder {index:0;}">
+                <Coords points="690,174 1602,174 1602,246 690,246"/>
+                <TextEquiv>
+                    <Unicode>Tractatus Secundus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tractatus Secundus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646411096994_393" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="407,276 1204,276 1204,2251 407,2251"/>
+            <TextLine id="line_1646412647627_422" custom="readingOrder {index:0;}">
+                <Coords points="449,300 1181,300 1181,352 449,352"/>
+                <TextEquiv>
+                    <Unicode>politano potiti sunt latini. annis. 50. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412651204_425" custom="readingOrder {index:1;}">
+                <Coords points="1181,358 443,358 443,406 1181,406"/>
+                <TextEquiv>
+                    <Unicode>unio facta est de qua unione habetur extra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412654715_428" custom="readingOrder {index:2;}">
+                <Coords points="443,418 1172,418 1172,454 443,454"/>
+                <TextEquiv>
+                    <Unicode>de bap. licet grecos. Et creatus Impa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412656379_431" custom="readingOrder {index:3;}">
+                <Coords points="1169,463 428,463 428,508 1169,508"/>
+                <TextEquiv>
+                    <Unicode>rator primus comes gallicus nomine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412658299_434" custom="readingOrder {index:4;}">
+                <Coords points="425,508 1181,508 1181,571 425,571"/>
+                <TextEquiv>
+                    <Unicode>Blandninus. et patriarcha Constanti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412660619_437" custom="readingOrder {index:5;}">
+                <Coords points="1178,571 449,571 449,607 1178,607"/>
+                <TextEquiv>
+                    <Unicode>nopolitanus quidam venetus. post annos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412662803_440" custom="readingOrder {index:6;}">
+                <Coords points="440,626 1187,626 1187,671 440,671"/>
+                <TextEquiv>
+                    <Unicode>tandem quinquaginta t Greci re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412664235_443" custom="readingOrder {index:7;}">
+                <Coords points="1187,677 449,677 449,725 1187,725"/>
+                <TextEquiv>
+                    <Unicode>cuperaverunt imperium Ianuensium adiu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412666698_446" custom="readingOrder {index:8;}">
+                <Coords points="440,725 1178,725 1178,773 440,773"/>
+                <TextEquiv>
+                    <Unicode>torio. de manibus latinorum. factusque est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412669843_449" custom="readingOrder {index:9;}">
+                <Coords points="1175,779 449,779 449,836 1175,836"/>
+                <TextEquiv>
+                    <Unicode>imparator Grecus Michael paleolo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412672243_452" custom="readingOrder {index:10;}">
+                <Coords points="440,836 1175,836 1175,884 440,884"/>
+                <TextEquiv>
+                    <Unicode>gus. Qui misit ad concilium lugdenense per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412674522_455" custom="readingOrder {index:11;}">
+                <Coords points="1172,887 449,887 449,948 1172,948"/>
+                <TextEquiv>
+                    <Unicode>Gregorium decimum celebratum. offerens se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412677923_458" custom="readingOrder {index:12;}">
+                <Coords points="443,957 1175,957 1175,993 443,993"/>
+                <TextEquiv>
+                    <Unicode>velle concordare et uniri cum ecclesia la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412679562_461" custom="readingOrder {index:13;}">
+                <Coords points="1181,1002 440,1002 440,1038 1181,1038"/>
+                <TextEquiv>
+                    <Unicode>tina. de processione tamen spiritus sancti cupivit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412681546_464" custom="readingOrder {index:14;}">
+                <Coords points="440,1053 1169,1053 1169,1113 440,1113"/>
+                <TextEquiv>
+                    <Unicode>erudiri si procedens a filio non procedat a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412683689_467" custom="readingOrder {index:15;}">
+                <Coords points="1169,1122 434,1122 434,1158 1169,1158"/>
+                <TextEquiv>
+                    <Unicode>duobus principiis. eo que omnia ab uno pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412685770_470" custom="readingOrder {index:16;}">
+                <Coords points="440,1167 1169,1167 1169,1209 440,1209"/>
+                <TextEquiv>
+                    <Unicode>cedunt principio. unde in eodem concilio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412687755_473" custom="readingOrder {index:17;}">
+                <Coords points="1169,1209 431,1209 431,1261 1169,1261"/>
+                <TextEquiv>
+                    <Unicode>declaratum est. v Et decretum spiritum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412690562_476" custom="readingOrder {index:18;}">
+                <Coords points="440,1276 1175,1276 1175,1327 440,1327"/>
+                <TextEquiv>
+                    <Unicode>sanctum procedere a patre et filio non sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412692123_479" custom="readingOrder {index:19;}">
+                <Coords points="1175,1330 434,1330 434,1378 1175,1378"/>
+                <TextEquiv>
+                    <Unicode>a duobus principiis Sed sicut ab uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412694226_482" custom="readingOrder {index:20;}">
+                <Coords points="431,1381 1187,1381 1187,1429 431,1429"/>
+                <TextEquiv>
+                    <Unicode>principio et non duabus spirationibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412695922_485" custom="readingOrder {index:21;}">
+                <Coords points="1181,1429 434,1429 434,1474 1181,1474"/>
+                <TextEquiv>
+                    <Unicode>sed una. ut habetur de sum. tri. et fide ca.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412698227_488" custom="readingOrder {index:22;}">
+                <Coords points="434,1474 1181,1474 1181,1535 434,1535"/>
+                <TextEquiv>
+                    <Unicode>li. vi. c. i. Et hanc confessionem fecerunt legati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412700258_491" custom="readingOrder {index:23;}">
+                <Coords points="1175,1541 443,1541 443,1571 1175,1571"/>
+                <TextEquiv>
+                    <Unicode>Michaelis imparatoris grecorum et re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412701962_494" custom="readingOrder {index:24;}">
+                <Coords points="434,1583 1172,1583 1172,1637 434,1637"/>
+                <TextEquiv>
+                    <Unicode>ceperunt ac reversi publicarunt in populis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412703546_497" custom="readingOrder {index:25;}">
+                <Coords points="1175,1646 410,1646 410,1688 1175,1688"/>
+                <TextEquiv>
+                    <Unicode>decantantes simbolum latinum scilicet in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412705642_500" custom="readingOrder {index:26;}">
+                <Coords points="419,1703 1181,1703 1181,1742 419,1742"/>
+                <TextEquiv>
+                    <Unicode>spiritum sanctum qui ex patre filioque pro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412707298_503" custom="readingOrder {index:27;}">
+                <Coords points="1160,1754 428,1754 428,1790 1160,1790"/>
+                <TextEquiv>
+                    <Unicode>cedit unde ex hoc simbolo Niceno nihil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412709306_506" custom="readingOrder {index:28;}">
+                <Coords points="425,1793 1169,1793 1169,1851 425,1851"/>
+                <TextEquiv>
+                    <Unicode>additur. Sed potius fit declaratio veritatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412718474_509" custom="readingOrder {index:29;}">
+                <Coords points="423,1859 1176,1859 1176,1897 423,1897"/>
+                <TextEquiv>
+                    <Unicode>x Et sic quamvis ecclesia orientalis in u-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412720363_512" custom="readingOrder {index:30;}">
+                <Coords points="1174,1914 419,1914 419,1963 1174,1963"/>
+                <TextEquiv>
+                    <Unicode>nione permanebat tamen non deerant. qui con-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412722354_515" custom="readingOrder {index:31;}">
+                <Coords points="423,1970 1157,1970 1157,2010 423,2010"/>
+                <TextEquiv>
+                    <Unicode>tradicerent unioni. alii palam alii occute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412724082_518" custom="readingOrder {index:32;}">
+                <Coords points="1155,2023 429,2023 429,2070 1155,2070"/>
+                <TextEquiv>
+                    <Unicode>Tamen imparator multos hereticos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412725851_521" custom="readingOrder {index:33;}">
+                <Coords points="429,2078 1169,2078 1169,2116 429,2116"/>
+                <TextEquiv>
+                    <Unicode>obstinatos tales abbates et monachos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412727499_524" custom="readingOrder {index:34;}">
+                <Coords points="1169,2121 434,2121 434,2161 1169,2161"/>
+                <TextEquiv>
+                    <Unicode>occidi fecit alios mergi. qui nec rationi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412729418_527" custom="readingOrder {index:35;}">
+                <Coords points="434,2171 1167,2171 1167,2235 434,2235"/>
+                <TextEquiv>
+                    <Unicode>bus nec autoribus sanctorum valebant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>politano potiti sunt latini. annis. 50. et&#13;
+unio facta est de qua unione habetur extra&#13;
+de bap. licet grecos. Et creatus Impa&#13;
+rator primus comes gallicus nomine&#13;
+Blandninus. et patriarcha Constanti-&#13;
+nopolitanus quidam venetus. post annos&#13;
+tandem quinquaginta t Greci re&#13;
+cuperaverunt imperium Ianuensium adiu-&#13;
+torio. de manibus latinorum. factusque est&#13;
+imparator Grecus Michael paleolo-&#13;
+gus. Qui misit ad concilium lugdenense per&#13;
+Gregorium decimum celebratum. offerens se&#13;
+velle concordare et uniri cum ecclesia la&#13;
+tina. de processione tamen spiritus sancti cupivit&#13;
+erudiri si procedens a filio non procedat a&#13;
+duobus principiis. eo que omnia ab uno pro&#13;
+cedunt principio. unde in eodem concilio&#13;
+declaratum est. v Et decretum spiritum&#13;
+sanctum procedere a patre et filio non sicut&#13;
+a duobus principiis Sed sicut ab uno&#13;
+principio et non duabus spirationibus&#13;
+sed una. ut habetur de sum. tri. et fide ca.&#13;
+li. vi. c. i. Et hanc confessionem fecerunt legati&#13;
+Michaelis imparatoris grecorum et re-&#13;
+ceperunt ac reversi publicarunt in populis&#13;
+decantantes simbolum latinum scilicet in&#13;
+spiritum sanctum qui ex patre filioque pro-&#13;
+cedit unde ex hoc simbolo Niceno nihil&#13;
+additur. Sed potius fit declaratio veritatis&#13;
+x Et sic quamvis ecclesia orientalis in u-&#13;
+nione permanebat tamen non deerant. qui con-&#13;
+tradicerent unioni. alii palam alii occute.&#13;
+Tamen imparator multos hereticos&#13;
+obstinatos tales abbates et monachos&#13;
+occidi fecit alios mergi. qui nec rationi&#13;
+bus nec autoribus sanctorum valebant</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646411105954_396" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1213,289 1967,289 1967,624 1213,624"/>
+            <TextLine id="line_1646412737683_530" custom="readingOrder {index:0;}">
+                <Coords points="1230,310 1979,310 1979,361 1230,361"/>
+                <TextEquiv>
+                    <Unicode>a sua pertinacia revocari. quo etiam Ioseph</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412740778_533" custom="readingOrder {index:1;}">
+                <Coords points="1971,371 1238,371 1238,413 1971,413"/>
+                <TextEquiv>
+                    <Unicode>patriarcham Constantinopolitanum here-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412742874_536" custom="readingOrder {index:2;}">
+                <Coords points="1230,417 1966,417 1966,470 1230,470"/>
+                <TextEquiv>
+                    <Unicode>ticum depositum eiecit et privavit sede illa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412746274_539" custom="readingOrder {index:3;}">
+                <Coords points="1964,474 1228,474 1228,510 1964,510"/>
+                <TextEquiv>
+                    <Unicode>et Ioannem dictum vechum hominem Ce-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412747962_542" custom="readingOrder {index:4;}">
+                <Coords points="1230,516 1954,516 1954,566 1230,566"/>
+                <TextEquiv>
+                    <Unicode>tholicum in sede collocavit. Et sub eius vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412749587_545" custom="readingOrder {index:5;}">
+                <Coords points="1614,577 1226,577 1226,621 1614,621"/>
+                <TextEquiv>
+                    <Unicode>tota duravit unio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a sua pertinacia revocari. quo etiam Ioseph&#13;
+patriarcham Constantinopolitanum here-&#13;
+ticum depositum eiecit et privavit sede illa&#13;
+et Ioannem dictum vechum hominem Ce-&#13;
+tholicum in sede collocavit. Et sub eius vita&#13;
+tota duravit unio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646411108194_399" custom="readingOrder {index:3;} structure {type:[heading];}">
+            <Coords points="1306,633 1865,633 1865,721 1306,721"/>
+            <TextLine id="line_1646412751827_548" custom="readingOrder {index:0;}">
+                <Coords points="1851,642 1356,642 1356,707 1851,707"/>
+                <TextEquiv>
+                    <Unicode>Undecima divisio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Undecima divisio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646411115178_402" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1226,717 1976,717 1976,2242 1226,2242"/>
+            <TextLine id="line_1646412754481_551" custom="readingOrder {index:0;}">
+                <Coords points="1230,740 1945,740 1945,776 1230,776"/>
+                <TextEquiv>
+                    <Unicode>Cepit per Andronicum filium Michaelis im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412757530_554" custom="readingOrder {index:1;}">
+                <Coords points="1956,787 1230,787 1230,822 1956,822"/>
+                <TextEquiv>
+                    <Unicode>paratoris. qui una cum patre in imperium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412759442_557" custom="readingOrder {index:2;}">
+                <Coords points="1228,831 1952,831 1952,891 1228,891"/>
+                <TextEquiv>
+                    <Unicode>coronatus fuit ubi Gregorio decimo iu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412761106_560" custom="readingOrder {index:3;}">
+                <Coords points="1952,894 1226,894 1226,948 1952,948"/>
+                <TextEquiv>
+                    <Unicode>raverat de fidelitate fidei er obedientie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412763026_563" custom="readingOrder {index:4;}">
+                <Coords points="1228,946 1950,946 1950,994 1228,994"/>
+                <TextEquiv>
+                    <Unicode>Romane. patre tandem mortuo solus gu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412764770_566" custom="readingOrder {index:5;}">
+                <Coords points="1954,1000 1236,1000 1236,1045 1954,1045"/>
+                <TextEquiv>
+                    <Unicode>bernavit imperium homo pusillanimis timi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412766642_569" custom="readingOrder {index:6;}">
+                <Coords points="1241,1055 1952,1055 1952,1110 1241,1110"/>
+                <TextEquiv>
+                    <Unicode>dus et perversus. qui fratrem anhelantem ad im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412768306_572" custom="readingOrder {index:7;}">
+                <Coords points="1943,1110 1217,1110 1217,1145 1943,1145"/>
+                <TextEquiv>
+                    <Unicode>perium et grecorum a se defectionem ad eum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412770955_575" custom="readingOrder {index:8;}">
+                <Coords points="1241,1183 1947,1183 1947,1219 1241,1219"/>
+                <TextEquiv>
+                    <Unicode>metuens eum incarceravit. Et animadver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412772431_578" custom="readingOrder {index:9;}">
+                <Coords points="1950,1219 1234,1219 1234,1256 1950,1256"/>
+                <TextEquiv>
+                    <Unicode>tens grecos in unione fidei. et Romane</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412774906_581" custom="readingOrder {index:10;}">
+                <Coords points="1234,1263 1947,1263 1947,1330 1234,1330"/>
+                <TextEquiv>
+                    <Unicode>obedientie vacillantes ac de defectionem pa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412777050_584" custom="readingOrder {index:11;}">
+                <Coords points="1935,1330 1234,1330 1234,1368 1935,1368"/>
+                <TextEquiv>
+                    <Unicode>ratos. congregatis omnibus in ecclesia maiori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412779218_587" custom="readingOrder {index:12;}">
+                <Coords points="1243,1368 1956,1368 1956,1428 1243,1428"/>
+                <TextEquiv>
+                    <Unicode>sancte Zophie Constantinopoli contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412780938_590" custom="readingOrder {index:13;}">
+                <Coords points="1956,1443 1232,1443 1232,1481 1956,1481"/>
+                <TextEquiv>
+                    <Unicode>Iuramentum factum ecclesie Romane palam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412790380_593" custom="readingOrder {index:14;}">
+                <Coords points="1231,1489 1954,1489 1954,1529 1231,1529"/>
+                <TextEquiv>
+                    <Unicode>dixit. vobiscum tenui super teneboque. fidem an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412792306_596" custom="readingOrder {index:15;}">
+                <Coords points="1947,1531 1238,1531 1238,1582 1947,1582"/>
+                <TextEquiv>
+                    <Unicode>cessorum nostrorum profitendo de processione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412794162_599" custom="readingOrder {index:16;}">
+                <Coords points="1238,1589 1933,1589 1933,1636 1238,1636"/>
+                <TextEquiv>
+                    <Unicode>spiritus sancti a solo patre y Patri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412795938_602" custom="readingOrder {index:17;}">
+                <Coords points="1935,1643 1238,1643 1238,1694 1935,1694"/>
+                <TextEquiv>
+                    <Unicode>que suo defuncto maledixit voce alta et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412798074_605" custom="readingOrder {index:18;}">
+                <Coords points="1236,1696 1940,1696 1940,1743 1236,1743"/>
+                <TextEquiv>
+                    <Unicode>anatematisavit eum cum omnibus. qui fide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412800042_608" custom="readingOrder {index:19;}">
+                <Coords points="1940,1750 1217,1750 1217,1811 1940,1811"/>
+                <TextEquiv>
+                    <Unicode>sibi adherebant. Cuius incitatione greci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412802371_611" custom="readingOrder {index:20;}">
+                <Coords points="1217,1813 1930,1813 1930,1857 1217,1857"/>
+                <TextEquiv>
+                    <Unicode>reversi ad usitatum vomitum divisi sunt ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412804250_614" custom="readingOrder {index:21;}">
+                <Coords points="1942,1867 1203,1867 1203,1899 1942,1899"/>
+                <TextEquiv>
+                    <Unicode>ecclesia Romana a Sed vindice deo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412806002_617" custom="readingOrder {index:22;}">
+                <Coords points="1220,1915 1956,1915 1956,1976 1220,1976"/>
+                <TextEquiv>
+                    <Unicode>quod miser et ignarus metuebat evenit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412807568_620" custom="readingOrder {index:23;}">
+                <Coords points="1951,1981 1250,1981 1250,2016 1951,2016"/>
+                <TextEquiv>
+                    <Unicode>Namque vecorida sua imperium pene totum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412810147_623" custom="readingOrder {index:24;}">
+                <Coords points="1231,2025 1944,2025 1944,2065 1231,2065"/>
+                <TextEquiv>
+                    <Unicode>amisit b Thurci namque totam sub eo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412811986_626" custom="readingOrder {index:25;}">
+                <Coords points="1940,2076 1217,2076 1217,2121 1940,2121"/>
+                <TextEquiv>
+                    <Unicode>minorem asiam rapuerunt. Et citra marina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412815298_629" custom="readingOrder {index:26;}">
+                <Coords points="1227,2125 1940,2125 1940,2179 1227,2179"/>
+                <TextEquiv>
+                    <Unicode>dominia vastarunt aliis quoque civita-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646412816995_632" custom="readingOrder {index:27;}">
+                <Coords points="1942,2193 1208,2193 1208,2230 1942,2230"/>
+                <TextEquiv>
+                    <Unicode>tibus iam a thartaris ia etiam a variis Ti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cepit per Andronicum filium Michaelis im-&#13;
+paratoris. qui una cum patre in imperium&#13;
+coronatus fuit ubi Gregorio decimo iu&#13;
+raverat de fidelitate fidei er obedientie.&#13;
+Romane. patre tandem mortuo solus gu&#13;
+bernavit imperium homo pusillanimis timi-&#13;
+dus et perversus. qui fratrem anhelantem ad im-&#13;
+perium et grecorum a se defectionem ad eum&#13;
+metuens eum incarceravit. Et animadver&#13;
+tens grecos in unione fidei. et Romane&#13;
+obedientie vacillantes ac de defectionem pa&#13;
+ratos. congregatis omnibus in ecclesia maiori&#13;
+sancte Zophie Constantinopoli contra&#13;
+Iuramentum factum ecclesie Romane palam&#13;
+dixit. vobiscum tenui super teneboque. fidem an&#13;
+cessorum nostrorum profitendo de processione&#13;
+spiritus sancti a solo patre y Patri-&#13;
+que suo defuncto maledixit voce alta et&#13;
+anatematisavit eum cum omnibus. qui fide&#13;
+sibi adherebant. Cuius incitatione greci&#13;
+reversi ad usitatum vomitum divisi sunt ab&#13;
+ecclesia Romana a Sed vindice deo&#13;
+quod miser et ignarus metuebat evenit.&#13;
+Namque vecorida sua imperium pene totum&#13;
+amisit b Thurci namque totam sub eo&#13;
+minorem asiam rapuerunt. Et citra marina&#13;
+dominia vastarunt aliis quoque civita-&#13;
+tibus iam a thartaris ia etiam a variis Ti-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

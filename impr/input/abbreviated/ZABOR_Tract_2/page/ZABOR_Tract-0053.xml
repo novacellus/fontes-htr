@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-04T17:11:18.778+01:00</Created>
+        <LastChange>2022-02-05T11:57:39.093+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="1"/>
+    </Metadata>
+    <Page imageFilename="ZABOR_Tract-0053.jpg" imageWidth="1775" imageHeight="2630">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1644058659115" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1644056629770_131"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1644056636841_137"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1644056642443_143"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1644056642443_142"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="TextRegion_1644056629770_131" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="109,162 1497,162 1497,312 109,312"/>
+            <TextLine id="line_1644056466312_15" custom="readingOrder {index:0;} DocNumer {offset:12; length:10;}">
+                <Coords points="307,236 1277,236 1277,300 307,300"/>
+                <TextEquiv>
+                    <Unicode>Pars. iij. .$. j et ij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pars. iij. .$. j et ij</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644056636841_137" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="109,312 1497,312 1497,1062 109,1062"/>
+            <TextLine id="line_1644056478782_18" custom="readingOrder {index:0;}">
+                <Coords points="1409,340 157,340 157,372 1409,372"/>
+                <TextEquiv>
+                    <Unicode>gula possessor li. vj. Etia~ se teneat per mille annos . vt dicit glo. xvj. q. iij. c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056481406_21" custom="readingOrder {index:1;}">
+                <Coords points="163,382 1413,382 1413,439 163,439"/>
+                <TextEquiv>
+                    <Unicode>Per singulas. Secus esset di erretnr in facto probabili. ex ignora~tia crassa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056483550_24" custom="readingOrder {index:2;}">
+                <Coords points="1413,447 157,447 157,483 1413,483"/>
+                <TextEquiv>
+                    <Unicode>vel supina non procede~ti. ff. de iuris et fac. igno. l. Nec supina. et. l. Regła</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056486154_27" custom="readingOrder {index:3;}">
+                <Coords points="161,489 1407,489 1407,535 161,535"/>
+                <TextEquiv>
+                    <Unicode>$. Sed facti. Et. j. q. iiij. c. Turbatur. Aut post longissimu~ tempus bona</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056489503_30" custom="readingOrder {index:4;}">
+                <Coords points="1411,542 165,542 165,569 1411,569"/>
+                <TextEquiv>
+                    <Unicode>fide successoris viciu~ purgatum esset. et sic curreret prescriptio. Uerbi gr~a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056492254_33" custom="readingOrder {index:5;}">
+                <Coords points="168,582 1424,582 1424,623 168,623"/>
+                <TextEquiv>
+                    <Unicode>Emit aliquis fide bona. et excluso errore iuris. a minore. que~ putabat ꝓ=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056495962_36" custom="readingOrder {index:6;}">
+                <Coords points="1416,632 165,632 165,672 1416,672"/>
+                <TextEquiv>
+                    <Unicode>babiliter maiorem. vel rem a prelato. sed putabat ꝓbabiliter capitulu~ co~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056499406_39" custom="readingOrder {index:7;}">
+                <Coords points="163,678 1418,678 1418,724 163,724"/>
+                <TextEquiv>
+                    <Unicode>sensisse et hmo~i. Et ta'iter acquirens prescribit. Secus esset si emat erra~s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056502182_42" custom="readingOrder {index:8;}">
+                <Coords points="1413,730 147,730 147,777 1413,777"/>
+                <TextEquiv>
+                    <Unicode>in iure vtputa acquisiuit quis re~ a prelato. vel a minore credens ꝙ prela</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056505814_45" custom="readingOrder {index:9;}">
+                <Coords points="157,781 1422,781 1422,831 157,831"/>
+                <TextEquiv>
+                    <Unicode>tus sine capło. vel minor sine decreto iudicis et curatoꝝ. alienare possent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056508390_48" custom="readingOrder {index:10;}">
+                <Coords points="1420,831 159,831 159,873 1420,873"/>
+                <TextEquiv>
+                    <Unicode>quia nu~qʒ~~ talis prescribit. nisi successor fide. bona. et alio iure succedens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056511350_51" custom="readingOrder {index:11;}">
+                <Coords points="157,884 1426,884 1426,930 157,930"/>
+                <TextEquiv>
+                    <Unicode>ałs non. quia si iniustum habuit predecessor titulum talem qui non det</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056513902_54" custom="readingOrder {index:12;}">
+                <Coords points="1418,940 151,940 151,974 1418,974"/>
+                <TextEquiv>
+                    <Unicode>causam prescribendi. successor qui eodem iure seu titulo vtitur. non pre=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056516382_57" custom="readingOrder {index:13;}">
+                <Coords points="161,984 1420,984 1420,1030 161,1030"/>
+                <TextEquiv>
+                    <Unicode>scribit. ff. de diuersis tempo. et prescrip. l. Cum heres. Sic est de his dicen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056520638_60" custom="readingOrder {index:14;} DocNumer {offset:60; length:5;}">
+                <Coords points="1401,1035 172,1035 172,1060 1401,1060"/>
+                <TextEquiv>
+                    <Unicode>dum q~ bona regalia tene~t. Et de hoc infra clarius patebit ij. $</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gula possessor li. vj. Etia~ se teneat per mille annos . vt dicit glo. xvj. q. iij. c.&#13;
+Per singulas. Secus esset di erretnr in facto probabili. ex ignora~tia crassa&#13;
+vel supina non procede~ti. ff. de iuris et fac. igno. l. Nec supina. et. l. Regła&#13;
+$. Sed facti. Et. j. q. iiij. c. Turbatur. Aut post longissimu~ tempus bona&#13;
+fide successoris viciu~ purgatum esset. et sic curreret prescriptio. Uerbi gr~a&#13;
+Emit aliquis fide bona. et excluso errore iuris. a minore. que~ putabat ꝓ=&#13;
+babiliter maiorem. vel rem a prelato. sed putabat ꝓbabiliter capitulu~ co~&#13;
+sensisse et hmo~i. Et ta'iter acquirens prescribit. Secus esset si emat erra~s&#13;
+in iure vtputa acquisiuit quis re~ a prelato. vel a minore credens ꝙ prela&#13;
+tus sine capło. vel minor sine decreto iudicis et curatoꝝ. alienare possent&#13;
+quia nu~qʒ~~ talis prescribit. nisi successor fide. bona. et alio iure succedens.&#13;
+ałs non. quia si iniustum habuit predecessor titulum talem qui non det&#13;
+causam prescribendi. successor qui eodem iure seu titulo vtitur. non pre=&#13;
+scribit. ff. de diuersis tempo. et prescrip. l. Cum heres. Sic est de his dicen&#13;
+dum q~ bona regalia tene~t. Et de hoc infra clarius patebit ij. $</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644056642443_143" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="109,1062 1497,1062 1497,2142 109,2142"/>
+            <TextLine id="line_1644056524326_63" custom="readingOrder {index:0;} heading {offset:0; length:33;}">
+                <Coords points="172,1074 1416,1074 1416,1146 172,1146"/>
+                <TextEquiv>
+                    <Unicode>Sed posito ꝙ de rigore iuris pre=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056536094_66" custom="readingOrder {index:1;}">
+                <Coords points="1414,1165 160,1165 160,1198 1414,1198"/>
+                <TextEquiv>
+                    <Unicode>scriptio cucurrisset. aut legitime essent alienata debet regnu~ et rex restitui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056538990_69" custom="readingOrder {index:2;}">
+                <Coords points="162,1204 1426,1204 1426,1261 162,1261"/>
+                <TextEquiv>
+                    <Unicode>aduersus talem prescriptionem. aut legitima~ alienationem. ex qua regno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056542574_72" custom="readingOrder {index:3;}">
+                <Coords points="1420,1275 162,1275 162,1294 1420,1294"/>
+                <TextEquiv>
+                    <Unicode>et reipublice regni sequeretur enormis lcsio. quia et quelibet ciuitas. quia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056545534_75" custom="readingOrder {index:4;}">
+                <Coords points="160,1298 1426,1298 1426,1338 160,1338"/>
+                <TextEquiv>
+                    <Unicode>per alium regitur. si ex facto vel negligentia administratoris enormiter le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056549166_78" custom="readingOrder {index:5;}">
+                <Coords points="1426,1350 156,1350 156,1385 1426,1385"/>
+                <TextEquiv>
+                    <Unicode>datur restitueret^. vt no~. glo. qua~ approbat Iacobus de Butriga. ⁊ Bar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056551734_81" custom="readingOrder {index:6;}">
+                <Coords points="156,1392 1420,1392 1420,1437 156,1437"/>
+                <TextEquiv>
+                    <Unicode>in. l. Respublica. C. ex quibus cau. maiores in integru~ resti. Et sequit^ Io. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056554566_84" custom="readingOrder {index:7;}">
+                <Coords points="1404,1452 156,1452 156,1496 1404,1496"/>
+                <TextEquiv>
+                    <Unicode>an. in addici. ad Spe. ti. de. in inte. resti. Ubi post multas opiniones resi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056557958_87" custom="readingOrder {index:8;}">
+                <Coords points="158,1502 1404,1502 1404,1550 158,1550"/>
+                <TextEquiv>
+                    <Unicode>det in opinione odofre. qui tenet ꝙ non solum ciuitas. sed etiam castrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056560309_90" custom="readingOrder {index:9;}">
+                <Coords points="1404,1558 156,1558 156,1599 1404,1599"/>
+                <TextEquiv>
+                    <Unicode>et villa possunt petere restitutionem i~ integrum. et licet. Bar. post. Ia. de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056562542_93" custom="readingOrder {index:10;}">
+                <Coords points="162,1612 1414,1612 1414,1641 162,1641"/>
+                <TextEquiv>
+                    <Unicode>Butri. in dicta. l. Respublica no~ admittat nisi in villa et castro populoso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056564877_96" custom="readingOrder {index:11;}">
+                <Coords points="1416,1645 162,1645 162,1685 1416,1685"/>
+                <TextEquiv>
+                    <Unicode>Bal. tn~ et Ia: de are tenet etia~ in villa no~ populosa. ex quo regitur ꝑ alios</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056567062_99" custom="readingOrder {index:12;}">
+                <Coords points="166,1695 1416,1695 1416,1749 166,1749"/>
+                <TextEquiv>
+                    <Unicode>et hanc opi. pa. in. c. j. de resti. in inte. dicit equiore~. Et facit qd' no~~. in. l. Re~=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056569062_102" custom="readingOrder {index:13;}">
+                <Coords points="1418,1760 160,1760 160,1791 1418,1791"/>
+                <TextEquiv>
+                    <Unicode>pubicam. C. de iure reipub. li. xj. et. l. Sed et h ij~ q~. ff. de publi. vbi dr~ ꝙ qd'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056571438_105" custom="readingOrder {index:14;}">
+                <Coords points="158,1797 1418,1797 1418,1845 158,1845"/>
+                <TextEquiv>
+                    <Unicode>libet municipium dr~ respublica. Sed respublica fungitur iure minoris. d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056574494_108" custom="readingOrder {index:15;}">
+                <Coords points="1416,1847 162,1847 162,1880 1416,1880"/>
+                <TextEquiv>
+                    <Unicode>l. Respublica. et. d. l. Rempublicam ergo ⁊c~~. Adde qd' no~. Angelus de cla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056576814_111" custom="readingOrder {index:16;}">
+                <Coords points="162,1889 1420,1889 1420,1936 162,1936"/>
+                <TextEquiv>
+                    <Unicode>uasio in sua summa. v^. Usura. j. $. lxxix. Nec obstat lapsus quadriennij a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056579102_114" custom="readingOrder {index:17;}">
+                <Coords points="1422,1945 145,1945 145,1993 1422,1993"/>
+                <TextEquiv>
+                    <Unicode>die complete prescriptionis. infra qd' restitutio peti debuit. quia vbi e~ emi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056581822_117" custom="readingOrder {index:18;}">
+                <Coords points="156,2001 1426,2001 1426,2045 156,2045"/>
+                <TextEquiv>
+                    <Unicode>nentissimum damnu~ ex tali lapsu no~ impeditur restitutio. vt. no~~. de i~ inte=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056584061_120" custom="readingOrder {index:19;}">
+                <Coords points="1416,2055 162,2055 162,2084 1416,2084"/>
+                <TextEquiv>
+                    <Unicode>grum restitu. c. j. li. vj. in glo. Et est textus scd'm Hosti. Io. an. ⁊ Panor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1644056586557_123" custom="readingOrder {index:20;}">
+                <Coords points="166,2090 1418,2090 1418,2146 166,2146"/>
+                <TextEquiv>
+                    <Unicode>in. c. Ad nostra de re. ec. non alie. Sicut ergo eminentissimum damnum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sed posito ꝙ de rigore iuris pre=&#13;
+scriptio cucurrisset. aut legitime essent alienata debet regnu~ et rex restitui&#13;
+aduersus talem prescriptionem. aut legitima~ alienationem. ex qua regno&#13;
+et reipublice regni sequeretur enormis lcsio. quia et quelibet ciuitas. quia&#13;
+per alium regitur. si ex facto vel negligentia administratoris enormiter le&#13;
+datur restitueret^. vt no~. glo. qua~ approbat Iacobus de Butriga. ⁊ Bar.&#13;
+in. l. Respublica. C. ex quibus cau. maiores in integru~ resti. Et sequit^ Io. &#13;
+an. in addici. ad Spe. ti. de. in inte. resti. Ubi post multas opiniones resi=&#13;
+det in opinione odofre. qui tenet ꝙ non solum ciuitas. sed etiam castrum&#13;
+et villa possunt petere restitutionem i~ integrum. et licet. Bar. post. Ia. de&#13;
+Butri. in dicta. l. Respublica no~ admittat nisi in villa et castro populoso&#13;
+Bal. tn~ et Ia: de are tenet etia~ in villa no~ populosa. ex quo regitur ꝑ alios&#13;
+et hanc opi. pa. in. c. j. de resti. in inte. dicit equiore~. Et facit qd' no~~. in. l. Re~=&#13;
+pubicam. C. de iure reipub. li. xj. et. l. Sed et h ij~ q~. ff. de publi. vbi dr~ ꝙ qd'&#13;
+libet municipium dr~ respublica. Sed respublica fungitur iure minoris. d&#13;
+l. Respublica. et. d. l. Rempublicam ergo ⁊c~~. Adde qd' no~. Angelus de cla&#13;
+uasio in sua summa. v^. Usura. j. $. lxxix. Nec obstat lapsus quadriennij a&#13;
+die complete prescriptionis. infra qd' restitutio peti debuit. quia vbi e~ emi&#13;
+nentissimum damnu~ ex tali lapsu no~ impeditur restitutio. vt. no~~. de i~ inte=&#13;
+grum restitu. c. j. li. vj. in glo. Et est textus scd'm Hosti. Io. an. ⁊ Panor&#13;
+in. c. Ad nostra de re. ec. non alie. Sicut ergo eminentissimum damnum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="TextRegion_1644056642443_142" custom="readingOrder {index:3;} structure {type:catch-word;}">
+            <Coords points="109,2142 1497,2142 1497,2226 109,2226"/>
+            <TextLine id="line_1644056588838_126" custom="readingOrder {index:0;}">
+                <Coords points="1356,2171 1219,2171 1219,2146 1356,2146"/>
+                <TextEquiv>
+                    <Unicode>E 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E 1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

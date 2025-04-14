@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.471+01:00</Created>
+        <LastChange>2022-12-16T16:15:41.761+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071715" pageNr="22" tsid="73003420" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=BZVPBTCBGKNWJNLBDOKOKHSB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SCUCOQIFFPLPKYGDSYQHWJYQ" imageId="27321059"/>
+    </Metadata>
+    <Page imageFilename="888817_0022_34071715.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671203741777" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1642267693301_755"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1642267693301_754"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="TextRegion_1642267693301_755" custom="readingOrder {index:0;}">
+            <Coords points="552,332 1658,332 1658,2003 552,2003"/>
+            <TextLine id="line_1642267616797_665" custom="readingOrder {index:0;}">
+                <Coords points="576,346 1633,346 1633,391 576,391"/>
+                <TextEquiv>
+                    <Unicode>principaliter et minus principaliter Principaliter cele-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267619235_668" custom="readingOrder {index:1;}">
+                <Coords points="1633,391 580,391 580,440 1633,440"/>
+                <TextEquiv>
+                    <Unicode>brare pro aliquo uno modo ut dicit holkot super iiii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267621266_671" custom="readingOrder {index:2;}">
+                <Coords points="580,457 1626,457 1626,513 580,513"/>
+                <TextEquiv>
+                    <Unicode>Est intendere que sua missa prosit multis eciam in satisfa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267623230_674" custom="readingOrder {index:3;}">
+                <Coords points="1619,527 573,527 573,576 1619,576"/>
+                <TextEquiv>
+                    <Unicode>ctionem. et similis que nulli anime intum prosit sicut illi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267625368_677" custom="readingOrder {index:4;}">
+                <Coords points="580,583 1644,583 1644,635 580,635"/>
+                <TextEquiv>
+                    <Unicode>pro qua celebrat. vel secundo modo celebrare principa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267628909_680" custom="readingOrder {index:5;}">
+                <Coords points="1626,656 566,656 566,688 1626,688"/>
+                <TextEquiv>
+                    <Unicode>liter pro A. anima est intendere que anime celebratio sua ce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267632033_683" custom="readingOrder {index:6;}">
+                <Coords points="573,688 1633,688 1633,757 573,757"/>
+                <TextEquiv>
+                    <Unicode>det in satisfactionem. et alias nulli anime: licet velit que prosit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267633725_686" custom="readingOrder {index:7;}">
+                <Coords points="1633,757 580,757 580,817 1633,817"/>
+                <TextEquiv>
+                    <Unicode>aliis per modum orationis. Tercio notandum que duplices</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267637518_689" custom="readingOrder {index:8;}">
+                <Coords points="583,824 1616,824 1616,879 583,879"/>
+                <TextEquiv>
+                    <Unicode>sunt sacerdotes. quidam sunt beneficiati sufficienti benedi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267640212_692" custom="readingOrder {index:9;}">
+                <Coords points="1640,893 576,893 576,925 1640,925"/>
+                <TextEquiv>
+                    <Unicode>cio quantum ad personam et ad statum persone. Alii sunt benedi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267642397_695" custom="readingOrder {index:10;}">
+                <Coords points="587,939 1640,939 1640,995 587,995"/>
+                <TextEquiv>
+                    <Unicode>ciati in sufficienti beneficio ad personam et statum persone Istis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267646221_698" custom="readingOrder {index:11;}">
+                <Coords points="1647,1002 590,1002 590,1043 1647,1043"/>
+                <TextEquiv>
+                    <Unicode>notatis Sit prima conclusio hec ad questionem sacer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267648669_701" custom="readingOrder {index:12;}">
+                <Coords points="597,1057 1637,1057 1637,1120 597,1120"/>
+                <TextEquiv>
+                    <Unicode>dos sive beneficiatus sive non beneficiatus Potest salva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267650578_704" custom="readingOrder {index:13;}">
+                <Coords points="1633,1134 583,1134 583,1169 1633,1169"/>
+                <TextEquiv>
+                    <Unicode>conscientia celebrare minus principaliter quotidie pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267652887_707" custom="readingOrder {index:14;}">
+                <Coords points="576,1183 1647,1183 1647,1232 576,1232"/>
+                <TextEquiv>
+                    <Unicode>quocunque voluerit patet conclusio. et per modum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267655188_710" custom="readingOrder {index:15;}">
+                <Coords points="1647,1249 583,1249 583,1288 1647,1288"/>
+                <TextEquiv>
+                    <Unicode>orationis potest suffragari cuilibet. retento principali sci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267657041_713" custom="readingOrder {index:16;}">
+                <Coords points="580,1291 1630,1291 1630,1343 580,1343"/>
+                <TextEquiv>
+                    <Unicode>licet sacrificio suo collatori suo. patet eciam. quia ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267658917_716" custom="readingOrder {index:17;}">
+                <Coords points="1630,1350 569,1350 569,1396 1630,1396"/>
+                <TextEquiv>
+                    <Unicode>hoc extendit se quelibet missa in qua memoria fit plu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267661105_719" custom="readingOrder {index:18;}">
+                <Coords points="583,1403 1651,1403 1651,1455 583,1455"/>
+                <TextEquiv>
+                    <Unicode>rium immo omnium circumstantium ut patet ex canone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267663116_722" custom="readingOrder {index:19;}">
+                <Coords points="1640,1466 590,1466 590,1511 1640,1511"/>
+                <TextEquiv>
+                    <Unicode>Secunda conclusio Sacerdos beneficiatus sive suf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267665605_725" custom="readingOrder {index:20;}">
+                <Coords points="587,1542 1651,1542 1651,1577 587,1577"/>
+                <TextEquiv>
+                    <Unicode>ficienter sive insufficienter potest principaliter pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267668436_728" custom="readingOrder {index:21;}">
+                <Coords points="1637,1588 566,1588 566,1633 1637,1633"/>
+                <TextEquiv>
+                    <Unicode>aliis quam pro suis collatoribus celebrare patet quia ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267670310_731" custom="readingOrder {index:22;}">
+                <Coords points="569,1640 1651,1640 1651,1703 569,1703"/>
+                <TextEquiv>
+                    <Unicode>minus diebus quibus a celebratione vacare posset.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267672335_734" custom="readingOrder {index:23;}">
+                <Coords points="1644,1703 559,1703 559,1755 1644,1755"/>
+                <TextEquiv>
+                    <Unicode>et ad quos se non obligavit. quia ut communiter in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267674839_737" custom="readingOrder {index:24;}">
+                <Coords points="590,1755 1633,1755 1633,1800 590,1800"/>
+                <TextEquiv>
+                    <Unicode>investuris et dotationibus excipiuntur duo dies in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267676960_740" custom="readingOrder {index:25;}">
+                <Coords points="1630,1814 580,1814 580,1870 1630,1870"/>
+                <TextEquiv>
+                    <Unicode>quibus vacare potest in illis diebus. ut videtur po-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267678626_743" custom="readingOrder {index:26;}">
+                <Coords points="580,1870 1637,1870 1637,1923 580,1923"/>
+                <TextEquiv>
+                    <Unicode>test quis principaliter pro aliis celebrare nisi dotatio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267680464_746" custom="readingOrder {index:27;}">
+                <Coords points="1278,1950 573,1950 573,1985 1278,1985"/>
+                <TextEquiv>
+                    <Unicode>vel investitura sonaret oppositum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>principaliter et minus principaliter Principaliter cele-&#13;
+brare pro aliquo uno modo ut dicit holkot super iiii.&#13;
+Est intendere que sua missa prosit multis eciam in satisfa&#13;
+ctionem. et similis que nulli anime intum prosit sicut illi&#13;
+pro qua celebrat. vel secundo modo celebrare principa&#13;
+liter pro A. anima est intendere que anime celebratio sua ce&#13;
+det in satisfactionem. et alias nulli anime: licet velit que prosit&#13;
+aliis per modum orationis. Tercio notandum que duplices&#13;
+sunt sacerdotes. quidam sunt beneficiati sufficienti benedi-&#13;
+cio quantum ad personam et ad statum persone. Alii sunt benedi&#13;
+ciati in sufficienti beneficio ad personam et statum persone Istis&#13;
+notatis Sit prima conclusio hec ad questionem sacer&#13;
+dos sive beneficiatus sive non beneficiatus Potest salva&#13;
+conscientia celebrare minus principaliter quotidie pro&#13;
+quocunque voluerit patet conclusio. et per modum&#13;
+orationis potest suffragari cuilibet. retento principali sci-&#13;
+licet sacrificio suo collatori suo. patet eciam. quia ad&#13;
+hoc extendit se quelibet missa in qua memoria fit plu&#13;
+rium immo omnium circumstantium ut patet ex canone&#13;
+Secunda conclusio Sacerdos beneficiatus sive suf&#13;
+ficienter sive insufficienter potest principaliter pro&#13;
+aliis quam pro suis collatoribus celebrare patet quia ad&#13;
+minus diebus quibus a celebratione vacare posset.&#13;
+et ad quos se non obligavit. quia ut communiter in&#13;
+investuris et dotationibus excipiuntur duo dies in&#13;
+quibus vacare potest in illis diebus. ut videtur po-&#13;
+test quis principaliter pro aliis celebrare nisi dotatio&#13;
+vel investitura sonaret oppositum.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1642267693301_754" custom="readingOrder {index:1;}">
+            <Coords points="552,2003 1658,2003 1658,2076 552,2076"/>
+            <TextLine id="line_1642267682288_749" custom="readingOrder {index:0;}">
+                <Coords points="576,1999 1647,1999 1647,2076 576,2076"/>
+                <TextEquiv>
+                    <Unicode>Tercia conclusio Sacerdos sufficienter beneficiatus non potest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tercia conclusio Sacerdos sufficienter beneficiatus non potest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:10.841+02:00</Created>
+        <LastChange>2022-05-06T17:53:54.146+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131419" pageNr="32" tsid="79647586" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=TVIECMKFFPTCDKHUXSSDIUUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNRVUIXRNVHKNMUWNWGACQXR" imageId="29937044"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0032.jpg" imageWidth="1818" imageHeight="2598">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1651852434158" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1651851645834_174"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1651851645834_173"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651851645834_174" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="482,320 1772,320 1772,631 482,631"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="493,364 560,362 627,361 694,360 762,359 829,358 896,357 964,357 1031,356 1098,356 1166,356 1233,356 1300,356 1368,356 1435,357 1502,357 1570,358 1637,359 1704,360 1772,361 1772,325 1704,324 1637,323 1570,322 1502,321 1435,321 1368,320 1300,320 1233,320 1166,320 1098,320 1031,320 964,321 896,321 829,322 762,323 694,324 627,325 560,326 493,328"/>
+                <Baseline points="493,352 560,350 627,349 694,348 762,347 829,346 896,345 964,345 1031,344 1098,344 1166,344 1233,344 1300,344 1368,344 1435,345 1502,345 1570,346 1637,347 1704,348 1772,349"/>
+                <TextEquiv>
+                    <Unicode>¶ Ad scd'm dicendu~. Q~ vterqʒ bene dicit Sco. em~ dice~s no~ posse fieri de=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="501,413 564,411 627,410 691,408 754,407 817,406 881,405 944,405 1007,404 1071,404 1134,404 1197,404 1261,404 1324,405 1387,405 1451,406 1514,407 1577,408 1641,409 1704,411 1768,413 1768,379 1704,377 1641,375 1577,374 1514,373 1451,372 1387,371 1324,371 1261,370 1197,370 1134,370 1071,370 1007,370 944,371 881,371 817,372 754,373 691,374 627,376 564,377 501,379"/>
+                <Baseline points="501,402 564,400 627,399 691,397 754,396 817,395 881,394 944,394 1007,393 1071,393 1134,393 1197,393 1261,393 1324,394 1387,394 1451,395 1514,396 1577,397 1641,398 1704,400 1768,402"/>
+                <TextEquiv>
+                    <Unicode>scensum sub termino suppone~te. confuse intelligit copulatiuum. non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="501,462 563,460 626,459 689,458 752,457 815,456 877,455 940,454 1003,454 1066,453 1129,453 1191,453 1254,453 1317,454 1380,454 1443,455 1505,455 1568,456 1631,457 1694,459 1757,460 1757,426 1694,425 1631,423 1568,422 1505,421 1443,421 1380,420 1317,420 1254,419 1191,419 1129,419 1066,419 1003,420 940,420 877,421 815,422 752,423 689,424 626,425 563,426 501,428"/>
+                <Baseline points="501,451 563,449 626,448 689,447 752,446 815,445 877,444 940,443 1003,443 1066,442 1129,442 1191,442 1254,442 1317,443 1380,443 1443,444 1505,444 1568,445 1631,446 1694,448 1757,449"/>
+                <TextEquiv>
+                    <Unicode>aute~ copulatu~ vel disiunctu~. vt dicit Mar. ¶ Ad terciu~ dicendu~. Q~ Iij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="494,512 557,510 621,509 684,508 748,507 811,506 875,505 938,504 1002,504 1065,503 1129,503 1192,503 1256,503 1319,503 1383,504 1446,504 1510,505 1573,506 1637,508 1700,509 1764,511 1764,475 1700,473 1637,472 1573,470 1510,469 1446,468 1383,468 1319,467 1256,467 1192,467 1129,467 1065,467 1002,468 938,468 875,469 811,470 748,471 684,472 621,473 557,474 494,476"/>
+                <Baseline points="494,500 557,498 621,497 684,496 748,495 811,494 875,493 938,492 1002,492 1065,491 1129,491 1192,491 1256,491 1319,491 1383,492 1446,492 1510,493 1573,494 1637,496 1700,497 1764,499"/>
+                <TextEquiv>
+                    <Unicode>Chimera e~ terminus co~munis in ꝟcando. cum de ꝟcatione sua sit pluriu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="508,562 571,561 634,559 697,558 760,557 823,556 886,555 949,554 1012,553 1075,553 1138,552 1201,552 1264,552 1327,553 1390,553 1453,554 1516,555 1579,557 1642,559 1705,561 1768,564 1768,528 1705,525 1642,523 1579,521 1516,519 1453,518 1390,517 1327,517 1264,516 1201,516 1138,516 1075,517 1012,517 949,518 886,519 823,520 760,521 697,522 634,523 571,525 508,526"/>
+                <Baseline points="508,550 571,549 634,547 697,546 760,545 823,544 886,543 949,542 1012,541 1075,541 1138,540 1201,540 1264,540 1327,541 1390,541 1453,542 1516,543 1579,545 1642,547 1705,549 1768,552"/>
+                <TextEquiv>
+                    <Unicode>ꝟcatiuus vniuoce et diuisim. sʒ chimera no~ est terminus co~munis in sup=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="495,614 548,613 602,612 656,610 709,609 763,608 817,607 870,606 924,605 978,604 1032,603 1085,603 1139,603 1193,602 1246,602 1300,603 1354,603 1407,604 1461,605 1515,606 1569,607 1569,571 1515,570 1461,569 1407,568 1354,567 1300,567 1246,566 1193,566 1139,567 1085,567 1032,567 978,568 924,569 870,570 817,571 763,572 709,573 656,574 602,576 548,577 495,578"/>
+                <Baseline points="495,602 548,601 602,600 656,598 709,597 763,596 817,595 870,594 924,593 978,592 1032,591 1085,591 1139,591 1193,590 1246,590 1300,591 1354,591 1407,592 1461,593 1515,594 1569,595"/>
+                <TextEquiv>
+                    <Unicode>ponendo. cum repugnet sibi supponere. vt prius dictum est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Ad scd'm dicendu~. Q~ vterqʒ bene dicit Sco. em~ dice~s no~ posse fieri de=&#13;
+scensum sub termino suppone~te. confuse intelligit copulatiuum. non&#13;
+aute~ copulatu~ vel disiunctu~. vt dicit Mar. ¶ Ad terciu~ dicendu~. Q~ Iij&#13;
+Chimera e~ terminus co~munis in ꝟcando. cum de ꝟcatione sua sit pluriu~&#13;
+ꝟcatiuus vniuoce et diuisim. sʒ chimera no~ est terminus co~munis in sup=&#13;
+ponendo. cum repugnet sibi supponere. vt prius dictum est</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651851645834_173" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="482,631 1772,631 1772,2204 482,2204"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+                <Coords points="493,714 556,712 620,711 684,710 748,709 812,708 875,708 939,708 1003,708 1067,708 1131,708 1194,709 1258,710 1322,711 1386,712 1450,714 1513,715 1577,717 1641,719 1705,721 1769,724 1769,679 1705,676 1641,674 1577,672 1513,670 1450,669 1386,667 1322,666 1258,665 1194,664 1131,663 1067,663 1003,663 939,663 875,663 812,663 748,664 684,665 620,666 556,667 493,669"/>
+                <Baseline points="493,699 556,697 620,696 684,695 748,694 812,693 875,693 939,693 1003,693 1067,693 1131,693 1194,694 1258,695 1322,696 1386,697 1450,699 1513,700 1577,702 1641,704 1705,706 1769,709"/>
+                <TextEquiv>
+                    <Unicode>Circa predicta est Notandum. q3 semper dixi in diffinitionibus suppo=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:1;}">
+                <Coords points="502,794 565,793 628,792 692,791 755,790 819,790 882,789 945,789 1009,789 1072,789 1136,790 1199,791 1262,791 1326,792 1389,794 1453,795 1516,797 1579,798 1643,800 1706,802 1770,805 1770,760 1706,757 1643,755 1579,753 1516,752 1453,750 1389,749 1326,747 1262,746 1199,746 1136,745 1072,744 1009,744 945,744 882,744 819,745 755,745 692,746 628,747 565,748 502,749"/>
+                <Baseline points="502,779 565,778 628,777 692,776 755,775 819,775 882,774 945,774 1009,774 1072,774 1136,775 1199,776 1262,776 1326,777 1389,779 1453,780 1516,782 1579,783 1643,785 1706,787 1770,790"/>
+                <TextEquiv>
+                    <Unicode>sitionum materialum. de quo vel de quibus talis terminus verificat^ me=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+                <Coords points="503,880 566,878 629,876 692,875 755,873 818,873 881,872 944,872 1007,872 1070,873 1133,873 1196,874 1259,875 1322,876 1385,877 1448,878 1511,880 1574,881 1637,882 1700,883 1764,884 1764,839 1700,838 1637,837 1574,836 1511,835 1448,833 1385,832 1322,831 1259,830 1196,829 1133,828 1070,828 1007,827 944,827 881,827 818,828 755,828 692,830 629,831 566,833 503,835"/>
+                <Baseline points="503,865 566,863 629,861 692,860 755,858 818,858 881,857 944,857 1007,857 1070,858 1133,858 1196,859 1259,860 1322,861 1385,862 1448,863 1511,865 1574,866 1637,867 1700,868 1764,869"/>
+                <TextEquiv>
+                    <Unicode>diante copula talis ꝓpositionis. ex hoc aliq~s diceret q3 in ista ꝓpositione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="509,973 571,971 633,970 696,969 758,968 821,967 883,967 945,968 1008,968 1070,968 1133,969 1195,970 1257,971 1320,972 1382,974 1445,975 1507,976 1569,977 1632,978 1694,979 1757,980 1757,935 1694,934 1632,933 1569,932 1507,931 1445,930 1382,929 1320,927 1257,926 1195,925 1133,924 1070,923 1008,923 945,923 883,922 821,922 758,923 696,924 633,925 571,926 509,928"/>
+                <Baseline points="509,958 571,956 633,955 696,954 758,953 821,952 883,952 945,953 1008,953 1070,953 1133,954 1195,955 1257,956 1320,957 1382,959 1445,960 1507,961 1569,962 1632,963 1694,964 1757,965"/>
+                <TextEquiv>
+                    <Unicode>omne homo e~dictio dissillaba. Iij homo naon staret pro se et ꝓ suis simi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="502,1071 564,1070 627,1068 689,1068 752,1067 815,1066 877,1065 940,1065 1003,1064 1065,1064 1128,1064 1191,1064 1253,1064 1316,1064 1379,1064 1441,1065 1504,1066 1567,1067 1629,1068 1692,1070 1755,1071 1755,1026 1692,1025 1629,1023 1567,1022 1504,1021 1441,1020 1379,1019 1316,1019 1253,1019 1191,1019 1128,1019 1065,1019 1003,1019 940,1020 877,1020 815,1021 752,1022 689,1023 627,1023 564,1025 502,1026"/>
+                <Baseline points="502,1056 564,1055 627,1053 689,1053 752,1052 815,1051 877,1050 940,1050 1003,1049 1065,1049 1128,1049 1191,1049 1253,1049 1316,1049 1379,1049 1441,1050 1504,1051 1567,1052 1629,1053 1692,1055 1755,1056"/>
+                <TextEquiv>
+                    <Unicode>libus. quia quocu~qʒ tali termino demonstrato falsum e~ dicere. hoc e~ ho~.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="505,1154 568,1152 631,1150 694,1148 757,1147 820,1146 883,1146 946,1145 1009,1145 1072,1145 1135,1145 1198,1146 1261,1147 1324,1148 1387,1149 1450,1150 1513,1151 1576,1153 1639,1154 1702,1156 1766,1158 1766,1113 1702,1111 1639,1109 1576,1108 1513,1106 1450,1105 1387,1104 1324,1103 1261,1102 1198,1101 1135,1100 1072,1100 1009,1100 946,1100 883,1101 820,1101 757,1102 694,1103 631,1105 568,1107 505,1109"/>
+                <Baseline points="505,1139 568,1137 631,1135 694,1133 757,1132 820,1131 883,1131 946,1130 1009,1130 1072,1130 1135,1130 1198,1131 1261,1132 1324,1133 1387,1134 1450,1135 1513,1136 1576,1138 1639,1139 1702,1141 1766,1143"/>
+                <TextEquiv>
+                    <Unicode>cum Iij homo non stat peo se sed ꝓ animalibus rationalibus mo~ certu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="503,1248 566,1244 629,1241 692,1239 755,1238 818,1237 881,1237 945,1237 1008,1237 1071,1238 1134,1238 1197,1240 1260,1241 1323,1242 1387,1243 1450,1245 1513,1246 1576,1247 1639,1247 1702,1247 1766,1247 1766,1202 1702,1202 1639,1202 1576,1202 1513,1201 1450,1200 1387,1198 1323,1197 1260,1196 1197,1195 1134,1193 1071,1193 1008,1192 945,1192 881,1192 818,1192 755,1193 692,1194 629,1196 566,1199 503,1203"/>
+                <Baseline points="503,1233 566,1229 629,1226 692,1224 755,1223 818,1222 881,1222 945,1222 1008,1222 1071,1223 1134,1223 1197,1225 1260,1226 1323,1227 1387,1228 1450,1230 1513,1231 1576,1232 1639,1232 1702,1232 1766,1232"/>
+                <TextEquiv>
+                    <Unicode>est. q3 nullus terminus est animal rationale. respondeo ꝙ dixi ibi tale~ ter=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="503,1336 566,1333 629,1330 693,1328 756,1326 819,1324 883,1323 946,1323 1009,1323 1073,1323 1136,1323 1199,1324 1263,1325 1326,1326 1389,1327 1453,1328 1516,1329 1579,1330 1643,1332 1706,1333 1770,1333 1770,1288 1706,1288 1643,1287 1579,1285 1516,1284 1453,1283 1389,1282 1326,1281 1263,1280 1199,1279 1136,1278 1073,1278 1009,1278 946,1278 883,1278 819,1279 756,1281 693,1283 629,1285 566,1288 503,1291"/>
+                <Baseline points="503,1321 566,1318 629,1315 693,1313 756,1311 819,1309 883,1308 946,1308 1009,1308 1073,1308 1136,1308 1199,1309 1263,1310 1326,1311 1389,1312 1453,1313 1516,1314 1579,1315 1643,1317 1706,1318 1770,1318"/>
+                <TextEquiv>
+                    <Unicode>minu~ verificari de seipso et de suis similibus. Si capit^ ita stricte sic~ stabat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="501,1424 563,1420 626,1416 689,1412 752,1410 815,1408 878,1407 941,1406 1004,1405 1067,1406 1130,1406 1192,1407 1255,1408 1318,1409 1381,1410 1444,1411 1507,1412 1570,1414 1633,1415 1696,1416 1759,1416 1759,1371 1696,1371 1633,1370 1570,1369 1507,1367 1444,1366 1381,1365 1318,1364 1255,1363 1192,1362 1130,1361 1067,1361 1004,1360 941,1361 878,1362 815,1363 752,1365 689,1367 626,1371 563,1375 501,1379"/>
+                <Baseline points="501,1409 563,1405 626,1401 689,1397 752,1395 815,1393 878,1392 941,1391 1004,1390 1067,1391 1130,1391 1192,1392 1255,1393 1318,1394 1381,1395 1444,1396 1507,1397 1570,1399 1633,1400 1696,1401 1759,1401"/>
+                <TextEquiv>
+                    <Unicode>in ista ꝓpositione. Si aute~ staret ꝓ principaliori suo ꝟcato no~ oporteret.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="502,1510 565,1507 628,1505 691,1503 754,1501 817,1500 880,1499 943,1498 1006,1497 1069,1497 1132,1497 1195,1497 1258,1498 1321,1498 1384,1499 1447,1500 1510,1501 1573,1502 1636,1504 1699,1505 1762,1507 1762,1462 1699,1460 1636,1459 1573,1457 1510,1456 1447,1455 1384,1454 1321,1453 1258,1453 1195,1452 1132,1452 1069,1452 1006,1452 943,1453 880,1454 817,1455 754,1456 691,1458 628,1460 565,1462 502,1465"/>
+                <Baseline points="502,1495 565,1492 628,1490 691,1488 754,1486 817,1485 880,1484 943,1483 1006,1482 1069,1482 1132,1482 1195,1482 1258,1483 1321,1483 1384,1484 1447,1485 1510,1486 1573,1487 1636,1489 1699,1490 1762,1492"/>
+                <TextEquiv>
+                    <Unicode>vnde sufficit q3 cu~ in ista ꝓpositione predicta subiectu~ stabat restricte. ꝑ h'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+                <Coords points="506,1591 569,1588 632,1585 695,1583 758,1582 821,1581 884,1580 947,1580 1010,1580 1073,1580 1136,1581 1199,1581 1262,1582 1325,1584 1388,1585 1451,1586 1514,1588 1577,1589 1640,1591 1703,1592 1766,1593 1766,1548 1703,1547 1640,1546 1577,1544 1514,1543 1451,1541 1388,1540 1325,1539 1262,1537 1199,1536 1136,1536 1073,1535 1010,1535 947,1535 884,1535 821,1536 758,1537 695,1538 632,1540 569,1543 506,1546"/>
+                <Baseline points="506,1576 569,1573 632,1570 695,1568 758,1567 821,1566 884,1565 947,1565 1010,1565 1073,1565 1136,1566 1199,1566 1262,1567 1325,1569 1388,1570 1451,1571 1514,1573 1577,1574 1640,1576 1703,1577 1766,1578"/>
+                <TextEquiv>
+                    <Unicode>predicatum dictio dissillaba. q3 etiam sic restricte verificetur de se et suis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:11;}">
+                <Coords points="503,1677 566,1674 629,1672 692,1669 755,1668 819,1666 882,1665 945,1664 1008,1664 1071,1663 1135,1664 1198,1664 1261,1665 1324,1666 1387,1667 1451,1669 1514,1670 1577,1672 1640,1674 1703,1676 1767,1679 1767,1634 1703,1631 1640,1629 1577,1627 1514,1625 1451,1624 1387,1622 1324,1621 1261,1620 1198,1619 1135,1619 1071,1618 1008,1619 945,1619 882,1620 819,1621 755,1623 692,1624 629,1627 566,1629 503,1632"/>
+                <Baseline points="503,1662 566,1659 629,1657 692,1654 755,1653 819,1651 882,1650 945,1649 1008,1649 1071,1648 1135,1649 1198,1649 1261,1650 1324,1651 1387,1652 1451,1654 1514,1655 1577,1657 1640,1659 1703,1661 1767,1664"/>
+                <TextEquiv>
+                    <Unicode>consimilibus. sic q3 hec sit vera demonstrato. Iij homo vel sibi equiuale~ti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+                <Coords points="495,1760 558,1758 621,1756 684,1754 747,1752 810,1751 873,1750 937,1750 1000,1749 1063,1749 1126,1750 1189,1750 1252,1751 1315,1752 1379,1754 1442,1756 1505,1758 1568,1760 1631,1763 1694,1766 1758,1769 1758,1724 1694,1721 1631,1718 1568,1715 1505,1713 1442,1711 1379,1709 1315,1707 1252,1706 1189,1705 1126,1705 1063,1704 1000,1704 937,1705 873,1705 810,1706 747,1707 684,1709 621,1711 558,1713 495,1715"/>
+                <Baseline points="495,1745 558,1743 621,1741 684,1739 747,1737 810,1736 873,1735 937,1735 1000,1734 1063,1734 1126,1735 1189,1735 1252,1736 1315,1737 1379,1739 1442,1741 1505,1743 1568,1745 1631,1748 1694,1751 1758,1754"/>
+                <TextEquiv>
+                    <Unicode>hoc est terminus. homo. vel hoc est ho~ terminus. vel hoc e~ dictio. addita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:13;}">
+                <Coords points="499,1850 561,1848 624,1845 687,1844 750,1842 813,1841 876,1840 939,1840 1002,1840 1065,1840 1128,1841 1190,1841 1253,1842 1316,1843 1379,1845 1442,1847 1505,1849 1568,1851 1631,1853 1694,1855 1757,1858 1757,1813 1694,1810 1631,1808 1568,1806 1505,1804 1442,1802 1379,1800 1316,1798 1253,1797 1190,1796 1128,1796 1065,1795 1002,1795 939,1795 876,1795 813,1796 750,1797 687,1799 624,1800 561,1803 499,1805"/>
+                <Baseline points="499,1835 561,1833 624,1830 687,1829 750,1827 813,1826 876,1825 939,1825 1002,1825 1065,1825 1128,1826 1190,1826 1253,1827 1316,1828 1379,1830 1442,1832 1505,1834 1568,1836 1631,1838 1694,1840 1757,1843"/>
+                <TextEquiv>
+                    <Unicode>restricto est eodem mo~ ipsum restringente. sicut in illa ꝓpositione homo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+                <Coords points="501,1928 564,1928 627,1928 690,1928 753,1929 816,1929 879,1929 943,1929 1006,1930 1069,1930 1132,1930 1195,1931 1258,1932 1321,1933 1385,1934 1448,1935 1511,1936 1574,1938 1637,1939 1700,1942 1764,1944 1764,1899 1700,1897 1637,1894 1574,1893 1511,1891 1448,1890 1385,1889 1321,1888 1258,1887 1195,1886 1132,1885 1069,1885 1006,1885 943,1884 879,1884 816,1884 753,1884 690,1883 627,1883 564,1883 501,1883"/>
+                <Baseline points="501,1913 564,1913 627,1913 690,1913 753,1914 816,1914 879,1914 943,1914 1006,1915 1069,1915 1132,1915 1195,1916 1258,1917 1321,1918 1385,1919 1448,1920 1511,1921 1574,1923 1637,1924 1700,1927 1764,1929"/>
+                <TextEquiv>
+                    <Unicode>e~ dictio dissilaba. Iij ho~ erat restrictum. Unde de hoc nota regulam vni=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:15;}">
+                <Coords points="494,2014 557,2014 621,2013 685,2013 749,2013 813,2013 876,2014 940,2014 1004,2014 1068,2015 1132,2016 1195,2017 1259,2018 1323,2019 1387,2020 1451,2021 1514,2023 1578,2024 1642,2026 1706,2028 1770,2030 1770,1991 1706,1989 1642,1987 1578,1985 1514,1984 1451,1982 1387,1981 1323,1980 1259,1979 1195,1978 1132,1977 1068,1976 1004,1975 940,1975 876,1975 813,1974 749,1974 685,1974 621,1974 557,1975 494,1975"/>
+                <Baseline points="494,2001 557,2001 621,2000 685,2000 749,2000 813,2000 876,2001 940,2001 1004,2001 1068,2002 1132,2003 1195,2004 1259,2005 1323,2006 1387,2007 1451,2008 1514,2010 1578,2011 1642,2013 1706,2015 1770,2017"/>
+                <TextEquiv>
+                    <Unicode>uersalem. ꝙ quando diffinitione omniu~ specierum suppositionis di=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651851627272_152" custom="readingOrder {index:16;}">
+                <Coords points="482,2075 608,2075 690,2074 938,2074 1021,2075 1103,2075 1186,2076 1268,2076 1351,2078 1433,2079 1516,2081 1598,2084 1681,2086 1764,2089 1764,2119 1681,2116 1598,2114 1516,2111 1433,2109 1351,2108 1268,2106 1186,2106 1103,2105 1021,2105 938,2104 690,2104 608,2105 482,2105"/>
+                <Baseline points="482,2095 525,2095 608,2095 690,2094 773,2094 855,2094 938,2094 1021,2095 1103,2095 1186,2096 1268,2096 1351,2098 1433,2099 1516,2101 1598,2104 1681,2106 1764,2109"/>
+                <TextEquiv>
+                    <Unicode>cebatur. de quo talis terminus verficatur. eode~ modo. inqua~. restrictus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651851627274_154" custom="readingOrder {index:17;}">
+                <Coords points="482,2156 516,2157 599,2160 682,2161 765,2162 848,2164 931,2165 1013,2165 1096,2166 1179,2167 1262,2168 1345,2169 1428,2170 1511,2171 1594,2173 1677,2176 1760,2179 1760,2209 1677,2206 1594,2203 1511,2201 1428,2200 1345,2199 1262,2198 1179,2197 1096,2196 1013,2195 931,2195 848,2194 765,2192 682,2191 599,2190 516,2187 482,2186"/>
+                <Baseline points="482,2176 516,2177 599,2180 682,2181 765,2182 848,2184 931,2185 1013,2185 1096,2186 1179,2187 1262,2188 1345,2189 1428,2190 1511,2191 1594,2193 1677,2196 1760,2199"/>
+                <TextEquiv>
+                    <Unicode>et equaliter ampliatus sicut in prima ꝓpositione in qua taliter supponit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Circa predicta est Notandum. q3 semper dixi in diffinitionibus suppo=&#13;
+sitionum materialum. de quo vel de quibus talis terminus verificat^ me=&#13;
+diante copula talis ꝓpositionis. ex hoc aliq~s diceret q3 in ista ꝓpositione&#13;
+omne homo e~dictio dissillaba. Iij homo naon staret pro se et ꝓ suis simi=&#13;
+libus. quia quocu~qʒ tali termino demonstrato falsum e~ dicere. hoc e~ ho~.&#13;
+cum Iij homo non stat peo se sed ꝓ animalibus rationalibus mo~ certu~&#13;
+est. q3 nullus terminus est animal rationale. respondeo ꝙ dixi ibi tale~ ter=&#13;
+minu~ verificari de seipso et de suis similibus. Si capit^ ita stricte sic~ stabat&#13;
+in ista ꝓpositione. Si aute~ staret ꝓ principaliori suo ꝟcato no~ oporteret.&#13;
+vnde sufficit q3 cu~ in ista ꝓpositione predicta subiectu~ stabat restricte. ꝑ h'&#13;
+predicatum dictio dissillaba. q3 etiam sic restricte verificetur de se et suis &#13;
+consimilibus. sic q3 hec sit vera demonstrato. Iij homo vel sibi equiuale~ti&#13;
+hoc est terminus. homo. vel hoc est ho~ terminus. vel hoc e~ dictio. addita&#13;
+restricto est eodem mo~ ipsum restringente. sicut in illa ꝓpositione homo&#13;
+e~ dictio dissilaba. Iij ho~ erat restrictum. Unde de hoc nota regulam vni=&#13;
+uersalem. ꝙ quando diffinitione omniu~ specierum suppositionis di=&#13;
+cebatur. de quo talis terminus verficatur. eode~ modo. inqua~. restrictus&#13;
+et equaliter ampliatus sicut in prima ꝓpositione in qua taliter supponit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-16T13:39:46.806+02:00</Created>
+        <LastChange>2022-08-14T15:13:46.107+02:00</LastChange>
+        <TranskribusMetadata docId="1002841" pageId="38390212" pageNr="4" tsid="82346641" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=ZCEJUIDKWEWPVFPPFPJHVVUL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXVXZYFNYFISZGHOQVEDBOPE" imageId="30936943"/>
+    </Metadata>
+    <Page imageFilename="16526990558888bsb11110894-0004.jpg" imageWidth="7591" imageHeight="10108">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1660482826125" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1660402379461_13"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1660402387055_20"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1660402397778_26"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1660402405983_32"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1660402405983_31"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1660402379461_13" custom="readingOrder {index:0;} structure {type:[heading];}">
+            <Coords points="900,673 6248,673 6248,786 900,786"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2087,781 3220,818 3297,816 3373,814 3450,812 3526,811 3603,808 3679,806 3756,804 3832,802 3909,798 3985,797 4062,794 4138,791 4215,790 4291,788 4368,786 4444,784 4521,784 4597,783 4674,782 4674,673 4597,674 4521,675 4444,675 4368,677 4291,679 4215,681 4138,682 4062,685 3985,688 3909,689 3832,693 3756,695 3679,697 3603,699 3526,702 3450,703 3373,705 3297,707 3220,709 2087,672"/>
+                <Baseline points="3144,782 3220,782 3297,780 3373,778 3450,776 3526,775 3603,772 3679,770 3756,768 3832,766 3909,762 3985,761 4062,758 4138,755 4215,754 4291,752 4368,750 4444,748 4521,748 4597,747 4674,746"/>
+                <TextEquiv>
+                    <Unicode>¶ Argumentu~ in dicenda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Argumentu~ in dicenda.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660402387055_20" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="900,786 6248,786 6248,3431 900,3431"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;}">
+                <Coords points="875,1064 2049,1066 2239,1058 2429,1052 2619,1043 2809,1037 2999,1032 3189,1026 3379,1020 3569,1015 3759,1010 3948,1006 4138,1001 4328,996 4518,992 4708,988 4898,983 5088,978 5278,974 5468,968 5658,964 5658,855 5468,859 5278,865 5088,869 4898,874 4708,879 4518,883 4328,887 4138,892 3948,897 3759,901 3569,906 3379,911 3189,917 2999,923 2809,928 2619,934 2429,943 2239,949 2049,957 875,955"/>
+                <Baseline points="1860,1040 2049,1030 2239,1022 2429,1016 2619,1007 2809,1001 2999,996 3189,990 3379,984 3569,979 3759,974 3948,970 4138,965 4328,960 4518,956 4708,952 4898,947 5088,942 5278,938 5468,932 5658,928"/>
+                <TextEquiv>
+                    <Unicode>Cum plurimoꝝ viroru~ dignoru~ ⁊ in sci~a stellaꝝ doctissimoꝝ Co~mentaria in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:1;}">
+                <Coords points="958,1324 1217,1311 1476,1299 1736,1288 1995,1279 2255,1270 2514,1262 2773,1253 3033,1246 3292,1239 3552,1233 3811,1227 4070,1220 4330,1213 4589,1206 4848,1200 5108,1193 5367,1186 5627,1176 5886,1168 6146,1158 6146,1049 5886,1059 5627,1067 5367,1077 5108,1084 4848,1091 4589,1097 4330,1104 4070,1111 3811,1118 3552,1124 3292,1130 3033,1137 2773,1144 2514,1153 2255,1161 1995,1170 1736,1179 1476,1190 1217,1202 958,1215"/>
+                <Baseline points="958,1288 1217,1275 1476,1263 1736,1252 1995,1243 2255,1234 2514,1226 2773,1217 3033,1210 3292,1203 3552,1197 3811,1191 4070,1184 4330,1177 4589,1170 4848,1164 5108,1157 5367,1150 5627,1140 5886,1132 6146,1122"/>
+                <TextEquiv>
+                    <Unicode>Tractatu~ spere materialis Magistri Joa~nis De Sacrobusto dilige~ti lecti=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660481336420_26" custom="readingOrder {index:2;}">
+                <Coords points="942,1423 1827,1385 2099,1377 4163,1323 4528,1314 4894,1305 5442,1293 5625,1289 5991,1283 6174,1281 6174,1390 1078,1529 942,1532"/>
+                <Baseline points="942,1496 1010,1494 1078,1493 1146,1490 1214,1488 1282,1484 1350,1482 1418,1478 1486,1474 1554,1470 1623,1467 1691,1464 1759,1461 1827,1458 1895,1456 1963,1454 2031,1452 2099,1450 2167,1450 2235,1450 2304,1452 2518,1444 2700,1438 2883,1432 3066,1427 3249,1422 3432,1417 3614,1412 3797,1406 3980,1401 4163,1396 4346,1392 4528,1387 4711,1383 4894,1378 5077,1374 5260,1370 5442,1366 5625,1362 5808,1359 5991,1356 6174,1354"/>
+                <TextEquiv>
+                    <Unicode>one reuoluerem Quoꝝ alij sufficie~ti explanatio~e textꝰ dimissa: alij vero longa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;}">
+                <Coords points="912,1754 1176,1744 1440,1734 1704,1725 1968,1716 2232,1706 2496,1699 2760,1690 3024,1682 3288,1674 3552,1666 3816,1659 4080,1652 4344,1644 4608,1638 4872,1630 5136,1624 5400,1617 5664,1612 5928,1606 6192,1600 6192,1491 5928,1497 5664,1503 5400,1508 5136,1515 4872,1521 4608,1529 4344,1535 4080,1543 3816,1550 3552,1557 3288,1565 3024,1573 2760,1581 2496,1590 2232,1597 1968,1607 1704,1616 1440,1625 1176,1635 912,1645"/>
+                <Baseline points="912,1718 1176,1708 1440,1698 1704,1689 1968,1680 2232,1670 2496,1663 2760,1654 3024,1646 3288,1638 3552,1630 3816,1623 4080,1616 4344,1608 4608,1602 4872,1594 5136,1588 5400,1581 5664,1576 5928,1570 6192,1564"/>
+                <TextEquiv>
+                    <Unicode>narratio~e studentu~ ingenia occuparent vt multoꝝ ani~ ab eiusde~ tractatꝰ sꝑe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="920,1964 1181,1954 1443,1945 1704,1937 1966,1929 2227,1921 2489,1914 2750,1908 3012,1900 3273,1894 3535,1887 3796,1880 4058,1874 4319,1867 4581,1860 4842,1853 5104,1845 5365,1836 5627,1828 5888,1818 6150,1808 6150,1699 5888,1709 5627,1719 5365,1727 5104,1736 4842,1744 4581,1751 4319,1758 4058,1765 3796,1771 3535,1778 3273,1785 3012,1791 2750,1799 2489,1805 2227,1812 1966,1820 1704,1828 1443,1836 1181,1845 920,1855"/>
+                <Baseline points="920,1928 1181,1918 1443,1909 1704,1901 1966,1893 2227,1885 2489,1878 2750,1872 3012,1864 3273,1858 3535,1851 3796,1844 4058,1838 4319,1831 4581,1824 4842,1817 5104,1809 5365,1800 5627,1792 5888,1782 6150,1772"/>
+                <TextEquiv>
+                    <Unicode>materialis studio Astroru~qʒ disciplina retahentur. Ego Magister Ioan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;}">
+                <Coords points="928,2186 1194,2175 1460,2165 1726,2156 1992,2148 2258,2140 2524,2132 2790,2126 3056,2118 3322,2111 3588,2104 3854,2097 4120,2090 4386,2083 4652,2076 4918,2068 5184,2061 5450,2054 5716,2044 5982,2036 6248,2026 6248,1917 5982,1927 5716,1935 5450,1945 5184,1952 4918,1959 4652,1967 4386,1974 4120,1981 3854,1988 3588,1995 3322,2002 3056,2009 2790,2017 2524,2023 2258,2031 1992,2039 1726,2047 1460,2056 1194,2066 928,2077"/>
+                <Baseline points="928,2150 1194,2139 1460,2129 1726,2120 1992,2112 2258,2104 2524,2096 2790,2090 3056,2082 3322,2075 3588,2068 3854,2061 4120,2054 4386,2047 4652,2040 4918,2032 5184,2025 5450,2018 5716,2008 5982,2000 6248,1990"/>
+                <TextEquiv>
+                    <Unicode>nes Glogouiensis ad perita ⁊ desiderata plurimoruʒ maxime tn~ honestissi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;}">
+                <Coords points="960,2400 1222,2390 1484,2382 1747,2372 2009,2364 2272,2356 2534,2350 2796,2342 3059,2336 3321,2329 3584,2322 3846,2316 4108,2310 4371,2302 4633,2296 4895,2290 5158,2283 5420,2275 5683,2268 5945,2260 6208,2250 6208,2141 5945,2151 5683,2159 5420,2166 5158,2174 4895,2181 4633,2187 4371,2193 4108,2201 3846,2207 3584,2213 3321,2220 3059,2227 2796,2233 2534,2241 2272,2247 2009,2255 1747,2263 1484,2273 1222,2281 960,2291"/>
+                <Baseline points="960,2364 1222,2354 1484,2346 1747,2336 2009,2328 2272,2320 2534,2314 2796,2306 3059,2300 3321,2293 3584,2286 3846,2280 4108,2274 4371,2266 4633,2260 4895,2254 5158,2247 5420,2239 5683,2232 5945,2224 6208,2214"/>
+                <TextEquiv>
+                    <Unicode>mi viri dn~i Ioannis Haller Ciuis Cracouiensis viroꝝ doctoꝝ ⁊ gn~lit^ spi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;}">
+                <Coords points="900,2618 1165,2609 1430,2601 1695,2594 1960,2585 2225,2577 2490,2569 2755,2561 3020,2554 3285,2548 3551,2540 3816,2532 4081,2526 4346,2520 4611,2512 4876,2506 5141,2500 5406,2494 5671,2488 5936,2482 6202,2476 6202,2367 5936,2373 5671,2379 5406,2385 5141,2391 4876,2397 4611,2403 4346,2411 4081,2417 3816,2423 3551,2431 3285,2439 3020,2445 2755,2452 2490,2460 2225,2468 1960,2476 1695,2485 1430,2492 1165,2500 900,2509"/>
+                <Baseline points="900,2582 1165,2573 1430,2565 1695,2558 1960,2549 2225,2541 2490,2533 2755,2525 3020,2518 3285,2512 3551,2504 3816,2496 4081,2490 4346,2484 4611,2476 4876,2470 5141,2464 5406,2458 5671,2452 5936,2446 6202,2440"/>
+                <TextEquiv>
+                    <Unicode>ritualiu~ ꝑsonaꝝ fautoris excele~tissimi Introductioriu~ hoc in tractatu~ spere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="974,2830 1234,2821 1494,2812 1754,2804 2014,2796 2274,2788 2534,2781 2794,2774 3054,2768 3314,2762 3574,2756 3834,2750 4094,2744 4354,2738 4614,2732 4874,2726 5134,2719 5394,2712 5654,2705 5914,2696 6174,2688 6174,2579 5914,2587 5654,2596 5394,2603 5134,2610 4874,2617 4614,2623 4354,2629 4094,2635 3834,2641 3574,2647 3314,2653 3054,2659 2794,2665 2534,2672 2274,2679 2014,2687 1754,2695 1494,2703 1234,2712 974,2721"/>
+                <Baseline points="974,2794 1234,2785 1494,2776 1754,2768 2014,2760 2274,2752 2534,2745 2794,2738 3054,2732 3314,2726 3574,2720 3834,2714 4094,2708 4354,2702 4614,2696 4874,2690 5134,2683 5394,2676 5654,2669 5914,2660 6174,2652"/>
+                <TextEquiv>
+                    <Unicode>materialis magr~i Ioannis de Sacrobusto sincero ani~o recta inte~tio~e no~ in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660481659828_39" custom="readingOrder {index:9;}">
+                <Coords points="944,2943 972,2937 1059,2928 1146,2924 1233,2921 6182,2799 6182,2908 5128,2938 4917,2944 944,3052"/>
+                <Baseline points="944,3016 972,3010 1001,3007 1030,3004 1059,3001 1088,3000 1117,2999 1146,2997 1175,2996 1204,2995 1233,2994 1261,2994 1290,2994 1319,2994 1348,2994 1377,2994 1406,2994 1435,2994 1464,2994 1493,2994 1522,2994 1966,2978 2176,2972 2387,2968 2598,2963 2809,2958 3020,2954 3230,2949 3441,2944 3652,2939 3863,2934 4074,2929 4284,2924 4495,2918 4706,2913 4917,2908 5128,2902 5338,2896 5549,2890 5760,2884 5971,2878 6182,2872"/>
+                <TextEquiv>
+                    <Unicode>alioꝝ scribentium deturpatio~eʒ quinymo in co~mune~ studentu~ vtilitate~ hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:10;}">
+                <Coords points="958,3258 1219,3251 1480,3242 1741,3235 2002,3228 2264,3221 2525,3215 2786,3208 3047,3203 3308,3197 3570,3192 3831,3187 4092,3182 4353,3177 4614,3172 4876,3168 5137,3162 5398,3158 5659,3153 5920,3148 6182,3142 6182,3033 5920,3039 5659,3044 5398,3049 5137,3053 4876,3059 4614,3063 4353,3068 4092,3073 3831,3078 3570,3083 3308,3088 3047,3094 2786,3099 2525,3106 2264,3112 2002,3119 1741,3126 1480,3133 1219,3142 958,3149"/>
+                <Baseline points="958,3222 1219,3215 1480,3206 1741,3199 2002,3192 2264,3185 2525,3179 2786,3172 3047,3167 3308,3161 3570,3156 3831,3151 4092,3146 4353,3141 4614,3136 4876,3132 5137,3126 5398,3122 5659,3117 5920,3112 6182,3106"/>
+                <TextEquiv>
+                    <Unicode>co~pe~diu~ scribere institui. Nu~cqʒ i~ noi~e Iesu saluatoris bn~dicti eiusqʒ mr~is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:11;}">
+                <Coords points="932,3478 1135,3472 1338,3468 1541,3462 1744,3457 1947,3452 2150,3445 2353,3440 2556,3433 2759,3427 2963,3422 3166,3416 3369,3412 3572,3406 3775,3402 3978,3399 4181,3396 4384,3394 4587,3392 4790,3392 4994,3392 4994,3283 4790,3283 4587,3283 4384,3285 4181,3287 3978,3290 3775,3293 3572,3297 3369,3303 3166,3307 2963,3313 2759,3318 2556,3324 2353,3331 2150,3336 1947,3343 1744,3348 1541,3353 1338,3359 1135,3363 932,3369"/>
+                <Baseline points="932,3442 1135,3436 1338,3432 1371,3431"/>
+                <TextEquiv>
+                    <Unicode>marie virginis Illibate feciliter in hunc modum incipio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cum plurimoꝝ viroru~ dignoru~ ⁊ in sci~a stellaꝝ doctissimoꝝ Co~mentaria in&#13;
+Tractatu~ spere materialis Magistri Joa~nis De Sacrobusto dilige~ti lecti=&#13;
+one reuoluerem Quoꝝ alij sufficie~ti explanatio~e textꝰ dimissa: alij vero longa&#13;
+narratio~e studentu~ ingenia occuparent vt multoꝝ ani~ ab eiusde~ tractatꝰ sꝑe&#13;
+materialis studio Astroru~qʒ disciplina retahentur. Ego Magister Ioan&#13;
+nes Glogouiensis ad perita ⁊ desiderata plurimoruʒ maxime tn~ honestissi=&#13;
+mi viri dn~i Ioannis Haller Ciuis Cracouiensis viroꝝ doctoꝝ ⁊ gn~lit^ spi&#13;
+ritualiu~ ꝑsonaꝝ fautoris excele~tissimi Introductioriu~ hoc in tractatu~ spere&#13;
+materialis magr~i Ioannis de Sacrobusto sincero ani~o recta inte~tio~e no~ in&#13;
+alioꝝ scribentium deturpatio~eʒ quinymo in co~mune~ studentu~ vtilitate~ hoc&#13;
+co~pe~diu~ scribere institui. Nu~cqʒ i~ noi~e Iesu saluatoris bn~dicti eiusqʒ mr~is&#13;
+marie virginis Illibate feciliter in hunc modum incipio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660402397778_26" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="900,3431 6248,3431 6248,7129 900,7129"/>
+            <TextLine id="r2l17" custom="readingOrder {index:0;} drop-capital {offset:0; length:51;}">
+                <Coords points="984,3748 1235,3738 1486,3728 1737,3719 1988,3712 2240,3705 2491,3698 2742,3692 2993,3686 3244,3682 3496,3676 3747,3672 3998,3668 4249,3663 4500,3658 4752,3654 5003,3649 5254,3644 5505,3638 5756,3634 6008,3628 6008,3519 5756,3525 5505,3529 5254,3535 5003,3540 4752,3545 4500,3549 4249,3554 3998,3559 3747,3563 3496,3567 3244,3573 2993,3577 2742,3583 2491,3589 2240,3596 1988,3603 1737,3610 1486,3619 1235,3629 984,3639"/>
+                <Baseline points="984,3712 1235,3702 1486,3692 1737,3683 1988,3676 2240,3669 2491,3662 2742,3656 2993,3650 3244,3646 3496,3640 3747,3636 3998,3632 4249,3627 4500,3622 4752,3618 5003,3613 5254,3608 5505,3602 5756,3598 6008,3592"/>
+                <TextEquiv>
+                    <Unicode>¶ Inquit albumaʒar vir in sci~a stellaꝝ doctissimus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:1;}">
+                <Coords points="1038,3952 1296,3943 1555,3934 1813,3926 2072,3918 2330,3912 2589,3905 2847,3900 3106,3894 3364,3889 3623,3884 3881,3880 4140,3875 4398,3870 4657,3866 4915,3861 5174,3856 5432,3850 5691,3843 5949,3837 6208,3830 6208,3721 5949,3728 5691,3734 5432,3741 5174,3747 4915,3752 4657,3757 4398,3761 4140,3766 3881,3771 3623,3775 3364,3780 3106,3785 2847,3791 2589,3796 2330,3803 2072,3809 1813,3817 1555,3825 1296,3834 1038,3843"/>
+                <Baseline points="1038,3916 1296,3907 1555,3898 1813,3890 2072,3882 2330,3876 2589,3869 2847,3864 3106,3858 3364,3853 3623,3848 3881,3844 4140,3839 4398,3834 4657,3830 4915,3825 5174,3820 5432,3814 5691,3807 5949,3801 6208,3794"/>
+                <TextEquiv>
+                    <Unicode>In i~troductorio suo maiori Differentia p~ma tractatu primo due sunt spes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660481885210_49" custom="readingOrder {index:2;}">
+                <Coords points="942,4061 1451,4042 1488,4041 2855,4009 6182,3943 6182,4052 5558,4068 1051,4170 942,4170"/>
+                <Baseline points="942,4134 978,4134 1014,4134 1051,4134 1087,4132 1124,4132 1160,4129 1196,4128 1233,4126 1269,4124 1306,4122 1342,4120 1378,4118 1415,4117 1451,4115 1488,4114 1524,4114 1560,4114 1597,4114 1633,4116 1670,4118 2024,4104 2231,4098 2439,4092 2647,4087 2855,4082 3063,4078 3271,4074 3479,4070 3687,4066 3895,4062 4103,4059 4310,4056 4518,4052 4726,4048 4934,4044 5142,4040 5350,4036 5558,4032 5766,4026 5974,4021 6182,4016"/>
+                <TextEquiv>
+                    <Unicode>sapie~tie mirabiles in cognitio~e ⁊ magne in existimatio~e: Quaꝝ p^ma est sci~a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:3;}">
+                <Coords points="948,4386 1209,4376 1471,4369 1732,4362 1994,4354 2255,4348 2517,4342 2778,4336 3040,4330 3301,4326 3563,4320 3824,4316 4086,4311 4347,4306 4609,4302 4870,4298 5132,4292 5393,4288 5655,4284 5916,4280 6178,4274 6178,4165 5916,4171 5655,4175 5393,4179 5132,4183 4870,4189 4609,4193 4347,4197 4086,4202 3824,4207 3563,4211 3301,4217 3040,4221 2778,4227 2517,4233 2255,4239 1994,4245 1732,4253 1471,4260 1209,4267 948,4277"/>
+                <Baseline points="948,4350 1209,4340 1471,4333 1732,4326 1994,4318 2255,4312 2517,4306 2778,4300 3040,4294 3301,4290 3563,4284 3824,4280 4086,4275 4347,4270 4609,4266 4870,4262 5132,4256 5393,4252 5655,4248 5916,4244 6178,4238"/>
+                <TextEquiv>
+                    <Unicode>de circulis planetaꝝ ⁊ orbibus eoꝝ motibus ⁊ accidentibus que eoruʒ ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:4;}">
+                <Coords points="1022,4606 1279,4595 1537,4586 1795,4579 2052,4572 2310,4565 2568,4558 2825,4553 3083,4548 3341,4544 3599,4539 3856,4534 4114,4530 4372,4526 4629,4522 4887,4516 5145,4512 5402,4506 5660,4502 5918,4495 6176,4488 6176,4379 5918,4386 5660,4393 5402,4397 5145,4403 4887,4407 4629,4413 4372,4417 4114,4421 3856,4425 3599,4430 3341,4435 3083,4439 2825,4444 2568,4449 2310,4456 2052,4463 1795,4470 1537,4477 1279,4486 1022,4497"/>
+                <Baseline points="1022,4570 1279,4559 1537,4550 1795,4543 2052,4536 2310,4529 2568,4522 2825,4517 3083,4512 3341,4508 3599,4503 3856,4498 4114,4494 4372,4490 4629,4486 4887,4480 5145,4476 5402,4470 5660,4466 5918,4459 6176,4452"/>
+                <TextEquiv>
+                    <Unicode>gnitudo ⁊ qua~titatas. Co~siderat etia~ hic pars sapie~tie prima solis ⁊ une de=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:5;}">
+                <Coords points="992,4816 1251,4806 1510,4799 1769,4792 2029,4784 2288,4779 2547,4772 2807,4768 3066,4764 3325,4760 3585,4756 3844,4752 4103,4748 4362,4745 4622,4742 4881,4738 5140,4734 5400,4730 5659,4726 5918,4720 6178,4714 6178,4605 5918,4611 5659,4617 5400,4621 5140,4625 4881,4629 4622,4633 4362,4636 4103,4639 3844,4643 3585,4647 3325,4651 3066,4655 2807,4659 2547,4663 2288,4670 2029,4675 1769,4683 1510,4690 1251,4697 992,4707"/>
+                <Baseline points="992,4780 1251,4770 1510,4763 1769,4756 2029,4748 2288,4743 2547,4736 2807,4732 3066,4728 3325,4724 3585,4720 3844,4716 4103,4712 4362,4709 4622,4706 4881,4702 5140,4698 5400,4694 5659,4690 5918,4684 6178,4678"/>
+                <TextEquiv>
+                    <Unicode>fectus ac terre rotunditatem ⁊ de eius diusio~e que ca^ longitudinis ⁊ breui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:6;}">
+                <Coords points="992,5034 1253,5026 1514,5018 1775,5012 2036,5006 2298,5000 2559,4994 2820,4988 3081,4982 3342,4978 3604,4974 3865,4969 4126,4965 4387,4960 4648,4957 4910,4954 5171,4950 5432,4947 5693,4944 5954,4941 6216,4938 6216,4829 5954,4832 5693,4835 5432,4838 5171,4841 4910,4845 4648,4848 4387,4851 4126,4856 3865,4860 3604,4865 3342,4869 3081,4873 2820,4879 2559,4885 2298,4891 2036,4897 1775,4903 1514,4909 1253,4917 992,4925"/>
+                <Baseline points="992,4998 1253,4990 1514,4982 1775,4976 2036,4970 2298,4964 2559,4958 2820,4952 3081,4946 3342,4942 3604,4938 3865,4933 4126,4929 4387,4924 4648,4921 4910,4918 5171,4914 5432,4911 5693,4908 5954,4905 6216,4902"/>
+                <TextEquiv>
+                    <Unicode>tatis diei. Quo~qʒ mortaliu~ in hoc md'o ma~sio in septe~ climata est distribu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:7;} textStyle {offset:29; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="972,5254 1233,5248 1494,5242 1755,5236 2016,5228 2277,5223 2538,5216 2799,5210 3060,5204 3321,5198 3582,5192 3843,5186 4104,5182 4365,5176 4626,5172 4887,5168 5148,5164 5409,5160 5670,5156 5931,5154 6192,5152 6192,5043 5931,5045 5670,5047 5409,5051 5148,5055 4887,5059 4626,5063 4365,5067 4104,5073 3843,5077 3582,5083 3321,5089 3060,5095 2799,5101 2538,5107 2277,5114 2016,5119 1755,5127 1494,5133 1233,5139 972,5145"/>
+                <Baseline points="972,5218 1233,5212 1494,5206 1755,5200 2016,5192 2277,5187 2538,5180 2799,5174 3060,5168 3321,5162 3582,5156 3843,5150 4104,5146 4365,5140 4626,5136 4887,5132 5148,5128 5409,5124 5670,5120 5931,5118 6192,5116"/>
+                <TextEquiv>
+                    <Unicode>ta. Huic nemo Ↄ~~dicit nisi qo co~trarius est veritati ⁊ hec co~muni noi~e astro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660482151690_61" custom="readingOrder {index:8;}">
+                <Coords points="966,5353 3118,5306 3460,5299 3802,5293 6198,5251 6198,5360 5855,5370 5513,5378 1298,5460 1132,5462 966,5462"/>
+                <Baseline points="966,5426 1049,5426 1132,5426 1215,5424 1298,5424 1382,5422 1465,5420 1548,5419 1631,5416 1714,5414 1798,5412 1881,5410 1964,5408 2047,5406 2130,5404 2214,5402 2297,5400 2380,5398 2463,5397 2546,5396 2630,5394 2776,5388 2947,5383 3118,5379 3289,5376 3460,5372 3631,5370 3802,5366 3973,5364 4144,5362 4315,5360 4487,5358 4658,5356 4829,5354 5000,5350 5171,5348 5342,5345 5513,5342 5684,5338 5855,5334 6026,5329 6198,5324"/>
+                <TextEquiv>
+                    <Unicode>nomia apellat^. Subiu~git Albumaʒar Altera pars sapientie mutatio~es te~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:9;}">
+                <Coords points="994,5692 1253,5684 1512,5678 1771,5670 2030,5664 2289,5657 2548,5650 2807,5644 3066,5639 3325,5633 3584,5628 3843,5623 4102,5618 4361,5614 4620,5610 4879,5606 5138,5602 5397,5600 5656,5596 5915,5594 6174,5592 6174,5483 5915,5485 5656,5487 5397,5491 5138,5493 4879,5497 4620,5501 4361,5505 4102,5509 3843,5514 3584,5519 3325,5524 3066,5530 2807,5535 2548,5541 2289,5548 2030,5555 1771,5561 1512,5569 1253,5575 994,5583"/>
+                <Baseline points="994,5656 1253,5648 1512,5642 1771,5634 2030,5628 2289,5621 2548,5614 2807,5608 3066,5603 3325,5597 3584,5592 3843,5587 4102,5582 4361,5578 4620,5574 4879,5570 5138,5566 5397,5564 5656,5560 5915,5558 6174,5556"/>
+                <TextEquiv>
+                    <Unicode>poꝝ inquirit. Quid etia~ applicatio varia in stellis p~signat ⁊ hec est scie~tia p~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:10;}">
+                <Coords points="960,5908 1220,5899 1481,5890 1742,5884 2002,5876 2263,5870 2524,5864 2784,5859 3045,5854 3306,5850 3567,5846 3827,5842 4088,5837 4349,5833 4609,5830 4870,5826 5131,5822 5391,5818 5652,5813 5913,5809 6174,5804 6174,5695 5913,5700 5652,5704 5391,5709 5131,5713 4870,5717 4609,5721 4349,5724 4088,5728 3827,5733 3567,5737 3306,5741 3045,5745 2784,5750 2524,5755 2263,5761 2002,5767 1742,5775 1481,5781 1220,5790 960,5799"/>
+                <Baseline points="960,5872 1220,5863 1481,5854 1742,5848 2002,5840 2263,5834 2524,5828 2784,5823 3045,5818 3306,5814 3567,5810 3827,5806 4088,5801 4349,5797 4609,5794 4870,5790 5131,5786 5391,5782 5652,5777 5913,5773 6174,5768"/>
+                <TextEquiv>
+                    <Unicode>nosticationu~ ꝑ ha~c scie~tia~ scitur Quid in hoc mu~do d' bono aut etiam malo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:11;}">
+                <Coords points="980,6126 1239,6117 1499,6108 1759,6101 2019,6093 2279,6088 2538,6081 2798,6076 3058,6072 3318,6066 3578,6062 3837,6058 4097,6056 4357,6052 4617,6048 4877,6046 5136,6042 5396,6038 5656,6036 5916,6032 6176,6028 6176,5919 5916,5923 5656,5927 5396,5929 5136,5933 4877,5937 4617,5939 4357,5943 4097,5947 3837,5949 3578,5953 3318,5957 3058,5963 2798,5967 2538,5972 2279,5979 2019,5984 1759,5992 1499,5999 1239,6008 980,6017"/>
+                <Baseline points="980,6090 1239,6081 1499,6072 1759,6065 2019,6057 2279,6052 2538,6045 2798,6040 3058,6036 3318,6030 3578,6026 3837,6022 4097,6020 4357,6016 4617,6012 4877,6010 5136,6006 5396,6002 5656,6000 5916,5996 6176,5992"/>
+                <TextEquiv>
+                    <Unicode>quolibet euenit anno ⁊ hec astrologia noi~atur: hec Albumaʒar. In primis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:12;}">
+                <Coords points="992,6350 1246,6340 1500,6332 1754,6322 2009,6314 2263,6308 2517,6302 2772,6296 3026,6290 3280,6286 3535,6282 3789,6278 4043,6274 4297,6272 4552,6269 4806,6266 5060,6264 5315,6260 5569,6258 5823,6254 6078,6252 6078,6143 5823,6145 5569,6149 5315,6151 5060,6155 4806,6157 4552,6160 4297,6163 4043,6165 3789,6169 3535,6173 3280,6177 3026,6181 2772,6187 2517,6193 2263,6199 2009,6205 1754,6213 1500,6223 1246,6231 992,6241"/>
+                <Baseline points="992,6314 1246,6304 1500,6296 1754,6286 2009,6278 2263,6272 2517,6266 2772,6260 3026,6254 3280,6250 3535,6246 3789,6242 4043,6238 4297,6236 4552,6233 4806,6230 5060,6228 5315,6224 5569,6222 5823,6218 6078,6216"/>
+                <TextEquiv>
+                    <Unicode>itaqʒ haꝝ partium sapientie diffinitiones ponende erunt. ⁊ primo astrono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:13;}">
+                <Coords points="988,6556 1248,6548 1508,6542 1768,6536 2028,6530 2288,6524 2548,6518 2808,6514 3068,6508 3328,6504 3589,6499 3849,6494 4109,6490 4369,6486 4629,6484 4889,6480 5149,6478 5409,6476 5669,6476 5929,6474 6190,6474 6190,6365 5929,6365 5669,6367 5409,6367 5149,6369 4889,6371 4629,6375 4369,6377 4109,6381 3849,6385 3589,6390 3328,6395 3068,6399 2808,6405 2548,6409 2288,6415 2028,6421 1768,6427 1508,6433 1248,6439 988,6447"/>
+                <Baseline points="988,6520 1248,6512 1508,6506 1768,6500 2028,6494 2288,6488 2548,6482 2808,6478 3068,6472 3328,6468 3589,6463 3849,6458 4109,6454 4369,6450 4629,6448 4889,6444 5149,6442 5409,6440 5669,6440 5929,6438 6190,6438"/>
+                <TextEquiv>
+                    <Unicode>mie deinde astrologie. Post hoc eaꝝ drn~tie Et vltimo quis astronomie in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:14;}">
+                <Coords points="1014,6778 1272,6770 1531,6764 1790,6756 2049,6750 2308,6744 2566,6738 2825,6732 3084,6726 3343,6722 3602,6716 3860,6712 4119,6708 4378,6704 4637,6701 4896,6698 5154,6696 5413,6694 5672,6692 5931,6692 6190,6692 6190,6583 5931,6583 5672,6583 5413,6585 5154,6587 4896,6589 4637,6592 4378,6595 4119,6599 3860,6603 3602,6607 3343,6613 3084,6617 2825,6623 2566,6629 2308,6635 2049,6641 1790,6647 1531,6655 1272,6661 1014,6669"/>
+                <Baseline points="1014,6742 1272,6734 1531,6728 1790,6720 2049,6714 2308,6708 2566,6702 2825,6696 3084,6690 3343,6686 3602,6680 3860,6676 4119,6672 4378,6668 4637,6665 4896,6662 5154,6660 5413,6658 5672,6656 5931,6656 6190,6656"/>
+                <TextEquiv>
+                    <Unicode>uentor fuit in qua~ astronomia tractatulus iste manuductoriꝰ existit quan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:15;}">
+                <Coords points="992,7000 1251,6993 1510,6985 1769,6978 2028,6972 2288,6966 2547,6960 2806,6954 3065,6949 3324,6944 3584,6939 3843,6934 4102,6930 4361,6926 4620,6922 4880,6918 5139,6914 5398,6912 5657,6908 5916,6906 6176,6904 6176,6795 5916,6797 5657,6799 5398,6803 5139,6805 4880,6809 4620,6813 4361,6817 4102,6821 3843,6825 3584,6830 3324,6835 3065,6840 2806,6845 2547,6851 2288,6857 2028,6863 1769,6869 1510,6876 1251,6884 992,6891"/>
+                <Baseline points="992,6964 1251,6957 1510,6949 1769,6942 2028,6936 2288,6930 2547,6924 2806,6918 3065,6913 3324,6908 3584,6903 3843,6898 4102,6894 4361,6890 4620,6886 4880,6882 5139,6878 5398,6876 5657,6872 5916,6870 6176,6868"/>
+                <TextEquiv>
+                    <Unicode>tu~ itaqʒ ad p^mu~ ptholomeus pheludianus primo quadripartiri capitulo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660482530802_74" custom="readingOrder {index:16;}">
+                <Coords points="3972,7064 5496,7015 5829,7009 5968,7009 5996,7010 6024,7012 6052,7015 6052,7124 3972,7139"/>
+                <Baseline points="3972,7114 4035,7112 4099,7112 4162,7112 4226,7110 4290,7110 4353,7108 4417,7108 4480,7107 4544,7106 4608,7106 4671,7104 4735,7104 4798,7102 4862,7101 4926,7100 4989,7098 5053,7097 5116,7096 5180,7094 5244,7092 5496,7088 5523,7089 5551,7090 5579,7090 5607,7090 5635,7090 5662,7089 5690,7088 5718,7087 5746,7086 5774,7085 5801,7084 5829,7082 5857,7082 5885,7082 5913,7082 5940,7082 5968,7082 5996,7083 6024,7085 6052,7088"/>
+                <TextEquiv>
+                    <Unicode>primo sic diffinit astronomiam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Inquit albumaʒar vir in sci~a stellaꝝ doctissimus&#13;
+In i~troductorio suo maiori Differentia p~ma tractatu primo due sunt spes&#13;
+sapie~tie mirabiles in cognitio~e ⁊ magne in existimatio~e: Quaꝝ p^ma est sci~a&#13;
+de circulis planetaꝝ ⁊ orbibus eoꝝ motibus ⁊ accidentibus que eoruʒ ma&#13;
+gnitudo ⁊ qua~titatas. Co~siderat etia~ hic pars sapie~tie prima solis ⁊ une de=&#13;
+fectus ac terre rotunditatem ⁊ de eius diusio~e que ca^ longitudinis ⁊ breui&#13;
+tatis diei. Quo~qʒ mortaliu~ in hoc md'o ma~sio in septe~ climata est distribu&#13;
+ta. Huic nemo Ↄ~~dicit nisi qo co~trarius est veritati ⁊ hec co~muni noi~e astro&#13;
+nomia apellat^. Subiu~git Albumaʒar Altera pars sapientie mutatio~es te~&#13;
+poꝝ inquirit. Quid etia~ applicatio varia in stellis p~signat ⁊ hec est scie~tia p~&#13;
+nosticationu~ ꝑ ha~c scie~tia~ scitur Quid in hoc mu~do d' bono aut etiam malo&#13;
+quolibet euenit anno ⁊ hec astrologia noi~atur: hec Albumaʒar. In primis&#13;
+itaqʒ haꝝ partium sapientie diffinitiones ponende erunt. ⁊ primo astrono&#13;
+mie deinde astrologie. Post hoc eaꝝ drn~tie Et vltimo quis astronomie in&#13;
+uentor fuit in qua~ astronomia tractatulus iste manuductoriꝰ existit quan&#13;
+tu~ itaqʒ ad p^mu~ ptholomeus pheludianus primo quadripartiri capitulo&#13;
+primo sic diffinit astronomiam.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660402405983_32" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="900,7129 6248,7129 6248,8229 900,8229"/>
+            <TextLine id="line_1660482627570_138" custom="readingOrder {index:0;} drop-capital {offset:0; length:49; continued:true;}">
+                <Coords points="1029,7216 6172,7216 6172,7379 1029,7379"/>
+                <TextEquiv>
+                    <Unicode>¶ Astronomia est sci~a Qua duoru~ luminariu~ ꝗuqʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660482631513_141" custom="readingOrder {index:1;} drop-capital {offset:0; length:53; continued:true;}">
+                <Coords points="1018,7632 6167,7632 6167,7810 1018,7810"/>
+                <TextEquiv>
+                    <Unicode>planetaꝝ figure sciu~tur scd'm motu~ suu~ In Ↄꝑatio~e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:2;} drop-capital {offset:0; length:37; continued:true;}">
+                <Coords points="1006,8252 1092,8247 1178,8245 1264,8242 1350,8240 1436,8238 1522,8238 1608,8236 1694,8236 1780,8236 1866,8238 1952,8238 2038,8238 2124,8238 2210,8238 2296,8238 2382,8236 2468,8235 2554,8232 2640,8230 4627,8175 4627,8066 2640,8121 2554,8123 2468,8126 2382,8127 2296,8129 2210,8129 2124,8129 2038,8129 1952,8129 1866,8129 1780,8127 1694,8127 1608,8127 1522,8129 1436,8129 1350,8131 1264,8133 1178,8136 1092,8138 1006,8143"/>
+                <Baseline points="1006,8216 1092,8211 1178,8209 1264,8206 1350,8204 1436,8202 1522,8202 1608,8200 1694,8200 1780,8200 1866,8202 1952,8202 2038,8202 2124,8202 2210,8202 2296,8202 2382,8200 2468,8199 2554,8196 2640,8194 2726,8190"/>
+                <TextEquiv>
+                    <Unicode>vnius ad alteꝝ ⁊ eoꝝ ad spera~ terre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Astronomia est sci~a Qua duoru~ luminariu~ ꝗuqʒ&#13;
+planetaꝝ figure sciu~tur scd'm motu~ suu~ In Ↄꝑatio~e&#13;
+vnius ad alteꝝ ⁊ eoꝝ ad spera~ terre.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660402405983_31" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="900,8229 6248,8229 6248,8714 900,8714"/>
+            <TextLine id="r2l51" custom="readingOrder {index:0;}">
+                <Coords points="1138,8474 1385,8468 1632,8463 1879,8458 2127,8453 2374,8448 2621,8444 2869,8442 3116,8438 3363,8436 3611,8432 3858,8430 4105,8426 4352,8424 4600,8420 4847,8416 5094,8412 5342,8408 5589,8404 5836,8398 6084,8392 6084,8283 5836,8289 5589,8295 5342,8299 5094,8303 4847,8307 4600,8311 4352,8315 4105,8317 3858,8321 3611,8323 3363,8327 3116,8329 2869,8333 2621,8335 2374,8339 2127,8344 1879,8349 1632,8354 1385,8359 1138,8365"/>
+                <Baseline points="1138,8438 1385,8432 1632,8427 1879,8422 2127,8417 2374,8412 2621,8408 2869,8406 3116,8402 3363,8400 3611,8396 3858,8394 4105,8390 4352,8388 4600,8384 4847,8380 5094,8376 5342,8372 5589,8368 5836,8362 6084,8356"/>
+                <TextEquiv>
+                    <Unicode>¶ Dicit^ au~t astronomia a noi~e astru~ astri qd' signat tantu~ sicut stella ⁊ nor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660482596810_123" custom="readingOrder {index:1;}">
+                <Coords points="1192,8585 5498,8525 5680,8523 5680,8632 1966,8714 1346,8700 1230,8696 1192,8694"/>
+                <Baseline points="1192,8658 1230,8660 1269,8660 1308,8662 1346,8664 1385,8664 1424,8664 1462,8666 1501,8666 1540,8666 1579,8666 1617,8668 1656,8668 1695,8668 1733,8669 1772,8670 1811,8671 1849,8672 1888,8674 1927,8676 1966,8678 2050,8652 2231,8648 2413,8646 2594,8644 2776,8640 2957,8638 3139,8634 3320,8632 3502,8628 3683,8626 3865,8623 4046,8620 4228,8618 4409,8614 4591,8612 4772,8609 4954,8606 5135,8604 5317,8601 5498,8598 5680,8596"/>
+                <TextEquiv>
+                    <Unicode>ma regulaqʒ quasi scientia de motibus ⁊ regulis planetaꝝ ⁊ stellarum. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Dicit^ au~t astronomia a noi~e astru~ astri qd' signat tantu~ sicut stella ⁊ nor&#13;
+ma regulaqʒ quasi scientia de motibus ⁊ regulis planetaꝝ ⁊ stellarum. A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

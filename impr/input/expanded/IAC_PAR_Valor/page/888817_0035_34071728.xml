@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.787+01:00</Created>
+        <LastChange>2022-12-16T16:54:40.143+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071728" pageNr="35" tsid="73003445" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=WKSRJDLEYQNPHRVPDVLBMBKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZFALHJAJDVSNMIKDYXNYUBX" imageId="27321072"/>
+    </Metadata>
+    <Page imageFilename="888817_0035_34071728.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671206080143" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642268631580_1183"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1642268631580_1183" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="308,305 1430,305 1430,2035 308,2035"/>
+            <TextLine id="line_1642269253458_1187" custom="readingOrder {index:0;}">
+                <Coords points="323,312 1412,312 1412,358 323,358"/>
+                <TextEquiv>
+                    <Unicode>et eternaliter genitus Et medium tercie reductionis est homo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269255026_1190" custom="readingOrder {index:1;}">
+                <Coords points="1419,372 326,372 326,415 1419,415"/>
+                <TextEquiv>
+                    <Unicode>taliter conditus eternaliter genitus et in lumine verita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269257137_1193" custom="readingOrder {index:2;}">
+                <Coords points="337,433 1423,433 1423,476 337,476"/>
+                <TextEquiv>
+                    <Unicode>tis superne intellectus visus secundum que supra allegatum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269259147_1196" custom="readingOrder {index:3;}">
+                <Coords points="1412,486 323,486 323,547 1412,547"/>
+                <TextEquiv>
+                    <Unicode>est Hec est vita eterna terminus igitur in opere nature</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269262530_1199" custom="readingOrder {index:4;}">
+                <Coords points="326,547 1415,547 1415,607 326,607"/>
+                <TextEquiv>
+                    <Unicode>fuit homo conditus qui post lapsum per filium dei et eterna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269264855_1202" custom="readingOrder {index:5;}">
+                <Coords points="1412,621 319,621 319,661 1412,661"/>
+                <TextEquiv>
+                    <Unicode>liter genitum et in nostra natura temporaliter natum iterum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269267296_1205" custom="readingOrder {index:6;}">
+                <Coords points="326,664 1390,664 1390,710 326,710"/>
+                <TextEquiv>
+                    <Unicode>reductus et reparatus est et in suum reparatorem beatifice co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269269387_1208" custom="readingOrder {index:7;}">
+                <Coords points="1394,714 323,714 323,778 1394,778"/>
+                <TextEquiv>
+                    <Unicode>gnitum finaliter beatificatus est et sue consummationis fe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269272657_1211" custom="readingOrder {index:8;}">
+                <Coords points="337,782 1401,782 1401,842 337,842"/>
+                <TextEquiv>
+                    <Unicode>licem accipit finem. ¶ Sequitur minor. Cui resistet demo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269276253_1214" custom="readingOrder {index:9;}">
+                <Coords points="1369,849 326,849 326,896 1369,896"/>
+                <TextEquiv>
+                    <Unicode>nis malicia quam vincit dei sapientia suaviter disponens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269278429_1217" custom="readingOrder {index:10;}">
+                <Coords points="323,892 1419,892 1419,953 323,953"/>
+                <TextEquiv>
+                    <Unicode>omnia. Patet ex nomine suo quo Sathanas appellatus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269280804_1220" custom="readingOrder {index:11;}">
+                <Coords points="1405,956 340,956 340,1013 1405,1013"/>
+                <TextEquiv>
+                    <Unicode>est. i. adversarius. quam omni bono adversatur. licet ipse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269283122_1223" custom="readingOrder {index:12;}">
+                <Coords points="340,1013 1394,1013 1394,1077 340,1077"/>
+                <TextEquiv>
+                    <Unicode>a bono deo bonus factus. sed in veritate non stetit et suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269286405_1226" custom="readingOrder {index:13;}">
+                <Coords points="337,1077 1398,1077 1398,1123 337,1123"/>
+                <TextEquiv>
+                    <Unicode>creatori quodammodo equari voluit. Hinc ordinem a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269288988_1229" custom="readingOrder {index:14;}">
+                <Coords points="1401,1123 301,1123 301,1180 1401,1180"/>
+                <TextEquiv>
+                    <Unicode>deo institutum turbare et pervertere nisus est. Fuit quidam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269292018_1232" custom="readingOrder {index:15;}">
+                <Coords points="344,1198 1394,1198 1394,1237 344,1237"/>
+                <TextEquiv>
+                    <Unicode>creatura sub creatore posita quatenus sue bonitatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269294098_1235" custom="readingOrder {index:16;}">
+                <Coords points="1383,1244 308,1244 308,1305 1383,1305"/>
+                <TextEquiv>
+                    <Unicode>influxum indesinenter recipiens conservaret. Sed tumo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269296532_1238" custom="readingOrder {index:17;}">
+                <Coords points="308,1305 1401,1305 1401,1358 308,1358"/>
+                <TextEquiv>
+                    <Unicode>re superbie a seipso depravatus se divine bonitatis influ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269298866_1241" custom="readingOrder {index:18;}">
+                <Coords points="1401,1358 315,1358 315,1412 1401,1412"/>
+                <TextEquiv>
+                    <Unicode>xui subtraxit et ne homini communicaretur invidit dolore gra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269302688_1244" custom="readingOrder {index:19;}">
+                <Coords points="308,1422 1401,1422 1401,1472 308,1472"/>
+                <TextEquiv>
+                    <Unicode>vissimo confectus super excellentiam hominis ad quam deo mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269304921_1247" custom="readingOrder {index:20;}">
+                <Coords points="1401,1483 323,1483 323,1540 1401,1540"/>
+                <TextEquiv>
+                    <Unicode>serante in supplementum angelice ruine vidit illum subli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269307191_1250" custom="readingOrder {index:21;}">
+                <Coords points="323,1547 1390,1547 1390,1604 323,1604"/>
+                <TextEquiv>
+                    <Unicode>matum. In his igitur duabus maliciis superbia atque in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269309155_1253" custom="readingOrder {index:22;}">
+                <Coords points="1387,1604 301,1604 301,1664 1387,1664"/>
+                <TextEquiv>
+                    <Unicode>vidia tota pravitas affectus angelici consistit que sui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269311011_1256" custom="readingOrder {index:23;}">
+                <Coords points="333,1668 1405,1668 1405,1721 333,1721"/>
+                <TextEquiv>
+                    <Unicode>mali vestigia homini imprimere nititur quare et eun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269314057_1259" custom="readingOrder {index:24;}">
+                <Coords points="315,1725 1423,1725 1423,1771 315,1771"/>
+                <TextEquiv>
+                    <Unicode>dem sicut ipse per superbiam cecidit temptare cura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269316823_1262" custom="readingOrder {index:25;}">
+                <Coords points="1412,1778 315,1778 315,1825 1412,1825"/>
+                <TextEquiv>
+                    <Unicode>vit. Noverat enim hominem ad imaginem dei factum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269319189_1265" custom="readingOrder {index:26;}">
+                <Coords points="315,1835 1401,1835 1401,1882 315,1882"/>
+                <TextEquiv>
+                    <Unicode>ut suum factorem imitaretur eum in rectitudine qua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269321090_1268" custom="readingOrder {index:27;}">
+                <Coords points="1390,1896 305,1896 305,1956 1390,1956"/>
+                <TextEquiv>
+                    <Unicode>conditus fuit Hinc demon a deo apostans hominem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269326644_1274" custom="readingOrder {index:28;}">
+                <Coords points="319,1946 1390,1946 1390,2003 319,2003"/>
+                <TextEquiv>
+                    <Unicode>a dei imagine et ab hac deiformi imagine avertit et a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>et eternaliter genitus Et medium tercie reductionis est homo&#13;
+taliter conditus eternaliter genitus et in lumine verita&#13;
+tis superne intellectus visus secundum que supra allegatum&#13;
+est Hec est vita eterna terminus igitur in opere nature&#13;
+fuit homo conditus qui post lapsum per filium dei et eterna&#13;
+liter genitum et in nostra natura temporaliter natum iterum&#13;
+reductus et reparatus est et in suum reparatorem beatifice co&#13;
+gnitum finaliter beatificatus est et sue consummationis fe&#13;
+licem accipit finem. ¶ Sequitur minor. Cui resistet demo&#13;
+nis malicia quam vincit dei sapientia suaviter disponens&#13;
+omnia. Patet ex nomine suo quo Sathanas appellatus&#13;
+est. i. adversarius. quam omni bono adversatur. licet ipse&#13;
+a bono deo bonus factus. sed in veritate non stetit et suo&#13;
+creatori quodammodo equari voluit. Hinc ordinem a &#13;
+deo institutum turbare et pervertere nisus est. Fuit quidam&#13;
+creatura sub creatore posita quatenus sue bonitatis&#13;
+influxum indesinenter recipiens conservaret. Sed tumo&#13;
+re superbie a seipso depravatus se divine bonitatis influ&#13;
+xui subtraxit et ne homini communicaretur invidit dolore gra&#13;
+vissimo confectus super excellentiam hominis ad quam deo mi&#13;
+serante in supplementum angelice ruine vidit illum subli&#13;
+matum. In his igitur duabus maliciis superbia atque in&#13;
+vidia tota pravitas affectus angelici consistit que sui&#13;
+mali vestigia homini imprimere nititur quare et eun&#13;
+dem sicut ipse per superbiam cecidit temptare cura&#13;
+vit. Noverat enim hominem ad imaginem dei factum&#13;
+ut suum factorem imitaretur eum in rectitudine qua&#13;
+conditus fuit Hinc demon a deo apostans hominem&#13;
+a dei imagine et ab hac deiformi imagine avertit et a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

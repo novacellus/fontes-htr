@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-07-08T20:00:06.084+02:00</Created>
+        <LastChange>2022-12-11T18:01:26.090+01:00</LastChange>
+        <TranskribusMetadata docId="1069040" pageId="44103436" pageNr="414" tsid="91761599" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=PQCVHDCTSQHLZWELJNQPVIRU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBVPIWDQCKTAMUHWKVDBMILR" imageId="35910244"/>
+    </Metadata>
+    <Page imageFilename="413.jpg" imageWidth="1523" imageHeight="2283">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1670778086099" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1661702851082_354"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1661702851079_353"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1661702851082_354" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="343,169 1430,169 1430,612 343,612"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="353,235 406,231 459,227 512,223 565,220 619,217 672,215 725,213 778,211 831,210 885,209 938,208 991,207 1044,206 1097,206 1151,206 1204,206 1257,206 1310,206 1363,207 1417,207 1417,170 1363,170 1310,169 1257,169 1204,169 1151,169 1097,169 1044,169 991,170 938,171 885,172 831,173 778,174 725,176 672,178 619,180 565,183 512,186 459,190 406,194 353,198"/>
+                <Baseline points="353,223 406,219 459,215 512,211 565,208 619,205 672,203 725,201 778,199 831,198 885,197 938,196 991,195 1044,194 1097,194 1151,194 1204,194 1257,194 1310,194 1363,195 1417,195"/>
+                <TextEquiv>
+                    <Unicode>proprii verum est: si autem homo albus aut niger non est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="361,319 414,317 467,315 520,313 573,311 627,309 680,307 733,305 786,303 839,302 893,300 946,299 999,298 1052,298 1105,298 1159,298 1212,299 1265,300 1318,302 1371,304 1425,307 1425,270 1371,267 1318,265 1265,263 1212,262 1159,261 1105,261 1052,261 999,261 946,262 893,263 839,265 786,266 733,268 680,270 627,272 573,274 520,276 467,278 414,280 361,282"/>
+                <Baseline points="361,307 414,305 467,303 520,301 573,299 627,297 680,295 733,293 786,291 839,290 893,288 946,287 999,286 1052,286 1105,286 1159,286 1212,287 1265,288 1318,290 1371,292 1425,295"/>
+                <TextEquiv>
+                    <Unicode>verum super: sic autem se habent quocumque sine materia sunt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="369,410 422,409 475,409 528,408 581,406 634,405 687,404 740,402 793,401 846,400 899,398 952,397 1005,397 1058,396 1111,396 1164,395 1217,396 1270,396 1323,398 1376,399 1430,401 1430,364 1376,362 1323,361 1270,359 1217,359 1164,358 1111,359 1058,359 1005,360 952,360 899,361 846,363 793,364 740,365 687,367 634,368 581,369 528,371 475,372 422,372 369,373"/>
+                <Baseline points="369,398 422,397 475,397 528,396 581,394 634,393 687,392 740,390 793,389 846,388 899,386 952,385 1005,385 1058,384 1111,384 1164,383 1217,384 1270,384 1323,386 1376,387 1430,389"/>
+                <TextEquiv>
+                    <Unicode>Idem autem est secundum actum scientia rei: que vero secundum potentiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="361,505 416,504 472,503 528,502 583,501 639,499 695,497 751,496 806,494 862,493 918,491 974,490 1029,489 1085,488 1141,488 1197,487 1252,487 1308,488 1364,489 1420,490 1420,453 1364,452 1308,451 1252,450 1197,450 1141,451 1085,451 1029,452 974,453 918,454 862,456 806,457 751,459 695,460 639,462 583,464 528,465 472,466 416,467 361,468"/>
+                <Baseline points="361,493 416,492 472,491 528,490 583,489 639,487 695,485 751,484 806,482 862,481 918,479 974,478 1029,477 1085,476 1141,476 1197,475 1252,475 1308,476 1364,477 1420,478"/>
+                <TextEquiv>
+                    <Unicode>tempore prior est in vno omnino aut neque tempore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="364,594 410,594 457,594 504,593 550,592 597,591 644,590 690,589 737,588 784,586 831,585 877,584 924,583 971,582 1017,582 1064,581 1111,581 1157,581 1204,582 1251,583 1298,584 1298,547 1251,546 1204,545 1157,544 1111,544 1064,544 1017,545 971,545 924,546 877,547 831,548 784,549 737,551 690,552 644,553 597,554 550,555 504,556 457,557 410,557 364,557"/>
+                <Baseline points="364,582 410,582 457,582 504,581 550,580 597,579 644,578 690,577 737,576 784,574 831,573 877,572 924,571 971,570 1017,570 1064,569 1111,569 1157,569 1204,570 1251,571 1298,572"/>
+                <TextEquiv>
+                    <Unicode>fiunt enim ex actu ente omnia que fiunt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>proprii verum est: si autem homo albus aut niger non est&#13;
+verum super: sic autem se habent quocumque sine materia sunt.&#13;
+Idem autem est secundum actum scientia rei: que vero secundum potentiam&#13;
+tempore prior est in vno omnino aut neque tempore&#13;
+fiunt enim ex actu ente omnia que fiunt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1661702851079_353" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="343,612 1430,612 1430,1958 343,1958"/>
+            <TextLine id="r1l6" custom="readingOrder {index:0;} heading {offset:0; length:45;}">
+                <Coords points="356,686 409,685 462,683 515,682 568,681 621,679 674,678 727,677 780,676 833,675 887,674 940,673 993,672 1046,672 1099,671 1152,671 1205,671 1258,671 1311,671 1364,672 1418,673 1418,639 1364,638 1311,637 1258,637 1205,637 1152,637 1099,637 1046,638 993,638 940,639 887,640 833,641 780,642 727,643 674,644 621,645 568,647 515,648 462,649 409,651 356,652"/>
+                <Baseline points="356,675 409,674 462,672 515,671 568,670 621,668 674,667 727,666 780,665 833,664 887,663 940,662 993,661 1046,661 1099,660 1152,660 1205,660 1258,660 1311,660 1364,661 1418,662"/>
+                <TextEquiv>
+                    <Unicode>Utrum tamen due sunt operationes intellectus:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+                <Coords points="354,733 407,732 460,731 513,730 566,729 619,728 672,727 725,726 778,725 831,724 884,723 937,722 990,722 1043,721 1096,720 1149,720 1202,719 1255,719 1308,719 1361,719 1414,719 1414,686 1361,686 1308,686 1255,686 1202,686 1149,687 1096,687 1043,688 990,689 937,689 884,690 831,691 778,692 725,693 672,694 619,695 566,696 513,697 460,698 407,699 354,700"/>
+                <Baseline points="354,722 407,721 460,720 513,719 566,718 619,717 672,716 725,715 778,714 831,713 884,712 937,711 990,711 1043,710 1096,709 1149,709 1202,708 1255,708 1308,708 1361,708 1414,708"/>
+                <TextEquiv>
+                    <Unicode>simplicium intelligentia prima composito et divisio secunda. Pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="358,779 410,778 463,776 516,775 569,774 622,773 674,772 727,771 780,770 833,769 886,768 938,767 991,767 1044,766 1097,766 1150,765 1202,765 1255,764 1308,764 1361,764 1414,764 1414,731 1361,731 1308,731 1255,731 1202,732 1150,732 1097,733 1044,733 991,734 938,734 886,735 833,736 780,737 727,738 674,739 622,740 569,741 516,742 463,743 410,745 358,746"/>
+                <Baseline points="358,768 410,767 463,765 516,764 569,763 622,762 674,761 727,760 780,759 833,758 886,757 938,756 991,756 1044,755 1097,755 1150,754 1202,754 1255,753 1308,753 1361,753 1414,753"/>
+                <TextEquiv>
+                    <Unicode>huius questionis mote intelligentia. Notandum primo Ex indi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="352,825 405,823 458,822 511,821 564,820 617,818 670,818 723,817 776,816 829,815 883,814 936,813 989,813 1042,812 1095,812 1148,811 1201,811 1254,810 1307,810 1360,809 1414,809 1414,776 1360,776 1307,777 1254,777 1201,778 1148,778 1095,779 1042,779 989,780 936,780 883,781 829,782 776,783 723,784 670,785 617,785 564,787 511,788 458,789 405,790 352,792"/>
+                <Baseline points="352,814 405,812 458,811 511,810 564,809 617,807 670,807 723,806 776,805 829,804 883,803 936,802 989,802 1042,801 1095,801 1148,800 1201,800 1254,799 1307,799 1360,798 1414,798"/>
+                <TextEquiv>
+                    <Unicode>visibile secundum Aristotelem capitur tripliciter sicut unum. Primo ali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="360,869 412,868 465,867 518,867 571,866 624,865 677,863 729,863 782,861 835,860 888,859 941,859 994,858 1047,857 1099,856 1152,856 1205,855 1258,855 1311,855 1364,855 1417,855 1417,822 1364,822 1311,822 1258,822 1205,822 1152,823 1099,823 1047,824 994,825 941,826 888,826 835,827 782,828 729,830 677,830 624,832 571,833 518,834 465,834 412,835 360,836"/>
+                <Baseline points="360,858 412,857 465,856 518,856 571,855 624,854 677,852 729,852 782,850 835,849 888,848 941,848 994,847 1047,846 1099,845 1152,845 1205,844 1258,844 1311,844 1364,844 1417,844"/>
+                <TextEquiv>
+                    <Unicode>quid dicitur indiuisibile sicut continuum quod sicut actu non est divisum potentia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="354,914 407,913 460,912 513,911 566,910 619,909 672,908 725,907 778,906 831,905 884,904 937,904 990,903 1043,902 1096,902 1149,901 1202,901 1255,900 1308,900 1361,899 1415,899 1415,868 1361,868 1308,869 1255,869 1202,870 1149,870 1096,871 1043,871 990,872 937,873 884,873 831,874 778,875 725,876 672,877 619,878 566,879 513,880 460,881 407,882 354,883"/>
+                <Baseline points="354,904 407,903 460,902 513,901 566,900 619,899 672,898 725,897 778,896 831,895 884,894 937,894 990,893 1043,892 1096,892 1149,891 1202,891 1255,890 1308,890 1361,889 1415,889"/>
+                <TextEquiv>
+                    <Unicode>tamen est divisibile ut enim dicitur. iii. phisicorum. Continuum est unum in ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="354,958 406,957 459,956 512,955 565,954 618,953 671,953 723,952 776,951 829,950 882,950 935,949 988,948 1041,948 1093,947 1146,947 1199,946 1252,945 1305,945 1358,944 1411,943 1411,912 1358,913 1305,914 1252,914 1199,915 1146,916 1093,916 1041,917 988,917 935,918 882,919 829,919 776,920 723,921 671,922 618,922 565,923 512,924 459,925 406,926 354,927"/>
+                <Baseline points="354,948 406,947 459,946 512,945 565,944 618,943 671,943 723,942 776,941 829,940 882,940 935,939 988,938 1041,938 1093,937 1146,937 1199,936 1252,935 1305,935 1358,934 1411,933"/>
+                <TextEquiv>
+                    <Unicode>tu et secundum se sed est multa in potentia. illa autem potentia ducitur in actum per divi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="356,1003 408,1002 461,1001 514,1001 566,1000 619,999 672,998 724,998 777,997 830,996 883,996 935,995 988,995 1041,994 1093,994 1146,993 1199,993 1251,993 1304,992 1357,992 1410,991 1410,958 1357,959 1304,959 1251,960 1199,960 1146,960 1093,961 1041,961 988,962 935,962 883,963 830,963 777,964 724,965 672,965 619,966 566,967 514,968 461,968 408,969 356,970"/>
+                <Baseline points="356,992 408,991 461,990 514,990 566,989 619,988 672,987 724,987 777,986 830,985 883,985 935,984 988,984 1041,983 1093,983 1146,982 1199,982 1251,982 1304,981 1357,981 1410,980"/>
+                <TextEquiv>
+                    <Unicode>sionem illius ergo indivisibilis est unus intellectus indivisibilis etiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="356,1049 408,1048 460,1047 512,1046 565,1045 617,1045 669,1044 721,1044 774,1043 826,1042 878,1042 930,1041 983,1041 1035,1040 1087,1040 1139,1039 1192,1039 1244,1038 1296,1037 1348,1037 1401,1036 1401,1003 1348,1004 1296,1004 1244,1005 1192,1006 1139,1006 1087,1007 1035,1007 983,1008 930,1008 878,1009 826,1009 774,1010 721,1011 669,1011 617,1012 565,1012 512,1013 460,1014 408,1015 356,1016"/>
+                <Baseline points="356,1038 408,1037 460,1036 512,1035 565,1034 617,1034 669,1033 721,1033 774,1032 826,1031 878,1031 930,1030 983,1030 1035,1029 1087,1029 1139,1028 1192,1028 1244,1027 1296,1026 1348,1026 1401,1025"/>
+                <TextEquiv>
+                    <Unicode>secundum tempus ut dicitur in textu. primo enim intelligimus continuum ut vnum et indivi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="358,1093 412,1093 467,1092 522,1092 576,1091 631,1091 686,1090 740,1089 795,1089 850,1088 904,1087 959,1087 1014,1086 1068,1085 1123,1085 1178,1084 1232,1084 1287,1083 1342,1083 1397,1082 1397,1049 1342,1050 1287,1050 1232,1051 1178,1051 1123,1052 1068,1052 1014,1053 959,1054 904,1054 850,1055 795,1056 740,1056 686,1057 631,1058 576,1058 522,1059 467,1059 412,1060 358,1060"/>
+                <Baseline points="358,1082 412,1082 467,1081 522,1081 576,1080 631,1080 686,1079 740,1078 795,1078 850,1077 904,1076 959,1076 1014,1075 1068,1074 1123,1074 1178,1073 1232,1073 1287,1072 1342,1072 1397,1071"/>
+                <TextEquiv>
+                    <Unicode>sibile postea eius pars discernimus et apprehendimus. Secundo dicitur aliquid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="349,1139 401,1139 454,1138 506,1137 559,1137 612,1136 664,1136 717,1135 769,1135 822,1134 875,1134 927,1133 980,1133 1032,1133 1085,1132 1138,1132 1190,1132 1243,1132 1295,1132 1348,1132 1401,1132 1401,1099 1348,1099 1295,1099 1243,1099 1190,1099 1138,1099 1085,1099 1032,1100 980,1100 927,1100 875,1101 822,1101 769,1102 717,1102 664,1103 612,1103 559,1104 506,1104 454,1105 401,1106 349,1106"/>
+                <Baseline points="349,1128 401,1128 454,1127 506,1126 559,1126 612,1125 664,1125 717,1124 769,1124 822,1123 875,1123 927,1122 980,1122 1032,1122 1085,1121 1138,1121 1190,1121 1243,1121 1295,1121 1348,1121 1401,1121"/>
+                <TextEquiv>
+                    <Unicode>indivisibile secundum speciem etiam si non sit continuum. ut homo. unus et species apud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:11;}">
+                <Coords points="353,1185 406,1185 459,1185 512,1185 565,1184 618,1184 671,1183 724,1182 777,1182 830,1181 884,1180 937,1179 990,1178 1043,1178 1096,1177 1149,1177 1202,1176 1255,1176 1308,1176 1361,1176 1415,1177 1415,1144 1361,1143 1308,1143 1255,1143 1202,1143 1149,1144 1096,1144 1043,1145 990,1145 937,1146 884,1147 830,1148 777,1149 724,1149 671,1150 618,1151 565,1151 512,1152 459,1152 406,1152 353,1152"/>
+                <Baseline points="353,1174 406,1174 459,1174 512,1174 565,1173 618,1173 671,1172 724,1171 777,1171 830,1170 884,1169 937,1168 990,1167 1043,1167 1096,1166 1149,1166 1202,1165 1255,1165 1308,1165 1361,1165 1415,1166"/>
+                <TextEquiv>
+                    <Unicode>Aristo. in phlosophias sepe dicitur athomum quasi indivisibile ab a quod est sine et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;}">
+                <Coords points="353,1229 405,1229 458,1229 511,1229 564,1228 617,1228 669,1227 722,1227 775,1226 828,1225 881,1225 933,1224 986,1223 1039,1223 1092,1222 1145,1221 1197,1221 1250,1221 1303,1220 1356,1220 1409,1220 1409,1189 1356,1189 1303,1189 1250,1190 1197,1190 1145,1190 1092,1191 1039,1192 986,1192 933,1193 881,1194 828,1194 775,1195 722,1196 669,1196 617,1197 564,1197 511,1198 458,1198 405,1198 353,1198"/>
+                <Baseline points="353,1219 405,1219 458,1219 511,1219 564,1218 617,1218 669,1217 722,1217 775,1216 828,1215 881,1215 933,1214 986,1213 1039,1213 1092,1212 1145,1211 1197,1211 1250,1211 1303,1210 1356,1210 1409,1210"/>
+                <TextEquiv>
+                    <Unicode>thomos divisio quasi sine divisione non enim dividitur species formaliter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="359,1275 411,1275 464,1275 516,1275 569,1274 622,1274 674,1273 727,1273 779,1272 832,1271 885,1271 937,1270 990,1269 1042,1269 1095,1268 1148,1268 1200,1267 1253,1267 1305,1266 1358,1266 1411,1266 1411,1235 1358,1235 1305,1235 1253,1236 1200,1236 1148,1237 1095,1237 1042,1238 990,1238 937,1239 885,1240 832,1240 779,1241 727,1242 674,1242 622,1243 569,1243 516,1244 464,1244 411,1244 359,1244"/>
+                <Baseline points="359,1265 411,1265 464,1265 516,1265 569,1264 622,1264 674,1263 727,1263 779,1262 832,1261 885,1261 937,1260 990,1259 1042,1259 1095,1258 1148,1258 1200,1257 1253,1257 1305,1256 1358,1256 1411,1256"/>
+                <TextEquiv>
+                    <Unicode>talis enim divisio fit per differentias oppositas quas species non habet sed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;}">
+                <Coords points="353,1320 405,1320 458,1320 510,1320 563,1320 616,1319 668,1319 721,1318 773,1318 826,1317 879,1316 931,1315 984,1315 1036,1314 1089,1313 1142,1312 1194,1311 1247,1310 1299,1310 1352,1309 1405,1309 1405,1278 1352,1278 1299,1279 1247,1279 1194,1280 1142,1281 1089,1282 1036,1283 984,1284 931,1284 879,1285 826,1286 773,1287 721,1287 668,1288 616,1288 563,1289 510,1289 458,1289 405,1289 353,1289"/>
+                <Baseline points="353,1310 405,1310 458,1310 510,1310 563,1310 616,1309 668,1309 721,1308 773,1308 826,1307 879,1306 931,1305 984,1305 1036,1304 1089,1303 1142,1302 1194,1301 1247,1300 1299,1300 1352,1299 1405,1299"/>
+                <TextEquiv>
+                    <Unicode>dividitur tamen materialiter per portiones materie et conditiones et circumstanti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;}">
+                <Coords points="355,1365 407,1366 460,1366 513,1366 566,1365 619,1365 671,1365 724,1364 777,1364 830,1363 883,1362 935,1362 988,1361 1041,1360 1094,1360 1147,1359 1199,1358 1252,1357 1305,1357 1358,1356 1411,1356 1411,1323 1358,1323 1305,1324 1252,1324 1199,1325 1147,1326 1094,1327 1041,1327 988,1328 935,1329 883,1329 830,1330 777,1331 724,1331 671,1332 619,1332 566,1332 513,1333 460,1333 407,1333 355,1332"/>
+                <Baseline points="355,1354 407,1355 460,1355 513,1355 566,1354 619,1354 671,1354 724,1353 777,1353 830,1352 883,1351 935,1351 988,1350 1041,1349 1094,1349 1147,1348 1199,1347 1252,1346 1305,1346 1358,1345 1411,1345"/>
+                <TextEquiv>
+                    <Unicode>as individuales et tale indivisibile enim prius intelligitur quam eius pars. dicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:16;}">
+                <Coords points="353,1409 405,1410 458,1410 511,1410 563,1410 616,1410 669,1409 721,1409 774,1408 827,1408 880,1407 932,1406 985,1405 1038,1405 1090,1404 1143,1403 1196,1403 1248,1402 1301,1402 1354,1401 1407,1401 1407,1371 1354,1371 1301,1372 1248,1372 1196,1373 1143,1373 1090,1374 1038,1375 985,1375 932,1376 880,1377 827,1378 774,1378 721,1379 669,1379 616,1380 563,1380 511,1380 458,1380 405,1380 353,1379"/>
+                <Baseline points="353,1399 405,1400 458,1400 511,1400 563,1400 616,1400 669,1399 721,1399 774,1398 827,1398 880,1397 932,1396 985,1395 1038,1395 1090,1394 1143,1393 1196,1393 1248,1392 1301,1392 1354,1391 1407,1391"/>
+                <TextEquiv>
+                    <Unicode>enim nono methaphisicorum. contingit intelligere hominem preter hunc hominem. Tertio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:17;}">
+                <Coords points="349,1451 402,1453 455,1454 508,1454 561,1455 615,1455 668,1455 721,1455 774,1454 827,1454 881,1453 934,1452 987,1451 1040,1451 1093,1450 1147,1449 1200,1448 1253,1448 1306,1448 1359,1448 1413,1448 1413,1418 1359,1418 1306,1418 1253,1418 1200,1418 1147,1419 1093,1420 1040,1421 987,1421 934,1422 881,1423 827,1424 774,1424 721,1425 668,1425 615,1425 561,1425 508,1424 455,1424 402,1423 349,1421"/>
+                <Baseline points="349,1441 402,1443 455,1444 508,1444 561,1445 615,1445 668,1445 721,1445 774,1444 827,1444 881,1443 934,1442 987,1441 1040,1441 1093,1440 1147,1439 1200,1438 1253,1438 1306,1438 1359,1438 1413,1438"/>
+                <TextEquiv>
+                    <Unicode>dicitur indivisibile simpliciter quod sicut non habet partes in quas divideretur et sic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:18;}">
+                <Coords points="349,1499 401,1500 454,1500 507,1500 560,1500 613,1500 666,1500 718,1499 771,1499 824,1498 877,1498 930,1497 983,1496 1036,1496 1088,1495 1141,1494 1194,1494 1247,1493 1300,1493 1353,1493 1406,1493 1406,1462 1353,1462 1300,1462 1247,1462 1194,1463 1141,1463 1088,1464 1036,1465 983,1465 930,1466 877,1467 824,1467 771,1468 718,1468 666,1469 613,1469 560,1469 507,1469 454,1469 401,1469 349,1468"/>
+                <Baseline points="349,1489 401,1490 454,1490 507,1490 560,1490 613,1490 666,1490 718,1489 771,1489 824,1488 877,1488 930,1487 983,1486 1036,1486 1088,1485 1141,1484 1194,1484 1247,1483 1300,1483 1353,1483 1406,1483"/>
+                <TextEquiv>
+                    <Unicode>punctus vel veritas dicitur indivisibilis. dicit enim Euclides punctus est cuius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:19;}">
+                <Coords points="349,1545 402,1546 455,1546 508,1546 561,1546 614,1546 667,1546 721,1545 774,1545 827,1544 880,1544 933,1543 986,1543 1039,1542 1093,1542 1146,1541 1199,1541 1252,1541 1305,1540 1358,1540 1412,1541 1412,1508 1358,1507 1305,1507 1252,1508 1199,1508 1146,1508 1093,1509 1039,1509 986,1510 933,1510 880,1511 827,1511 774,1512 721,1512 667,1513 614,1513 561,1513 508,1513 455,1513 402,1513 349,1512"/>
+                <Baseline points="349,1534 402,1535 455,1535 508,1535 561,1535 614,1535 667,1535 721,1534 774,1534 827,1533 880,1533 933,1532 986,1532 1039,1531 1093,1531 1146,1530 1199,1530 1252,1530 1305,1529 1358,1529 1412,1530"/>
+                <TextEquiv>
+                    <Unicode>pars non est et tale indivisibile non intelligimus primo sed ipsum cognosci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:20;}">
+                <Coords points="351,1588 404,1589 457,1589 511,1590 564,1590 617,1590 671,1590 724,1590 777,1589 831,1589 884,1589 937,1588 991,1588 1044,1587 1097,1587 1151,1586 1204,1586 1257,1586 1311,1586 1364,1586 1418,1587 1418,1556 1364,1555 1311,1555 1257,1555 1204,1555 1151,1555 1097,1556 1044,1556 991,1557 937,1557 884,1558 831,1558 777,1558 724,1559 671,1559 617,1559 564,1559 511,1559 457,1558 404,1558 351,1557"/>
+                <Baseline points="351,1578 404,1579 457,1579 511,1580 564,1580 617,1580 671,1580 724,1580 777,1579 831,1579 884,1579 937,1578 991,1578 1044,1577 1097,1577 1151,1576 1204,1576 1257,1576 1311,1576 1364,1576 1418,1577"/>
+                <TextEquiv>
+                    <Unicode>mus per abnegationem divisibilium quemadmodum in privative oppositis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:21;}">
+                <Coords points="349,1633 402,1634 455,1635 508,1636 562,1636 615,1637 668,1637 722,1637 775,1636 828,1636 882,1636 935,1635 988,1634 1041,1634 1095,1633 1148,1632 1201,1632 1255,1631 1308,1630 1361,1630 1415,1630 1415,1599 1361,1599 1308,1599 1255,1600 1201,1601 1148,1601 1095,1602 1041,1603 988,1603 935,1604 882,1605 828,1605 775,1605 722,1606 668,1606 615,1606 562,1605 508,1605 455,1604 402,1603 349,1602"/>
+                <Baseline points="349,1623 402,1624 455,1625 508,1626 562,1626 615,1627 668,1627 722,1627 775,1626 828,1626 882,1626 935,1625 988,1624 1041,1624 1095,1623 1148,1622 1201,1622 1255,1621 1308,1620 1361,1620 1415,1620"/>
+                <TextEquiv>
+                    <Unicode>cognoscimus unum privativorum per speciem alterius quomodo etiam cognos-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:22;}">
+                <Coords points="351,1682 404,1683 458,1683 511,1683 565,1683 618,1684 672,1683 725,1683 779,1683 832,1683 886,1682 940,1682 993,1681 1047,1680 1100,1680 1154,1679 1207,1678 1261,1678 1314,1677 1368,1677 1422,1676 1422,1643 1368,1644 1314,1644 1261,1645 1207,1645 1154,1646 1100,1647 1047,1647 993,1648 940,1649 886,1649 832,1650 779,1650 725,1650 672,1650 618,1651 565,1650 511,1650 458,1650 404,1650 351,1649"/>
+                <Baseline points="351,1671 404,1672 458,1672 511,1672 565,1672 618,1673 672,1672 725,1672 779,1672 832,1672 886,1671 940,1671 993,1670 1047,1669 1100,1669 1154,1668 1207,1667 1261,1667 1314,1666 1368,1666 1422,1665"/>
+                <TextEquiv>
+                    <Unicode>cimus illa divina separata quid enim deus sit ignoramus quid autem non sit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:23;}">
+                <Coords points="355,1728 408,1728 461,1729 514,1729 568,1729 621,1729 674,1729 727,1729 781,1729 834,1728 887,1727 940,1727 994,1726 1047,1726 1100,1725 1153,1725 1207,1724 1260,1724 1313,1723 1366,1723 1420,1723 1420,1690 1366,1690 1313,1690 1260,1691 1207,1691 1153,1692 1100,1692 1047,1693 994,1693 940,1694 887,1694 834,1695 781,1696 727,1696 674,1696 621,1696 568,1696 514,1696 461,1696 408,1695 355,1695"/>
+                <Baseline points="355,1717 408,1717 461,1718 514,1718 568,1718 621,1718 674,1718 727,1718 781,1718 834,1717 887,1716 940,1716 994,1715 1047,1715 1100,1714 1153,1714 1207,1713 1260,1713 1313,1712 1366,1712 1420,1712"/>
+                <TextEquiv>
+                    <Unicode>intelligimus. Recte ergo dixit Dyonisius que affirmationes de deo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:24;}">
+                <Coords points="345,1773 398,1774 451,1774 504,1774 557,1774 610,1775 663,1775 717,1775 770,1774 823,1774 876,1774 929,1774 982,1773 1035,1773 1089,1772 1142,1772 1195,1771 1248,1771 1301,1770 1354,1769 1408,1769 1408,1736 1354,1736 1301,1737 1248,1738 1195,1738 1142,1739 1089,1739 1035,1740 982,1740 929,1741 876,1741 823,1741 770,1741 717,1742 663,1742 610,1742 557,1741 504,1741 451,1741 398,1741 345,1740"/>
+                <Baseline points="345,1762 398,1763 451,1763 504,1763 557,1763 610,1764 663,1764 717,1764 770,1763 823,1763 876,1763 929,1763 982,1762 1035,1762 1089,1761 1142,1761 1195,1760 1248,1760 1301,1759 1354,1758 1408,1758"/>
+                <TextEquiv>
+                    <Unicode>sunt incompacte id est non firme et proprie negatoiones autem de deo sunt plus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:25;}">
+                <Coords points="354,1818 407,1818 460,1819 513,1819 566,1819 620,1819 673,1819 726,1819 779,1819 832,1818 886,1818 939,1817 992,1817 1045,1816 1098,1816 1152,1815 1205,1815 1258,1815 1311,1815 1364,1815 1418,1815 1418,1784 1364,1784 1311,1784 1258,1784 1205,1784 1152,1784 1098,1785 1045,1785 992,1786 939,1786 886,1787 832,1787 779,1788 726,1788 673,1788 620,1788 566,1788 513,1788 460,1788 407,1787 354,1787"/>
+                <Baseline points="354,1808 407,1808 460,1809 513,1809 566,1809 620,1809 673,1809 726,1809 779,1809 832,1808 886,1808 939,1807 992,1807 1045,1806 1098,1806 1152,1805 1205,1805 1258,1805 1311,1805 1364,1805 1418,1805"/>
+                <TextEquiv>
+                    <Unicode>certe et vere omnia ergo que transcendunt sensum intelligimus per abnegationem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:26;}">
+                <Coords points="352,1863 404,1863 457,1863 509,1864 562,1864 615,1864 667,1864 720,1864 772,1864 825,1864 878,1864 930,1864 983,1863 1035,1863 1088,1862 1141,1862 1193,1861 1246,1860 1298,1859 1351,1858 1404,1858 1404,1827 1351,1827 1298,1828 1246,1829 1193,1830 1141,1831 1088,1831 1035,1832 983,1832 930,1833 878,1833 825,1833 772,1833 720,1833 667,1833 615,1833 562,1833 509,1833 457,1832 404,1832 352,1832"/>
+                <Baseline points="352,1853 404,1853 457,1853 509,1854 562,1854 615,1854 667,1854 720,1854 772,1854 825,1854 878,1854 930,1854 983,1853 1035,1853 1088,1852 1141,1852 1193,1851 1246,1850 1298,1849 1351,1848 1404,1848"/>
+                <TextEquiv>
+                    <Unicode>sensibilium. nostra enim cognitio incipit a sensu uno et de separatis dicimus que sunt in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:27;}">
+                <Coords points="350,1907 403,1907 456,1908 509,1908 563,1909 616,1909 669,1910 722,1910 776,1910 829,1911 882,1911 935,1911 989,1911 1042,1911 1095,1911 1148,1910 1202,1909 1255,1908 1308,1907 1361,1906 1415,1903 1415,1872 1361,1875 1308,1876 1255,1877 1202,1878 1148,1879 1095,1880 1042,1880 989,1880 935,1880 882,1880 829,1880 776,1879 722,1879 669,1879 616,1878 563,1878 509,1877 456,1877 403,1876 350,1876"/>
+                <Baseline points="350,1897 403,1897 456,1898 509,1898 563,1899 616,1899 669,1900 722,1900 776,1900 829,1901 882,1901 935,1901 989,1901 1042,1901 1095,1901 1148,1900 1202,1899 1255,1898 1308,1897 1361,1896 1415,1893"/>
+                <TextEquiv>
+                    <Unicode>materialia incorruptibilia incorporea abnegando ab eis proprietates</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:28;}">
+                <Coords points="343,1954 372,1954 401,1955 430,1955 459,1956 489,1956 518,1956 547,1957 576,1957 605,1957 635,1957 664,1957 693,1958 722,1958 751,1958 781,1958 810,1958 839,1958 868,1958 897,1958 927,1958 927,1924 897,1924 868,1924 839,1924 810,1924 781,1924 751,1924 722,1924 693,1924 664,1923 635,1923 605,1923 576,1923 547,1923 518,1922 489,1922 459,1922 430,1921 401,1921 372,1920 343,1920"/>
+                <Baseline points="343,1943 372,1943 401,1944 430,1944 459,1945 489,1945 518,1945 547,1946 576,1946 605,1946 635,1946 664,1946 693,1947 722,1947 751,1947 781,1947 810,1947 839,1947 868,1947 897,1947 927,1947"/>
+                <TextEquiv>
+                    <Unicode>rerum materialium et sensibilium.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Utrum tamen due sunt operationes intellectus:&#13;
+simplicium intelligentia prima composito et divisio secunda. Pro&#13;
+huius questionis mote intelligentia. Notandum primo Ex indi-&#13;
+visibile secundum Aristotelem capitur tripliciter sicut unum. Primo ali&#13;
+quid dicitur indiuisibile sicut continuum quod sicut actu non est divisum potentia&#13;
+tamen est divisibile ut enim dicitur. iii. phisicorum. Continuum est unum in ac&#13;
+tu et secundum se sed est multa in potentia. illa autem potentia ducitur in actum per divi&#13;
+sionem illius ergo indivisibilis est unus intellectus indivisibilis etiam&#13;
+secundum tempus ut dicitur in textu. primo enim intelligimus continuum ut vnum et indivi&#13;
+sibile postea eius pars discernimus et apprehendimus. Secundo dicitur aliquid&#13;
+indivisibile secundum speciem etiam si non sit continuum. ut homo. unus et species apud&#13;
+Aristo. in phlosophias sepe dicitur athomum quasi indivisibile ab a quod est sine et&#13;
+thomos divisio quasi sine divisione non enim dividitur species formaliter&#13;
+talis enim divisio fit per differentias oppositas quas species non habet sed&#13;
+dividitur tamen materialiter per portiones materie et conditiones et circumstanti&#13;
+as individuales et tale indivisibile enim prius intelligitur quam eius pars. dicit&#13;
+enim nono methaphisicorum. contingit intelligere hominem preter hunc hominem. Tertio&#13;
+dicitur indivisibile simpliciter quod sicut non habet partes in quas divideretur et sic&#13;
+punctus vel veritas dicitur indivisibilis. dicit enim Euclides punctus est cuius&#13;
+pars non est et tale indivisibile non intelligimus primo sed ipsum cognosci&#13;
+mus per abnegationem divisibilium quemadmodum in privative oppositis&#13;
+cognoscimus unum privativorum per speciem alterius quomodo etiam cognos-&#13;
+cimus illa divina separata quid enim deus sit ignoramus quid autem non sit&#13;
+intelligimus. Recte ergo dixit Dyonisius que affirmationes de deo&#13;
+sunt incompacte id est non firme et proprie negatoiones autem de deo sunt plus&#13;
+certe et vere omnia ergo que transcendunt sensum intelligimus per abnegationem&#13;
+sensibilium. nostra enim cognitio incipit a sensu uno et de separatis dicimus que sunt in&#13;
+materialia incorruptibilia incorporea abnegando ab eis proprietates&#13;
+rerum materialium et sensibilium.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

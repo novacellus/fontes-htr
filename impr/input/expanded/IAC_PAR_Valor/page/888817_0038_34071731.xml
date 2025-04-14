@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.846+01:00</Created>
+        <LastChange>2022-12-16T17:03:44.317+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071731" pageNr="38" tsid="73003457" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=ECOSDZAINJPIFMVXCLWQNXJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TARGHIIUWDJYBXIWXWXMMINN" imageId="27321075"/>
+    </Metadata>
+    <Page imageFilename="888817_0038_34071731.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671206624348" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642269427605_1376"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1642269427605_1376" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="401,308 1633,308 1633,2056 401,2056"/>
+            <TextLine id="line_1642269435829_1380" custom="readingOrder {index:0;}">
+                <Coords points="422,319 1554,319 1554,387 422,387"/>
+                <TextEquiv>
+                    <Unicode>per mititatem et mansuetudinem non aut nutrire per iram. Utitur per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269439481_1383" custom="readingOrder {index:1;}">
+                <Coords points="1540,397 419,397 419,429 1540,429"/>
+                <TextEquiv>
+                    <Unicode>accidiam coniugatonibus inutilibus per evagationem mentis que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269441492_1386" custom="readingOrder {index:2;}">
+                <Coords points="422,436 1551,436 1551,490 422,490"/>
+                <TextEquiv>
+                    <Unicode>abundant in fallacia accidentis. Utitur ad avariciam falla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269443951_1389" custom="readingOrder {index:3;}">
+                <Coords points="1551,504 419,504 419,554 1551,554"/>
+                <TextEquiv>
+                    <Unicode>cia secundum plures interrogationes ut unam dum ad omnes ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269446088_1392" custom="readingOrder {index:4;}">
+                <Coords points="426,572 1544,572 1544,611 426,611"/>
+                <TextEquiv>
+                    <Unicode>cessitates humanas sublevandas dicit sufficere aggre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269448561_1395" custom="readingOrder {index:5;}">
+                <Coords points="1536,618 426,618 426,661 1536,661"/>
+                <TextEquiv>
+                    <Unicode>gare pecunias que frequenter afferunt plures indigentias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269450904_1398" custom="readingOrder {index:6;}">
+                <Coords points="429,682 1558,682 1558,732 429,732"/>
+                <TextEquiv>
+                    <Unicode>et que plura habet pluribus indiget. Utitur ad gulam falla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269454771_1401" custom="readingOrder {index:7;}">
+                <Coords points="1490,764 433,764 433,789 1490,789"/>
+                <TextEquiv>
+                    <Unicode>cia secundum quod ad simpliciter sic arguens. Istud est dele-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269456596_1404" custom="readingOrder {index:8;}">
+                <Coords points="433,799 1540,799 1540,856 433,856"/>
+                <TextEquiv>
+                    <Unicode>ctabile et bonum gule igitur est simplicitet eligendum. Utitur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269458519_1407" custom="readingOrder {index:9;}">
+                <Coords points="1544,878 419,878 419,917 1544,917"/>
+                <TextEquiv>
+                    <Unicode>tandem ad luxuriam fallacia ista et altera et non coniungun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269461099_1410" custom="readingOrder {index:10;}">
+                <Coords points="429,931 1544,931 1544,985 429,985"/>
+                <TextEquiv>
+                    <Unicode>tur extremitates convenienti medio. Fallaciam quoque pro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269463398_1413" custom="readingOrder {index:11;}">
+                <Coords points="1540,992 419,992 419,1034 1540,1034"/>
+                <TextEquiv>
+                    <Unicode>ponit consequentis sic arguens. Generatio filiorum est bona.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269465315_1416" custom="readingOrder {index:12;}">
+                <Coords points="440,1049 1544,1049 1544,1088 440,1088"/>
+                <TextEquiv>
+                    <Unicode>ergo cessatio a generatione est mala. Per argumentum a con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269467191_1419" custom="readingOrder {index:13;}">
+                <Coords points="1540,1098 422,1098 422,1141 1540,1141"/>
+                <TextEquiv>
+                    <Unicode>trario sensu quod fit ab opposito antecedentis ad oppo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269469627_1422" custom="readingOrder {index:14;}">
+                <Coords points="454,1163 1533,1163 1533,1216 454,1216"/>
+                <TextEquiv>
+                    <Unicode>situm consequentis. Possentque circa singulas fallacias mo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269471669_1425" custom="readingOrder {index:15;}">
+                <Coords points="1533,1237 426,1237 426,1266 1533,1266"/>
+                <TextEquiv>
+                    <Unicode>di paralogismorum in temptationibus demoniacis fingi quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269473907_1428" custom="readingOrder {index:16;}">
+                <Coords points="426,1284 1529,1284 1529,1326 426,1326"/>
+                <TextEquiv>
+                    <Unicode>studiosis relinquo. Sed notandum que dixi dei sapientiam non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269475698_1431" custom="readingOrder {index:17;}">
+                <Coords points="1529,1337 429,1337 429,1376 1529,1376"/>
+                <TextEquiv>
+                    <Unicode>nostram vincere. et demon adhuc habens limpida natura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269477478_1434" custom="readingOrder {index:18;}">
+                <Coords points="433,1397 1547,1397 1547,1437 433,1437"/>
+                <TextEquiv>
+                    <Unicode>lia quibus abutitur in malum est nobis astutior mille habens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269479635_1437" custom="readingOrder {index:19;}">
+                <Coords points="1547,1458 415,1458 415,1497 1547,1497"/>
+                <TextEquiv>
+                    <Unicode>nocendi artes. Est eciam potentior et ex sua superbia presu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269482367_1440" custom="readingOrder {index:20;}">
+                <Coords points="415,1501 1529,1501 1529,1572 415,1572"/>
+                <TextEquiv>
+                    <Unicode>mens aggreditur. Contra quam humilitate radicati nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269484555_1443" custom="readingOrder {index:21;}">
+                <Coords points="1533,1593 412,1593 412,1622 1533,1622"/>
+                <TextEquiv>
+                    <Unicode>protectioni divine committamus. Divina igitur vir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269487006_1446" custom="readingOrder {index:22;}">
+                <Coords points="433,1636 1529,1636 1529,1689 433,1689"/>
+                <TextEquiv>
+                    <Unicode>tute cum hic potissimum aggrediendum est. quam proprie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269488810_1449" custom="readingOrder {index:23;}">
+                <Coords points="1515,1704 422,1704 422,1721 1515,1721"/>
+                <TextEquiv>
+                    <Unicode>meretur infirmitatis cognitio. et humilitas que sola la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269490717_1452" custom="readingOrder {index:24;}">
+                <Coords points="422,1736 1512,1736 1512,1785 422,1785"/>
+                <TextEquiv>
+                    <Unicode>queos evadere possit: ut legitur de beato anthonio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269492680_1455" custom="readingOrder {index:25;}">
+                <Coords points="1515,1807 444,1807 444,1839 1515,1839"/>
+                <TextEquiv>
+                    <Unicode>Huius exemplum legitur in libro regum de iosaphat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269494597_1458" custom="readingOrder {index:26;}">
+                <Coords points="444,1853 1526,1853 1526,1899 444,1899"/>
+                <TextEquiv>
+                    <Unicode>qui videns hostium multitudinem infirmum se co-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269497048_1461" custom="readingOrder {index:27;}">
+                <Coords points="1522,1939 415,1939 415,1967 1522,1967"/>
+                <TextEquiv>
+                    <Unicode>ram deo fatetur: et se totum convertens ad domi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269499269_1464" custom="readingOrder {index:28;}">
+                <Coords points="412,1978 1558,1978 1558,2031 412,2031"/>
+                <TextEquiv>
+                    <Unicode>num invocauit et prevaluit ex hoc et precedentibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>per mititatem et mansuetudinem non aut nutrire per iram. Utitur per&#13;
+accidiam coniugatonibus inutilibus per evagationem mentis que&#13;
+abundant in fallacia accidentis. Utitur ad avariciam falla&#13;
+cia secundum plures interrogationes ut unam dum ad omnes ne&#13;
+cessitates humanas sublevandas dicit sufficere aggre&#13;
+gare pecunias que frequenter afferunt plures indigentias&#13;
+et que plura habet pluribus indiget. Utitur ad gulam falla&#13;
+cia secundum quod ad simpliciter sic arguens. Istud est dele-&#13;
+ctabile et bonum gule igitur est simplicitet eligendum. Utitur&#13;
+tandem ad luxuriam fallacia ista et altera et non coniungun&#13;
+tur extremitates convenienti medio. Fallaciam quoque pro-&#13;
+ponit consequentis sic arguens. Generatio filiorum est bona.&#13;
+ergo cessatio a generatione est mala. Per argumentum a con&#13;
+trario sensu quod fit ab opposito antecedentis ad oppo&#13;
+situm consequentis. Possentque circa singulas fallacias mo&#13;
+di paralogismorum in temptationibus demoniacis fingi quod&#13;
+studiosis relinquo. Sed notandum que dixi dei sapientiam non&#13;
+nostram vincere. et demon adhuc habens limpida natura&#13;
+lia quibus abutitur in malum est nobis astutior mille habens&#13;
+nocendi artes. Est eciam potentior et ex sua superbia presu-&#13;
+mens aggreditur. Contra quam humilitate radicati nos&#13;
+protectioni divine committamus. Divina igitur vir&#13;
+tute cum hic potissimum aggrediendum est. quam proprie&#13;
+meretur infirmitatis cognitio. et humilitas que sola la&#13;
+queos evadere possit: ut legitur de beato anthonio.&#13;
+Huius exemplum legitur in libro regum de iosaphat.&#13;
+qui videns hostium multitudinem infirmum se co-&#13;
+ram deo fatetur: et se totum convertens ad domi-&#13;
+num invocauit et prevaluit ex hoc et precedentibus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.588+01:00</Created>
+        <LastChange>2022-01-16T16:17:21.841+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071719" pageNr="26" tsid="73003429" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=NPHZAYAANRXAAAOKLEYGASAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPUTLWLXQEXUVTIOMQAHDPGE" imageId="27321063"/>
+    </Metadata>
+    <Page imageFilename="888817_0026_34071719.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1642346241854" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1642267757793_773"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1642267757793_772"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1642267757793_773" custom="readingOrder {index:0;}">
+            <Coords points="573,283 1658,283 1658,668 573,668"/>
+            <TextLine id="line_1642267766126_777" custom="readingOrder {index:0;}">
+                <Coords points="592,306 1645,306 1645,367 592,367"/>
+                <TextEquiv>
+                    <Unicode>celebrat pro illo principaliter ⁊ ille celebrat principa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267773924_780" custom="readingOrder {index:1;}">
+                <Coords points="1635,389 592,389 592,420 1635,420"/>
+                <TextEquiv>
+                    <Unicode>liter pro illo ⁊ hoc est impossibile eu~ facere per vnaʒ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267775643_783" custom="readingOrder {index:2;}">
+                <Coords points="592,436 1654,436 1654,490 592,490"/>
+                <TextEquiv>
+                    <Unicode>missam ⁊ impossibile e~ ꝙ missa cedat totaliter ad sa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267778047_786" custom="readingOrder {index:3;}">
+                <Coords points="1642,490 576,490 576,541 1642,541"/>
+                <TextEquiv>
+                    <Unicode>tisfaciendu~ principaliter pro illo. ⁊ simul cu~ hoc satis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267779814_789" custom="readingOrder {index:4;}">
+                <Coords points="576,541 1642,541 1642,598 576,598"/>
+                <TextEquiv>
+                    <Unicode>faciar pro illo ⁊c. Ex his patet patereꝙ sit dicendum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267781950_792" custom="readingOrder {index:5;}">
+                <Coords points="1575,620 589,620 589,665 1575,665"/>
+                <TextEquiv>
+                    <Unicode>ad questionem vnam communem qua queritur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>celebrat pro illo principaliter ⁊ ille celebrat principa&#13;
+liter pro illo ⁊ hoc est impossibile eu~ facere per vnaʒ&#13;
+missam ⁊ impossibile e~ ꝙ missa cedat totaliter ad sa&#13;
+tisfaciendu~ principaliter pro illo. ⁊ simul cu~ hoc satis&#13;
+faciar pro illo ⁊c. Ex his patet patereꝙ sit dicendum&#13;
+ad questionem vnam communem qua queritur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1642267757793_772" custom="readingOrder {index:1;}">
+            <Coords points="573,668 1658,668 1658,2045 573,2045"/>
+            <TextLine id="line_1642267787566_796" custom="readingOrder {index:0;}">
+                <Coords points="617,677 1626,677 1626,725 617,725"/>
+                <TextEquiv>
+                    <Unicode>¶ Utrum missa celebrata pro multis tm~ valeat vni=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267789419_799" custom="readingOrder {index:1;}">
+                <Coords points="1632,738 573,738 573,779 1632,779"/>
+                <TextEquiv>
+                    <Unicode>cuiqʒ eoru~ ac si specialiter pro illo celebraretur posi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267791331_802" custom="readingOrder {index:2;}">
+                <Coords points="585,785 1642,785 1642,833 585,833"/>
+                <TextEquiv>
+                    <Unicode>to ꝙ quilibet eoꝝ indigeret ¶ Est em~ dicendu~ ꝙ non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267793548_805" custom="readingOrder {index:3;}">
+                <Coords points="1645,845 585,845 585,890 1645,890"/>
+                <TextEquiv>
+                    <Unicode>i~mo in tali casu qn~ celebrat^ eque primo ꝓ multis va</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267796000_808" custom="readingOrder {index:4;}">
+                <Coords points="601,909 1635,909 1635,956 601,956"/>
+                <TextEquiv>
+                    <Unicode>lor misse distribuit^ equaliter ⁊ cedit cuilibet in parte~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267798788_811" custom="readingOrder {index:5;}">
+                <Coords points="1638,969 598,969 598,1004 1638,1004"/>
+                <TextEquiv>
+                    <Unicode>satisfacto~nis apud deu~ scd'm equale~ porco~em ⁊ nume</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267800795_814" custom="readingOrder {index:6;}">
+                <Coords points="608,1014 1635,1014 1635,1077 608,1077"/>
+                <TextEquiv>
+                    <Unicode>rum personaru~ pro quibus fit. ⁊ per consequens ꝙ~~=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267802745_817" custom="readingOrder {index:7;}">
+                <Coords points="1638,1083 595,1083 595,1131 1638,1131"/>
+                <TextEquiv>
+                    <Unicode>to plures fuerint: tanto vnusquisqʒ minus habebit. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267805162_820" custom="readingOrder {index:8;}">
+                <Coords points="601,1156 1635,1156 1635,1201 601,1201"/>
+                <TextEquiv>
+                    <Unicode>Nam valor misse qui potest prouenire alicui in pur=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267807062_823" custom="readingOrder {index:9;}">
+                <Coords points="1638,1213 573,1213 573,1248 1638,1248"/>
+                <TextEquiv>
+                    <Unicode>gatorio existenti e~ finire virtutis. ⁊ alia sufficeret v=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267809402_826" custom="readingOrder {index:10;}">
+                <Coords points="579,1251 1623,1251 1623,1315 579,1315"/>
+                <TextEquiv>
+                    <Unicode>na missa ad satisfacie~du~ ꝓ o~ni debito in quo tenerent^</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267811788_829" custom="readingOrder {index:11;}">
+                <Coords points="1629,1321 589,1321 589,1362 1629,1362"/>
+                <TextEquiv>
+                    <Unicode>quodcu~ qʒ homines obligati ad qua~cunqʒ penam in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267814329_832" custom="readingOrder {index:12;}">
+                <Coords points="582,1372 1645,1372 1645,1423 582,1423"/>
+                <TextEquiv>
+                    <Unicode>purgatorio Et sic frustra celebraret eccła plures mis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267816093_835" custom="readingOrder {index:13;}">
+                <Coords points="1638,1429 585,1429 585,1480 1638,1480"/>
+                <TextEquiv>
+                    <Unicode>sas pro eis. Ite~ si tm~ valeret generalis missa dicta ꝓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267817822_838" custom="readingOrder {index:14;}">
+                <Coords points="585,1489 1629,1489 1629,1550 585,1550"/>
+                <TextEquiv>
+                    <Unicode>omnibus existe~tibus in purgatorio ꝙ~~tum si esset di=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267820715_841" custom="readingOrder {index:15;}">
+                <Coords points="1632,1550 585,1550 585,1594 1632,1594"/>
+                <TextEquiv>
+                    <Unicode>cta specialiter ⁊ principaliter pro vno Irrationabi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267822695_844" custom="readingOrder {index:16;}">
+                <Coords points="589,1594 1632,1594 1632,1670 589,1670"/>
+                <TextEquiv>
+                    <Unicode>liter ordinaret ⁊ permitteret ecclesia ꝙ celebraretur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267824897_847" custom="readingOrder {index:17;}">
+                <Coords points="1638,1673 585,1673 585,1715 1638,1715"/>
+                <TextEquiv>
+                    <Unicode>pro vno specialiter. sed semꝑ deberet celebrari ꝓ oi~=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267827396_850" custom="readingOrder {index:18;}">
+                <Coords points="582,1715 1632,1715 1632,1768 582,1768"/>
+                <TextEquiv>
+                    <Unicode>bus existentibus in purgatorio. ⁊ omittendo alios</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267829533_853" custom="readingOrder {index:19;}">
+                <Coords points="1629,1775 592,1775 592,1835 1629,1835"/>
+                <TextEquiv>
+                    <Unicode>⁊ celebrando pro istis nichil accresceret istis. ⁊ mul=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267831377_856" custom="readingOrder {index:20;}">
+                <Coords points="589,1838 1648,1838 1648,1902 589,1902"/>
+                <TextEquiv>
+                    <Unicode>tum deperiret alijs. Et sic tota ecclesia erraret. que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267833310_859" custom="readingOrder {index:21;}">
+                <Coords points="1642,1914 598,1914 598,1946 1642,1946"/>
+                <TextEquiv>
+                    <Unicode>vbiqʒ seruat oppositum. Et ideo non videtur ra=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267835669_862" custom="readingOrder {index:22;}">
+                <Coords points="601,1971 1645,1971 1645,2025 601,2025"/>
+                <TextEquiv>
+                    <Unicode>cionabile nec bene dictum: ꝙ vna missa celebrata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Utrum missa celebrata pro multis tm~ valeat vni=&#13;
+cuiqʒ eoru~ ac si specialiter pro illo celebraretur posi=&#13;
+to ꝙ quilibet eoꝝ indigeret ¶ Est em~ dicendu~ ꝙ non&#13;
+i~mo in tali casu qn~ celebrat^ eque primo ꝓ multis va&#13;
+lor misse distribuit^ equaliter ⁊ cedit cuilibet in parte~&#13;
+satisfacto~nis apud deu~ scd'm equale~ porco~em ⁊ nume&#13;
+rum personaru~ pro quibus fit. ⁊ per consequens ꝙ~~=&#13;
+to plures fuerint: tanto vnusquisqʒ minus habebit. &#13;
+Nam valor misse qui potest prouenire alicui in pur=&#13;
+gatorio existenti e~ finire virtutis. ⁊ alia sufficeret v=&#13;
+na missa ad satisfacie~du~ ꝓ o~ni debito in quo tenerent^&#13;
+quodcu~ qʒ homines obligati ad qua~cunqʒ penam in&#13;
+purgatorio Et sic frustra celebraret eccła plures mis&#13;
+sas pro eis. Ite~ si tm~ valeret generalis missa dicta ꝓ&#13;
+omnibus existe~tibus in purgatorio ꝙ~~tum si esset di=&#13;
+cta specialiter ⁊ principaliter pro vno Irrationabi=&#13;
+liter ordinaret ⁊ permitteret ecclesia ꝙ celebraretur&#13;
+pro vno specialiter. sed semꝑ deberet celebrari ꝓ oi~=&#13;
+bus existentibus in purgatorio. ⁊ omittendo alios&#13;
+⁊ celebrando pro istis nichil accresceret istis. ⁊ mul=&#13;
+tum deperiret alijs. Et sic tota ecclesia erraret. que&#13;
+vbiqʒ seruat oppositum. Et ideo non videtur ra=&#13;
+cionabile nec bene dictum: ꝙ vna missa celebrata</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

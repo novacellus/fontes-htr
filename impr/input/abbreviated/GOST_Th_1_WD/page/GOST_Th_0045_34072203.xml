@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-01-10T18:03:39.755+01:00</Created>
+        <LastChange>2022-01-18T13:55:27.094+01:00</LastChange>
+        <TranskribusMetadata docId="888829" pageId="34072203" pageNr="45" tsid="73008883" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=AQFQFWMAOBBFDODGFXTFTULB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLBVBUHIEDHCXMKFQLSPAACZ" imageId="27321530"/>
+    </Metadata>
+    <Page imageFilename="GOST_Th_0045_34072203.jpg" imageWidth="1783" imageHeight="2447">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1642510527102" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1642237190789_351"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1642237190788_350"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1642237189382_346"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1642237188142_342"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1642237187034_338"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1642237183664_334"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1642237182114_330"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1642237180960_326"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1642237215232_359"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1642237215232_358"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1642237190789_351" custom="readingOrder {index:0;}">
+            <Coords points="166,220 1456,220 1456,301 166,301"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} structure {type:header;}">
+                <Coords points="721,276 746,280 771,282 796,284 821,285 846,286 871,286 896,286 921,286 946,285 971,285 996,285 996,243 971,243 946,243 921,244 896,244 871,244 846,244 821,243 796,242 771,240 746,238 721,234"/>
+                <Baseline points="721,262 746,266 771,268 796,270 821,271 846,272 871,272 896,272 921,272 946,271 971,271 996,271"/>
+                <TextEquiv>
+                    <Unicode>Folio. xxj,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Folio. xxj,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1642237190788_350" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="166,301 1456,301 1456,668 166,668"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="180,369 243,368 307,366 370,364 434,363 498,361 561,360 625,358 688,356 752,355 816,354 879,353 943,353 1006,352 1070,352 1134,352 1197,353 1261,354 1324,355 1388,357 1452,360 1452,324 1388,321 1324,319 1261,318 1197,317 1134,316 1070,316 1006,316 943,317 879,317 816,318 752,319 688,320 625,322 561,324 498,325 434,327 370,328 307,330 243,332 180,333"/>
+                <Baseline points="180,357 243,356 307,354 370,352 434,351 498,349 561,348 625,346 688,344 752,343 816,342 879,341 943,341 1006,340 1070,340 1134,340 1197,341 1261,342 1324,343 1388,345 1452,348"/>
+                <TextEquiv>
+                    <Unicode>Ostendit ꝙ q~ʒuis sit multitudo bonitatu~ in intelligentia tamen illa multa in indiuisibi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="193,414 255,414 318,412 380,411 443,410 506,409 568,407 631,406 693,404 756,403 819,402 881,401 944,400 1006,400 1069,400 1132,400 1194,401 1257,402 1319,403 1382,406 1445,408 1445,374 1382,372 1319,369 1257,368 1194,367 1132,366 1069,366 1006,366 944,366 881,367 819,368 756,369 693,370 631,372 568,373 506,375 443,376 380,377 318,378 255,380 193,380"/>
+                <Baseline points="193,403 255,403 318,401 380,400 443,399 506,398 568,396 631,395 693,393 756,392 819,391 881,390 944,389 1006,389 1069,389 1132,389 1194,390 1257,391 1319,392 1382,395 1445,397"/>
+                <TextEquiv>
+                    <Unicode>litate sibi inuicem coherent. Cuius duas rationes adducit. Prima qⁱa ip~a intelligentia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="187,462 249,461 312,461 375,460 438,459 501,457 564,456 627,454 690,453 753,452 816,451 878,450 941,449 1004,448 1067,448 1130,448 1193,449 1256,450 1319,451 1382,454 1445,456 1445,422 1382,420 1319,417 1256,416 1193,415 1130,414 1067,414 1004,414 941,415 878,416 816,417 753,418 690,419 627,420 564,422 501,423 438,425 375,426 312,427 249,427 187,428"/>
+                <Baseline points="187,451 249,450 312,450 375,449 438,448 501,446 564,445 627,443 690,442 753,441 816,440 878,439 941,438 1004,437 1067,437 1130,437 1193,438 1256,439 1319,440 1382,443 1445,445"/>
+                <TextEquiv>
+                    <Unicode>est ens secundu~ post causam pⁱma~ ꝓpter ꝙ vnitas est ei dignior q~ʒ pluralitas q~ʒ diuisio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="185,510 251,510 317,509 383,507 450,506 516,505 582,503 648,502 715,500 781,499 847,498 913,497 980,496 1046,496 1112,496 1178,496 1245,497 1311,499 1377,501 1444,504 1444,470 1377,467 1311,465 1245,463 1178,462 1112,462 1046,462 980,462 913,463 847,464 781,465 715,466 648,468 582,469 516,471 450,472 383,473 317,475 251,476 185,476"/>
+                <Baseline points="185,499 251,499 317,498 383,496 450,495 516,494 582,492 648,491 715,489 781,488 847,487 913,486 980,485 1046,485 1112,485 1178,485 1245,486 1311,488 1377,490 1444,493"/>
+                <TextEquiv>
+                    <Unicode>Et qⁱa ab vno no~ est nisi vnu~. ⁊ a simplici no~ nisi simplex. a duobꝰ au~ vnis ⁊ simplici-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="184,557 250,557 316,556 382,555 449,554 515,553 581,552 647,550 714,548 780,547 846,546 912,545 979,544 1045,544 1111,544 1177,545 1244,546 1310,548 1376,550 1443,554 1443,520 1376,516 1310,514 1244,512 1177,511 1111,510 1045,510 979,510 912,511 846,512 780,513 714,514 647,516 581,518 515,519 449,520 382,521 316,522 250,523 184,523"/>
+                <Baseline points="184,546 250,546 316,545 382,544 449,543 515,542 581,541 647,539 714,537 780,536 846,535 912,534 979,533 1045,533 1111,533 1177,534 1244,535 1310,537 1376,539 1443,543"/>
+                <TextEquiv>
+                    <Unicode>bus no~ potest esse nisi co~positu~ ⁊ multiplex. ⁊ sic co~stat ꝙ intelligentia primi ordinis ⁊</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="188,605 251,605 314,605 377,604 440,603 503,602 566,601 629,600 692,598 755,597 818,596 881,595 944,595 1007,594 1070,594 1133,594 1196,595 1259,596 1322,598 1385,600 1448,603 1448,569 1385,566 1322,564 1259,562 1196,561 1133,560 1070,560 1007,560 944,561 881,561 818,562 755,563 692,564 629,566 566,567 503,568 440,569 377,570 314,571 251,571 188,571"/>
+                <Baseline points="188,594 251,594 314,594 377,593 440,592 503,591 566,590 629,589 692,587 755,586 818,585 881,584 944,584 1007,583 1070,583 1133,583 1196,584 1259,585 1322,587 1385,589 1448,592"/>
+                <TextEquiv>
+                    <Unicode>omne quod in forma intelligentie co~stituit^ vnu~ est ⁊ multiplex no~ erit ⁊ hoc idem dicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="186,655 211,654 236,654 261,653 286,653 311,653 336,652 361,652 386,652 411,652 436,653 436,619 411,618 386,618 361,618 336,618 311,619 286,619 261,619 236,620 211,620 186,621"/>
+                <Baseline points="186,644 211,643 236,643 261,642 286,642 311,642 336,641 361,641 386,641 411,641 436,642"/>
+                <TextEquiv>
+                    <Unicode>in sequenti textu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ostendit ꝙ q~ʒuis sit multitudo bonitatu~ in intelligentia tamen illa multa in indiuisibi&#13;
+litate sibi inuicem coherent. Cuius duas rationes adducit. Prima qⁱa ip~a intelligentia&#13;
+est ens secundu~ post causam pⁱma~ ꝓpter ꝙ vnitas est ei dignior q~ʒ pluralitas q~ʒ diuisio.&#13;
+Et qⁱa ab vno no~ est nisi vnu~. ⁊ a simplici no~ nisi simplex. a duobꝰ au~ vnis ⁊ simplici-&#13;
+bus no~ potest esse nisi co~positu~ ⁊ multiplex. ⁊ sic co~stat ꝙ intelligentia primi ordinis ⁊&#13;
+omne quod in forma intelligentie co~stituit^ vnu~ est ⁊ multiplex no~ erit ⁊ hoc idem dicit&#13;
+in sequenti textu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1642237189382_346" custom="readingOrder {index:2;}">
+            <Coords points="166,668 1456,668 1456,907 166,907"/>
+            <TextLine id="r1l9" custom="readingOrder {index:0;}">
+                <Coords points="181,735 244,734 307,733 370,732 433,731 496,729 559,728 622,727 685,726 748,725 812,724 875,723 938,722 1001,722 1064,722 1127,723 1190,724 1253,725 1316,727 1379,730 1443,733 1443,691 1379,688 1316,685 1253,683 1190,682 1127,681 1064,680 1001,680 938,680 875,681 812,682 748,683 685,684 622,685 559,686 496,687 433,689 370,690 307,691 244,692 181,693"/>
+                <Baseline points="181,721 244,720 307,719 370,718 433,717 496,715 559,714 622,713 685,712 748,711 812,710 875,709 938,708 1001,708 1064,708 1127,709 1190,710 1253,711 1316,713 1379,716 1443,719"/>
+                <TextEquiv>
+                    <Unicode>Et intelligentia quide~ no~ recipit diuisione~. quoniam est primu~ cau-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:1;}">
+                <Coords points="176,818 239,818 302,818 366,818 429,817 493,817 556,816 619,815 683,814 746,813 810,812 873,812 936,811 1000,811 1063,811 1127,812 1190,813 1253,814 1317,816 1380,818 1444,821 1444,779 1380,776 1317,774 1253,772 1190,771 1127,770 1063,769 1000,769 936,769 873,770 810,770 746,771 683,772 619,773 556,774 493,775 429,775 366,776 302,776 239,776 176,776"/>
+                <Baseline points="176,804 239,804 302,804 366,804 429,803 493,803 556,802 619,801 683,800 746,799 810,798 873,798 936,797 1000,797 1063,797 1127,798 1190,799 1253,800 1317,802 1380,804 1444,807"/>
+                <TextEquiv>
+                    <Unicode>satum quod causatum est ex prima causa. ⁊ vnitas est dignioe q~ʒ di-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:2;}">
+                <Coords points="178,902 205,903 233,902 261,901 289,901 289,862 261,862 233,863 205,864 178,863"/>
+                <Baseline points="178,889 205,890 233,889 261,888 289,888"/>
+                <TextEquiv>
+                    <Unicode>uisio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Et intelligentia quide~ no~ recipit diuisione~. quoniam est primu~ cau-&#13;
+satum quod causatum est ex prima causa. ⁊ vnitas est dignioe q~ʒ di-&#13;
+uisio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1642237188142_342" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="166,907 1456,907 1456,1064 166,1064"/>
+            <TextLine id="r1l12" custom="readingOrder {index:0;}">
+                <Coords points="171,954 234,955 298,955 361,954 425,954 488,953 552,953 615,952 679,951 742,951 806,950 869,950 933,949 996,949 1060,949 1123,950 1187,951 1250,952 1314,954 1377,956 1441,959 1441,925 1377,922 1314,920 1250,918 1187,917 1123,916 1060,915 996,915 933,915 869,916 806,916 742,917 679,917 615,918 552,919 488,919 425,920 361,920 298,921 234,921 171,920"/>
+                <Baseline points="171,943 234,944 298,944 361,943 425,943 488,942 552,942 615,941 679,940 742,940 806,939 869,939 933,938 996,938 1060,938 1123,939 1187,940 1250,941 1314,943 1377,945 1441,948"/>
+                <TextEquiv>
+                    <Unicode>Scd'a ratio qⁱa cu~ intelligentia sit primu~ causatu~ ꝓpinquissima est prime cause. ⁊ ideo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:1;}">
+                <Coords points="177,1004 240,1004 303,1004 366,1003 430,1002 493,1002 556,1001 619,1000 683,999 746,998 809,998 872,997 936,997 999,997 1062,997 1125,998 1189,999 1252,1000 1315,1001 1378,1003 1442,1006 1442,972 1378,969 1315,967 1252,966 1189,965 1125,964 1062,963 999,963 936,963 872,963 809,964 746,964 683,965 619,966 556,967 493,968 430,968 366,969 303,970 240,970 177,970"/>
+                <Baseline points="177,993 240,993 303,993 366,992 430,991 493,991 556,990 619,989 683,988 746,987 809,987 872,986 936,986 999,986 1062,986 1125,987 1189,988 1252,989 1315,990 1378,992 1442,995"/>
+                <TextEquiv>
+                    <Unicode>que sunt in intelligentia nobilissimo modo ei co~ueniunt post primam causam. Unitas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:2;}">
+                <Coords points="187,1051 249,1051 312,1051 375,1050 438,1050 500,1049 563,1049 626,1048 689,1047 751,1047 814,1046 877,1046 940,1046 1002,1046 1065,1046 1128,1046 1191,1047 1253,1048 1316,1050 1379,1052 1442,1054 1442,1020 1379,1018 1316,1016 1253,1014 1191,1013 1128,1012 1065,1012 1002,1012 940,1012 877,1012 814,1012 751,1013 689,1013 626,1014 563,1015 500,1015 438,1016 375,1016 312,1017 249,1017 187,1017"/>
+                <Baseline points="187,1040 249,1040 312,1040 375,1039 438,1039 500,1038 563,1038 626,1037 689,1036 751,1036 814,1035 877,1035 940,1035 1002,1035 1065,1035 1128,1035 1191,1036 1253,1037 1316,1039 1379,1041 1442,1043"/>
+                <TextEquiv>
+                    <Unicode>au~t ⁊ indiuisibilitas nobilior est q~ʒ diuisio ergo i~ ea est vnitas ⁊ nullomo~ est pluralitas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Scd'a ratio qⁱa cu~ intelligentia sit primu~ causatu~ ꝓpinquissima est prime cause. ⁊ ideo&#13;
+que sunt in intelligentia nobilissimo modo ei co~ueniunt post primam causam. Unitas&#13;
+au~t ⁊ indiuisibilitas nobilior est q~ʒ diuisio ergo i~ ea est vnitas ⁊ nullomo~ est pluralitas</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1642237187034_338" custom="readingOrder {index:4;}">
+            <Coords points="166,1064 1456,1064 1456,1407 166,1407"/>
+            <TextLine id="r1l15" custom="readingOrder {index:0;}">
+                <Coords points="182,1138 245,1137 308,1137 371,1136 435,1135 498,1135 561,1134 625,1133 688,1132 751,1131 815,1131 878,1130 941,1130 1004,1130 1068,1130 1131,1130 1194,1131 1258,1132 1321,1134 1384,1136 1448,1138 1448,1096 1384,1094 1321,1092 1258,1090 1194,1089 1131,1088 1068,1088 1004,1088 941,1088 878,1088 815,1089 751,1089 688,1090 625,1091 561,1092 498,1093 435,1093 371,1094 308,1095 245,1095 182,1096"/>
+                <Baseline points="182,1124 245,1123 308,1123 371,1122 435,1121 498,1121 561,1120 625,1119 688,1118 751,1117 815,1117 878,1116 941,1116 1004,1116 1068,1116 1131,1116 1194,1117 1258,1118 1321,1120 1384,1122 1448,1124"/>
+                <TextEquiv>
+                    <Unicode>Iam ergo verificatu~ est ꝙ intelligentia est substantia que no~ est cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:1;}">
+                <Coords points="173,1232 236,1233 299,1233 362,1232 425,1232 489,1231 552,1230 615,1228 678,1227 741,1226 805,1225 868,1223 931,1223 994,1222 1057,1222 1121,1222 1184,1223 1247,1224 1310,1226 1373,1229 1437,1232 1437,1190 1373,1187 1310,1184 1247,1182 1184,1181 1121,1180 1057,1180 994,1180 931,1181 868,1181 805,1183 741,1184 678,1185 615,1186 552,1188 489,1189 425,1190 362,1190 299,1191 236,1191 173,1190"/>
+                <Baseline points="173,1218 236,1219 299,1219 362,1218 425,1218 489,1217 552,1216 615,1214 678,1213 741,1212 805,1211 868,1209 931,1209 994,1208 1057,1208 1121,1208 1184,1209 1247,1210 1310,1212 1373,1215 1437,1218"/>
+                <TextEquiv>
+                    <Unicode>magnitudine neqʒ corpus neqʒ mouet^ per aliquem modoru~ motus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;}">
+                <Coords points="182,1315 245,1316 308,1317 371,1317 434,1317 497,1316 560,1316 623,1315 686,1314 749,1313 812,1312 875,1311 938,1310 1001,1310 1064,1310 1127,1310 1190,1311 1253,1312 1316,1314 1379,1317 1443,1320 1443,1278 1379,1275 1316,1272 1253,1270 1190,1269 1127,1268 1064,1268 1001,1268 938,1268 875,1269 812,1270 749,1271 686,1272 623,1273 560,1274 497,1274 434,1275 371,1275 308,1275 245,1274 182,1273"/>
+                <Baseline points="182,1301 245,1302 308,1303 371,1303 434,1303 497,1302 560,1302 623,1301 686,1300 749,1299 812,1298 875,1297 938,1296 1001,1296 1064,1296 1127,1296 1190,1297 1253,1298 1316,1300 1379,1303 1443,1306"/>
+                <TextEquiv>
+                    <Unicode>corporei. Quapropter facta est supra tempus ⁊ cum eternitate sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:3;}">
+                <Coords points="182,1404 209,1405 236,1404 263,1404 290,1403 317,1402 344,1402 371,1402 398,1404 426,1406 426,1367 398,1365 371,1363 344,1363 317,1363 290,1364 263,1365 236,1365 209,1366 182,1365"/>
+                <Baseline points="182,1391 209,1392 236,1391 263,1391 290,1390 317,1389 344,1389 371,1389 398,1391 426,1393"/>
+                <TextEquiv>
+                    <Unicode>ostendimus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Iam ergo verificatu~ est ꝙ intelligentia est substantia que no~ est cum&#13;
+magnitudine neqʒ corpus neqʒ mouet^ per aliquem modoru~ motus&#13;
+corporei. Quapropter facta est supra tempus ⁊ cum eternitate sicut&#13;
+ostendimus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1642237183664_334" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="166,1407 1456,1407 1456,1471 166,1471"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;}">
+                <Coords points="173,1466 198,1465 223,1463 249,1462 274,1461 300,1460 325,1460 350,1459 376,1459 401,1459 427,1458 452,1458 477,1458 503,1458 528,1457 554,1457 554,1418 528,1418 503,1419 477,1419 452,1419 427,1419 401,1420 376,1420 350,1420 325,1421 300,1421 274,1422 249,1423 223,1424 198,1426 173,1427"/>
+                <Baseline points="173,1453 198,1452 223,1450 249,1449 274,1448 300,1447 325,1447 350,1446 376,1446 401,1446 427,1445 452,1445 477,1445 503,1445 528,1444 554,1444"/>
+                <TextEquiv>
+                    <Unicode>Epilogat circa predicta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Epilogat circa predicta.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1642237182114_330" custom="readingOrder {index:6;} structure {type:heading;}">
+            <Coords points="166,1471 1456,1471 1456,1571 166,1571"/>
+            <TextLine id="r1l20" custom="readingOrder {index:0;} heading {offset:0; length:19;}">
+                <Coords points="475,1537 503,1539 531,1540 559,1541 587,1542 615,1543 643,1543 671,1543 699,1543 727,1543 755,1543 783,1543 811,1543 839,1543 867,1543 895,1543 923,1543 951,1543 979,1543 1007,1544 1035,1545 1035,1503 1007,1502 979,1501 951,1501 923,1501 895,1501 867,1501 839,1501 811,1501 783,1501 755,1501 727,1501 699,1501 671,1501 643,1501 615,1501 587,1500 559,1499 531,1498 503,1497 475,1495"/>
+                <Baseline points="475,1523 503,1525 531,1526 559,1527 587,1528 615,1529 643,1529 671,1529 699,1529 727,1529 755,1529 783,1529 811,1529 839,1529 867,1529 895,1529 923,1529 951,1529 979,1529 1007,1530 1035,1531"/>
+                <TextEquiv>
+                    <Unicode>Septima propositio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Septima propositio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="drop-capital" id="TextRegion_1642237180960_326" custom="readingOrder {index:7;} structure {type:drop-capital;}">
+            <Coords points="166,1571 1456,1571 1456,1800 166,1800"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;} drop-capital {offset:0; length:60;}">
+                <Coords points="369,1630 422,1628 476,1627 530,1626 584,1625 637,1625 691,1624 745,1623 799,1623 852,1622 906,1622 960,1622 1014,1622 1067,1622 1121,1622 1175,1621 1229,1621 1282,1621 1336,1621 1390,1622 1444,1622 1444,1580 1390,1580 1336,1579 1282,1579 1229,1579 1175,1579 1121,1580 1067,1580 1014,1580 960,1580 906,1580 852,1580 799,1581 745,1581 691,1582 637,1583 584,1583 530,1584 476,1585 422,1586 369,1588"/>
+                <Baseline points="369,1616 422,1614 476,1613 530,1612 584,1611 637,1611 691,1610 745,1609 799,1609 852,1608 906,1608 960,1608 1014,1608 1067,1608 1121,1608 1175,1607 1229,1607 1282,1607 1336,1607 1390,1608 1444,1608"/>
+                <TextEquiv>
+                    <Unicode>Omnis intellige~tia scit id quod est supra se ⁊ quod est sub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+                <Coords points="208,1758 269,1747 331,1738 393,1731 455,1724 516,1720 578,1717 640,1714 702,1713 763,1712 825,1712 887,1712 949,1713 1010,1714 1072,1715 1134,1716 1196,1716 1257,1716 1319,1716 1381,1714 1443,1712 1443,1675 1381,1677 1319,1679 1257,1679 1196,1679 1134,1679 1072,1678 1010,1677 949,1676 887,1675 825,1675 763,1675 702,1676 640,1677 578,1680 516,1683 455,1687 393,1694 331,1701 269,1710 208,1721"/>
+                <Baseline points="208,1746 269,1735 331,1726 393,1719 455,1712 516,1708 578,1705 640,1702 702,1701 763,1700 825,1700 887,1700 949,1701 1010,1702 1072,1703 1134,1704 1196,1704 1257,1704 1319,1704 1381,1702 1443,1700"/>
+                <TextEquiv>
+                    <Unicode>se. veru~tamen scit quod est sub se quoniam est causa ei. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;}">
+                <Coords points="166,1810 218,1808 270,1806 322,1804 374,1803 426,1802 478,1801 530,1800 582,1799 634,1799 687,1798 739,1798 791,1798 843,1797 895,1797 947,1797 999,1797 1051,1797 1103,1797 1155,1797 1208,1796 1208,1759 1155,1760 1103,1760 1051,1760 999,1760 947,1760 895,1760 843,1760 791,1761 739,1761 687,1761 634,1762 582,1762 530,1763 478,1764 426,1765 374,1766 322,1767 270,1769 218,1771 166,1773"/>
+                <Baseline points="166,1798 218,1796 270,1794 322,1792 374,1791 426,1790 478,1789 530,1788 582,1787 634,1787 687,1786 739,1786 791,1786 843,1785 895,1785 947,1785 999,1785 1051,1785 1103,1785 1155,1785 1208,1784"/>
+                <TextEquiv>
+                    <Unicode>scit quod est supra se quoniam acquirit bonitates ab eo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Omnis intellige~tia scit id quod est supra se ⁊ quod est sub&#13;
+se. veru~tamen scit quod est sub se quoniam est causa ei. et&#13;
+scit quod est supra se quoniam acquirit bonitates ab eo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1642237215232_359" custom="readingOrder {index:8;}">
+            <Coords points="166,1800 1456,1800 1456,2098 166,2098"/>
+            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+                <Coords points="174,1860 237,1858 301,1857 365,1856 429,1855 493,1854 556,1853 620,1853 684,1852 748,1852 812,1852 875,1852 939,1852 1003,1852 1067,1852 1131,1852 1194,1852 1258,1852 1322,1852 1386,1852 1450,1852 1450,1818 1386,1818 1322,1818 1258,1818 1194,1818 1131,1818 1067,1818 1003,1818 939,1818 875,1818 812,1818 748,1818 684,1818 620,1819 556,1819 493,1820 429,1821 365,1822 301,1823 237,1824 174,1826"/>
+                <Baseline points="174,1849 237,1847 301,1846 365,1845 429,1844 493,1843 556,1842 620,1842 684,1841 748,1841 812,1841 875,1841 939,1841 1003,1841 1067,1841 1131,1841 1194,1841 1258,1841 1322,1841 1386,1841 1450,1841"/>
+                <TextEquiv>
+                    <Unicode>Posita notificatio~e intelligentie qua~tu~ ad eius substantia~ hic i~cipit manifestare cogni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:1;}">
+                <Coords points="180,1909 243,1907 307,1905 371,1904 435,1903 499,1902 562,1901 626,1901 690,1900 754,1900 818,1900 881,1900 945,1900 1009,1899 1073,1899 1137,1899 1200,1899 1264,1899 1328,1899 1392,1899 1456,1898 1456,1864 1392,1865 1328,1865 1264,1865 1200,1865 1137,1865 1073,1865 1009,1865 945,1866 881,1866 818,1866 754,1866 690,1866 626,1867 562,1867 499,1868 435,1869 371,1870 307,1871 243,1873 180,1875"/>
+                <Baseline points="180,1898 243,1896 307,1894 371,1893 435,1892 499,1891 562,1890 626,1890 690,1889 754,1889 818,1889 881,1889 945,1889 1009,1888 1073,1888 1137,1888 1200,1888 1264,1888 1328,1888 1392,1888 1456,1887"/>
+                <TextEquiv>
+                    <Unicode>tionem ip~ius. Et primo declarat modu~ quo cognoscit alia a se. Scd'o quo~ cognoscit se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:2;}">
+                <Coords points="181,1956 244,1955 308,1953 371,1952 435,1951 498,1950 562,1949 625,1948 689,1948 752,1947 816,1947 879,1947 943,1947 1006,1947 1070,1947 1133,1947 1197,1947 1260,1947 1324,1947 1387,1947 1451,1947 1451,1913 1387,1913 1324,1913 1260,1913 1197,1913 1133,1913 1070,1913 1006,1913 943,1913 879,1913 816,1913 752,1913 689,1914 625,1914 562,1915 498,1916 435,1917 371,1918 308,1919 244,1921 181,1922"/>
+                <Baseline points="181,1945 244,1944 308,1942 371,1941 435,1940 498,1939 562,1938 625,1937 689,1937 752,1936 816,1936 879,1936 943,1936 1006,1936 1070,1936 1133,1936 1197,1936 1260,1936 1324,1936 1387,1936 1451,1936"/>
+                <TextEquiv>
+                    <Unicode>ip~am. Circa primu~ tria facit. Primo declarat motu~ quo intellegentia cognoscit superi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:3;}">
+                <Coords points="180,2003 243,2002 306,2001 370,2000 433,1999 496,1998 560,1997 623,1997 686,1996 750,1996 813,1995 876,1995 940,1995 1003,1994 1066,1994 1130,1994 1193,1994 1256,1994 1320,1994 1383,1994 1447,1994 1447,1960 1383,1960 1320,1960 1256,1960 1193,1960 1130,1960 1066,1960 1003,1960 940,1961 876,1961 813,1961 750,1962 686,1962 623,1963 560,1963 496,1964 433,1965 370,1966 306,1967 243,1968 180,1969"/>
+                <Baseline points="180,1992 243,1991 306,1990 370,1989 433,1988 496,1987 560,1986 623,1986 686,1985 750,1985 813,1984 876,1984 940,1984 1003,1983 1066,1983 1130,1983 1193,1983 1256,1983 1320,1983 1383,1983 1447,1983"/>
+                <TextEquiv>
+                    <Unicode>ora ⁊ i~feriora ⁊ hoc hic. Ad declarandu~ igit^ modu~ quo~ in~telligentia cognoscat superiora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:4;}">
+                <Coords points="172,2053 236,2051 300,2050 364,2048 428,2047 492,2046 556,2045 620,2044 684,2044 748,2043 813,2043 877,2043 941,2042 1005,2042 1069,2042 1133,2042 1197,2042 1261,2042 1325,2041 1389,2041 1454,2041 1454,2007 1389,2007 1325,2007 1261,2008 1197,2008 1133,2008 1069,2008 1005,2008 941,2008 877,2009 813,2009 748,2009 684,2010 620,2010 556,2011 492,2012 428,2013 364,2014 300,2016 236,2017 172,2019"/>
+                <Baseline points="172,2042 236,2040 300,2039 364,2037 428,2036 492,2035 556,2034 620,2033 684,2033 748,2032 813,2032 877,2032 941,2031 1005,2031 1069,2031 1133,2031 1197,2031 1261,2031 1325,2030 1389,2030 1454,2030"/>
+                <TextEquiv>
+                    <Unicode>⁊ inferiora ponit talem ꝓpositionem. ⁊ Oi~s intelligentia scit ⁊c. Ex qua ꝓpositione q~n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:5;}">
+                <Coords points="166,2104 230,2102 294,2100 359,2098 423,2097 487,2096 552,2095 616,2094 680,2094 745,2094 809,2093 873,2093 938,2093 1002,2093 1066,2093 1131,2093 1195,2093 1259,2093 1324,2092 1388,2092 1453,2091 1453,2055 1388,2056 1324,2056 1259,2057 1195,2057 1131,2057 1066,2057 1002,2057 938,2057 873,2057 809,2057 745,2058 680,2058 616,2058 552,2059 487,2060 423,2061 359,2062 294,2064 230,2066 166,2068"/>
+                <Baseline points="166,2092 230,2090 294,2088 359,2086 423,2085 487,2084 552,2083 616,2082 680,2082 745,2082 809,2081 873,2081 938,2081 1002,2081 1066,2081 1131,2081 1195,2081 1259,2081 1324,2080 1388,2080 1453,2079"/>
+                <TextEquiv>
+                    <Unicode>tu~ sufficit ad ꝓpositu~ trahunt^ q~tuor co~clusiones. Prima intelligentia intelligit omnia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Posita notificatio~e intelligentie qua~tu~ ad eius substantia~ hic i~cipit manifestare cogni&#13;
+tionem ip~ius. Et primo declarat modu~ quo cognoscit alia a se. Scd'o quo~ cognoscit se-&#13;
+ip~am. Circa primu~ tria facit. Primo declarat motu~ quo intellegentia cognoscit superi&#13;
+ora ⁊ i~feriora ⁊ hoc hic. Ad declarandu~ igit^ modu~ quo~ in~telligentia cognoscat superiora&#13;
+⁊ inferiora ponit talem ꝓpositionem. ⁊ Oi~s intelligentia scit ⁊c. Ex qua ꝓpositione q~n&#13;
+tu~ sufficit ad ꝓpositu~ trahunt^ q~tuor co~clusiones. Prima intelligentia intelligit omnia</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="catch-word" id="TextRegion_1642237215232_358" custom="readingOrder {index:9;} structure {type:catch-word;}">
+            <Coords points="166,2098 1456,2098 1456,2154 166,2154"/>
+            <TextLine id="r1l30" custom="readingOrder {index:0;}">
+                <Coords points="1338,2154 1362,2152 1362,2110 1338,2112"/>
+                <Baseline points="1338,2140 1362,2138"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

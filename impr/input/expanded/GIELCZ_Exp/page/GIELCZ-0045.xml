@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:12.417+02:00</Created>
+        <LastChange>2022-12-10T20:45:15.819+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131435" pageNr="45" tsid="79647746" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=WDOTFQPDQCJJUIVEJIXLEJXY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FPVLWSOGEAGBNWOQKPVTRZEX" imageId="29937060"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0045.jpg" imageWidth="1756" imageHeight="2564">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1670701515835" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1651855185079_392"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1651855189387_398"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1651855193407_404"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1651855193406_403"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651855185079_392" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="103,249 1372,249 1372,1334 103,1334"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="116,283 178,288 240,291 303,294 365,297 427,298 490,300 552,301 614,301 677,302 739,302 801,302 864,302 926,302 988,302 1051,303 1113,303 1175,305 1238,307 1300,309 1363,312 1363,278 1300,275 1238,273 1175,271 1113,269 1051,269 988,268 926,268 864,268 801,268 739,268 677,268 614,267 552,267 490,266 427,264 365,263 303,260 240,257 178,254 116,249"/>
+                <Baseline points="116,272 178,277 240,280 303,283 365,286 427,287 490,289 552,290 614,290 677,291 739,291 801,291 864,291 926,291 988,291 1051,292 1113,292 1175,294 1238,296 1300,298 1363,301"/>
+                <TextEquiv>
+                    <Unicode>quam immediatos. et hoc non impedita. De qua dicitur quod est maligne nature. quoniam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="115,331 177,336 240,340 302,343 365,345 428,347 490,348 553,350 615,350 678,351 741,351 803,351 866,352 928,352 991,352 1054,352 1116,353 1179,354 1241,356 1304,357 1367,359 1367,325 1304,323 1241,322 1179,320 1116,319 1054,318 991,318 928,318 866,318 803,317 741,317 678,317 615,316 553,316 490,314 428,313 365,311 302,309 240,306 177,302 115,297"/>
+                <Baseline points="115,320 177,325 240,329 302,332 365,334 428,336 490,337 553,339 615,339 678,340 741,340 803,340 866,341 928,341 991,341 1054,341 1116,342 1179,343 1241,345 1304,346 1367,348"/>
+                <TextEquiv>
+                    <Unicode>quicquid post se invenit totum destruit. id est negat. et oppositum inducit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="119,381 181,385 243,389 305,392 367,394 429,397 491,398 553,399 615,400 677,401 740,401 802,401 864,402 926,402 988,402 1050,402 1112,403 1174,404 1236,404 1298,406 1361,408 1361,374 1298,372 1236,370 1174,370 1112,369 1050,368 988,368 926,368 864,368 802,367 740,367 677,367 615,366 553,365 491,364 429,363 367,360 305,358 243,355 181,351 119,347"/>
+                <Baseline points="119,370 181,374 243,378 305,381 367,383 429,386 491,387 553,388 615,389 677,390 740,390 802,390 864,391 926,391 988,391 1050,391 1112,392 1174,393 1236,393 1298,395 1361,397"/>
+                <TextEquiv>
+                    <Unicode>ita que ante adventum negationis si que terminorum steterit determinate vel con-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="113,430 175,434 237,437 299,440 362,443 424,445 486,447 549,449 611,450 673,451 736,452 798,452 860,453 922,453 985,454 1047,454 1109,454 1172,455 1234,455 1296,456 1359,457 1359,423 1296,422 1234,421 1172,421 1109,420 1047,420 985,420 922,419 860,419 798,418 736,418 673,417 611,416 549,415 486,413 424,411 362,409 299,406 237,403 175,400 113,396"/>
+                <Baseline points="113,419 175,423 237,426 299,429 362,432 424,434 486,436 549,438 611,439 673,440 736,441 798,441 860,442 922,442 985,443 1047,443 1109,443 1172,444 1234,444 1296,445 1359,446"/>
+                <TextEquiv>
+                    <Unicode>fuse tamen. hac negatione adveniente supponet confuse distributive. et econverso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="117,478 179,483 241,487 303,490 365,492 427,495 489,497 551,499 613,500 675,501 737,502 799,503 861,503 923,504 985,504 1047,504 1109,505 1171,505 1233,506 1295,506 1357,507 1357,473 1295,472 1233,472 1171,471 1109,471 1047,470 985,470 923,470 861,469 799,469 737,468 675,467 613,466 551,465 489,463 427,461 365,458 303,456 241,453 179,449 117,444"/>
+                <Baseline points="117,467 179,472 241,476 303,479 365,481 427,484 489,486 551,488 613,489 675,490 737,491 799,492 861,492 923,493 985,493 1047,493 1109,494 1171,494 1233,495 1295,495 1357,496"/>
+                <TextEquiv>
+                    <Unicode>Et ergo ista habet duo officia. s. negare et distribuere. Alia autem est infinitans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="111,528 173,532 235,536 298,539 360,542 423,545 485,547 547,548 610,549 672,551 735,551 797,552 859,553 922,553 984,553 1047,553 1109,554 1171,554 1234,555 1296,555 1359,556 1359,522 1296,521 1234,521 1171,520 1109,520 1047,519 984,519 922,519 859,519 797,518 735,517 672,517 610,515 547,514 485,513 423,511 360,508 298,505 235,502 173,498 111,494"/>
+                <Baseline points="111,517 173,521 235,525 298,528 360,531 423,534 485,536 547,537 610,538 672,540 735,540 797,541 859,542 922,542 984,542 1047,542 1109,543 1171,543 1234,544 1296,544 1359,545"/>
+                <TextEquiv>
+                    <Unicode>que est ablativa termini ab omni suo significato. et cuiuslibet alterius inductiva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="107,579 169,582 232,586 295,589 357,592 420,594 483,595 545,597 608,598 671,599 734,600 796,601 859,602 922,602 984,602 1047,603 1110,603 1172,604 1235,604 1298,604 1361,605 1361,571 1298,570 1235,570 1172,570 1110,569 1047,569 984,568 922,568 859,568 796,567 734,566 671,565 608,564 545,563 483,561 420,560 357,558 295,555 232,552 169,548 107,545"/>
+                <Baseline points="107,568 169,571 232,575 295,578 357,581 420,583 483,584 545,586 608,587 671,588 734,589 796,590 859,591 922,591 984,591 1047,592 1110,592 1172,593 1235,593 1298,593 1361,594"/>
+                <TextEquiv>
+                    <Unicode>intellige termini cui immediate adiungitur. ut homo de significato principali significat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="111,629 173,633 236,636 298,639 361,641 424,643 486,645 549,646 611,648 674,649 737,650 799,651 862,651 924,652 987,652 1050,652 1112,652 1175,652 1237,653 1300,653 1363,653 1363,619 1300,619 1237,619 1175,618 1112,618 1050,618 987,618 924,618 862,617 799,617 737,616 674,615 611,614 549,612 486,611 424,609 361,607 298,605 236,602 173,599 111,595"/>
+                <Baseline points="111,618 173,622 236,625 298,628 361,630 424,632 486,634 549,635 611,637 674,638 737,639 799,640 862,640 924,641 987,641 1050,641 1112,641 1175,641 1237,642 1300,642 1363,642"/>
+                <TextEquiv>
+                    <Unicode>humanitatem. et de inadequato quodlibet inferius addendo ei Iy non dicen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="103,679 165,682 227,685 290,687 352,689 415,691 477,693 539,695 602,696 664,697 727,698 789,699 851,700 914,701 976,701 1039,702 1101,702 1163,703 1226,703 1288,703 1351,704 1351,671 1288,670 1226,670 1163,670 1101,669 1039,669 976,668 914,668 851,667 789,666 727,665 664,664 602,663 539,662 477,660 415,658 352,656 290,654 227,652 165,649 103,646"/>
+                <Baseline points="103,668 165,671 227,674 290,676 352,678 415,680 477,682 539,684 602,685 664,686 727,687 789,688 851,689 914,690 976,690 1039,691 1101,691 1163,692 1226,692 1288,692 1351,693"/>
+                <TextEquiv>
+                    <Unicode>do non homo. iam non stabit pro suo significato. sed pro omni alio a suo si-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="106,734 168,734 230,735 292,736 354,736 416,738 478,739 540,740 602,742 664,743 726,745 788,746 850,748 912,749 974,750 1036,751 1098,751 1160,752 1222,752 1284,752 1347,751 1347,718 1284,719 1222,719 1160,719 1098,718 1036,718 974,717 912,716 850,715 788,713 726,712 664,710 602,709 540,707 478,706 416,705 354,703 292,703 230,702 168,701 106,701"/>
+                <Baseline points="106,723 168,723 230,724 292,725 354,725 416,727 478,728 540,729 602,731 664,732 726,734 788,735 850,737 912,738 974,739 1036,740 1098,740 1160,741 1222,741 1284,741 1347,740"/>
+                <TextEquiv>
+                    <Unicode>gnificato. ut bove leone etcetera verificabitur de ipsis dicendo hoc est non homo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="109,780 171,781 233,782 295,783 358,784 420,785 482,786 545,787 607,789 669,790 732,791 794,792 856,793 918,794 981,796 1043,797 1105,798 1168,799 1230,800 1292,800 1355,801 1355,768 1292,767 1230,767 1168,766 1105,765 1043,764 981,763 918,761 856,760 794,759 732,758 669,757 607,756 545,754 482,753 420,752 358,751 295,750 233,749 171,748 109,747"/>
+                <Baseline points="109,769 171,770 233,771 295,772 358,773 420,774 482,775 545,776 607,778 669,779 732,780 794,781 856,782 918,783 981,785 1043,786 1105,787 1168,788 1230,789 1292,789 1355,790"/>
+                <TextEquiv>
+                    <Unicode>asino vel quocumque alio ab eius significato demonstrato. Et talis est pars extremi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="107,828 169,830 231,831 293,833 356,834 418,836 480,837 542,838 605,839 667,840 729,841 791,842 854,843 916,844 978,845 1040,845 1103,846 1165,846 1227,847 1289,847 1352,847 1352,813 1289,813 1227,813 1165,812 1103,812 1040,811 978,811 916,810 854,809 791,808 729,807 667,806 605,805 542,804 480,803 418,802 356,800 293,799 231,797 169,796 107,794"/>
+                <Baseline points="107,817 169,819 231,820 293,822 356,823 418,825 480,826 542,827 605,828 667,829 729,830 791,831 854,832 916,833 978,834 1040,834 1103,835 1165,835 1227,836 1289,836 1352,836"/>
+                <TextEquiv>
+                    <Unicode>constituens propositionem affirmativam. Et est talis virtutis. quod addita supe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="104,875 166,877 229,880 291,882 354,884 417,885 479,887 542,889 604,891 667,892 730,893 792,894 855,895 917,896 980,896 1043,896 1105,897 1168,896 1230,896 1293,895 1356,894 1356,860 1293,861 1230,862 1168,862 1105,863 1043,862 980,862 917,862 855,861 792,860 730,859 667,858 604,857 542,855 479,853 417,851 354,850 291,848 229,846 166,843 104,841"/>
+                <Baseline points="104,864 166,866 229,869 291,871 354,873 417,874 479,876 542,878 604,880 667,881 730,882 792,883 855,884 917,885 980,885 1043,885 1105,886 1168,885 1230,885 1293,884 1356,883"/>
+                <TextEquiv>
+                    <Unicode>riori facit inferius de ipso et econverso inferiori addita facit superius. ut homo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="110,924 172,927 234,930 296,932 359,935 421,936 483,939 545,940 608,942 670,943 732,944 794,945 857,946 919,947 981,947 1043,947 1106,947 1168,947 1230,947 1292,947 1355,946 1355,912 1292,913 1230,913 1168,913 1106,913 1043,913 981,913 919,913 857,912 794,911 732,910 670,909 608,908 545,906 483,905 421,902 359,901 296,898 234,896 172,893 110,890"/>
+                <Baseline points="110,913 172,916 234,919 296,921 359,924 421,925 483,928 545,929 608,931 670,932 732,933 794,934 857,935 919,936 981,936 1043,936 1106,936 1168,936 1230,936 1292,936 1355,935"/>
+                <TextEquiv>
+                    <Unicode>est superius socrate. infinitetur Iy homo et Iy socrates. dicendo non homo. non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="103,973 165,977 228,980 291,982 353,985 416,987 479,989 541,990 604,991 667,992 730,993 792,994 855,994 918,995 980,995 1043,995 1106,996 1168,996 1231,997 1294,998 1357,998 1357,964 1294,964 1231,963 1168,962 1106,962 1043,961 980,961 918,961 855,960 792,960 730,959 667,958 604,957 541,956 479,955 416,953 353,951 291,948 228,946 165,943 103,939"/>
+                <Baseline points="103,962 165,966 228,969 291,971 353,974 416,976 479,978 541,979 604,980 667,981 730,982 792,983 855,983 918,984 980,984 1043,984 1106,985 1168,985 1231,986 1294,987 1357,987"/>
+                <TextEquiv>
+                    <Unicode>socrates. Iy non socrates est superius sive et melius communius. Iy non homo. cum de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="111,1025 173,1028 235,1030 298,1033 360,1035 423,1036 485,1038 547,1039 610,1040 672,1041 735,1042 797,1042 859,1043 922,1043 984,1044 1047,1044 1109,1044 1171,1045 1234,1045 1296,1045 1359,1046 1359,1012 1296,1011 1234,1011 1171,1011 1109,1010 1047,1010 984,1010 922,1009 859,1009 797,1008 735,1008 672,1007 610,1006 547,1005 485,1004 423,1002 360,1001 298,999 235,996 173,994 111,991"/>
+                <Baseline points="111,1014 173,1017 235,1019 298,1022 360,1024 423,1025 485,1027 547,1028 610,1029 672,1030 735,1031 797,1031 859,1032 922,1032 984,1033 1047,1033 1109,1033 1171,1034 1234,1034 1296,1034 1359,1035"/>
+                <TextEquiv>
+                    <Unicode>omnibus aliis hominibus a socrate. natus est verificari Iy non homo autem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="103,1074 165,1076 228,1078 291,1081 354,1082 416,1084 479,1086 542,1087 605,1089 667,1090 730,1091 793,1091 856,1092 918,1093 981,1093 1044,1093 1107,1093 1169,1093 1232,1093 1295,1092 1358,1092 1358,1059 1295,1059 1232,1060 1169,1060 1107,1060 1044,1060 981,1060 918,1060 856,1059 793,1058 730,1058 667,1057 605,1056 542,1054 479,1053 416,1051 354,1049 291,1048 228,1045 165,1043 103,1041"/>
+                <Baseline points="103,1063 165,1065 228,1067 291,1070 354,1071 416,1073 479,1075 542,1076 605,1078 667,1079 730,1080 793,1080 856,1081 918,1082 981,1082 1044,1082 1107,1082 1169,1082 1232,1082 1295,1081 1358,1081"/>
+                <TextEquiv>
+                    <Unicode>dumtaxat de aliis ab homine. itaque arguendo sic. non socrates currit ergo non homo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="107,1122 169,1123 232,1125 294,1127 357,1129 420,1131 482,1132 545,1134 607,1136 670,1137 733,1138 795,1140 858,1141 920,1142 983,1142 1046,1143 1108,1143 1171,1143 1233,1142 1296,1142 1359,1141 1359,1108 1296,1109 1233,1109 1171,1110 1108,1110 1046,1110 983,1109 920,1109 858,1108 795,1107 733,1105 670,1104 607,1103 545,1101 482,1099 420,1098 357,1096 294,1094 232,1092 169,1090 107,1089"/>
+                <Baseline points="107,1111 169,1112 232,1114 294,1116 357,1118 420,1120 482,1121 545,1123 607,1125 670,1126 733,1127 795,1129 858,1130 920,1131 983,1131 1046,1132 1108,1132 1171,1132 1233,1131 1296,1131 1359,1130"/>
+                <TextEquiv>
+                    <Unicode>currit. arguitur a superiori ad inferius affirmative: que consequentia nihil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="111,1171 173,1172 236,1173 298,1175 361,1176 423,1178 486,1180 548,1181 611,1183 673,1185 736,1186 798,1188 861,1189 923,1191 986,1191 1048,1192 1111,1192 1173,1192 1236,1192 1298,1191 1361,1190 1361,1156 1298,1157 1236,1158 1173,1158 1111,1158 1048,1158 986,1157 923,1157 861,1155 798,1154 736,1152 673,1151 611,1149 548,1147 486,1146 423,1144 361,1142 298,1141 236,1139 173,1138 111,1137"/>
+                <Baseline points="111,1160 173,1161 236,1162 298,1164 361,1165 423,1167 486,1169 548,1170 611,1172 673,1174 736,1175 798,1177 861,1178 923,1180 986,1180 1048,1181 1111,1181 1173,1181 1236,1181 1298,1180 1361,1179"/>
+                <TextEquiv>
+                    <Unicode>valet. potest formari eadem distinctio de nominali negatione. Ex hiis se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="107,1217 169,1218 232,1220 294,1222 357,1224 420,1226 482,1227 545,1229 607,1231 670,1233 733,1235 795,1236 858,1237 920,1239 983,1239 1046,1240 1108,1241 1171,1241 1233,1240 1296,1240 1359,1239 1359,1206 1296,1207 1233,1207 1171,1208 1108,1208 1046,1207 983,1206 920,1206 858,1204 795,1203 733,1202 670,1200 607,1198 545,1196 482,1194 420,1193 357,1191 294,1189 232,1187 169,1185 107,1184"/>
+                <Baseline points="107,1206 169,1207 232,1209 294,1211 357,1213 420,1215 482,1216 545,1218 607,1220 670,1222 733,1224 795,1225 858,1226 920,1228 983,1228 1046,1229 1108,1230 1171,1230 1233,1229 1296,1229 1359,1228"/>
+                <TextEquiv>
+                    <Unicode>quitur que omnis negatio est nepharie conditionis quia ablativa. Sed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="106,1264 168,1267 231,1270 294,1272 357,1274 420,1276 483,1278 545,1279 608,1281 671,1282 734,1283 797,1284 860,1285 923,1285 985,1286 1048,1287 1111,1287 1174,1287 1237,1288 1300,1288 1363,1288 1363,1255 1300,1255 1237,1255 1174,1254 1111,1254 1048,1254 985,1253 923,1252 860,1252 797,1251 734,1250 671,1249 608,1248 545,1246 483,1245 420,1243 357,1241 294,1239 231,1237 168,1234 106,1231"/>
+                <Baseline points="106,1253 168,1256 231,1259 294,1261 357,1263 420,1265 483,1267 545,1268 608,1270 671,1271 734,1272 797,1273 860,1274 923,1274 985,1275 1048,1276 1111,1276 1174,1276 1237,1277 1300,1277 1363,1277"/>
+                <TextEquiv>
+                    <Unicode>diceres. cum in omni genere est dare primum. x. metaphisice. que nega-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651859061380_437" custom="readingOrder {index:21;}">
+                <Coords points="112,1281 1308,1300 1334,1301 1334,1335 1204,1337 1178,1337 633,1332 449,1330 357,1328 326,1327 296,1326 234,1323 173,1320 112,1315"/>
+                <Baseline points="112,1304 142,1306 173,1309 204,1310 234,1312 265,1313 296,1315 326,1316 357,1317 388,1317 419,1318 449,1319 480,1319 511,1319 541,1320 572,1320 603,1320 633,1321 664,1321 695,1321 726,1321 1178,1326 1204,1326 1230,1325 1256,1324 1282,1323 1308,1323 1334,1324"/>
+                <TextEquiv>
+                    <Unicode>tionum est maioris negativitatis. Pro quo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>quam immediatos. et hoc non impedita. De qua dicitur quod est maligne nature. quoniam&#13;
+quicquid post se invenit totum destruit. id est negat. et oppositum inducit&#13;
+ita que ante adventum negationis si que terminorum steterit determinate vel con-&#13;
+fuse tamen. hac negatione adveniente supponet confuse distributive. et econverso&#13;
+Et ergo ista habet duo officia. s. negare et distribuere. Alia autem est infinitans&#13;
+que est ablativa termini ab omni suo significato. et cuiuslibet alterius inductiva&#13;
+intellige termini cui immediate adiungitur. ut homo de significato principali significat&#13;
+humanitatem. et de inadequato quodlibet inferius addendo ei Iy non dicen-&#13;
+do non homo. iam non stabit pro suo significato. sed pro omni alio a suo si-&#13;
+gnificato. ut bove leone etcetera verificabitur de ipsis dicendo hoc est non homo&#13;
+asino vel quocumque alio ab eius significato demonstrato. Et talis est pars extremi&#13;
+constituens propositionem affirmativam. Et est talis virtutis. quod addita supe&#13;
+riori facit inferius de ipso et econverso inferiori addita facit superius. ut homo&#13;
+est superius socrate. infinitetur Iy homo et Iy socrates. dicendo non homo. non&#13;
+socrates. Iy non socrates est superius sive et melius communius. Iy non homo. cum de&#13;
+omnibus aliis hominibus a socrate. natus est verificari Iy non homo autem&#13;
+dumtaxat de aliis ab homine. itaque arguendo sic. non socrates currit ergo non homo&#13;
+currit. arguitur a superiori ad inferius affirmative: que consequentia nihil&#13;
+valet. potest formari eadem distinctio de nominali negatione. Ex hiis se-&#13;
+quitur que omnis negatio est nepharie conditionis quia ablativa. Sed&#13;
+diceres. cum in omni genere est dare primum. x. metaphisice. que nega-&#13;
+tionum est maioris negativitatis. Pro quo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1651855189387_398" custom="readingOrder {index:1;} structure {type:[heading];}">
+            <Coords points="103,1334 1372,1334 1372,1409 103,1409"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="133,1403 189,1405 245,1407 302,1409 358,1410 415,1412 471,1413 527,1414 584,1415 640,1417 697,1417 753,1418 809,1419 866,1420 922,1420 979,1421 1035,1422 1091,1422 1148,1422 1204,1423 1261,1423 1261,1389 1204,1389 1148,1388 1091,1388 1035,1388 979,1387 922,1386 866,1386 809,1385 753,1384 697,1383 640,1383 584,1381 527,1380 471,1379 415,1378 358,1376 302,1375 245,1373 189,1371 133,1369"/>
+                <Baseline points="133,1392 189,1394 245,1396 302,1398 358,1399 415,1401 471,1402 527,1403 584,1404 640,1406 697,1406 753,1407 809,1408 866,1409"/>
+                <TextEquiv>
+                    <Unicode>Notandum tercio. per aliquas pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Notandum tercio. per aliquas pro</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651855193407_404" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="103,1409 1372,1409 1372,2164 103,2164"/>
+            <TextLine id="r1l26" custom="readingOrder {index:0;}">
+                <Coords points="108,1460 170,1463 233,1465 295,1467 358,1470 421,1472 483,1473 546,1475 609,1476 671,1477 734,1478 797,1479 859,1479 922,1479 985,1480 1047,1480 1110,1480 1173,1480 1235,1479 1298,1479 1361,1479 1361,1445 1298,1445 1235,1445 1173,1446 1110,1446 1047,1446 985,1446 922,1445 859,1445 797,1445 734,1444 671,1443 609,1442 546,1441 483,1439 421,1438 358,1436 295,1433 233,1431 170,1429 108,1426"/>
+                <Baseline points="108,1449 170,1452 233,1454 295,1456 358,1459 421,1461 483,1462 546,1464 609,1465 671,1466 734,1467 797,1468 859,1468 922,1468 985,1469 1047,1469 1110,1469 1173,1469 1235,1468 1298,1468 1361,1468"/>
+                <TextEquiv>
+                    <Unicode>positiones. Prima negatio nominalis negans posita in principio proponendis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:1;}">
+                <Coords points="110,1510 172,1513 234,1515 297,1518 359,1520 421,1521 484,1523 546,1524 608,1525 671,1526 733,1527 795,1528 858,1528 920,1529 982,1529 1045,1529 1107,1529 1169,1530 1232,1530 1294,1530 1357,1530 1357,1496 1294,1496 1232,1496 1169,1496 1107,1495 1045,1495 982,1495 920,1495 858,1494 795,1494 733,1493 671,1492 608,1491 546,1490 484,1489 421,1487 359,1486 297,1484 234,1481 172,1479 110,1476"/>
+                <Baseline points="110,1499 172,1502 234,1504 297,1507 359,1509 421,1510 484,1512 546,1513 608,1514 671,1515 733,1516 795,1517 858,1517 920,1518 982,1518 1045,1518 1107,1518 1169,1519 1232,1519 1294,1519 1357,1519"/>
+                <TextEquiv>
+                    <Unicode>ypothetice. solum negat copulam prime kathegorice. et non nagat secundam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:2;}">
+                <Coords points="105,1556 168,1559 231,1562 294,1566 357,1568 420,1570 483,1572 546,1573 609,1575 672,1576 735,1577 798,1578 861,1578 924,1579 987,1579 1050,1579 1113,1579 1176,1579 1239,1579 1302,1578 1365,1578 1365,1544 1302,1544 1239,1545 1176,1545 1113,1545 1050,1545 987,1545 924,1545 861,1544 798,1544 735,1543 672,1542 609,1541 546,1539 483,1538 420,1536 357,1534 294,1532 231,1528 168,1525 105,1522"/>
+                <Baseline points="105,1545 168,1548 231,1551 294,1555 357,1557 420,1559 483,1561 546,1562 609,1564 672,1565 735,1566 798,1567 861,1567 924,1568 987,1568 1050,1568 1113,1568 1176,1568 1239,1568 1302,1567 1365,1567"/>
+                <TextEquiv>
+                    <Unicode>kathegoricam. ut nullus homo currit et deus est. Iy nullus solum cadit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:3;}">
+                <Coords points="112,1606 174,1610 236,1613 298,1616 360,1618 422,1621 484,1622 547,1624 609,1625 671,1626 733,1626 795,1627 857,1627 919,1627 982,1627 1044,1627 1106,1627 1168,1627 1230,1626 1292,1627 1355,1627 1355,1593 1292,1593 1230,1592 1168,1593 1106,1593 1044,1593 982,1593 919,1593 857,1593 795,1593 733,1592 671,1592 609,1591 547,1590 484,1588 422,1587 360,1584 298,1582 236,1579 174,1576 112,1572"/>
+                <Baseline points="112,1595 174,1599 236,1602 298,1605 360,1607 422,1610 484,1611 547,1613 609,1614 671,1615 733,1615 795,1616 857,1616 919,1616 982,1616 1044,1616 1106,1616 1168,1616 1230,1615 1292,1616 1355,1616"/>
+                <TextEquiv>
+                    <Unicode>supra primam copulam. et super extrema pertinentia ad illam copulam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:4;}">
+                <Coords points="115,1656 177,1661 239,1664 302,1667 364,1670 427,1672 489,1674 551,1675 614,1676 676,1676 739,1676 801,1676 863,1676 926,1676 988,1676 1051,1676 1113,1676 1175,1676 1238,1676 1300,1676 1363,1677 1363,1643 1300,1642 1238,1642 1175,1642 1113,1642 1051,1642 988,1642 926,1642 863,1642 801,1642 739,1642 676,1642 614,1642 551,1641 489,1640 427,1638 364,1636 302,1633 239,1630 177,1627 115,1622"/>
+                <Baseline points="115,1645 177,1650 239,1653 302,1656 364,1659 427,1661 489,1663 551,1664 614,1665 676,1665 739,1665 801,1665 863,1665 926,1665 988,1665 1051,1665 1113,1665 1175,1665 1238,1665 1300,1665 1363,1666"/>
+                <TextEquiv>
+                    <Unicode>¶ Secunda propositio. negatio negans adverbialis posita in principio proposi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:5;}">
+                <Coords points="116,1710 178,1713 240,1716 302,1718 365,1720 427,1721 489,1723 551,1724 614,1725 676,1726 738,1726 800,1727 863,1727 925,1727 987,1727 1049,1727 1112,1726 1174,1726 1236,1726 1298,1725 1361,1725 1361,1691 1298,1691 1236,1692 1174,1692 1112,1692 1049,1693 987,1693 925,1693 863,1693 800,1693 738,1692 676,1692 614,1691 551,1690 489,1689 427,1687 365,1686 302,1684 240,1682 178,1679 116,1676"/>
+                <Baseline points="116,1699 178,1702 240,1705 302,1707 365,1709 427,1710 489,1712 551,1713 614,1714 676,1715 738,1715 800,1716 863,1716 925,1716 987,1716 1049,1716 1112,1715 1174,1715 1236,1715 1298,1714 1361,1714"/>
+                <TextEquiv>
+                    <Unicode>tionis ypothetice. negat omnes copulas sequentia. et distribuit terminos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:6;}">
+                <Coords points="113,1763 175,1765 237,1767 299,1769 361,1771 423,1772 485,1773 547,1774 609,1775 671,1775 734,1776 796,1776 858,1776 920,1776 982,1776 1044,1776 1106,1776 1168,1776 1230,1776 1292,1776 1355,1776 1355,1742 1292,1742 1230,1742 1168,1742 1106,1742 1044,1742 982,1742 920,1742 858,1742 796,1742 734,1742 671,1741 609,1741 547,1740 485,1739 423,1738 361,1737 299,1735 237,1733 175,1731 113,1729"/>
+                <Baseline points="113,1752 175,1754 237,1756 299,1758 361,1760 423,1761 485,1762 547,1763 609,1764 671,1764 734,1765 796,1765 858,1765 920,1765 982,1765 1044,1765 1106,1765 1168,1765 1230,1765 1292,1765 1355,1765"/>
+                <TextEquiv>
+                    <Unicode>pertinentia. ad illas copulas ut non homo currit et deus est ibi deus supponit co-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:7;}">
+                <Coords points="119,1813 180,1816 242,1818 304,1819 365,1821 427,1822 489,1823 550,1824 612,1825 674,1825 736,1825 797,1826 859,1826 921,1826 982,1826 1044,1826 1106,1825 1167,1825 1229,1825 1291,1825 1353,1824 1353,1790 1291,1791 1229,1791 1167,1791 1106,1791 1044,1792 982,1792 921,1792 859,1792 797,1792 736,1791 674,1791 612,1791 550,1790 489,1789 427,1788 365,1787 304,1785 242,1784 180,1782 119,1779"/>
+                <Baseline points="119,1802 180,1805 242,1807 304,1808 365,1810 427,1811 489,1812 550,1813 612,1814 674,1814 736,1814 797,1815 859,1815 921,1815 982,1815 1044,1815 1106,1814 1167,1814 1229,1814 1291,1814 1353,1813"/>
+                <TextEquiv>
+                    <Unicode>fuse distributive. quia equi posset isti nullus deus est. Et intelligitur ista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:8;}">
+                <Coords points="107,1861 169,1864 232,1867 295,1869 358,1871 421,1872 484,1873 547,1873 610,1874 673,1874 736,1874 798,1874 861,1874 924,1874 987,1873 1050,1873 1113,1873 1176,1873 1239,1873 1302,1874 1365,1875 1365,1841 1302,1840 1239,1839 1176,1839 1113,1839 1050,1839 987,1839 924,1840 861,1840 798,1840 736,1840 673,1840 610,1840 547,1839 484,1839 421,1838 358,1837 295,1835 232,1833 169,1830 107,1827"/>
+                <Baseline points="107,1850 169,1853 232,1856 295,1858 358,1860 421,1861 484,1862 547,1862 610,1863 673,1863 736,1863 798,1863 861,1863 924,1863 987,1862 1050,1862 1113,1862 1176,1862 1239,1862 1302,1863 1365,1864"/>
+                <TextEquiv>
+                    <Unicode>secunda regula sive propositio. de ypothetica non consequentionali. quia in ypothetica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:9;}">
+                <Coords points="119,1911 181,1914 243,1916 305,1918 367,1919 429,1920 491,1921 553,1922 615,1922 677,1923 740,1923 802,1923 864,1923 926,1923 988,1923 1050,1923 1112,1923 1174,1923 1236,1923 1298,1924 1361,1925 1361,1892 1298,1891 1236,1890 1174,1890 1112,1890 1050,1890 988,1890 926,1890 864,1890 802,1890 740,1890 677,1890 615,1889 553,1889 491,1888 429,1887 367,1886 305,1885 243,1883 181,1881 119,1878"/>
+                <Baseline points="119,1900 181,1903 243,1905 305,1907 367,1908 429,1909 491,1910 553,1911 615,1911 677,1912 740,1912 802,1912 864,1912 926,1912 988,1912 1050,1912 1112,1912 1174,1912 1236,1912 1298,1913 1361,1914"/>
+                <TextEquiv>
+                    <Unicode>consequentionali solum talis negatio negat notam illationis. et non negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:10;}">
+                <Coords points="119,1959 180,1962 242,1965 304,1967 366,1969 428,1970 489,1971 551,1972 613,1973 675,1973 737,1973 798,1973 860,1973 922,1973 984,1972 1046,1972 1107,1972 1169,1971 1231,1971 1293,1970 1355,1970 1355,1937 1293,1937 1231,1938 1169,1938 1107,1939 1046,1939 984,1939 922,1940 860,1940 798,1940 737,1940 675,1940 613,1940 551,1939 489,1938 428,1937 366,1936 304,1934 242,1932 180,1929 119,1926"/>
+                <Baseline points="119,1948 180,1951 242,1954 304,1956 366,1958 428,1959 489,1960 551,1961 613,1962 675,1962 737,1962 798,1962 860,1962 922,1962 984,1961 1046,1961 1107,1961 1169,1960 1231,1960 1293,1959 1355,1959"/>
+                <TextEquiv>
+                    <Unicode>copulas verbales. ut non si homo est animal deus est. Iy non solum negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:11;}">
+                <Coords points="112,2009 175,2012 238,2014 301,2016 364,2018 427,2020 490,2021 553,2023 616,2024 679,2024 742,2025 805,2025 868,2025 931,2025 994,2024 1057,2024 1120,2022 1183,2021 1246,2019 1309,2018 1372,2015 1372,1981 1309,1984 1246,1985 1183,1987 1120,1988 1057,1990 994,1990 931,1991 868,1991 805,1991 742,1991 679,1990 616,1990 553,1989 490,1987 427,1986 364,1984 301,1982 238,1980 175,1978 112,1975"/>
+                <Baseline points="112,1998 175,2001 238,2003 301,2005 364,2007 427,2009 490,2010 553,2012 616,2013 679,2013 742,2014 805,2014 868,2014 931,2014 994,2013 1057,2013 1120,2011 1183,2010 1246,2008 1309,2007 1372,2004"/>
+                <TextEquiv>
+                    <Unicode>Iy si. et non non alias copulas. ¶ Tercia propositio. negatio negans adverbialis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:12;}">
+                <Coords points="112,2059 174,2061 237,2063 299,2065 362,2066 425,2068 487,2069 550,2070 612,2072 675,2072 738,2073 800,2073 863,2074 925,2073 988,2073 1051,2072 1113,2071 1176,2069 1238,2067 1301,2065 1364,2061 1364,2027 1301,2031 1238,2033 1176,2035 1113,2037 1051,2038 988,2039 925,2039 863,2040 800,2039 738,2039 675,2038 612,2038 550,2036 487,2035 425,2034 362,2032 299,2031 237,2029 174,2027 112,2025"/>
+                <Baseline points="112,2048 174,2050 237,2052 299,2054 362,2055 425,2057 487,2058 550,2059 612,2061 675,2061 738,2062 800,2062 863,2063 925,2062 988,2062 1051,2061 1113,2060 1176,2058 1238,2056 1301,2054 1364,2050"/>
+                <TextEquiv>
+                    <Unicode>immediate addita. copule verbali negat tamen modo illam copulam distri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:13;}">
+                <Coords points="122,2110 183,2112 245,2114 307,2116 369,2118 431,2119 493,2120 555,2121 617,2122 679,2123 741,2123 802,2123 864,2123 926,2123 988,2122 1050,2122 1112,2121 1174,2119 1236,2118 1298,2116 1360,2114 1360,2080 1298,2082 1236,2084 1174,2085 1112,2087 1050,2088 988,2088 926,2089 864,2089 802,2089 741,2089 679,2089 617,2088 555,2087 493,2086 431,2085 369,2084 307,2082 245,2080 183,2078 122,2076"/>
+                <Baseline points="122,2099 183,2101 245,2103 307,2105 369,2107 431,2108 493,2109 555,2110 617,2111 679,2112 741,2112 802,2112 864,2112 926,2112 988,2111 1050,2111 1112,2110 1174,2108 1236,2107 1298,2105 1360,2103"/>
+                <TextEquiv>
+                    <Unicode>buendo terminos tantum modo ad talem copulam pertinens. ut homo non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:14;}">
+                <Coords points="114,2165 176,2166 239,2167 301,2168 364,2169 427,2170 489,2170 552,2171 614,2171 677,2171 740,2172 802,2172 865,2171 927,2171 990,2171 1053,2171 1115,2171 1178,2170 1240,2170 1303,2169 1366,2169 1366,2135 1303,2135 1240,2136 1178,2136 1115,2137 1053,2137 990,2137 927,2137 865,2137 802,2138 740,2138 677,2137 614,2137 552,2137 489,2136 427,2136 364,2135 301,2134 239,2133 176,2132 114,2131"/>
+                <Baseline points="114,2154 176,2155 239,2156 301,2157 364,2158 427,2159 489,2159 552,2160 614,2160 677,2160 740,2161 802,2161 865,2160 927,2160 990,2160 1053,2160 1115,2160 1178,2159 1240,2159 1303,2158 1366,2158"/>
+                <TextEquiv>
+                    <Unicode>est animal et deus est. prima copula tantum modo negatur. et Iy animal solum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>positiones. Prima negatio nominalis negans posita in principio proponendis&#13;
+ypothetice. solum negat copulam prime kathegorice. et non nagat secundam&#13;
+kathegoricam. ut nullus homo currit et deus est. Iy nullus solum cadit&#13;
+supra primam copulam. et super extrema pertinentia ad illam copulam.&#13;
+¶ Secunda propositio. negatio negans adverbialis posita in principio proposi-&#13;
+tionis ypothetice. negat omnes copulas sequentia. et distribuit terminos&#13;
+pertinentia. ad illas copulas ut non homo currit et deus est ibi deus supponit co-&#13;
+fuse distributive. quia equi posset isti nullus deus est. Et intelligitur ista&#13;
+secunda regula sive propositio. de ypothetica non consequentionali. quia in ypothetica&#13;
+consequentionali solum talis negatio negat notam illationis. et non negat&#13;
+copulas verbales. ut non si homo est animal deus est. Iy non solum negat&#13;
+Iy si. et non non alias copulas. ¶ Tercia propositio. negatio negans adverbialis&#13;
+immediate addita. copule verbali negat tamen modo illam copulam distri-&#13;
+buendo terminos tantum modo ad talem copulam pertinens. ut homo non&#13;
+est animal et deus est. prima copula tantum modo negatur. et Iy animal solum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="catch-word" id="TextRegion_1651855193406_403" custom="readingOrder {index:3;} structure {type:catch-word;}">
+            <Coords points="103,2164 1372,2164 1372,2224 103,2224"/>
+            <TextLine id="r1l41" custom="readingOrder {index:0;}">
+                <Coords points="1182,2223 1207,2222 1233,2224 1258,2224 1284,2223 1284,2189 1258,2190 1233,2190 1207,2188 1182,2189"/>
+                <Baseline points="1182,2212 1207,2211 1233,2213 1258,2213 1284,2212"/>
+                <TextEquiv>
+                    <Unicode>D 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D 3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

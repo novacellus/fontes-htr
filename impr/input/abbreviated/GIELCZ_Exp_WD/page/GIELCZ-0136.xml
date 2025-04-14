@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:24.497+02:00</Created>
+        <LastChange>2022-03-31T21:11:27.388+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131553" pageNr="136" tsid="79648337" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=CQLDNJFQKTLHRTZRNPDCABMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITJXAWIPTMGIFEYEJBFHYRJR" imageId="29937178"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0136.jpg" imageWidth="1809" imageHeight="2569">
+        <PrintSpace>
+            <Coords points="0,0 1745,0 1745,2569 0,2569"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1648753887403" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;} structure {type:DocParagraf;}">
+            <Coords points="436,277 436,2192 1713,2192 1713,277"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="436,337 499,337 563,337 626,337 690,338 754,338 817,338 881,339 945,339 1008,340 1072,340 1136,341 1199,342 1263,343 1327,344 1390,345 1454,347 1518,348 1581,349 1645,351 1709,353 1709,293 1645,291 1581,289 1518,288 1454,287 1390,285 1327,284 1263,283 1199,282 1136,281 1072,280 1008,280 945,279 881,279 817,278 754,278 690,278 626,277 563,277 499,277 436,277"/>
+                <Baseline points="436,317 499,317 563,317 626,317 690,318 754,318 817,318 881,319 945,319 1008,320 1072,320 1136,321 1199,322 1263,323 1327,324 1390,325 1454,327 1518,328 1581,329 1645,331 1709,333"/>
+                <TextEquiv>
+                    <Unicode>veniens. vt postea dicetur. et sic lij veniens accipitur pro suo s'cato scd'm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="440,432 503,431 567,430 630,430 694,430 758,430 821,430 885,430 948,431 1012,432 1076,433 1139,434 1203,435 1266,436 1330,437 1394,439 1457,440 1521,442 1584,444 1648,445 1712,447 1712,387 1648,385 1584,384 1521,382 1457,380 1394,379 1330,377 1266,376 1203,375 1139,374 1076,373 1012,372 948,371 885,370 821,370 758,370 694,370 630,370 567,370 503,371 440,372"/>
+                <Baseline points="440,412 503,411 567,410 630,410 694,410 758,410 821,410 885,410 948,411 1012,412 1076,413 1139,414 1203,415 1266,416 1330,417 1394,419 1457,420 1521,422 1584,424 1648,425 1712,427"/>
+                <TextEquiv>
+                    <Unicode>eam rationem scd'm qua~ dr~ ipsum illud s'care. Sed secus est de illa venie~-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="438,512 501,512 565,513 629,514 693,515 756,515 820,516 884,517 948,517 1011,518 1075,519 1139,520 1203,521 1266,522 1330,523 1394,524 1458,526 1521,527 1585,529 1649,531 1713,533 1713,473 1649,471 1585,469 1521,467 1458,466 1394,464 1330,463 1266,462 1203,461 1139,460 1075,459 1011,458 948,457 884,457 820,456 756,455 693,455 629,454 565,453 501,452 438,452"/>
+                <Baseline points="438,492 501,492 565,493 629,494 693,495 756,495 820,496 884,497 948,497 1011,498 1075,499 1139,500 1203,501 1266,502 1330,503 1394,504 1458,506 1521,507 1585,509 1649,511 1713,513"/>
+                <TextEquiv>
+                    <Unicode>tem cognosco. quando lij venientem s'cat rem venientem. non scd'm eam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="441,605 504,606 567,606 631,607 694,608 757,608 821,609 884,609 947,610 1011,611 1074,612 1137,612 1201,613 1264,614 1327,615 1391,616 1454,618 1517,619 1581,621 1644,622 1708,624 1708,564 1644,562 1581,561 1517,559 1454,558 1391,556 1327,555 1264,554 1201,553 1137,552 1074,552 1011,551 947,550 884,549 821,549 757,548 694,548 631,547 567,546 504,546 441,545"/>
+                <Baseline points="441,585 504,586 567,586 631,587 694,588 757,588 821,589 884,589 947,590 1011,591 1074,592 1137,592 1201,593 1264,594 1327,595 1391,596 1454,598 1517,599 1581,601 1644,602 1708,604"/>
+                <TextEquiv>
+                    <Unicode>rationem scd'm qua~ e~ veniens vt cum lij veniens non accipitur ab intelle-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="446,689 508,689 571,690 634,690 697,690 759,690 822,691 885,691 948,692 1010,692 1073,693 1136,694 1199,694 1261,695 1324,696 1387,697 1450,698 1512,699 1575,700 1638,701 1701,703 1701,673 1638,671 1575,670 1512,669 1450,668 1387,667 1324,666 1261,665 1199,664 1136,664 1073,663 1010,662 948,662 885,661 822,661 759,660 697,660 634,660 571,660 508,659 446,659"/>
+                <Baseline points="446,679 508,679 571,680 634,680 697,680 759,680 822,681 885,681 948,682 1010,682 1073,683 1136,684 1199,684 1261,685 1324,686 1387,687 1450,688 1512,689 1575,690 1638,691 1701,693"/>
+                <TextEquiv>
+                    <Unicode>ctu. pro illa sola determinata ratione. sed accipitur sic vt tm~ valet re~ que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="440,775 503,776 566,777 629,778 692,779 756,780 819,781 882,781 945,782 1008,782 1072,782 1135,783 1198,783 1261,784 1324,784 1388,785 1451,785 1514,786 1577,787 1640,788 1704,789 1704,752 1640,751 1577,750 1514,749 1451,748 1388,748 1324,747 1261,747 1198,746 1135,746 1072,745 1008,745 945,745 882,744 819,744 756,743 692,742 629,741 566,740 503,739 440,738"/>
+                <Baseline points="440,763 503,764 566,765 629,766 692,767 756,768 819,769 882,769 945,770 1008,770 1072,770 1135,771 1198,771 1261,772 1324,772 1388,773 1451,773 1514,774 1577,775 1640,776 1704,777"/>
+                <TextEquiv>
+                    <Unicode>venit cognosco. Utrum autem hoc sit scd'm illam rationem determinata~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="451,881 513,881 575,882 638,882 700,883 763,884 825,884 887,885 950,886 1012,887 1075,887 1137,888 1199,889 1262,890 1324,891 1387,892 1449,892 1511,893 1574,894 1636,895 1699,896 1699,836 1636,835 1574,834 1511,833 1449,832 1387,832 1324,831 1262,830 1199,829 1137,828 1075,827 1012,827 950,826 887,825 825,824 763,824 700,823 638,822 575,822 513,821 451,821"/>
+                <Baseline points="451,861 513,861 575,862 638,862 700,863 763,864 825,864 887,865 950,866 1012,867 1075,867 1137,868 1199,869 1262,870 1324,871 1387,872 1449,872 1511,873 1574,874 1636,875 1699,876"/>
+                <TextEquiv>
+                    <Unicode>scd'm quam dicitur venire aut scd'm aliquam aliam rationem de hoc no~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="450,978 512,979 575,980 637,981 700,982 763,983 825,983 888,984 950,985 1013,985 1076,986 1138,986 1201,987 1263,988 1326,989 1389,990 1451,991 1514,993 1576,994 1639,996 1702,998 1702,938 1639,936 1576,934 1514,933 1451,931 1389,930 1326,929 1263,928 1201,927 1138,926 1076,926 1013,925 950,925 888,924 825,923 763,923 700,922 637,921 575,920 512,919 450,918"/>
+                <Baseline points="450,958 512,959 575,960 637,961 700,962 763,963 825,963 888,964 950,965 1013,965 1076,966 1138,966 1201,967 1263,968 1326,969 1389,970 1451,971 1514,973 1576,974 1639,976 1702,978"/>
+                <TextEquiv>
+                    <Unicode>est cura quo ad veritatem ꝓpositionis. vt supposito ꝙ cognoscere~ Ma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="442,1071 505,1072 568,1074 631,1075 694,1076 758,1077 821,1077 884,1078 947,1078 1010,1079 1074,1080 1137,1080 1200,1081 1263,1082 1326,1083 1390,1084 1453,1085 1516,1086 1579,1088 1642,1089 1706,1092 1706,1032 1642,1029 1579,1028 1516,1026 1453,1025 1390,1024 1326,1023 1263,1022 1200,1021 1137,1020 1074,1020 1010,1019 947,1018 884,1018 821,1017 758,1017 694,1016 631,1015 568,1014 505,1012 442,1011"/>
+                <Baseline points="442,1051 505,1052 568,1054 631,1055 694,1056 758,1057 821,1057 884,1058 947,1058 1010,1059 1074,1060 1137,1060 1200,1061 1263,1062 1326,1063 1390,1064 1453,1065 1516,1066 1579,1068 1642,1069 1706,1072"/>
+                <TextEquiv>
+                    <Unicode>thiam. prout est pater et non cognoscerem eum prout est veniens. aduc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="446,1165 508,1163 571,1163 634,1162 696,1162 759,1163 822,1163 884,1164 947,1164 1010,1165 1073,1166 1135,1167 1198,1169 1261,1170 1323,1171 1386,1172 1449,1173 1511,1174 1574,1175 1637,1176 1700,1177 1700,1117 1637,1116 1574,1115 1511,1114 1449,1113 1386,1112 1323,1111 1261,1110 1198,1109 1135,1107 1073,1106 1010,1105 947,1104 884,1104 822,1103 759,1103 696,1102 634,1102 571,1103 508,1103 446,1105"/>
+                <Baseline points="446,1145 508,1143 571,1143 634,1142 696,1142 759,1143 822,1143 884,1144 947,1144 1010,1145 1073,1146 1135,1147 1198,1149 1261,1150 1323,1151 1386,1152 1449,1153 1511,1154 1574,1155 1637,1156 1700,1157"/>
+                <TextEquiv>
+                    <Unicode>est verum dicere venientem cognosco. probatur quia Math' cognosco. ⁊</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="447,1250 509,1250 572,1250 635,1250 698,1250 761,1251 824,1252 886,1253 949,1254 1012,1255 1075,1256 1138,1257 1201,1258 1264,1260 1326,1260 1389,1261 1452,1262 1515,1263 1578,1263 1641,1264 1704,1264 1704,1204 1641,1204 1578,1203 1515,1203 1452,1202 1389,1201 1326,1200 1264,1200 1201,1198 1138,1197 1075,1196 1012,1195 949,1194 886,1193 824,1192 761,1191 698,1190 635,1190 572,1190 509,1190 447,1190"/>
+                <Baseline points="447,1230 509,1230 572,1230 635,1230 698,1230 761,1231 824,1232 886,1233 949,1234 1012,1235 1075,1236 1138,1237 1201,1238 1264,1240 1326,1240 1389,1241 1452,1242 1515,1243 1578,1243 1641,1244 1704,1244"/>
+                <TextEquiv>
+                    <Unicode>Math'. est veniens. ergo venientem cognosco. non tamen cognosco rem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="452,1342 514,1341 576,1340 638,1340 701,1339 763,1339 825,1339 888,1339 950,1340 1012,1340 1075,1341 1137,1342 1199,1343 1261,1344 1324,1345 1386,1346 1448,1348 1511,1349 1573,1351 1635,1352 1698,1353 1698,1293 1635,1292 1573,1291 1511,1289 1448,1288 1386,1286 1324,1285 1261,1284 1199,1283 1137,1282 1075,1281 1012,1280 950,1280 888,1279 825,1279 763,1279 701,1279 638,1280 576,1280 514,1281 452,1282"/>
+                <Baseline points="452,1322 514,1321 576,1320 638,1320 701,1319 763,1319 825,1319 888,1319 950,1320 1012,1320 1075,1321 1137,1322 1199,1323 1261,1324 1324,1325 1386,1326 1448,1328 1511,1329 1573,1331 1635,1332 1698,1333"/>
+                <TextEquiv>
+                    <Unicode>que venit. scd'm illam determinatam rationem scd'm quam est veniens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="447,1445 509,1444 572,1443 635,1442 698,1441 761,1441 824,1441 887,1441 950,1441 1013,1441 1076,1442 1138,1443 1201,1443 1264,1445 1327,1445 1390,1447 1453,1448 1516,1449 1579,1451 1642,1452 1705,1453 1705,1393 1642,1392 1579,1391 1516,1389 1453,1388 1390,1387 1327,1385 1264,1385 1201,1383 1138,1383 1076,1382 1013,1381 950,1381 887,1381 824,1381 761,1381 698,1381 635,1382 572,1383 509,1384 447,1385"/>
+                <Baseline points="447,1425 509,1424 572,1423 635,1422 698,1421 761,1421 824,1421 887,1421 950,1421 1013,1421 1076,1422 1138,1423 1201,1423 1264,1425 1327,1425 1390,1427 1453,1428 1516,1429 1579,1431 1642,1432 1705,1433"/>
+                <TextEquiv>
+                    <Unicode>patet per oppositum. quia ideo terminus scd'm debitam rationem. scd'm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="448,1539 510,1538 573,1537 635,1537 698,1537 761,1537 823,1537 886,1538 949,1538 1011,1539 1074,1540 1137,1541 1199,1542 1262,1544 1325,1545 1387,1546 1450,1547 1513,1548 1575,1548 1638,1549 1701,1550 1701,1490 1638,1489 1575,1488 1513,1488 1450,1487 1387,1486 1325,1485 1262,1484 1199,1482 1137,1481 1074,1480 1011,1479 949,1478 886,1478 823,1477 761,1477 698,1477 635,1477 573,1477 510,1478 448,1479"/>
+                <Baseline points="448,1519 510,1518 573,1517 635,1517 698,1517 761,1517 823,1517 886,1518 949,1518 1011,1519 1074,1520 1137,1521 1199,1522 1262,1524 1325,1525 1387,1526 1450,1527 1513,1528 1575,1528 1638,1529 1701,1530"/>
+                <TextEquiv>
+                    <Unicode>qua~ sua s'cata dr~ s'care ipse s'cat sed tamen non semper appellat. ideo non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="443,1627 505,1627 568,1627 630,1627 693,1627 756,1628 818,1628 881,1629 943,1630 1006,1631 1069,1632 1131,1633 1194,1634 1256,1636 1319,1637 1382,1639 1444,1641 1507,1643 1569,1644 1632,1646 1695,1649 1695,1589 1632,1586 1569,1584 1507,1583 1444,1581 1382,1579 1319,1577 1256,1576 1194,1574 1131,1573 1069,1572 1006,1571 943,1570 881,1569 818,1568 756,1568 693,1567 630,1567 568,1567 505,1567 443,1567"/>
+                <Baseline points="443,1607 505,1607 568,1607 630,1607 693,1607 756,1608 818,1608 881,1609 943,1610 1006,1611 1069,1612 1131,1613 1194,1614 1256,1616 1319,1617 1382,1619 1444,1621 1507,1623 1569,1624 1632,1626 1695,1629"/>
+                <TextEquiv>
+                    <Unicode>dr~ ꝙ appellatio est s'catio sed acceptio prout dictum est. Generał ergo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="436,1711 498,1712 561,1713 624,1714 687,1716 750,1717 812,1718 875,1719 938,1720 1001,1722 1064,1723 1126,1724 1189,1725 1252,1727 1315,1728 1378,1729 1440,1731 1503,1732 1566,1734 1629,1736 1692,1738 1692,1678 1629,1676 1566,1674 1503,1672 1440,1671 1378,1669 1315,1668 1252,1667 1189,1665 1126,1664 1064,1663 1001,1662 938,1660 875,1659 812,1658 750,1657 687,1656 624,1654 561,1653 498,1652 436,1651"/>
+                <Baseline points="436,1691 498,1692 561,1693 624,1694 687,1696 750,1697 812,1698 875,1699 938,1700 1001,1702 1064,1703 1126,1704 1189,1705 1252,1707 1315,1708 1378,1709 1440,1711 1503,1712 1566,1714 1629,1716 1692,1718"/>
+                <TextEquiv>
+                    <Unicode>scd'am diffinitionem exponendo potest sic exponi. e~ acceptio termini id</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="447,1796 508,1797 570,1798 631,1799 693,1801 754,1803 816,1804 877,1806 939,1808 1000,1809 1062,1811 1123,1813 1185,1815 1246,1816 1308,1818 1369,1820 1431,1822 1492,1825 1554,1826 1615,1828 1677,1830 1677,1770 1615,1768 1554,1766 1492,1765 1431,1762 1369,1760 1308,1758 1246,1756 1185,1755 1123,1753 1062,1751 1000,1749 939,1748 877,1746 816,1744 754,1743 693,1741 631,1739 570,1738 508,1737 447,1736"/>
+                <Baseline points="447,1776 508,1777 570,1778 631,1779 693,1781 754,1783 816,1784 877,1786 939,1788 1000,1789 1062,1791 1123,1793 1185,1795 1246,1796 1308,1798 1369,1800 1431,1802 1492,1805 1554,1806 1615,1808 1677,1810"/>
+                <TextEquiv>
+                    <Unicode>est quando aliquis terminus accipitur in propositione pro suo s'cato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="444,1885 506,1886 569,1888 632,1890 694,1891 757,1893 820,1894 882,1896 945,1898 1008,1899 1071,1901 1133,1903 1196,1904 1259,1906 1321,1908 1384,1910 1447,1911 1509,1913 1572,1914 1635,1916 1698,1918 1698,1858 1635,1856 1572,1854 1509,1853 1447,1851 1384,1850 1321,1848 1259,1846 1196,1844 1133,1843 1071,1841 1008,1839 945,1838 882,1836 820,1834 757,1833 694,1831 632,1830 569,1828 506,1826 444,1825"/>
+                <Baseline points="444,1865 506,1866 569,1868 632,1870 694,1871 757,1873 820,1874 882,1876 945,1878 1008,1879 1071,1881 1133,1883 1196,1884 1259,1886 1321,1888 1384,1890 1447,1891 1509,1893 1572,1894 1635,1896 1698,1898"/>
+                <TextEquiv>
+                    <Unicode>Nam extra ꝓpositionem terminus nu~q~ʒ appellaret suam ratione~. et hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="454,1979 516,1980 578,1980 640,1981 703,1982 765,1984 827,1985 890,1986 952,1988 1014,1990 1077,1991 1139,1993 1201,1995 1263,1996 1326,1998 1388,1999 1450,2000 1513,2001 1575,2002 1637,2002 1700,2002 1700,1942 1637,1942 1575,1942 1513,1941 1450,1940 1388,1939 1326,1938 1263,1936 1201,1935 1139,1933 1077,1931 1014,1930 952,1928 890,1926 827,1925 765,1924 703,1922 640,1921 578,1920 516,1920 454,1919"/>
+                <Baseline points="454,1959 516,1960 578,1960 640,1961 703,1962 765,1964 827,1965 890,1966 952,1968 1014,1970 1077,1971 1139,1973 1201,1975 1263,1976 1326,1978 1388,1979 1450,1980 1513,1981 1575,1982 1637,1982 1700,1982"/>
+                <TextEquiv>
+                    <Unicode>qua~do talis terminus scd'm illam debitam rationem. scd'm qua~ sua s'cata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="444,2074 506,2073 568,2073 630,2074 693,2074 755,2075 817,2077 880,2079 942,2080 1004,2083 1067,2084 1129,2087 1191,2088 1253,2090 1316,2091 1378,2092 1440,2093 1503,2093 1565,2092 1627,2091 1690,2089 1690,2029 1627,2031 1565,2032 1503,2033 1440,2033 1378,2032 1316,2031 1253,2030 1191,2028 1129,2027 1067,2024 1004,2023 942,2020 880,2019 817,2017 755,2015 693,2014 630,2014 568,2013 506,2013 444,2014"/>
+                <Baseline points="444,2054 506,2053 568,2053 630,2054 693,2054 755,2055 817,2057 880,2059 942,2060 1004,2063 1067,2064 1129,2067 1191,2068 1253,2070 1316,2071 1378,2072 1440,2073 1503,2073 1565,2072 1627,2071 1690,2069"/>
+                <TextEquiv>
+                    <Unicode>aut suum s'catum s'cat. vt si ille terminus veniens. in ꝓpositione positus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="445,2175 508,2175 571,2176 634,2177 697,2178 760,2180 823,2181 887,2183 950,2185 1013,2187 1076,2188 1139,2190 1202,2191 1265,2192 1329,2192 1392,2192 1455,2191 1518,2190 1581,2188 1644,2184 1708,2181 1708,2121 1644,2124 1581,2128 1518,2130 1455,2131 1392,2132 1329,2132 1265,2132 1202,2131 1139,2130 1076,2128 1013,2127 950,2125 887,2123 823,2121 760,2120 697,2118 634,2117 571,2116 508,2115 445,2115"/>
+                <Baseline points="445,2155 508,2155 571,2156 634,2157 697,2158 760,2160 823,2161 887,2163 950,2165 1013,2167 1076,2168 1139,2170 1202,2171 1265,2172 1329,2172 1392,2172 1455,2171 1518,2170 1581,2168 1644,2164 1708,2161"/>
+                <TextEquiv>
+                    <Unicode>capitur pro re veniente. scd'm illam determinatam rationem. scd'm quam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>veniens. vt postea dicetur. et sic lij veniens accipitur pro suo s'cato scd'm&#13;
+eam rationem scd'm qua~ dr~ ipsum illud s'care. Sed secus est de illa venie~-&#13;
+tem cognosco. quando lij venientem s'cat rem venientem. non scd'm eam&#13;
+rationem scd'm qua~ e~ veniens vt cum lij veniens non accipitur ab intelle-&#13;
+ctu. pro illa sola determinata ratione. sed accipitur sic vt tm~ valet re~ que&#13;
+venit cognosco. Utrum autem hoc sit scd'm illam rationem determinata~&#13;
+scd'm quam dicitur venire aut scd'm aliquam aliam rationem de hoc no~&#13;
+est cura quo ad veritatem ꝓpositionis. vt supposito ꝙ cognoscere~ Ma-&#13;
+thiam. prout est pater et non cognoscerem eum prout est veniens. aduc&#13;
+est verum dicere venientem cognosco. probatur quia Math' cognosco. ⁊&#13;
+Math'. est veniens. ergo venientem cognosco. non tamen cognosco rem&#13;
+que venit. scd'm illam determinatam rationem scd'm quam est veniens.&#13;
+patet per oppositum. quia ideo terminus scd'm debitam rationem. scd'm&#13;
+qua~ sua s'cata dr~ s'care ipse s'cat sed tamen non semper appellat. ideo non&#13;
+dr~ ꝙ appellatio est s'catio sed acceptio prout dictum est. Generał ergo&#13;
+scd'am diffinitionem exponendo potest sic exponi. e~ acceptio termini id&#13;
+est quando aliquis terminus accipitur in propositione pro suo s'cato&#13;
+Nam extra ꝓpositionem terminus nu~q~ʒ appellaret suam ratione~. et hoc&#13;
+qua~do talis terminus scd'm illam debitam rationem. scd'm qua~ sua s'cata&#13;
+aut suum s'catum s'cat. vt si ille terminus veniens. in ꝓpositione positus.&#13;
+capitur pro re veniente. scd'm illam determinatam rationem. scd'm quam</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:1;}">
+            <Coords points="90,0 1734,0 1734,69 90,69"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:2;}">
+            <Coords points="1,2514 1745,2514 1745,2569 1,2569"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:3;}">
+            <Coords points="0,918 55,918 55,2538 0,2538"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

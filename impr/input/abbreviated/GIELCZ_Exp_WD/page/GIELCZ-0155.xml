@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:26.776+02:00</Created>
+        <LastChange>2022-04-01T11:33:56.587+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131575" pageNr="155" tsid="79648423" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=QCVYXFEWVFBQRITYMAWBNOJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIIKVIVMEBJMZECPCSHAXVRQ" imageId="29937200"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0155.jpg" imageWidth="1741" imageHeight="2550">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1648805636587" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1648551436568_228"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1648551436568_227"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1648551436568_228" custom="readingOrder {index:0;} structure {type:DocParagraf;}">
+            <Coords points="80,227 1390,220 1390,2159 80,2159"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="98,335 161,333 224,332 287,331 350,330 413,330 476,330 540,329 603,329 666,329 729,329 792,330 855,330 918,330 982,331 1045,331 1108,332 1171,332 1234,332 1297,333 1361,333 1361,291 1297,291 1234,290 1171,290 1108,290 1045,289 982,289 918,288 855,288 792,288 729,287 666,287 603,287 540,287 476,288 413,288 350,288 287,289 224,290 161,291 98,293"/>
+                <Baseline points="98,321 161,319 224,318 287,317 350,316 413,316 476,316 540,315 603,315 666,315 729,315 792,316 855,316 918,316 982,317 1045,317 1108,318 1171,318 1234,318 1297,319 1361,319"/>
+                <TextEquiv>
+                    <Unicode>interiorem. no~ faciu~t terminos sequen~ se. sic suam ratione~ appellare. Ex-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="97,425 159,424 222,423 284,423 347,422 410,422 472,422 535,422 598,422 660,423 723,423 786,424 848,424 911,425 974,425 1036,426 1099,426 1162,426 1224,427 1287,426 1350,426 1350,381 1287,381 1224,382 1162,381 1099,381 1036,381 974,380 911,380 848,379 786,379 723,378 660,378 598,377 535,377 472,377 410,377 347,377 284,378 222,378 159,379 97,380"/>
+                <Baseline points="97,410 159,409 222,408 284,408 347,407 410,407 472,407 535,407 598,407 660,408 723,408 786,409 848,409 911,410 974,410 1036,411 1099,411 1162,411 1224,412 1287,411 1350,411"/>
+                <TextEquiv>
+                    <Unicode>emplum vt video homine~. lij homine~ no~ appellat rationem sua~. Et dico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="102,515 164,516 227,516 289,517 352,517 415,518 477,518 540,518 603,519 665,519 728,519 791,519 853,519 916,519 979,518 1041,518 1104,518 1167,517 1229,517 1292,516 1355,516 1355,471 1292,471 1229,472 1167,472 1104,473 1041,473 979,473 916,474 853,474 791,474 728,474 665,474 603,474 540,473 477,473 415,473 352,472 289,472 227,471 164,471 102,470"/>
+                <Baseline points="102,500 164,501 227,501 289,502 352,502 415,503 477,503 540,503 603,504 665,504 728,504 791,504 853,504 916,504 979,503 1041,503 1104,503 1167,502 1229,502 1292,501 1355,501"/>
+                <TextEquiv>
+                    <Unicode>etia~ notanter terminos sequen~. quia terminu~  precedente~ no~ facit appel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="98,606 160,606 223,606 286,606 349,606 412,606 475,606 538,606 601,606 664,606 727,606 789,606 852,606 915,607 978,606 1041,606 1104,606 1167,606 1230,605 1293,605 1356,604 1356,559 1293,560 1230,560 1167,561 1104,561 1041,561 978,561 915,562 852,561 789,561 727,561 664,561 601,561 538,561 475,561 412,561 349,561 286,561 223,561 160,561 98,561"/>
+                <Baseline points="98,591 160,591 223,591 286,591 349,591 412,591 475,591 538,591 601,591 664,591 727,591 789,591 852,591 915,592 978,591 1041,591 1104,591 1167,591 1230,590 1293,590 1356,589"/>
+                <TextEquiv>
+                    <Unicode>lare sua~ ratione~. vt hic veniente~ cognosco. lij veniente~ no~ appellat sua~ ra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="87,697 150,697 213,697 276,697 339,698 402,698 465,698 528,698 591,698 654,699 718,699 781,699 844,699 907,699 970,699 1033,699 1096,699 1159,700 1222,700 1285,700 1349,700 1349,655 1285,655 1222,655 1159,655 1096,654 1033,654 970,654 907,654 844,654 781,654 718,654 654,654 591,653 528,653 465,653 402,653 339,653 276,652 213,652 150,652 87,652"/>
+                <Baseline points="87,682 150,682 213,682 276,682 339,683 402,683 465,683 528,683 591,683 654,684 718,684 781,684 844,684 907,684 970,684 1033,684 1096,684 1159,685 1222,685 1285,685 1349,685"/>
+                <TextEquiv>
+                    <Unicode>tione~ vn~ hec e~ vera venie~te~ cognosco. supposito ꝙ re~ q~ venit cognoscere~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:75; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="95,787 161,788 227,788 293,788 360,788 426,788 492,787 558,787 625,787 691,786 757,786 823,786 890,786 956,786 1022,786 1088,786 1155,787 1221,788 1287,789 1354,791 1354,746 1287,744 1221,743 1155,742 1088,741 1022,741 956,741 890,741 823,741 757,741 691,741 625,742 558,742 492,742 426,743 360,743 293,743 227,743 161,743 95,742"/>
+                <Baseline points="95,772 161,773 227,773 293,773 360,773 426,773 492,772 558,772 625,772 691,771 757,771 823,771 890,771 956,771 1022,771 1088,771 1155,772 1221,773 1287,774 1354,776"/>
+                <TextEquiv>
+                    <Unicode>licet no~ sub ea ratione qua venit. et tunc sensus e~ iste rem q~ venit cogosco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="91,882 154,881 217,881 280,881 344,880 407,880 470,880 533,880 597,880 660,881 723,881 786,881 850,882 913,883 976,883 1039,884 1103,885 1166,886 1229,887 1292,889 1356,890 1356,845 1292,844 1229,842 1166,841 1103,840 1039,839 976,838 913,838 850,837 786,836 723,836 660,836 597,835 533,835 470,835 407,835 344,835 280,836 217,836 154,836 91,837"/>
+                <Baseline points="91,867 154,866 217,866 280,866 344,865 407,865 470,865 533,865 597,865 660,866 723,866 786,866 850,867 913,868 976,868 1039,869 1103,870 1166,871 1229,872 1292,874 1356,875"/>
+                <TextEquiv>
+                    <Unicode>scd'm qua~ ratione~ hoc sit no~ e~ cura. quantu~ ad veritate~ ꝓpo~nis. ideo termi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="91,978 154,977 217,976 281,976 344,975 408,975 471,975 535,975 598,976 662,976 725,977 788,977 852,978 915,979 979,979 1042,980 1106,981 1169,981 1233,982 1296,982 1360,982 1360,952 1296,952 1233,952 1169,951 1106,951 1042,950 979,949 915,949 852,948 788,947 725,947 662,946 598,946 535,945 471,945 408,945 344,945 281,946 217,946 154,947 91,948"/>
+                <Baseline points="91,968 154,967 217,966 281,966 344,965 408,965 471,965 535,965 598,966 662,966 725,967 788,967 852,968 915,969 979,969 1042,970 1106,971 1169,971 1233,972 1296,972 1360,972"/>
+                <TextEquiv>
+                    <Unicode>nus seque~s appellat sua~ ratione~ terminus au~t p~cede~s no~. Dico etiam du~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="99,1072 161,1072 224,1072 287,1072 350,1072 413,1072 476,1072 539,1072 602,1071 665,1071 728,1071 790,1071 853,1071 916,1071 979,1070 1042,1070 1105,1071 1168,1071 1231,1071 1294,1071 1357,1072 1357,1038 1294,1037 1231,1037 1168,1037 1105,1037 1042,1036 979,1036 916,1037 853,1037 790,1037 728,1037 665,1037 602,1037 539,1038 476,1038 413,1038 350,1038 287,1038 224,1038 161,1038 99,1038"/>
+                <Baseline points="99,1061 161,1061 224,1061 287,1061 350,1061 413,1061 476,1061 539,1061 602,1060 665,1060 728,1060 790,1060 853,1060 916,1060 979,1059 1042,1059 1105,1060 1168,1060 1231,1060 1294,1060 1357,1061"/>
+                <TextEquiv>
+                    <Unicode>modo talis terminus regat^ a tali verbo. ta~q~ʒ termina~s actu~ s;catu~ ꝑ tale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="93,1164 156,1164 219,1165 283,1165 346,1165 409,1166 473,1166 536,1166 599,1166 663,1166 726,1167 789,1167 853,1167 916,1167 979,1167 1043,1167 1106,1166 1169,1166 1233,1166 1296,1166 1360,1166 1360,1121 1296,1121 1233,1121 1169,1121 1106,1121 1043,1122 979,1122 916,1122 853,1122 789,1122 726,1122 663,1121 599,1121 536,1121 473,1121 409,1121 346,1120 283,1120 219,1120 156,1119 93,1119"/>
+                <Baseline points="93,1149 156,1149 219,1150 283,1150 346,1150 409,1151 473,1151 536,1151 599,1151 663,1151 726,1152 789,1152 853,1152 916,1152 979,1152 1043,1152 1106,1151 1169,1151 1233,1151 1296,1151 1360,1151"/>
+                <TextEquiv>
+                    <Unicode>verbu~. na~ si terminus no~ regeret~ a tali vebo nec terminaret actum verbi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="86,1247 149,1249 213,1250 276,1250 340,1251 403,1251 467,1251 530,1250 594,1250 657,1249 721,1249 785,1248 848,1248 912,1248 975,1247 1039,1247 1102,1248 1166,1248 1229,1249 1293,1250 1357,1252 1357,1222 1293,1220 1229,1219 1166,1218 1102,1218 1039,1217 975,1217 912,1218 848,1218 785,1218 721,1219 657,1219 594,1220 530,1220 467,1221 403,1221 340,1221 276,1220 213,1220 149,1219 86,1217"/>
+                <Baseline points="86,1237 149,1239 213,1240 276,1240 340,1241 403,1241 467,1241 530,1240 594,1240 657,1239 721,1239 785,1238 848,1238 912,1238 975,1237 1039,1237 1102,1238 1166,1238 1229,1239 1293,1240 1357,1242"/>
+                <TextEquiv>
+                    <Unicode>Extu~c no~ appellaret sua~ ratione~. vt intelligo hoi~em qui e~ albus lij albus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="89,1343 152,1343 215,1343 279,1343 342,1343 406,1343 469,1343 533,1343 596,1343 660,1343 723,1343 786,1344 850,1344 913,1345 977,1345 1040,1345 1104,1346 1167,1346 1231,1347 1294,1347 1358,1347 1358,1305 1294,1305 1231,1305 1167,1304 1104,1304 1040,1303 977,1303 913,1303 850,1302 786,1302 723,1301 660,1301 596,1301 533,1301 469,1301 406,1301 342,1301 279,1301 215,1301 152,1301 89,1301"/>
+                <Baseline points="89,1329 152,1329 215,1329 279,1329 342,1329 406,1329 469,1329 533,1329 596,1329 660,1329 723,1329 786,1330 850,1330 913,1331 977,1331 1040,1331 1104,1332 1167,1332 1231,1333 1294,1333 1358,1333"/>
+                <TextEquiv>
+                    <Unicode>licet sequatur hoc verbum intelligo. tn~ no~ appellat ratione~ sua~. quia non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;}">
+                <Coords points="95,1431 158,1431 221,1431 284,1431 348,1431 411,1431 474,1432 538,1432 601,1432 664,1432 728,1432 791,1433 854,1433 917,1434 981,1435 1044,1436 1107,1436 1171,1438 1234,1439 1297,1440 1361,1442 1361,1397 1297,1395 1234,1394 1171,1393 1107,1391 1044,1391 981,1390 917,1389 854,1388 791,1388 728,1387 664,1387 601,1387 538,1387 474,1387 411,1386 348,1386 284,1386 221,1386 158,1386 95,1386"/>
+                <Baseline points="95,1416 158,1416 221,1416 284,1416 348,1416 411,1416 474,1417 538,1417 601,1417 664,1417 728,1417 791,1418 854,1418 917,1419 981,1420 1044,1421 1107,1421 1171,1423 1234,1424 1297,1425 1361,1427"/>
+                <TextEquiv>
+                    <Unicode>regitur a tali verbo. tanq~ʒ determina~s actu~ ipsius. ideo sensus huius no~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="100,1520 166,1520 232,1520 298,1520 365,1520 431,1520 497,1520 563,1520 630,1521 696,1521 762,1521 828,1522 895,1523 961,1523 1027,1524 1093,1525 1160,1527 1226,1528 1292,1530 1359,1531 1359,1486 1292,1485 1226,1483 1160,1482 1093,1480 1027,1479 961,1478 895,1478 828,1477 762,1476 696,1476 630,1476 563,1475 497,1475 431,1475 365,1475 298,1475 232,1475 166,1475 100,1475"/>
+                <Baseline points="100,1505 166,1505 232,1505 298,1505 365,1505 431,1505 497,1505 563,1505 630,1506 696,1506 762,1506 828,1507 895,1508 961,1508 1027,1509 1093,1510 1160,1512 1226,1513 1292,1515 1359,1516"/>
+                <TextEquiv>
+                    <Unicode>est ille. itelligo homine~ qui e~ albus sub ea ratione. qua e~ homo albus. sub q~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;}">
+                <Coords points="94,1611 157,1610 220,1610 283,1610 346,1609 409,1609 472,1609 535,1610 598,1610 661,1610 725,1611 788,1611 851,1612 914,1613 977,1614 1040,1615 1103,1616 1166,1618 1229,1619 1292,1620 1356,1622 1356,1577 1292,1575 1229,1574 1166,1573 1103,1571 1040,1570 977,1569 914,1568 851,1567 788,1566 725,1566 661,1565 598,1565 535,1565 472,1564 409,1564 346,1564 283,1565 220,1565 157,1565 94,1566"/>
+                <Baseline points="94,1596 157,1595 220,1595 283,1595 346,1594 409,1594 472,1594 535,1595 598,1595 661,1595 725,1596 788,1596 851,1597 914,1598 977,1599 1040,1600 1103,1601 1166,1603 1229,1604 1292,1605 1356,1607"/>
+                <TextEquiv>
+                    <Unicode>aute~ ratione cu~ intelligo respectu esse albi no~ cura. Circa illa~ regula~ e~ No</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;}">
+                <Coords points="95,1707 157,1706 220,1705 283,1704 346,1704 409,1703 471,1703 534,1703 597,1703 660,1703 723,1703 785,1704 848,1704 911,1705 974,1706 1037,1707 1099,1708 1162,1710 1225,1711 1288,1713 1351,1715 1351,1670 1288,1668 1225,1666 1162,1665 1099,1663 1037,1662 974,1661 911,1660 848,1659 785,1659 723,1658 660,1658 597,1658 534,1658 471,1658 409,1658 346,1659 283,1659 220,1660 157,1661 95,1662"/>
+                <Baseline points="95,1692 157,1691 220,1690 283,1689 346,1689 409,1688 471,1688 534,1688 597,1688 660,1688 723,1688 785,1689 848,1689 911,1690 974,1691 1037,1692 1099,1693 1162,1695 1225,1696 1288,1698 1351,1700"/>
+                <TextEquiv>
+                    <Unicode>tandum ꝙ sicut dicta verba faciu~t terminos sequen~. se appellare suas ra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:16;}">
+                <Coords points="97,1802 160,1801 223,1800 286,1799 349,1798 412,1797 475,1797 538,1796 601,1796 664,1796 728,1796 791,1796 854,1797 917,1797 980,1798 1043,1799 1106,1800 1169,1801 1232,1803 1295,1805 1359,1807 1359,1762 1295,1760 1232,1758 1169,1756 1106,1755 1043,1754 980,1753 917,1752 854,1752 791,1751 728,1751 664,1751 601,1751 538,1751 475,1752 412,1752 349,1753 286,1754 223,1755 160,1756 97,1757"/>
+                <Baseline points="97,1787 160,1786 223,1785 286,1784 349,1783 412,1782 475,1782 538,1781 601,1781 664,1781 728,1781 791,1781 854,1782 917,1782 980,1783 1043,1784 1106,1785 1169,1786 1232,1788 1295,1790 1359,1792"/>
+                <TextEquiv>
+                    <Unicode>tiones. ita participia ab eis desce~de~tia Ↄsimiliter faciu~t. vt sicut i~ ista intel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:17;}">
+                <Coords points="99,1894 161,1894 224,1895 287,1895 350,1894 413,1894 476,1894 539,1893 602,1893 665,1893 728,1893 790,1892 853,1893 916,1893 979,1893 1042,1894 1105,1895 1168,1897 1231,1899 1294,1902 1357,1904 1357,1859 1294,1857 1231,1854 1168,1852 1105,1850 1042,1849 979,1848 916,1848 853,1848 790,1847 728,1848 665,1848 602,1848 539,1848 476,1849 413,1849 350,1849 287,1850 224,1850 161,1849 99,1849"/>
+                <Baseline points="99,1879 161,1879 224,1880 287,1880 350,1879 413,1879 476,1879 539,1878 602,1878 665,1878 728,1878 790,1877 853,1878 916,1878 979,1878 1042,1879 1105,1880 1168,1882 1231,1884 1294,1887 1357,1889"/>
+                <TextEquiv>
+                    <Unicode>ligo clamante~ appellat sua~ ratione~. ita et in illa. ego sum intel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:18;}">
+                <Coords points="95,1978 158,1978 221,1978 284,1978 347,1978 411,1978 474,1979 537,1979 600,1979 663,1980 727,1980 790,1980 853,1981 916,1981 979,1982 1043,1982 1106,1983 1169,1983 1232,1984 1295,1984 1359,1985 1359,1940 1295,1939 1232,1939 1169,1938 1106,1938 1043,1937 979,1937 916,1936 853,1936 790,1935 727,1935 663,1935 600,1934 537,1934 474,1934 411,1933 347,1933 284,1933 221,1933 158,1933 95,1933"/>
+                <Baseline points="95,1963 158,1963 221,1963 284,1963 347,1963 411,1963 474,1964 537,1964 600,1964 663,1965 727,1965 790,1965 853,1966 916,1966 979,1967 1043,1967 1106,1968 1169,1968 1232,1969 1295,1969 1359,1970"/>
+                <TextEquiv>
+                    <Unicode>ligens clamante~. lij clamantem co~similiter appellat. et ergo eodem modo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1648804878738_787" custom="readingOrder {index:19;}">
+                <Coords points="106,2027 183,2029 260,2031 337,2032 414,2033 800,2033 877,2032 954,2032 1031,2033 1108,2033 1186,2034 1263,2036 1340,2038 1365,2038 1365,2068 1340,2068 1263,2066 1186,2064 1108,2063 1031,2063 954,2062 877,2062 800,2063 414,2063 337,2062 260,2061 183,2059 106,2057"/>
+                <Baseline points="106,2047 183,2049 260,2051 337,2052 414,2053 491,2053 568,2053 646,2053 723,2053 800,2053 877,2052 954,2052 1031,2053 1108,2053 1186,2054 1263,2056 1340,2058 1365,2058"/>
+                <TextEquiv>
+                    <Unicode>appellant termini recti a participijs recti a verbis. Et ex ista regula infero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1648804884583_793" custom="readingOrder {index:20;}">
+                <Coords points="95,2130 173,2129 331,2129 409,2128 488,2128 567,2127 724,2127 803,2126 1354,2126 1367,2126 1367,2156 1354,2156 803,2156 724,2157 567,2157 488,2158 409,2158 331,2159 173,2159 95,2160"/>
+                <Baseline points="95,2150 173,2149 252,2149 331,2149 409,2148 488,2148 567,2147 645,2147 724,2147 803,2146 882,2146 960,2146 1039,2146 1118,2146 1196,2146 1275,2146 1354,2146 1367,2146"/>
+                <TextEquiv>
+                    <Unicode>Corollarie. ꝙ supposito ꝙ ego diligerem fratrem meu~prout est homo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>interiorem. no~ faciu~t terminos sequen~ se. sic suam ratione~ appellare. Ex-&#13;
+emplum vt video homine~. lij homine~ no~ appellat rationem sua~. Et dico&#13;
+etia~ notanter terminos sequen~. quia terminu~  precedente~ no~ facit appel-&#13;
+lare sua~ ratione~. vt hic veniente~ cognosco. lij veniente~ no~ appellat sua~ ra&#13;
+tione~ vn~ hec e~ vera venie~te~ cognosco. supposito ꝙ re~ q~ venit cognoscere~&#13;
+licet no~ sub ea ratione qua venit. et tunc sensus e~ iste rem q~ venit cogosco.&#13;
+scd'm qua~ ratione~ hoc sit no~ e~ cura. quantu~ ad veritate~ ꝓpo~nis. ideo termi&#13;
+nus seque~s appellat sua~ ratione~ terminus au~t p~cede~s no~. Dico etiam du~&#13;
+modo talis terminus regat^ a tali verbo. ta~q~ʒ termina~s actu~ s;catu~ ꝑ tale&#13;
+verbu~. na~ si terminus no~ regeret~ a tali vebo nec terminaret actum verbi&#13;
+Extu~c no~ appellaret sua~ ratione~. vt intelligo hoi~em qui e~ albus lij albus.&#13;
+licet sequatur hoc verbum intelligo. tn~ no~ appellat ratione~ sua~. quia non&#13;
+regitur a tali verbo. tanq~ʒ determina~s actu~ ipsius. ideo sensus huius no~&#13;
+est ille. itelligo homine~ qui e~ albus sub ea ratione. qua e~ homo albus. sub q~&#13;
+aute~ ratione cu~ intelligo respectu esse albi no~ cura. Circa illa~ regula~ e~ No&#13;
+tandum ꝙ sicut dicta verba faciu~t terminos sequen~. se appellare suas ra-&#13;
+tiones. ita participia ab eis desce~de~tia Ↄsimiliter faciu~t. vt sicut i~ ista intel&#13;
+ligo clamante~ appellat sua~ ratione~. ita et in illa. ego sum intel&#13;
+ligens clamante~. lij clamantem co~similiter appellat. et ergo eodem modo&#13;
+appellant termini recti a participijs recti a verbis. Et ex ista regula infero&#13;
+Corollarie. ꝙ supposito ꝙ ego diligerem fratrem meu~prout est homo et</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="catch-word" id="TextRegion_1648551436568_227" custom="readingOrder {index:1;} structure {type:catch-word;}">
+            <Coords points="80,2159 1390,2159 1390,2210 80,2217"/>
+            <TextLine id="line_1648805579656_866" custom="readingOrder {index:0;}">
+                <Coords points="1151,2165 1294,2165 1294,2212 1151,2212"/>
+                <TextEquiv>
+                    <Unicode>N 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>N 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

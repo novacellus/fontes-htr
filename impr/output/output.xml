@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>839309_0027_31120460.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_0">
+            <processingCategory>other</processingCategory>
+            <processingStepDescription>unknown</processingStepDescription>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>5.3.0</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag DESCRIPTION="region type" ID="REGION_TYPE_1" TYPE="region" LABEL="paragraph"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="0" HEIGHT="0" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="0" HEIGHT="0">
+                <TextBlock ID="TextRegion_1637667774214_59" HPOS="641.0" VPOS="384.0" WIDTH="1210.0" HEIGHT="335.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="641.0 384.0 1851.0 384.0 1851.0 719.0 641.0 719.0"/>
+                    </Shape></TextBlock>
+                <TextBlock ID="TextRegion_1637667780615_65" HPOS="641.0" VPOS="719.0" WIDTH="1210.0" HEIGHT="1121.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="641.0 719.0 1851.0 719.0 1851.0 1840.0 641.0 1840.0"/>
+                    </Shape></TextBlock>
+                <TextBlock ID="TextRegion_1637667780614_64" HPOS="641.0" VPOS="1840.0" WIDTH="1210.0" HEIGHT="346.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="641.0 1840.0 1851.0 1840.0 1851.0 2186.0 641.0 2186.0"/>
+                    </Shape></TextBlock>
+                <TextBlock ID="TextRegion_1637667787565_72" HPOS="2213.0" VPOS="364.0" WIDTH="1194.0" HEIGHT="375.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="2213.0 364.0 3407.0 364.0 3407.0 739.0 2213.0 739.0"/>
+                    </Shape></TextBlock>
+                <TextBlock ID="TextRegion_1637667795077_78" HPOS="2213.0" VPOS="739.0" WIDTH="1194.0" HEIGHT="1026.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="2213.0 739.0 3407.0 739.0 3407.0 1765.0 2213.0 1765.0"/>
+                    </Shape></TextBlock>
+                <TextBlock ID="TextRegion_1637667795076_77" HPOS="2213.0" VPOS="1765.0" WIDTH="1194.0" HEIGHT="397.0" TAGREFS="REGION_TYPE_1">
+<Shape>
+                        <Polygon POINTS="2213.0 1765.0 3407.0 1765.0 3407.0 2162.0 2213.0 2162.0"/>
+                    </Shape></TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

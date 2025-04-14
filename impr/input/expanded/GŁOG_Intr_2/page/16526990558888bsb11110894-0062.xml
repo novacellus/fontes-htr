@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-16T13:39:47.778+02:00</Created>
+        <LastChange>2022-12-14T16:22:30.008+01:00</LastChange>
+        <TranskribusMetadata docId="1002841" pageId="38390270" pageNr="62" tsid="82347537" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=VBEJRCAETUWQRWWFVQMCLJYI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDGZFPGQQIIOPYLRAVXTEMJM" imageId="30937001"/>
+    </Metadata>
+    <Page imageFilename="16526990558888bsb11110894-0062.jpg" imageWidth="7791" imageHeight="10145">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671031350009" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1660989727850_273"/>
+                <RegionRefIndexed index="1" regionRef="region_1660989754903_287"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1660989727850_272"/>
+                <RegionRefIndexed index="3" regionRef="region_1660989737023_278"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660989727850_273" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="838,818 6113,818 6113,6599 838,6599"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1054,932 1302,926 1550,920 1799,916 2047,913 2296,911 2544,908 2792,908 3041,908 3289,908 3538,910 3786,910 4034,912 4283,914 4531,916 4780,917 5028,918 5276,920 5525,922 5773,922 6022,922 6022,832 5773,832 5525,832 5276,830 5028,828 4780,827 4531,826 4283,824 4034,822 3786,820 3538,820 3289,818 3041,818 2792,818 2544,818 2296,821 2047,823 1799,826 1550,830 1302,836 1054,842"/>
+                <Baseline points="1054,902 1302,896 1550,890 1799,886 2047,883 2296,881 2544,878 2792,878 3041,878 3289,878 3538,880 3786,880 4034,882 4283,884 4531,886 4780,887 5028,888 5276,890 5525,892 5773,892 6022,892"/>
+                <TextEquiv>
+                    <Unicode>Pro Intellectu textus est Notandum Que piramis pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660990750355_301" custom="readingOrder {index:1;}">
+                <Coords points="1168,1048 1218,1045 1243,1044 1544,1036 2971,1034 3174,1034 6113,1043 6113,1133 6020,1134 1168,1138"/>
+                <Baseline points="1168,1108 1193,1107 1218,1105 1243,1104 1268,1104 1293,1104 1318,1104 1343,1104 1368,1103 1393,1102 1418,1102 1443,1102 1468,1101 1493,1099 1518,1098 1544,1096 2158,1100 2361,1098 2564,1096 2767,1096 2971,1094 3174,1094 3377,1096 3581,1096 3784,1096 3987,1098 4191,1100 4394,1100 4597,1102 4800,1102 5004,1104 5207,1104 5410,1104 5614,1104 5817,1104 6020,1104 6113,1103"/>
+                <TextEquiv>
+                    <Unicode>prie est aliqua res. vel corpus habens figuram piri que res in superiori parte est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712383_216" custom="readingOrder {index:2;}">
+                <Coords points="952,1270 1213,1264 1475,1261 1736,1258 1998,1256 2259,1254 2521,1252 3305,1252 3567,1254 4090,1254 4351,1256 4613,1258 5136,1258 5397,1260 6113,1260 6113,1350 5397,1350 5136,1348 4613,1348 4351,1346 4090,1344 3567,1344 3305,1342 2521,1342 2259,1344 1998,1346 1736,1348 1475,1351 1213,1354 952,1360"/>
+                <Baseline points="952,1330 1213,1324 1475,1321 1736,1318 1998,1316 2259,1314 2521,1312 2782,1312 3044,1312 3305,1312 3567,1314 3828,1314 4090,1314 4351,1316 4613,1318 4874,1318 5136,1318 5397,1320 5659,1320 5920,1320 6113,1320"/>
+                <TextEquiv>
+                    <Unicode>acuta et in inferiori parte lata ut in piro unde et piramis ut aliqui dicunt in gra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712383_218" custom="readingOrder {index:3;}">
+                <Coords points="1416,1482 1655,1478 1895,1478 2135,1476 3093,1476 3333,1478 3573,1478 3813,1480 4052,1480 4292,1482 4532,1482 4771,1484 5011,1484 5251,1482 5490,1482 5730,1480 5970,1478 6113,1475 6113,1565 5970,1568 5730,1570 5490,1572 5251,1572 5011,1574 4771,1574 4532,1572 4292,1572 4052,1570 3813,1570 3573,1568 3333,1568 3093,1566 2135,1566 1895,1568 1655,1568 1416,1572"/>
+                <Baseline points="1416,1542 1655,1538 1895,1538 2135,1536 2374,1536 2614,1536 2854,1536 3093,1536 3333,1538 3573,1538 3813,1540 4052,1540 4292,1542 4532,1542 4771,1544 5011,1544 5251,1542 5490,1542 5730,1540 5970,1538 6113,1535"/>
+                <TextEquiv>
+                    <Unicode>matica habet originem ab igne qui grece dicitur. pir. Ignis enim inferius ha-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712383_220" custom="readingOrder {index:4;}">
+                <Coords points="966,1708 1227,1704 1488,1702 1749,1700 2011,1698 2272,1696 3579,1696 3840,1698 4101,1698 4362,1700 4885,1700 5146,1702 6113,1702 6113,1792 5146,1792 4885,1790 4362,1790 4101,1788 3840,1788 3579,1786 2272,1786 2011,1788 1749,1790 1488,1792 1227,1794 966,1798"/>
+                <Baseline points="966,1768 1227,1764 1488,1762 1749,1760 2011,1758 2272,1756 2533,1756 2795,1756 3056,1756 3317,1756 3579,1756 3840,1758 4101,1758 4362,1760 4624,1760 4885,1760 5146,1762 5408,1762 5669,1762 5930,1762 6113,1762"/>
+                <TextEquiv>
+                    <Unicode>bet latitudinem et in superiori parte quia est levis tendit ad figuram acutam. Figu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660990758451_309" custom="readingOrder {index:5;}">
+                <Coords points="944,1932 1044,1927 1145,1922 1246,1919 1347,1917 1448,1916 2960,1904 6113,1912 6113,2002 6082,2004 5908,2008 5733,2010 5558,2012 944,2022"/>
+                <Baseline points="944,1992 1044,1987 1145,1982 1246,1979 1347,1977 1448,1976 1548,1976 1649,1976 1750,1976 1851,1976 1952,1978 2052,1978 2153,1978 2254,1980 2355,1980 2456,1978 2556,1978 2657,1976 2758,1974 2859,1970 2960,1964 3286,1978 3460,1976 3635,1974 3810,1974 3985,1974 4160,1975 4334,1976 4509,1978 4684,1978 4859,1980 5034,1982 5208,1982 5383,1982 5558,1982 5733,1980 5908,1978 6082,1974 6113,1972"/>
+                <TextEquiv>
+                    <Unicode>ra autem istam dicitur piramidalis que in inferiori parte est obtusa et grossa In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712383_224" custom="readingOrder {index:6;}">
+                <Coords points="1212,2140 1511,2139 1810,2138 2109,2136 2708,2136 3007,2134 3905,2134 4205,2136 4504,2136 4803,2138 5102,2138 5402,2140 5701,2142 6000,2144 6113,2144 6113,2234 6000,2234 5701,2232 5402,2230 5102,2228 4803,2228 4504,2226 4205,2226 3905,2224 3007,2224 2708,2226 2109,2226 1810,2228 1511,2229 1212,2230"/>
+                <Baseline points="1212,2200 1511,2199 1810,2198 2109,2196 2409,2196 2708,2196 3007,2194 3307,2194 3606,2194 3905,2194 4205,2196 4504,2196 4803,2198 5102,2198 5402,2200 5701,2202 6000,2204 6113,2204"/>
+                <TextEquiv>
+                    <Unicode>superiori autem acuta et habet conum acutum Quadrilaterum autem illud dicitur quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712383_226" custom="readingOrder {index:7;}">
+                <Coords points="968,2360 1490,2360 1751,2358 2273,2358 2534,2356 3056,2356 3317,2354 4361,2354 4622,2356 4883,2356 5144,2358 5405,2360 5666,2360 5927,2364 6113,2365 6113,2455 5927,2454 5666,2450 5405,2450 5144,2448 4883,2446 4622,2446 4361,2444 3317,2444 3056,2446 2534,2446 2273,2448 1751,2448 1490,2450 968,2450"/>
+                <Baseline points="968,2420 1229,2420 1490,2420 1751,2418 2012,2418 2273,2418 2534,2416 2795,2416 3056,2416 3317,2414 3578,2414 3839,2414 4100,2414 4361,2414 4622,2416 4883,2416 5144,2418 5405,2420 5666,2420 5927,2424 6113,2425"/>
+                <TextEquiv>
+                    <Unicode>habet quattuor latera et dicitur quadrilaterum a quatuor et latus lateris qua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712391_228" custom="readingOrder {index:8;}">
+                <Coords points="1414,2574 1652,2576 4746,2576 4984,2578 5222,2578 5460,2580 5698,2582 5936,2584 6113,2585 6113,2675 5936,2674 5698,2672 5460,2670 5222,2668 4984,2668 4746,2666 1652,2666 1414,2664"/>
+                <Baseline points="1414,2634 1652,2636 1890,2636 2128,2636 2366,2636 2604,2636 2842,2636 3080,2636 3318,2636 3556,2636 3794,2636 4032,2636 4270,2636 4508,2636 4746,2636 4984,2638 5222,2638 5460,2640 5698,2642 5936,2644 6113,2645"/>
+                <TextEquiv>
+                    <Unicode>si figura habens quatuor latera non curando si sunt equalia vel non et sic quadratum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712392_230" custom="readingOrder {index:9;}">
+                <Coords points="964,2798 4375,2798 4637,2800 4899,2802 5162,2804 5424,2806 5687,2808 5949,2812 6113,2814 6113,2904 5949,2902 5687,2898 5424,2896 5162,2894 4899,2892 4637,2890 4375,2888 964,2888"/>
+                <Baseline points="964,2858 1226,2858 1488,2858 1751,2858 2013,2858 2276,2858 2538,2858 2800,2858 3063,2858 3325,2858 3588,2858 3850,2858 4112,2858 4375,2858 4637,2860 4899,2862 5162,2864 5424,2866 5687,2868 5949,2872 6113,2874"/>
+                <TextEquiv>
+                    <Unicode>ubi omnia quatuor latera sunt equalia dicitur quadrilatera sic et quadratuglum in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660991079683_329" custom="readingOrder {index:10;}">
+                <Coords points="1392,3010 1628,3010 4829,3018 5058,3020 5287,3022 5515,3025 5744,3030 5973,3036 6113,3040 6113,3130 2314,3110 1440,3104 1392,3100"/>
+                <Baseline points="1392,3070 1440,3074 1628,3070 1856,3074 2085,3078 2314,3080 2542,3080 2771,3082 3000,3082 3228,3080 3457,3080 3686,3079 3915,3078 4143,3078 4372,3078 4601,3078 4829,3078 5058,3080 5287,3082 5515,3085 5744,3090 5973,3096 6113,3100"/>
+                <TextEquiv>
+                    <Unicode>quo omnia latera sunt equalia potest absolute dici quadrilaterum. Basis autem in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712394_234" custom="readingOrder {index:11;}">
+                <Coords points="1092,3238 3645,3238 3900,3240 4155,3240 4410,3242 4666,3244 4921,3246 5176,3248 5432,3252 5687,3256 5942,3260 6113,3262 6113,3352 5942,3350 5687,3346 5432,3342 5176,3338 4921,3336 4666,3334 4410,3332 4155,3330 3900,3330 3645,3328 1092,3328"/>
+                <Baseline points="1092,3298 1347,3298 1602,3298 1857,3298 2113,3298 2368,3298 2623,3298 2879,3298 3134,3298 3389,3298 3645,3298 3900,3300 4155,3300 4410,3302 4666,3304 4921,3306 5176,3308 5432,3312 5687,3316 5942,3320 6113,3322"/>
+                <TextEquiv>
+                    <Unicode>proposito valet tantum sicut fundamentum ut cum de scribitur ysolpleurus qui est trian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="1358,3558 1587,3558 1816,3558 2045,3558 2274,3558 2503,3556 2732,3555 2961,3554 3190,3552 3419,3552 3648,3550 3877,3550 4106,3550 4335,3550 4564,3552 4793,3552 5022,3555 5251,3558 5480,3562 5709,3568 5938,3574 5938,3484 5709,3478 5480,3472 5251,3468 5022,3465 4793,3462 4564,3462 4335,3460 4106,3460 3877,3460 3648,3460 3419,3462 3190,3462 2961,3464 2732,3465 2503,3466 2274,3468 2045,3468 1816,3468 1587,3468 1358,3468"/>
+                <Baseline points="1358,3528 1587,3528 1816,3528 2045,3528 2274,3528 2503,3526 2732,3525 2961,3524 3190,3522 3419,3522 3648,3520 3877,3520 4106,3520 4335,3520 4564,3522 4793,3522 5022,3525 5251,3528 5480,3532 5709,3538 5938,3544"/>
+                <TextEquiv>
+                    <Unicode>gulus cuius omnia latera sunt equalia linea recta que substat lineis lateralibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712394_236" custom="readingOrder {index:13;}">
+                <Coords points="3174,3674 3323,3673 3472,3672 3621,3672 3770,3674 3919,3676 4068,3676 4217,3680 4366,3682 4515,3684 4664,3687 4813,3690 4962,3693 5111,3696 5260,3698 5409,3700 5558,3702 5707,3704 6113,3704 6113,3794 5707,3794 5558,3792 5409,3790 5260,3788 5111,3786 4962,3783 4813,3780 4664,3777 4515,3774 4366,3772 4217,3770 4068,3766 3919,3766 3770,3764 3621,3762 3472,3762 3323,3763 3174,3764"/>
+                <Baseline points="3174,3734 3323,3733 3472,3732 3621,3732 3770,3734 3919,3736 4068,3736 4217,3740 4366,3742 4515,3744 4664,3747 4813,3750 4962,3753 5111,3756 5260,3758 5409,3760 5558,3762 5707,3764 5856,3764 6005,3764 6113,3764"/>
+                <TextEquiv>
+                    <Unicode>dicitur basis et fundamentum illius trianguli. Pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712394_238" custom="readingOrder {index:14;}">
+                <Coords points="3170,3896 3471,3896 3622,3898 3773,3900 3924,3902 4074,3904 4225,3906 4376,3910 4527,3912 4678,3916 4828,3920 4979,3924 5130,3928 5281,3932 5432,3936 5582,3940 5733,3944 5884,3948 6035,3950 6113,3952 6113,4042 6035,4040 5884,4038 5733,4034 5582,4030 5432,4026 5281,4022 5130,4018 4979,4014 4828,4010 4678,4006 4527,4002 4376,4000 4225,3996 4074,3994 3924,3992 3773,3990 3622,3988 3471,3986 3170,3986"/>
+                <Baseline points="3170,3956 3320,3956 3471,3956 3622,3958 3773,3960 3924,3962 4074,3964 4225,3966 4376,3970 4527,3972 4678,3976 4828,3980 4979,3984 5130,3988 5281,3992 5432,3996 5582,4000 5733,4004 5884,4008 6035,4010 6113,4012"/>
+                <TextEquiv>
+                    <Unicode>intellectione ergo acceptionis signi secundo mo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712394_240" custom="readingOrder {index:15;}">
+                <Coords points="3198,4120 3347,4118 3647,4118 3797,4120 3947,4121 4097,4122 4247,4124 4397,4128 4547,4130 4697,4134 4846,4138 4996,4140 5146,4146 5296,4150 5446,4155 5596,4158 5746,4164 5896,4169 6046,4175 6113,4177 6113,4267 6046,4265 5896,4259 5746,4254 5596,4248 5446,4245 5296,4240 5146,4236 4996,4230 4846,4228 4697,4224 4547,4220 4397,4218 4247,4214 4097,4212 3947,4211 3797,4210 3647,4208 3347,4208 3198,4210"/>
+                <Baseline points="3198,4180 3347,4178 3497,4178 3647,4178 3797,4180 3947,4181 4097,4182 4247,4184 4397,4188 4547,4190 4697,4194 4846,4198 4996,4200 5146,4206 5296,4210 5446,4215 5596,4218 5746,4224 5896,4229 6046,4235 6113,4237"/>
+                <TextEquiv>
+                    <Unicode>do vel in secunda acceptione ut dicit autor in tex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712399_242" custom="readingOrder {index:16;}">
+                <Coords points="3170,4346 3319,4346 3469,4344 3768,4344 3918,4346 4067,4346 4217,4348 4366,4350 4516,4352 4666,4356 4815,4359 4965,4362 5114,4366 5264,4370 5414,4374 5563,4378 5713,4383 5862,4388 6012,4394 6113,4396 6113,4486 6012,4484 5862,4478 5713,4473 5563,4468 5414,4464 5264,4460 5114,4456 4965,4452 4815,4449 4666,4446 4516,4442 4366,4440 4217,4438 4067,4436 3918,4436 3768,4434 3469,4434 3319,4436 3170,4436"/>
+                <Baseline points="3170,4406 3319,4406 3469,4404 3618,4404 3768,4404 3918,4406 4067,4406 4217,4408 4366,4410 4516,4412 4666,4416 4815,4419 4965,4422 5114,4426 5264,4430 5414,4434 5563,4438 5713,4443 5862,4448 6012,4454 6113,4456"/>
+                <TextEquiv>
+                    <Unicode>tu. ymaginetur piramis hoc est figura pi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712400_244" custom="readingOrder {index:17;}">
+                <Coords points="3180,4558 3479,4558 3628,4560 3778,4560 3928,4562 4077,4564 4227,4566 4376,4570 4526,4572 4676,4575 4825,4579 4975,4582 5124,4586 5274,4590 5424,4595 5573,4600 5723,4605 5872,4610 6022,4616 6113,4618 6113,4708 6022,4706 5872,4700 5723,4695 5573,4690 5424,4685 5274,4680 5124,4676 4975,4672 4825,4669 4676,4665 4526,4662 4376,4660 4227,4656 4077,4654 3928,4652 3778,4650 3628,4650 3479,4648 3180,4648"/>
+                <Baseline points="3180,4618 3329,4618 3479,4618 3628,4620 3778,4620 3928,4622 4077,4624 4227,4626 4376,4630 4526,4632 4676,4635 4825,4639 4975,4642 5124,4646 5274,4650 5424,4655 5573,4660 5723,4665 5872,4670 6022,4676 6113,4678"/>
+                <TextEquiv>
+                    <Unicode>ramidalis quadrilatera continens quotuor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712401_246" custom="readingOrder {index:18;}">
+                <Coords points="3198,4780 3346,4782 3494,4782 3642,4784 3790,4786 3938,4788 4086,4789 4234,4792 4382,4794 4530,4796 4678,4800 4826,4802 4974,4805 5122,4808 5270,4812 5418,4816 5566,4818 5714,4822 5862,4825 6010,4828 6113,4830 6113,4920 6010,4918 5862,4915 5714,4912 5566,4908 5418,4906 5270,4902 5122,4898 4974,4895 4826,4892 4678,4890 4530,4886 4382,4884 4234,4882 4086,4879 3938,4878 3790,4876 3642,4874 3494,4872 3346,4872 3198,4870"/>
+                <Baseline points="3198,4840 3346,4842 3494,4842 3642,4844 3790,4846 3938,4848 4086,4849 4234,4852 4382,4854 4530,4856 4678,4860 4826,4862 4974,4865 5122,4868 5270,4872 5418,4876 5566,4878 5714,4882 5862,4885 6010,4888 6113,4890"/>
+                <TextEquiv>
+                    <Unicode>latera cuius basis esset fundamentum est su-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712401_248" custom="readingOrder {index:19;}">
+                <Coords points="3256,5006 3402,5008 3694,5008 3840,5010 3987,5012 4133,5014 4279,5016 4425,5018 4571,5020 4718,5023 4864,5026 5010,5029 5156,5032 5302,5036 5449,5038 5595,5042 5741,5046 5887,5050 6033,5054 6113,5056 6113,5146 6033,5144 5887,5140 5741,5136 5595,5132 5449,5128 5302,5126 5156,5122 5010,5119 4864,5116 4718,5113 4571,5110 4425,5108 4279,5106 4133,5104 3987,5102 3840,5100 3694,5098 3402,5098 3256,5096"/>
+                <Baseline points="3256,5066 3402,5068 3548,5068 3694,5068 3840,5070 3987,5072 4133,5074 4279,5076 4425,5078 4571,5080 4718,5083 4864,5086 5010,5089 5156,5092 5302,5096 5449,5098 5595,5102 5741,5106 5887,5110 6033,5114 6113,5116"/>
+                <TextEquiv>
+                    <Unicode>perficies quam dicimus signum primo modo et cui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712401_250" custom="readingOrder {index:20;}">
+                <Coords points="3192,5218 3340,5222 3488,5224 3636,5227 3784,5230 3932,5231 4080,5233 4228,5236 4376,5238 4524,5240 4672,5242 4820,5244 4968,5246 5116,5248 5264,5252 5412,5254 5560,5258 5708,5261 5856,5266 6004,5270 6113,5272 6113,5362 6004,5360 5856,5356 5708,5351 5560,5348 5412,5344 5264,5342 5116,5338 4968,5336 4820,5334 4672,5332 4524,5330 4376,5328 4228,5326 4080,5323 3932,5321 3784,5320 3636,5317 3488,5314 3340,5312 3192,5308"/>
+                <Baseline points="3192,5278 3340,5282 3488,5284 3636,5287 3784,5290 3932,5291 4080,5293 4228,5296 4376,5298 4524,5300 4672,5302 4820,5304 4968,5306 5116,5308 5264,5312 5412,5314 5560,5318 5708,5321 5856,5326 6004,5330 6113,5332"/>
+                <TextEquiv>
+                    <Unicode>us vertex vel acuties est in centro terre tunc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712401_252" custom="readingOrder {index:21;}">
+                <Coords points="3204,5458 3351,5456 3499,5456 3647,5454 3795,5456 3943,5456 4091,5458 4239,5460 4387,5462 4535,5465 4683,5468 4830,5470 4978,5474 5126,5476 5274,5479 5422,5481 5570,5483 5718,5484 5866,5485 6014,5486 6113,5484 6113,5574 6014,5576 5866,5575 5718,5574 5570,5573 5422,5571 5274,5569 5126,5566 4978,5564 4830,5560 4683,5558 4535,5555 4387,5552 4239,5550 4091,5548 3943,5546 3795,5546 3647,5544 3499,5546 3351,5546 3204,5548"/>
+                <Baseline points="3204,5518 3351,5516 3499,5516 3647,5514 3795,5516 3943,5516 4091,5518 4239,5520 4387,5522 4535,5525 4683,5528 4830,5530 4978,5534 5126,5536 5274,5539 5422,5541 5570,5543 5718,5544 5866,5545 6014,5546 6113,5544"/>
+                <TextEquiv>
+                    <Unicode>figura talis dicitur signum secundo modo sic pla-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712401_254" custom="readingOrder {index:22;}">
+                <Coords points="3174,5684 3322,5682 3471,5682 3620,5684 3769,5684 3918,5686 4066,5688 4215,5690 4364,5692 4513,5696 4662,5698 4810,5700 4959,5702 5108,5704 5257,5706 5406,5708 5852,5708 6001,5706 6113,5704 6113,5794 6001,5796 5852,5798 5406,5798 5257,5796 5108,5794 4959,5792 4810,5790 4662,5788 4513,5786 4364,5782 4215,5780 4066,5778 3918,5776 3769,5774 3620,5774 3471,5772 3322,5772 3174,5774"/>
+                <Baseline points="3174,5744 3322,5742 3471,5742 3620,5744 3769,5744 3918,5746 4066,5748 4215,5750 4364,5752 4513,5756 4662,5758 4810,5760 4959,5762 5108,5764 5257,5766 5406,5768 5554,5768 5703,5768 5852,5768 6001,5766 6113,5764"/>
+                <TextEquiv>
+                    <Unicode>nete dicuntur esse in signo quia ipsi continentur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712407_256" custom="readingOrder {index:23;}">
+                <Coords points="924,5936 1185,5942 1447,5946 1709,5952 1970,5956 2232,5960 2494,5965 2755,5969 3017,5973 3279,5976 3541,5980 3802,5982 4064,5986 4326,5988 4587,5990 4849,5992 5111,5994 5372,5994 5634,5996 6113,5996 6113,6086 5634,6086 5372,6084 5111,6084 4849,6082 4587,6080 4326,6078 4064,6076 3802,6072 3541,6070 3279,6066 3017,6063 2755,6059 2494,6055 2232,6050 1970,6046 1709,6042 1447,6036 1185,6032 924,6026"/>
+                <Baseline points="924,5996 1185,6002 1447,6006 1709,6012 1970,6016 2232,6020 2494,6025 2755,6029 3017,6033 3279,6036 3541,6040 3802,6042 4064,6046 4326,6048 4587,6050 4849,6052 5111,6054 5372,6054 5634,6056 5896,6056 6113,6056"/>
+                <TextEquiv>
+                    <Unicode>in tali figura ut si ducentur quattuor linee a quattuor angulis signi primo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712409_258" custom="readingOrder {index:24;}">
+                <Coords points="886,6152 1148,6158 1410,6164 1672,6168 1935,6174 2197,6180 2459,6184 2722,6188 2984,6194 3246,6198 3509,6202 3771,6206 4033,6208 4295,6212 4558,6214 4820,6218 5082,6220 5345,6222 5607,6224 5869,6226 6113,6227 6113,6317 5869,6316 5607,6314 5345,6312 5082,6310 4820,6308 4558,6304 4295,6302 4033,6298 3771,6296 3509,6292 3246,6288 2984,6284 2722,6278 2459,6274 2197,6270 1935,6264 1672,6258 1410,6254 1148,6248 886,6242"/>
+                <Baseline points="886,6212 1148,6218 1410,6224 1672,6228 1935,6234 2197,6240 2459,6244 2722,6248 2984,6254 3246,6258 3509,6262 3771,6266 4033,6268 4295,6272 4558,6274 4820,6278 5082,6280 5345,6282 5607,6284 5869,6286 6113,6287"/>
+                <TextEquiv>
+                    <Unicode>modo dicti que linee concurrunt in centro terre tunc planeta inter ceptus istis qua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:25;}">
+                <Coords points="920,6463 1132,6469 1344,6473 1556,6479 1768,6484 1981,6489 2193,6493 2405,6497 2617,6501 2829,6504 3042,6507 3254,6511 3466,6514 3678,6517 3890,6521 4103,6523 4315,6527 4527,6532 4739,6537 4951,6541 5164,6545 5164,6463 4951,6459 4739,6455 4527,6450 4315,6445 4103,6441 3890,6439 3678,6435 3466,6432 3254,6429 3042,6425 2829,6422 2617,6419 2405,6415 2193,6411 1981,6407 1768,6402 1556,6397 1344,6391 1132,6387 920,6381"/>
+                <Baseline points="920,6436 1132,6442 1344,6446 1556,6452 1768,6457 1981,6462 2193,6466 2405,6470 2617,6474 2829,6477 3042,6480 3254,6484 3466,6487 3678,6490 3890,6494 4103,6496 4315,6500 4527,6505 4739,6510 4951,6514 5164,6518"/>
+                <TextEquiv>
+                    <Unicode>tuor lineis dicuntur esse in signo secundo modo ut patet in figura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pro Intellectu textus est Notandum Que piramis pro&#13;
+prie est aliqua res. vel corpus habens figuram piri que res in superiori parte est&#13;
+acuta et in inferiori parte lata ut in piro unde et piramis ut aliqui dicunt in gra-&#13;
+matica habet originem ab igne qui grece dicitur. pir. Ignis enim inferius ha-&#13;
+bet latitudinem et in superiori parte quia est levis tendit ad figuram acutam. Figu-&#13;
+ra autem istam dicitur piramidalis que in inferiori parte est obtusa et grossa In&#13;
+superiori autem acuta et habet conum acutum Quadrilaterum autem illud dicitur quod&#13;
+habet quattuor latera et dicitur quadrilaterum a quatuor et latus lateris qua&#13;
+si figura habens quatuor latera non curando si sunt equalia vel non et sic quadratum&#13;
+ubi omnia quatuor latera sunt equalia dicitur quadrilatera sic et quadratuglum in&#13;
+quo omnia latera sunt equalia potest absolute dici quadrilaterum. Basis autem in&#13;
+proposito valet tantum sicut fundamentum ut cum de scribitur ysolpleurus qui est trian&#13;
+gulus cuius omnia latera sunt equalia linea recta que substat lineis lateralibus&#13;
+dicitur basis et fundamentum illius trianguli. Pro&#13;
+intellectione ergo acceptionis signi secundo mo-&#13;
+do vel in secunda acceptione ut dicit autor in tex&#13;
+tu. ymaginetur piramis hoc est figura pi-&#13;
+ramidalis quadrilatera continens quotuor&#13;
+latera cuius basis esset fundamentum est su-&#13;
+perficies quam dicimus signum primo modo et cui&#13;
+us vertex vel acuties est in centro terre tunc&#13;
+figura talis dicitur signum secundo modo sic pla-&#13;
+nete dicuntur esse in signo quia ipsi continentur&#13;
+in tali figura ut si ducentur quattuor linee a quattuor angulis signi primo&#13;
+modo dicti que linee concurrunt in centro terre tunc planeta inter ceptus istis qua&#13;
+tuor lineis dicuntur esse in signo secundo modo ut patet in figura.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="caption" id="region_1660989754903_287" custom="readingOrder {index:1;} structure {type:caption;}">
+            <Coords points="590,3636 3149,3636 3149,5838 590,5838"/>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1660989727850_272" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="838,6599 6113,6599 6113,8568 838,8568"/>
+            <TextLine id="line_1660989712410_260" custom="readingOrder {index:0;}">
+                <Coords points="1128,6796 1379,6798 1630,6804 1881,6808 2132,6814 2383,6821 2634,6826 2885,6834 3136,6841 3387,6848 3638,6855 3889,6862 4140,6868 4391,6874 4642,6878 4893,6883 5144,6886 5395,6888 5646,6890 6113,6890 6113,6974 5646,6974 5395,6972 5144,6970 4893,6967 4642,6962 4391,6958 4140,6952 3889,6946 3638,6939 3387,6932 3136,6925 2885,6918 2634,6910 2383,6905 2132,6898 1881,6892 1630,6888 1379,6882 1128,6880"/>
+                <Baseline points="1128,6852 1379,6854 1630,6860 1881,6864 2132,6870 2383,6877 2634,6882 2885,6890 3136,6897 3387,6904 3638,6911 3889,6918 4140,6924 4391,6930 4642,6934 4893,6939 5144,6942 5395,6944 5646,6946 5897,6946 6113,6946"/>
+                <TextEquiv>
+                    <Unicode>¶ Tertio modo dicitur signum ut intelligantur sex circu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712412_262" custom="readingOrder {index:1;}">
+                <Coords points="908,7182 1169,7186 1430,7192 1691,7197 1952,7204 2214,7210 2475,7216 2736,7224 2997,7231 3258,7238 3520,7244 3781,7252 4042,7257 4303,7262 4564,7268 4826,7272 5087,7275 5348,7278 5609,7280 5870,7280 6113,7278 6113,7368 5870,7370 5609,7370 5348,7368 5087,7365 4826,7362 4564,7358 4303,7352 4042,7347 3781,7342 3520,7334 3258,7328 2997,7321 2736,7314 2475,7306 2214,7300 1952,7294 1691,7287 1430,7282 1169,7276 908,7272"/>
+                <Baseline points="908,7242 1169,7246 1430,7252 1691,7257 1952,7264 2214,7270 2475,7276 2736,7284 2997,7291 3258,7298 3520,7304 3781,7312 4042,7317 4303,7322 4564,7328 4826,7332 5087,7335 5348,7338 5609,7340 5870,7340 6113,7338"/>
+                <TextEquiv>
+                    <Unicode>li transeuntes per polos zodiaci et per principia duo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712413_264" custom="readingOrder {index:2;}">
+                <Coords points="926,7609 1189,7613 1452,7619 1715,7623 1978,7628 2241,7633 2504,7637 2767,7641 3030,7645 3293,7649 3557,7654 3820,7658 4083,7661 4346,7665 4609,7669 4872,7673 5135,7677 5398,7681 5661,7685 5924,7689 6113,7691 6113,7779 5924,7777 5661,7773 5398,7769 5135,7765 4872,7761 4609,7757 4346,7753 4083,7749 3820,7746 3557,7742 3293,7737 3030,7733 2767,7729 2504,7725 2241,7721 1978,7716 1715,7711 1452,7707 1189,7701 926,7697"/>
+                <Baseline points="926,7668 1189,7672 1452,7678 1715,7682 1978,7687 2241,7692 2504,7696 2767,7700 3030,7704 3293,7708 3557,7713 3820,7717 4083,7720 4346,7724 4609,7728 4872,7732 5135,7736 5398,7740 5661,7744 5924,7748 6113,7750"/>
+                <TextEquiv>
+                    <Unicode>decim signorum. Illi sex circuli dividunt totam superfi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:3;}">
+                <Coords points="902,8092 1159,8100 1416,8105 1673,8112 1930,8116 2187,8120 2444,8125 2701,8129 2958,8133 3215,8136 3472,8140 3729,8144 3986,8146 4243,8150 4500,8154 4757,8158 5014,8161 5271,8165 5528,8169 5785,8174 6042,8178 6042,8088 5785,8084 5528,8079 5271,8075 5014,8071 4757,8068 4500,8064 4243,8060 3986,8056 3729,8054 3472,8050 3215,8046 2958,8043 2701,8039 2444,8035 2187,8030 1930,8026 1673,8022 1416,8015 1159,8010 902,8002"/>
+                <Baseline points="902,8062 1159,8070 1416,8075 1673,8082 1930,8086 2187,8090 2444,8095 2701,8099 2958,8103 3215,8106 3472,8110 3729,8114 3986,8116 4243,8120 4500,8124 4757,8128 5014,8131 5271,8135 5528,8139 5785,8144 6042,8148"/>
+                <TextEquiv>
+                    <Unicode>ciem spere in duodecim partes latas in medio Arti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1660989712416_266" custom="readingOrder {index:4;}">
+                <Coords points="932,8402 1197,8410 1463,8420 1729,8426 1994,8434 2260,8440 2526,8446 2791,8452 3057,8456 3323,8462 3589,8464 3854,8468 4120,8472 4386,8474 4651,8476 4917,8478 5980,8478 6113,8477 6113,8567 5980,8568 4917,8568 4651,8566 4386,8564 4120,8562 3854,8558 3589,8554 3323,8552 3057,8546 2791,8542 2526,8536 2260,8530 1994,8524 1729,8516 1463,8510 1197,8500 932,8492"/>
+                <Baseline points="932,8462 1197,8470 1463,8480 1729,8486 1994,8494 2260,8500 2526,8506 2791,8512 3057,8516 3323,8522 3589,8524 3854,8528 4120,8532 4386,8534 4651,8536 4917,8538 5183,8538 5448,8538 5714,8538 5980,8538 6113,8537"/>
+                <TextEquiv>
+                    <Unicode>ores vero iuxta polos zodiaci et quelibet pars talis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>¶ Tertio modo dicitur signum ut intelligantur sex circu&#13;
+li transeuntes per polos zodiaci et per principia duo-&#13;
+decim signorum. Illi sex circuli dividunt totam superfi-&#13;
+ciem spere in duodecim partes latas in medio Arti&#13;
+ores vero iuxta polos zodiaci et quelibet pars talis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1660989737023_278" custom="readingOrder {index:3;} structure {type:catch-word;}">
+            <Coords points="5837,8850 5513,8850 5513,8575 5837,8575"/>
+            <TextLine id="line_1660989744599_282" custom="readingOrder {index:0;}">
+                <Coords points="5740,8769 5562,8769 5562,8608 5740,8608"/>
+                <TextEquiv>
+                    <Unicode>G</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>G</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

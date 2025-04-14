@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:21.640+01:00</Created>
+        <LastChange>2022-12-16T15:43:46.212+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071686" pageNr="10" tsid="73003378" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=YKIGNNLHESECFGAIODTNWRAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QTMERIPISBOJELHNJZSZNLBO" imageId="27321030"/>
+    </Metadata>
+    <Page imageFilename="888817_0010_34071686.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671201826227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642264157646_443"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1642264157646_443" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="564,310 1668,310 1668,2042 564,2042"/>
+            <TextLine id="line_1642264163832_446" custom="readingOrder {index:0;}">
+                <Coords points="1630,344 579,344 579,382 1630,382"/>
+                <TextEquiv>
+                    <Unicode>Pro quolibet satisfit per modum iusticie commutative se-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264168543_449" custom="readingOrder {index:1;}">
+                <Coords points="597,406 1645,406 1645,447 597,447"/>
+                <TextEquiv>
+                    <Unicode>cundum omnis doctores quarto sententiarum Sic igitur penes non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264171355_452" custom="readingOrder {index:2;}">
+                <Coords points="1621,459 597,459 597,509 1621,509"/>
+                <TextEquiv>
+                    <Unicode>potuit licite perscribere auctoritate divina quo ad suam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264173738_455" custom="readingOrder {index:3;}">
+                <Coords points="597,524 1657,524 1657,571 597,571"/>
+                <TextEquiv>
+                    <Unicode>largitatem nec decretis ecclesie nec orationibus associatis per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264176134_458" custom="readingOrder {index:4;}">
+                <Coords points="1648,577 585,577 585,624 1648,624"/>
+                <TextEquiv>
+                    <Unicode>celebrantem pro aliis. sic nec celebrans potuit ad obliga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264178656_461" custom="readingOrder {index:5;}">
+                <Coords points="591,641 1660,641 1660,683 591,683"/>
+                <TextEquiv>
+                    <Unicode>ri per petentem. Videtur igitur que petens minus racio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264181953_464" custom="readingOrder {index:6;}">
+                <Coords points="1657,703 591,703 591,739 1657,739"/>
+                <TextEquiv>
+                    <Unicode>nabiliter petivit. cum aliorum preiudicio quibus nec ipse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264184552_467" custom="readingOrder {index:7;}">
+                <Coords points="600,759 1651,759 1651,794 600,794"/>
+                <TextEquiv>
+                    <Unicode>nec celebrans legem ponere potuit. Ulterius videtur que pri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264186687_470" custom="readingOrder {index:8;}">
+                <Coords points="1648,806 594,806 594,859 1648,859"/>
+                <TextEquiv>
+                    <Unicode>mi religiosi caute fecerunt. nolentes se submittere huic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264189034_473" custom="readingOrder {index:9;}">
+                <Coords points="600,883 1645,883 1645,909 600,909"/>
+                <TextEquiv>
+                    <Unicode>obligationi sed tamen hoc fuit intentio petentis. Alii vero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264191986_476" custom="readingOrder {index:10;}">
+                <Coords points="1648,936 579,936 579,980 1648,980"/>
+                <TextEquiv>
+                    <Unicode>religiosi et elemosinam recipientes possent eciam excusari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264195290_479" custom="readingOrder {index:11;}">
+                <Coords points="597,995 1636,995 1636,1024 597,1024"/>
+                <TextEquiv>
+                    <Unicode>Non secundum intentionem postulantis obliquam. sed secundum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264197900_482" custom="readingOrder {index:12;}">
+                <Coords points="1636,1048 597,1048 597,1098 1636,1098"/>
+                <TextEquiv>
+                    <Unicode>quam habere debuit rectam suam intentionem dirigentes. In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264201404_485" custom="readingOrder {index:13;}">
+                <Coords points="597,1121 1663,1121 1663,1148 597,1148"/>
+                <TextEquiv>
+                    <Unicode>quibusdam religionibus servatur ritus ubi plura trice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264203192_488" custom="readingOrder {index:14;}">
+                <Coords points="1651,1165 582,1165 582,1204 1651,1204"/>
+                <TextEquiv>
+                    <Unicode>naria simul concurrunt in una missa. Sed hoc nisi fit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264205219_491" custom="readingOrder {index:15;}">
+                <Coords points="585,1221 1645,1221 1645,1268 585,1268"/>
+                <TextEquiv>
+                    <Unicode>in fraudem. sed sponte et scienter et sine oligatione alicuius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264208049_494" custom="readingOrder {index:16;}">
+                <Coords points="1633,1277 588,1277 588,1330 1633,1330"/>
+                <TextEquiv>
+                    <Unicode>sicut de universaria simile concurrentibuset⁊ associatis. Se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264210162_497" custom="readingOrder {index:17;}">
+                <Coords points="603,1339 1639,1339 1639,1383 603,1383"/>
+                <TextEquiv>
+                    <Unicode>cus esset cum policitatione ac promissione accepta elimosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264212031_500" custom="readingOrder {index:18;}">
+                <Coords points="1642,1398 597,1398 597,1448 1642,1448"/>
+                <TextEquiv>
+                    <Unicode>na in respectu satisfactionis pro penis debitis solvendis. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264214870_503" custom="readingOrder {index:19;}">
+                <Coords points="603,1460 1645,1460 1645,1501 603,1501"/>
+                <TextEquiv>
+                    <Unicode>tunc iudicarem illicitum sicut predictum est etc. Quo ad tercium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264216898_506" custom="readingOrder {index:20;}">
+                <Coords points="1645,1516 600,1516 600,1563 1645,1563"/>
+                <TextEquiv>
+                    <Unicode>scilicet sacrificium seu oblationem factam sciendum que omne agens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264220483_509" custom="readingOrder {index:21;}">
+                <Coords points="597,1589 1666,1589 1666,1622 597,1622"/>
+                <TextEquiv>
+                    <Unicode>naturale agit secundum ultimum suum posse. Ex primo celi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264222599_512" custom="readingOrder {index:22;}">
+                <Coords points="1666,1625 591,1625 591,1684 1666,1684"/>
+                <TextEquiv>
+                    <Unicode>Voluntarium vero non sed ad placitum Sacramentum aut in missa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264225009_515" custom="readingOrder {index:23;}">
+                <Coords points="594,1698 1627,1698 1627,1728 594,1728"/>
+                <TextEquiv>
+                    <Unicode>oblatum non est agens naturale sed voluntarium. Non igitur a-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264228009_518" custom="readingOrder {index:24;}">
+                <Coords points="1633,1751 594,1751 594,1792 1633,1792"/>
+                <TextEquiv>
+                    <Unicode>git secundum ultimum suum posse et cum fit infinite potentie ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264230495_521" custom="readingOrder {index:25;}">
+                <Coords points="606,1819 1639,1819 1639,1845 606,1845"/>
+                <TextEquiv>
+                    <Unicode>tive posset omnes animas et de inferno et purgatorio una mis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264232585_524" custom="readingOrder {index:26;}">
+                <Coords points="1639,1854 591,1854 591,1913 1639,1913"/>
+                <TextEquiv>
+                    <Unicode>sa liberare. sed utitur potentia ordinata secundum ordinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264235621_527" custom="readingOrder {index:27;}">
+                <Coords points="597,1943 1654,1943 1654,1960 597,1960"/>
+                <TextEquiv>
+                    <Unicode>sapientie atque iusticie. Effectus igitur huius sacramenti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642264237286_530" custom="readingOrder {index:28;}">
+                <Coords points="1648,1981 603,1981 603,2031 1648,2031"/>
+                <TextEquiv>
+                    <Unicode>est finitus non igitur que duo ad solutionem penarum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pro quolibet satisfit per modum iusticie commutative se-&#13;
+cundum omnis doctores quarto sententiarum Sic igitur penes non&#13;
+potuit licite perscribere auctoritate divina quo ad suam&#13;
+largitatem nec decretis ecclesie nec orationibus associatis per&#13;
+celebrantem pro aliis. sic nec celebrans potuit ad obliga&#13;
+ri per petentem. Videtur igitur que petens minus racio-&#13;
+nabiliter petivit. cum aliorum preiudicio quibus nec ipse&#13;
+nec celebrans legem ponere potuit. Ulterius videtur que pri&#13;
+mi religiosi caute fecerunt. nolentes se submittere huic&#13;
+obligationi sed tamen hoc fuit intentio petentis. Alii vero&#13;
+religiosi et elemosinam recipientes possent eciam excusari&#13;
+Non secundum intentionem postulantis obliquam. sed secundum&#13;
+quam habere debuit rectam suam intentionem dirigentes. In&#13;
+quibusdam religionibus servatur ritus ubi plura trice&#13;
+naria simul concurrunt in una missa. Sed hoc nisi fit&#13;
+in fraudem. sed sponte et scienter et sine oligatione alicuius&#13;
+sicut de universaria simile concurrentibuset⁊ associatis. Se&#13;
+cus esset cum policitatione ac promissione accepta elimosi&#13;
+na in respectu satisfactionis pro penis debitis solvendis. et&#13;
+tunc iudicarem illicitum sicut predictum est etc. Quo ad tercium&#13;
+scilicet sacrificium seu oblationem factam sciendum que omne agens&#13;
+naturale agit secundum ultimum suum posse. Ex primo celi.&#13;
+Voluntarium vero non sed ad placitum Sacramentum aut in missa&#13;
+oblatum non est agens naturale sed voluntarium. Non igitur a-&#13;
+git secundum ultimum suum posse et cum fit infinite potentie ac&#13;
+tive posset omnes animas et de inferno et purgatorio una mis&#13;
+sa liberare. sed utitur potentia ordinata secundum ordinem&#13;
+sapientie atque iusticie. Effectus igitur huius sacramenti&#13;
+est finitus non igitur que duo ad solutionem penarum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-02T01:49:40.570+01:00</Created>
+        <LastChange>2022-03-04T16:59:40.405+01:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="4"/>
+    </Metadata>
+    <Page imageFilename="SACR_Elucid_-027.tif" imageWidth="2081" imageHeight="2783">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646409580444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646323512360_792"/>
+                <RegionRefIndexed index="1" regionRef="region_1646323515480_795"/>
+                <RegionRefIndexed index="2" regionRef="region_1646323517595_798"/>
+                <RegionRefIndexed index="3" regionRef="region_1646323521311_801"/>
+                <RegionRefIndexed index="4" regionRef="region_1646323524975_804"/>
+                <RegionRefIndexed index="5" regionRef="region_1646323527432_807"/>
+                <RegionRefIndexed index="6" regionRef="region_1646323530616_810"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1646323512360_792" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="511,150 1679,150 1679,243 511,243"/>
+            <TextLine id="line_1646323565415_829" custom="readingOrder {index:0;}">
+                <Coords points="558,168 1561,168 1561,230 558,230"/>
+                <TextEquiv>
+                    <Unicode>Tractatus Secundus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tractatus Secundus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646323515480_795" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="374,287 1166,287 1166,779 374,779"/>
+            <TextLine id="line_1646323571056_833" custom="readingOrder {index:0;}">
+                <Coords points="392,295 1175,295 1175,349 392,349"/>
+                <TextEquiv>
+                    <Unicode>passam dicebat et tenuit sedem annis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323573375_836" custom="readingOrder {index:1;}">
+                <Coords points="1158,356 402,356 402,399 1158,399"/>
+                <TextEquiv>
+                    <Unicode>sex. Et sic hec scissio durauit annis. 45.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323576631_839" custom="readingOrder {index:2;}">
+                <Coords points="401,402 1167,402 1167,453 401,453"/>
+                <TextEquiv>
+                    <Unicode>vsqʒ ad tempora Iustini imparatoris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323578528_842" custom="readingOrder {index:3;}">
+                <Coords points="1160,459 401,459 401,503 1160,503"/>
+                <TextEquiv>
+                    <Unicode>catholici. qui succedens Anastasio Io</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323580999_845" custom="readingOrder {index:4;}">
+                <Coords points="397,510 1153,510 1153,554 397,554"/>
+                <TextEquiv>
+                    <Unicode>annem Thimoteo mortuo in Consta~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323583184_848" custom="readingOrder {index:5;}">
+                <Coords points="1140,571 397,571 397,607 1140,607"/>
+                <TextEquiv>
+                    <Unicode>tinopolitana ecclesia sede~ fecit et sic ec=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323585192_851" custom="readingOrder {index:6;}">
+                <Coords points="394,614 1157,614 1157,667 394,667"/>
+                <TextEquiv>
+                    <Unicode>clesiam orientalem cum occidentali v=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323587120_854" custom="readingOrder {index:7;}">
+                <Coords points="1157,679 406,679 406,718 1157,718"/>
+                <TextEquiv>
+                    <Unicode>niuit. Que vnio durauit ad te~pora Iu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323590112_857" custom="readingOrder {index:8;}">
+                <Coords points="406,728 1085,728 1085,786 406,786"/>
+                <TextEquiv>
+                    <Unicode>stini imparatoris et Agapiti pape</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>passam dicebat et tenuit sedem annis&#13;
+sex. Et sic hec scissio durauit annis. 45.&#13;
+vsqʒ ad tempora Iustini imparatoris&#13;
+catholici. qui succedens Anastasio Io&#13;
+annem Thimoteo mortuo in Consta~&#13;
+tinopolitana ecclesia sede~ fecit et sic ec=&#13;
+clesiam orientalem cum occidentali v=&#13;
+niuit. Que vnio durauit ad te~pora Iu=&#13;
+stini imparatoris et Agapiti pape</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646323517595_798" custom="readingOrder {index:2;} structure {type:[heading];}">
+            <Coords points="498,805 1038,805 1038,903 498,903"/>
+            <TextLine id="line_1646323593872_861" custom="readingOrder {index:0;}">
+                <Coords points="1006,841 552,841 552,899 1006,899"/>
+                <TextEquiv>
+                    <Unicode>Quinta diuisio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quinta diuisio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646323521311_801" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="387,956 1175,956 1175,2266 387,2266"/>
+            <TextLine id="line_1646323605413_865" custom="readingOrder {index:0;}">
+                <Coords points="1149,967 389,967 389,1008 1149,1008"/>
+                <TextEquiv>
+                    <Unicode>Fuit circa annu~ domini. quinge~tesimu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323607568_868" custom="readingOrder {index:1;}">
+                <Coords points="402,1010 1143,1010 1143,1060 402,1060"/>
+                <TextEquiv>
+                    <Unicode>octogesimum. tempore pape Pelagij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323609616_871" custom="readingOrder {index:2;}">
+                <Coords points="1147,1069 396,1069 396,1124 1147,1124"/>
+                <TextEquiv>
+                    <Unicode>et imparatoris. Mauricij. que venit ex </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323611448_874" custom="readingOrder {index:3;}">
+                <Coords points="408,1128 1151,1128 1151,1177 408,1177"/>
+                <TextEquiv>
+                    <Unicode>fastu et superbie tumore cuiusdam Io</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323613047_877" custom="readingOrder {index:4;}">
+                <Coords points="1151,1183 415,1183 415,1230 1151,1230"/>
+                <TextEquiv>
+                    <Unicode>annis Constantinopolitano Episcopi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323617015_880" custom="readingOrder {index:5;}">
+                <Coords points="410,1236 1143,1236 1143,1287 410,1287"/>
+                <TextEquiv>
+                    <Unicode>q~ se ꝓ papa vniuersali gessit. et se papa~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323618640_883" custom="readingOrder {index:6;}">
+                <Coords points="1149,1295 396,1295 396,1346 1149,1346"/>
+                <TextEquiv>
+                    <Unicode>vniuersalem appellavi fecit dicebat em~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323621160_886" custom="readingOrder {index:7;}">
+                <Coords points="408,1346 1149,1346 1149,1390 408,1390"/>
+                <TextEquiv>
+                    <Unicode>ꝙ ciuitas imperialis debet esse etiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323623296_889" custom="readingOrder {index:8;}">
+                <Coords points="1149,1399 402,1399 402,1450 1149,1450"/>
+                <TextEquiv>
+                    <Unicode>sedes pontificis supremi. que~admodu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323625688_892" custom="readingOrder {index:9;}">
+                <Coords points="417,1452 1145,1452 1145,1494 417,1494"/>
+                <TextEquiv>
+                    <Unicode>Roma fuerat ante. vnde non ex aliqua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323627856_895" custom="readingOrder {index:10;}">
+                <Coords points="1145,1503 415,1503 415,1539 1145,1539"/>
+                <TextEquiv>
+                    <Unicode>heresi. Sed sola superbia hec scissio ꝓ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323629703_898" custom="readingOrder {index:11;}">
+                <Coords points="427,1556 1151,1556 1151,1600 427,1600"/>
+                <TextEquiv>
+                    <Unicode>uenerat. vnde Pelagius papa corripuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323632184_901" custom="readingOrder {index:12;}">
+                <Coords points="1145,1609 421,1609 421,1661 1145,1661"/>
+                <TextEquiv>
+                    <Unicode>eum Epistolis suis et friuolam eius ra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323634616_904" custom="readingOrder {index:13;}">
+                <Coords points="421,1676 1166,1676 1166,1708 421,1708"/>
+                <TextEquiv>
+                    <Unicode>tionem elisit. Similiter beatus Grego=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323636447_907" custom="readingOrder {index:14;}">
+                <Coords points="1162,1721 419,1721 419,1761 1162,1761"/>
+                <TextEquiv>
+                    <Unicode>rius primus qui Pelagio Anno domi~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323638183_910" custom="readingOrder {index:15;}">
+                <Coords points="419,1771 1174,1771 1174,1816 419,1816"/>
+                <TextEquiv>
+                    <Unicode>790. successerat scripsit ei ⁊ imparatori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323640288_913" custom="readingOrder {index:16;}">
+                <Coords points="1153,1828 413,1828 413,1865 1153,1865"/>
+                <TextEquiv>
+                    <Unicode>Mauricio suam superbiam redargue~s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323642775_916" custom="readingOrder {index:17;}">
+                <Coords points="427,1884 1157,1884 1157,1924 427,1924"/>
+                <TextEquiv>
+                    <Unicode>vt patet in Regestro. suo et dis. 99. ca.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323644968_919" custom="readingOrder {index:18;}">
+                <Coords points="1160,1936 430,1936 430,1974 1160,1974"/>
+                <TextEquiv>
+                    <Unicode>Nullus. et ad suppremendam tam te=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323652815_922" custom="readingOrder {index:19;}">
+                <Coords points="416,1986 1166,1986 1166,2037 416,2037"/>
+                <TextEquiv>
+                    <Unicode>mera~ superbiam sua~ humilitatis titulu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323654279_925" custom="readingOrder {index:20;}">
+                <Coords points="1156,2048 408,2048 408,2090 1156,2090"/>
+                <TextEquiv>
+                    <Unicode>sibi apponens se in litteris omnibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323658871_928" custom="readingOrder {index:21;}">
+                <Coords points="422,2098 1170,2098 1170,2138 422,2138"/>
+                <TextEquiv>
+                    <Unicode>seruum seruorum dei intitulare cepit. =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323660847_931" custom="readingOrder {index:22;}">
+                <Coords points="1160,2149 418,2149 418,2201 1160,2201"/>
+                <TextEquiv>
+                    <Unicode>Que~ vsqʒ modo sequu~tur omnes Ro=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323663752_934" custom="readingOrder {index:23;}">
+                <Coords points="412,2212 1160,2212 1160,2260 412,2260"/>
+                <TextEquiv>
+                    <Unicode>mani pontifices. licet quidam putent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fuit circa annu~ domini. quinge~tesimu~&#13;
+octogesimum. tempore pape Pelagij&#13;
+et imparatoris. Mauricij. que venit ex &#13;
+fastu et superbie tumore cuiusdam Io&#13;
+annis Constantinopolitano Episcopi&#13;
+q~ se ꝓ papa vniuersali gessit. et se papa~&#13;
+vniuersalem appellavi fecit dicebat em~&#13;
+ꝙ ciuitas imperialis debet esse etiam&#13;
+sedes pontificis supremi. que~admodu~&#13;
+Roma fuerat ante. vnde non ex aliqua&#13;
+heresi. Sed sola superbia hec scissio ꝓ&#13;
+uenerat. vnde Pelagius papa corripuit&#13;
+eum Epistolis suis et friuolam eius ra&#13;
+tionem elisit. Similiter beatus Grego=&#13;
+rius primus qui Pelagio Anno domi~&#13;
+790. successerat scripsit ei ⁊ imparatori&#13;
+Mauricio suam superbiam redargue~s&#13;
+vt patet in Regestro. suo et dis. 99. ca.&#13;
+Nullus. et ad suppremendam tam te=&#13;
+mera~ superbiam sua~ humilitatis titulu~&#13;
+sibi apponens se in litteris omnibus&#13;
+seruum seruorum dei intitulare cepit. =&#13;
+Que~ vsqʒ modo sequu~tur omnes Ro=&#13;
+mani pontifices. licet quidam putent</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646323524975_804" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1184,283 1963,283 1963,1164 1184,1164"/>
+            <TextLine id="line_1646323677344_939" custom="readingOrder {index:0;}">
+                <Coords points="1206,296 1943,296 1943,348 1206,348"/>
+                <TextEquiv>
+                    <Unicode>Damasum papam hunc primu~ titulu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323679392_942" custom="readingOrder {index:1;}">
+                <Coords points="1943,350 1206,350 1206,392 1943,392"/>
+                <TextEquiv>
+                    <Unicode>assumpsisse ⁊ ab alijs successoribꝰ fuisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323681624_945" custom="readingOrder {index:2;}">
+                <Coords points="1208,411 1934,411 1934,449 1208,449"/>
+                <TextEquiv>
+                    <Unicode>pretermissum donec a beato Gregorio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323683519_948" custom="readingOrder {index:3;}">
+                <Coords points="1936,465 1200,465 1200,516 1936,516"/>
+                <TextEquiv>
+                    <Unicode>continuaretur. hec diuisio pauco tem=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323685696_951" custom="readingOrder {index:4;}">
+                <Coords points="1200,518 1926,518 1926,568 1200,568"/>
+                <TextEquiv>
+                    <Unicode>pore durauit quia mortuo Ioa~ne suc=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323687560_954" custom="readingOrder {index:5;}">
+                <Coords points="1932,582 1206,582 1206,605 1932,605"/>
+                <TextEquiv>
+                    <Unicode>cessor eius in illa elatione non perstitit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323689351_957" custom="readingOrder {index:6;}">
+                <Coords points="1208,620 1945,620 1945,668 1208,668"/>
+                <TextEquiv>
+                    <Unicode>Sed ad ecclesiasticam vnionem accessit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323691023_960" custom="readingOrder {index:7;}">
+                <Coords points="1939,681 1202,681 1202,721 1939,721"/>
+                <TextEquiv>
+                    <Unicode>Quibus temporibus fuit s Arte=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323693367_963" custom="readingOrder {index:8;}">
+                <Coords points="1202,731 1930,731 1930,777 1202,777"/>
+                <TextEquiv>
+                    <Unicode>nius hereticus episcopus Constanti=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323695504_966" custom="readingOrder {index:9;}">
+                <Coords points="1930,783 1189,783 1189,823 1930,823"/>
+                <TextEquiv>
+                    <Unicode>nopolitanus qui dogmatisabat vnam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323697679_969" custom="readingOrder {index:10;}">
+                <Coords points="1194,838 1941,838 1941,880 1194,880"/>
+                <TextEquiv>
+                    <Unicode>tantu~ fuisse in christo voluntate~ et ope</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323699751_972" custom="readingOrder {index:11;}">
+                <Coords points="1947,896 1202,896 1202,942 1947,942"/>
+                <TextEquiv>
+                    <Unicode>rationem. que~ papa Pelagius venie~s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323701895_975" custom="readingOrder {index:12;}">
+                <Coords points="1193,951 1938,951 1938,995 1193,995"/>
+                <TextEquiv>
+                    <Unicode>Constantinopolim eiecit de sede et sub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323703951_978" custom="readingOrder {index:13;}">
+                <Coords points="1936,1007 1204,1007 1204,1039 1936,1039"/>
+                <TextEquiv>
+                    <Unicode>eisdem temporibus quinta sinodꝰ ce=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323706519_981" custom="readingOrder {index:14;}">
+                <Coords points="1198,1053 1943,1053 1943,1093 1198,1093"/>
+                <TextEquiv>
+                    <Unicode>lebrata est auctoritate pape vigilij im=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323709015_984" custom="readingOrder {index:15;}">
+                <Coords points="1606,1104 1193,1104 1193,1164 1606,1164"/>
+                <TextEquiv>
+                    <Unicode>parante Iustiniano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Damasum papam hunc primu~ titulu~&#13;
+assumpsisse ⁊ ab alijs successoribꝰ fuisse&#13;
+pretermissum donec a beato Gregorio&#13;
+continuaretur. hec diuisio pauco tem=&#13;
+pore durauit quia mortuo Ioa~ne suc=&#13;
+cessor eius in illa elatione non perstitit.&#13;
+Sed ad ecclesiasticam vnionem accessit&#13;
+Quibus temporibus fuit s Arte=&#13;
+nius hereticus episcopus Constanti=&#13;
+nopolitanus qui dogmatisabat vnam&#13;
+tantu~ fuisse in christo voluntate~ et ope&#13;
+rationem. que~ papa Pelagius venie~s&#13;
+Constantinopolim eiecit de sede et sub&#13;
+eisdem temporibus quinta sinodꝰ ce=&#13;
+lebrata est auctoritate pape vigilij im=&#13;
+parante Iustiniano</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646323527432_807" custom="readingOrder {index:5;} structure {type:[heading];}">
+            <Coords points="1343,1182 1808,1182 1808,1288 1343,1288"/>
+            <TextLine id="line_1646323718232_988" custom="readingOrder {index:0;}">
+                <Coords points="1778,1219 1375,1219 1375,1280 1778,1280"/>
+                <TextEquiv>
+                    <Unicode>Sexto diuisio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sexto diuisio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1646323530616_810" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1197,1301 1989,1301 1989,2257 1197,2257"/>
+            <TextLine id="line_1646323728552_992" custom="readingOrder {index:0;}">
+                <Coords points="1207,1325 1961,1325 1961,1385 1207,1385"/>
+                <TextEquiv>
+                    <Unicode>Fuit et cepta e~ Sergij pape ⁊ Heraclij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323730264_995" custom="readingOrder {index:1;}">
+                <Coords points="1946,1401 1209,1401 1209,1441 1946,1441"/>
+                <TextEquiv>
+                    <Unicode>imperatoris temporibus Anno domi~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323732096_998" custom="readingOrder {index:2;}">
+                <Coords points="1207,1451 1950,1451 1950,1492 1207,1492"/>
+                <TextEquiv>
+                    <Unicode>Sexinge~tesimo octogesimo et durauit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323733784_1001" custom="readingOrder {index:3;}">
+                <Coords points="1954,1509 1205,1509 1205,1544 1954,1544"/>
+                <TextEquiv>
+                    <Unicode>a~nis. lxv. fere vsqʒ ad tꝑa Agapiti pape</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323736319_1004" custom="readingOrder {index:4;}">
+                <Coords points="1213,1561 1963,1561 1963,1600 1213,1600"/>
+                <TextEquiv>
+                    <Unicode>et Constantini quarti imparatoris ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323739112_1007" custom="readingOrder {index:5;}">
+                <Coords points="1961,1616 1199,1616 1199,1652 1961,1652"/>
+                <TextEquiv>
+                    <Unicode>tholici. filij Constantini tercij omnium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323741231_1010" custom="readingOrder {index:6;}">
+                <Coords points="1193,1664 1957,1664 1957,1707 1193,1707"/>
+                <TextEquiv>
+                    <Unicode>imparatorum pessimi. Ex heraclio ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323743167_1013" custom="readingOrder {index:7;}">
+                <Coords points="1950,1712 1197,1712 1197,1749 1950,1749"/>
+                <TextEquiv>
+                    <Unicode>niti. qui papam Martinu~ ab vrbe Co~=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323745647_1016" custom="readingOrder {index:8;}">
+                <Coords points="1215,1753 1961,1753 1961,1803 1215,1803"/>
+                <TextEquiv>
+                    <Unicode>stantinopolim tractum damnaui~t exi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323747543_1019" custom="readingOrder {index:9;}">
+                <Coords points="1956,1813 1207,1813 1207,1857 1956,1857"/>
+                <TextEquiv>
+                    <Unicode>lio in Cersonam. vbi loci et beatus Cle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323749872_1022" custom="readingOrder {index:10;}">
+                <Coords points="1203,1871 1946,1871 1946,1921 1203,1921"/>
+                <TextEquiv>
+                    <Unicode>mens exulabat. quam diuisionem ⁊ scis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323751895_1025" custom="readingOrder {index:11;}">
+                <Coords points="1948,1927 1207,1927 1207,1972 1948,1972"/>
+                <TextEquiv>
+                    <Unicode>sionem fecit t Sergius episcopus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323753767_1028" custom="readingOrder {index:12;}">
+                <Coords points="1209,1977 1963,1977 1963,2028 1209,2028"/>
+                <TextEquiv>
+                    <Unicode>Constantinopolitanus hereticus. qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323755856_1031" custom="readingOrder {index:13;}">
+                <Coords points="1954,2033 1211,2033 1211,2078 1954,2078"/>
+                <TextEquiv>
+                    <Unicode>similiter vt Artenius tenuit vnam vo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323758615_1034" custom="readingOrder {index:14;}">
+                <Coords points="1218,2084 1956,2084 1956,2121 1218,2121"/>
+                <TextEquiv>
+                    <Unicode>luntatem et oꝑatione~ fuisse i~ christo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323761175_1037" custom="readingOrder {index:15;}">
+                <Coords points="1956,2140 1205,2140 1205,2179 1956,2179"/>
+                <TextEquiv>
+                    <Unicode>ꝑtinacit^ stetit sb' i~obedie~tia cu~ alijs sex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646323763504_1040" custom="readingOrder {index:16;}">
+                <Coords points="1213,2192 1942,2192 1942,2256 1213,2256"/>
+                <TextEquiv>
+                    <Unicode>ep~is videlʒ piro paulo petro toma piro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fuit et cepta e~ Sergij pape ⁊ Heraclij&#13;
+imperatoris temporibus Anno domi~&#13;
+Sexinge~tesimo octogesimo et durauit&#13;
+a~nis. lxv. fere vsqʒ ad tꝑa Agapiti pape&#13;
+et Constantini quarti imparatoris ca&#13;
+tholici. filij Constantini tercij omnium&#13;
+imparatorum pessimi. Ex heraclio ge=&#13;
+niti. qui papam Martinu~ ab vrbe Co~=&#13;
+stantinopolim tractum damnaui~t exi=&#13;
+lio in Cersonam. vbi loci et beatus Cle&#13;
+mens exulabat. quam diuisionem ⁊ scis&#13;
+sionem fecit t Sergius episcopus&#13;
+Constantinopolitanus hereticus. qui&#13;
+similiter vt Artenius tenuit vnam vo-&#13;
+luntatem et oꝑatione~ fuisse i~ christo et&#13;
+ꝑtinacit^ stetit sb' i~obedie~tia cu~ alijs sex&#13;
+ep~is videlʒ piro paulo petro toma piro</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

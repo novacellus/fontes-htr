@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:18.894+02:00</Created>
+        <LastChange>2022-03-29T16:27:14.574+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131493" pageNr="92" tsid="79647892" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=DQVSGZWRPKHCEKDWZFNERCWS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YYCTVGUKCZIHRRKRZKQYAQNU" imageId="29937118"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0092.jpg" imageWidth="1790" imageHeight="2563">
+        <PrintSpace>
+            <Coords points="74,233 1752,233 1752,2563 74,2563"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1648564034580" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;} structure {type:DocParagraf;}">
+            <Coords points="400,239 400,2170 1696,2170 1696,239"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="418,315 481,312 544,310 608,307 671,306 735,305 798,304 861,303 925,302 988,302 1052,302 1115,302 1178,303 1242,303 1305,304 1369,305 1432,306 1495,307 1559,308 1622,309 1686,310 1686,247 1622,246 1559,245 1495,244 1432,243 1369,242 1305,241 1242,240 1178,240 1115,239 1052,239 988,239 925,239 861,240 798,241 735,242 671,243 608,244 544,247 481,249 418,252"/>
+                <Baseline points="418,294 481,291 544,289 608,286 671,285 735,284 798,283 861,282 925,281 988,281 1052,281 1115,281 1178,282 1242,282 1305,283 1369,284 1432,285 1495,286 1559,287 1622,288 1686,289"/>
+                <TextEquiv>
+                    <Unicode>quia certum e~ ꝙ respectu nullius pro suis significatis supponit. quia co-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="417,401 480,400 544,399 607,398 671,397 735,397 798,397 862,397 925,398 989,398 1053,399 1116,399 1180,400 1243,401 1307,402 1371,402 1434,403 1498,404 1561,405 1625,405 1689,406 1689,342 1625,341 1561,341 1498,340 1434,339 1371,338 1307,338 1243,337 1180,336 1116,335 1053,335 989,334 925,334 862,333 798,333 735,333 671,333 607,334 544,335 480,336 417,337"/>
+                <Baseline points="417,380 480,379 544,378 607,377 671,376 735,376 798,376 862,376 925,377 989,377 1053,378 1116,378 1180,379 1243,380 1307,381 1371,381 1434,382 1498,383 1561,384 1625,384 1689,385"/>
+                <TextEquiv>
+                    <Unicode>pula cuiuscu~qʒ temporis captra lij vacuum de nullo pronomine demon- </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="406,491 469,489 533,488 597,487 661,486 725,485 788,485 852,485 916,486 980,486 1044,487 1107,488 1171,488 1235,489 1299,490 1363,491 1426,492 1490,493 1554,493 1618,494 1682,494 1682,431 1618,431 1554,430 1490,430 1426,429 1363,428 1299,427 1235,426 1171,425 1107,425 1044,424 980,423 916,423 852,422 788,422 725,422 661,423 597,424 533,425 469,426 406,428"/>
+                <Baseline points="406,470 469,468 533,467 597,466 661,465 725,464 788,464 852,464 916,465 980,465 1044,466 1107,467 1171,467 1235,468 1299,469 1363,470 1426,471 1490,472 1554,472 1618,473 1682,473"/>
+                <TextEquiv>
+                    <Unicode>stratiuo poterit verificari. Ad primam istarum dico. ꝙ in tali casu. anti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="400,576 464,575 528,574 592,574 657,574 721,573 785,573 850,573 914,574 978,574 1043,574 1107,575 1171,575 1235,576 1300,576 1364,577 1428,578 1493,578 1557,578 1621,579 1686,579 1686,516 1621,516 1557,515 1493,515 1428,515 1364,514 1300,513 1235,513 1171,512 1107,512 1043,511 978,511 914,511 850,510 785,510 721,510 657,511 592,511 528,511 464,512 400,513"/>
+                <Baseline points="400,555 464,554 528,553 592,553 657,553 721,552 785,552 850,552 914,553 978,553 1043,553 1107,554 1171,554 1235,555 1300,555 1364,556 1428,557 1493,557 1557,557 1621,558 1686,558"/>
+                <TextEquiv>
+                    <Unicode>christus non ampliatur. sicut ratio post oppositum probat. stat enim re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="415,659 478,659 541,659 605,658 668,658 731,658 795,659 858,659 921,659 985,660 1048,660 1111,661 1175,662 1238,663 1301,663 1365,664 1428,665 1491,666 1555,667 1618,667 1682,668 1682,605 1618,604 1555,604 1491,603 1428,602 1365,601 1301,600 1238,600 1175,599 1111,598 1048,597 985,597 921,596 858,596 795,596 731,595 668,595 605,595 541,596 478,596 415,596"/>
+                <Baseline points="415,638 478,638 541,638 605,637 668,637 731,637 795,638 858,638 921,638 985,639 1048,639 1111,640 1175,641 1238,642 1301,642 1365,643 1428,644 1491,645 1555,646 1618,646 1682,647"/>
+                <TextEquiv>
+                    <Unicode>spectu vnius differentie temporis .s. respectu futuri. ergo non ampliatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="407,745 470,746 534,747 598,747 661,748 725,748 789,749 852,749 916,749 980,750 1044,750 1107,751 1171,751 1235,751 1298,752 1362,752 1426,752 1489,753 1553,753 1617,754 1681,755 1681,691 1617,690 1553,689 1489,689 1426,688 1362,688 1298,688 1235,687 1171,687 1107,687 1044,686 980,686 916,685 852,685 789,685 725,684 661,684 598,683 534,683 470,682 407,681"/>
+                <Baseline points="407,724 470,725 534,726 598,726 661,727 725,727 789,728 852,728 916,728 980,729 1044,729 1107,730 1171,730 1235,730 1298,731 1362,731 1426,731 1489,732 1553,732 1617,733 1681,734"/>
+                <TextEquiv>
+                    <Unicode>Ad rationes ante oppositum dico. ad primam quando dicit^. quia e~ certu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} textStyle {offset:64; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="413,846 480,845 547,845 614,845 682,845 749,845 816,845 884,846 951,846 1018,847 1086,848 1153,849 1220,849 1288,850 1355,850 1422,851 1490,851 1557,851 1624,851 1692,850 1692,786 1624,787 1557,787 1490,787 1422,787 1355,786 1288,786 1220,785 1153,785 1086,784 1018,783 951,782 884,782 816,781 749,781 682,781 614,781 547,781 480,781 413,782"/>
+                <Baseline points="413,825 480,824 547,824 614,824 682,824 749,824 816,824 884,825 951,825 1018,826 1086,827 1153,828 1220,828 1288,829 1355,829 1422,830 1490,830 1557,830 1624,830 1692,829"/>
+                <TextEquiv>
+                    <Unicode>suppositum respectu copule futuri temporis. ergo ampliatur. Ad ho dico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="417,940 480,939 544,938 607,938 671,937 734,937 798,937 861,937 925,938 988,938 1052,939 1115,940 1179,941 1242,942 1306,943 1369,944 1433,945 1496,946 1560,946 1623,947 1687,948 1687,884 1623,883 1560,882 1496,882 1433,881 1369,880 1306,879 1242,878 1179,877 1115,876 1052,875 988,874 925,874 861,873 798,873 734,873 671,873 607,874 544,874 480,875 417,876"/>
+                <Baseline points="417,919 480,918 544,917 607,917 671,916 734,916 798,916 861,916 925,917 988,917 1052,918 1115,919 1179,920 1242,921 1306,922 1369,923 1433,924 1496,925 1560,925 1623,926 1687,927"/>
+                <TextEquiv>
+                    <Unicode>negando consequentiam. quia possibile e~ ꝙ nullo modo terminus sup-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="417,1030 480,1031 543,1032 607,1033 670,1034 734,1034 797,1035 861,1036 924,1036 988,1037 1051,1037 1114,1038 1178,1038 1241,1038 1305,1038 1368,1038 1432,1038 1495,1038 1559,1038 1622,1038 1686,1038 1686,974 1622,974 1559,974 1495,974 1432,974 1368,974 1305,974 1241,974 1178,974 1114,974 1051,973 988,973 924,972 861,972 797,971 734,970 670,970 607,969 543,968 480,967 417,966"/>
+                <Baseline points="417,1009 480,1010 543,1011 607,1012 670,1013 734,1013 797,1014 861,1015 924,1015 988,1016 1051,1016 1114,1017 1178,1017 1241,1017 1305,1017 1368,1017 1432,1017 1495,1017 1559,1017 1622,1017 1686,1017"/>
+                <TextEquiv>
+                    <Unicode>poneret. et tunc non ampliatur. Non enim sufficit ad hoc ꝙ terminꝰ am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="415,1131 478,1131 542,1131 605,1131 669,1130 733,1130 796,1130 860,1130 924,1129 987,1129 1051,1129 1115,1129 1178,1129 1242,1129 1306,1129 1369,1129 1433,1130 1497,1130 1560,1131 1624,1131 1688,1132 1688,1069 1624,1068 1560,1068 1497,1067 1433,1067 1369,1066 1306,1066 1242,1066 1178,1066 1115,1066 1051,1066 987,1066 924,1066 860,1067 796,1067 733,1067 669,1067 605,1068 542,1068 478,1068 415,1068"/>
+                <Baseline points="415,1110 478,1110 542,1110 605,1110 669,1109 733,1109 796,1109 860,1109 924,1108 987,1108 1051,1108 1115,1108 1178,1108 1242,1108 1306,1108 1369,1108 1433,1109 1497,1109 1560,1110 1624,1110 1688,1111"/>
+                <TextEquiv>
+                    <Unicode>plietur. ꝙ ille capiatur respectu copule futuri temporis. sicut ratio dicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="419,1217 482,1217 546,1216 610,1217 673,1217 737,1217 801,1218 864,1218 928,1219 992,1220 1056,1221 1119,1221 1183,1222 1247,1223 1310,1223 1374,1224 1438,1224 1501,1224 1565,1224 1629,1224 1693,1223 1693,1160 1629,1161 1565,1161 1501,1161 1438,1161 1374,1161 1310,1160 1247,1160 1183,1159 1119,1158 1056,1158 992,1157 928,1156 864,1155 801,1155 737,1154 673,1154 610,1154 546,1153 482,1154 419,1154"/>
+                <Baseline points="419,1196 482,1196 546,1195 610,1196 673,1196 737,1196 801,1197 864,1197 928,1198 992,1199 1056,1200 1119,1200 1183,1201 1247,1202 1310,1202 1374,1203 1438,1203 1501,1203 1565,1203 1629,1203 1693,1202"/>
+                <TextEquiv>
+                    <Unicode>satis probat. possibile em~ e~ ꝙ ille terminus nullo modo supponeret. Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="411,1314 474,1313 537,1313 600,1312 663,1312 726,1312 789,1312 852,1312 915,1312 978,1313 1041,1314 1104,1314 1167,1315 1230,1316 1293,1317 1356,1317 1419,1318 1482,1318 1545,1319 1608,1319 1671,1319 1671,1255 1608,1255 1545,1255 1482,1254 1419,1254 1356,1253 1293,1253 1230,1252 1167,1251 1104,1250 1041,1250 978,1249 915,1248 852,1248 789,1248 726,1248 663,1248 600,1248 537,1249 474,1249 411,1250"/>
+                <Baseline points="411,1293 474,1292 537,1292 600,1291 663,1291 726,1291 789,1291 852,1291 915,1291 978,1292 1041,1293 1104,1293 1167,1294 1230,1295 1293,1296 1356,1296 1419,1297 1482,1297 1545,1298 1608,1298 1671,1298"/>
+                <TextEquiv>
+                    <Unicode>per consequens non ampliaretur. cum ampliatio sit suppositio. vnde ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="411,1401 474,1401 538,1400 601,1400 665,1400 729,1401 792,1401 856,1401 920,1402 983,1403 1047,1403 1111,1404 1174,1405 1238,1406 1302,1407 1365,1407 1429,1408 1493,1409 1556,1409 1620,1410 1684,1410 1684,1346 1620,1346 1556,1345 1493,1345 1429,1344 1365,1343 1302,1343 1238,1342 1174,1341 1111,1340 1047,1339 983,1339 920,1338 856,1337 792,1337 729,1337 665,1336 601,1336 538,1336 474,1337 411,1337"/>
+                <Baseline points="411,1380 474,1380 538,1379 601,1379 665,1379 729,1380 792,1380 856,1380 920,1381 983,1382 1047,1382 1111,1383 1174,1384 1238,1385 1302,1386 1365,1386 1429,1387 1493,1388 1556,1388 1620,1389 1684,1389"/>
+                <TextEquiv>
+                    <Unicode>hoc ꝙ terminus amplietur. sufficit ꝙ ipse ponatur respectu copule prete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="404,1502 468,1502 533,1503 597,1503 662,1504 727,1504 791,1505 856,1505 920,1506 985,1507 1050,1508 1114,1508 1179,1509 1243,1510 1308,1510 1372,1511 1437,1512 1502,1512 1566,1512 1631,1513 1696,1513 1696,1449 1631,1449 1566,1448 1502,1448 1437,1448 1372,1447 1308,1446 1243,1446 1179,1445 1114,1444 1050,1444 985,1443 920,1442 856,1441 791,1441 727,1440 662,1440 597,1439 533,1439 468,1438 404,1438"/>
+                <Baseline points="404,1481 468,1481 533,1482 597,1482 662,1483 727,1483 791,1484 856,1484 920,1485 985,1486 1050,1487 1114,1487 1179,1488 1243,1489 1308,1489 1372,1490 1437,1491 1502,1491 1566,1491 1631,1492 1696,1492"/>
+                <TextEquiv>
+                    <Unicode>riti aut futuri temporis. nisi cum hoc supponeret pro suis significatis re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="407,1592 470,1593 534,1594 598,1594 662,1594 726,1595 790,1595 854,1596 918,1596 982,1596 1046,1597 1109,1597 1173,1598 1237,1598 1301,1599 1365,1599 1429,1600 1493,1601 1557,1602 1621,1604 1685,1605 1685,1541 1621,1540 1557,1538 1493,1537 1429,1536 1365,1535 1301,1535 1237,1534 1173,1534 1109,1533 1046,1533 982,1532 918,1532 854,1532 790,1531 726,1531 662,1530 598,1530 534,1530 470,1529 407,1528"/>
+                <Baseline points="407,1571 470,1572 534,1573 598,1573 662,1573 726,1574 790,1574 854,1575 918,1575 982,1575 1046,1576 1109,1576 1173,1577 1237,1577 1301,1578 1365,1578 1429,1579 1493,1580 1557,1581 1621,1583 1685,1584"/>
+                <TextEquiv>
+                    <Unicode>spectu diuersorum temporum indifferenter. et respectu diuersarum copu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="411,1688 474,1689 537,1690 600,1691 664,1691 727,1692 790,1692 854,1692 917,1692 980,1692 1044,1692 1107,1692 1170,1692 1233,1692 1297,1693 1360,1693 1423,1693 1487,1694 1550,1695 1613,1696 1677,1697 1677,1636 1613,1635 1550,1634 1487,1633 1423,1632 1360,1632 1297,1632 1233,1631 1170,1631 1107,1631 1044,1631 980,1631 917,1631 854,1631 790,1631 727,1631 664,1630 600,1630 537,1629 474,1628 411,1627"/>
+                <Baseline points="411,1668 474,1669 537,1670 600,1671 664,1671 727,1672 790,1672 854,1672 917,1672 980,1672 1044,1672 1107,1672 1170,1672 1233,1672 1297,1673 1360,1673 1423,1673 1487,1674 1550,1675 1613,1676 1677,1677"/>
+                <TextEquiv>
+                    <Unicode>larum. modo sic non e~ de an~christo. licet em~ ponatur respectu copule fu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="414,1775 477,1775 540,1775 603,1775 666,1775 729,1775 792,1775 856,1775 919,1775 982,1775 1045,1775 1108,1775 1171,1775 1234,1775 1298,1776 1361,1776 1424,1777 1487,1777 1550,1778 1613,1779 1677,1780 1677,1719 1613,1718 1550,1717 1487,1716 1424,1716 1361,1715 1298,1715 1234,1714 1171,1714 1108,1714 1045,1714 982,1714 919,1714 856,1714 792,1714 729,1714 666,1714 603,1714 540,1714 477,1714 414,1714"/>
+                <Baseline points="414,1755 477,1755 540,1755 603,1755 666,1755 729,1755 792,1755 856,1755 919,1755 982,1755 1045,1755 1108,1755 1171,1755 1234,1755 1298,1756 1361,1756 1424,1757 1487,1757 1550,1758 1613,1759 1677,1760"/>
+                <TextEquiv>
+                    <Unicode>turi temporis. tamen non stat pro suo significatio nisi respectu vnius dif</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="409,1874 472,1875 536,1875 599,1875 663,1875 726,1875 790,1875 853,1875 917,1874 980,1874 1044,1874 1107,1873 1171,1873 1234,1873 1298,1873 1361,1874 1425,1874 1488,1876 1552,1877 1615,1878 1679,1881 1679,1817 1615,1814 1552,1813 1488,1812 1425,1810 1361,1810 1298,1809 1234,1809 1171,1809 1107,1809 1044,1810 980,1810 917,1810 853,1811 790,1811 726,1811 663,1811 599,1811 536,1811 472,1811 409,1810"/>
+                <Baseline points="409,1853 472,1854 536,1854 599,1854 663,1854 726,1854 790,1854 853,1854 917,1853 980,1853 1044,1853 1107,1852 1171,1852 1234,1852 1298,1852 1361,1853 1425,1853 1488,1855 1552,1856 1615,1857 1679,1860"/>
+                <TextEquiv>
+                    <Unicode>ferentie temporis .s. futuri temporis. pro significato enim presentis tem-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="418,1964 481,1964 544,1965 607,1965 670,1966 733,1966 796,1967 859,1967 922,1968 985,1968 1048,1968 1111,1969 1174,1969 1237,1970 1300,1971 1363,1971 1426,1972 1489,1973 1552,1974 1615,1974 1679,1976 1679,1912 1615,1910 1552,1910 1489,1909 1426,1908 1363,1907 1300,1907 1237,1906 1174,1905 1111,1905 1048,1904 985,1904 922,1904 859,1903 796,1903 733,1902 670,1902 607,1901 544,1901 481,1900 418,1900"/>
+                <Baseline points="418,1943 481,1943 544,1944 607,1944 670,1945 733,1945 796,1946 859,1946 922,1947 985,1947 1048,1947 1111,1948 1174,1948 1237,1949 1300,1950 1363,1950 1426,1951 1489,1952 1552,1953 1615,1953 1679,1955"/>
+                <TextEquiv>
+                    <Unicode>poris non stat. quia nullu~ habet s'catu~ pri~s. ideo no~ ampliat^. Ad illud a~t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="409,2058 472,2057 536,2055 599,2055 663,2055 727,2056 790,2057 854,2058 917,2059 981,2061 1045,2063 1108,2065 1172,2066 1235,2068 1299,2069 1363,2070 1426,2071 1490,2072 1553,2072 1617,2072 1681,2071 1681,2007 1617,2008 1553,2008 1490,2008 1426,2007 1363,2006 1299,2005 1235,2004 1172,2002 1108,2001 1045,1999 981,1997 917,1995 854,1994 790,1993 727,1992 663,1991 599,1991 536,1991 472,1993 409,1994"/>
+                <Baseline points="409,2037 472,2036 536,2034 599,2034 663,2034 727,2035 790,2036 854,2037 917,2038 981,2040 1045,2042 1108,2044 1172,2045 1235,2047 1299,2048 1363,2049 1426,2050 1490,2051 1553,2051 1617,2051 1681,2050"/>
+                <TextEquiv>
+                    <Unicode>quando dr~. sensus e~. qd' est vel erit antichristus ergo ampliatur. nego con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="406,2166 469,2164 533,2162 596,2161 660,2160 724,2160 787,2160 851,2161 914,2162 978,2163 1042,2164 1105,2165 1169,2167 1232,2168 1296,2169 1360,2170 1423,2170 1487,2170 1550,2169 1614,2168 1678,2167 1678,2103 1614,2104 1550,2105 1487,2106 1423,2106 1360,2106 1296,2105 1232,2104 1169,2103 1105,2101 1042,2100 978,2099 914,2098 851,2097 787,2096 724,2096 660,2096 596,2097 533,2098 469,2100 406,2102"/>
+                <Baseline points="406,2145 469,2143 533,2141 596,2140 660,2139 724,2139 787,2139 851,2140 914,2141 978,2142 1042,2143 1105,2144 1169,2146 1232,2147 1296,2148 1360,2149 1423,2149 1487,2149 1550,2148 1614,2147 1678,2146"/>
+                <TextEquiv>
+                    <Unicode>sequentiam quia talis est sensus illius propositionis Chimera erit. s'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>quia certum e~ ꝙ respectu nullius pro suis significatis supponit. quia co-&#13;
+pula cuiuscu~qʒ temporis captra lij vacuum de nullo pronomine demon- &#13;
+stratiuo poterit verificari. Ad primam istarum dico. ꝙ in tali casu. anti-&#13;
+christus non ampliatur. sicut ratio post oppositum probat. stat enim re&#13;
+spectu vnius differentie temporis .s. respectu futuri. ergo non ampliatur.&#13;
+Ad rationes ante oppositum dico. ad primam quando dicit^. quia e~ certu~&#13;
+suppositum respectu copule futuri temporis. ergo ampliatur. Ad ho dico&#13;
+negando consequentiam. quia possibile e~ ꝙ nullo modo terminus sup-&#13;
+poneret. et tunc non ampliatur. Non enim sufficit ad hoc ꝙ terminꝰ am&#13;
+plietur. ꝙ ille capiatur respectu copule futuri temporis. sicut ratio dicta&#13;
+satis probat. possibile em~ e~ ꝙ ille terminus nullo modo supponeret. Et&#13;
+per consequens non ampliaretur. cum ampliatio sit suppositio. vnde ad&#13;
+hoc ꝙ terminus amplietur. sufficit ꝙ ipse ponatur respectu copule prete&#13;
+riti aut futuri temporis. nisi cum hoc supponeret pro suis significatis re-&#13;
+spectu diuersorum temporum indifferenter. et respectu diuersarum copu&#13;
+larum. modo sic non e~ de an~christo. licet em~ ponatur respectu copule fu-&#13;
+turi temporis. tamen non stat pro suo significatio nisi respectu vnius dif&#13;
+ferentie temporis .s. futuri temporis. pro significato enim presentis tem-&#13;
+poris non stat. quia nullu~ habet s'catu~ pri~s. ideo no~ ampliat^. Ad illud a~t&#13;
+quando dr~. sensus e~. qd' est vel erit antichristus ergo ampliatur. nego con&#13;
+sequentiam quia talis est sensus illius propositionis Chimera erit. s'</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="74,2522 1752,2522 1752,2563 74,2563"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

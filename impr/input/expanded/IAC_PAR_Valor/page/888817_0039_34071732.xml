@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.865+01:00</Created>
+        <LastChange>2022-12-16T17:07:12.359+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071732" pageNr="39" tsid="73003460" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=CBHLAYFNLMSCNLEMCQRWYMTS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJQZQRFIFFUVRBCSIRSEUEHX" imageId="27321076"/>
+    </Metadata>
+    <Page imageFilename="888817_0039_34071732.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671206832375" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642269547149_1470"/>
+                <RegionRefIndexed index="1" regionRef="region_1642269551700_1473"/>
+                <RegionRefIndexed index="2" regionRef="region_1642269555982_1476"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1642269547149_1470" custom="readingOrder {index:0;} structure {type:[heading];}">
+            <Coords points="212,315 647,315 647,376 212,376"/>
+            <TextLine id="line_1642269636151_1488" custom="readingOrder {index:0;}">
+                <Coords points="635,328 236,328 236,366 635,366"/>
+                <TextEquiv>
+                    <Unicode>Sequitur conclusio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sequitur conclusio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1642269551700_1473" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="209,276 1330,276 1330,1789 209,1789"/>
+            <TextLine id="line_1642269641388_1492" custom="readingOrder {index:0;}">
+                <Coords points="693,324 1312,324 1312,359 693,359"/>
+                <TextEquiv>
+                    <Unicode>Ergo perfecta dei opera pro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269643661_1495" custom="readingOrder {index:1;}">
+                <Coords points="233,386 1315,386 1315,421 233,421"/>
+                <TextEquiv>
+                    <Unicode>pter nos facta licet possunt secundum quid impediri. non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269645776_1498" custom="readingOrder {index:2;}">
+                <Coords points="1298,424 222,424 222,496 1298,496"/>
+                <TextEquiv>
+                    <Unicode>tamen simpliciter omnino frustrari. Patet et si oportet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269647448_1501" custom="readingOrder {index:3;}">
+                <Coords points="233,500 1298,500 1298,548 233,548"/>
+                <TextEquiv>
+                    <Unicode>gracie frustretur in reprobis hoc supplebitur per divi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269649288_1504" custom="readingOrder {index:4;}">
+                <Coords points="1281,565 226,565 226,613 1281,613"/>
+                <TextEquiv>
+                    <Unicode>nam iusticiam malum hoc penaliter reformantem et tur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269650922_1507" custom="readingOrder {index:5;}">
+                <Coords points="226,627 1274,627 1274,658 226,658"/>
+                <TextEquiv>
+                    <Unicode>pitudo culpe reformabitur per pulcritudinem iusticie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269652671_1510" custom="readingOrder {index:6;}">
+                <Coords points="1278,689 246,689 246,720 1278,720"/>
+                <TextEquiv>
+                    <Unicode>Una pars. Universe vie domini misericordia et veritas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269654322_1513" custom="readingOrder {index:7;}">
+                <Coords points="236,737 1291,737 1291,785 236,785"/>
+                <TextEquiv>
+                    <Unicode>Principaliter via est sue misericordie et bonitatis que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269656443_1516" custom="readingOrder {index:8;}">
+                <Coords points="1284,812 212,812 212,847 1284,847"/>
+                <TextEquiv>
+                    <Unicode>si impedimentum quod habuerit erit ex nostra malicia que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269661786_1522" custom="readingOrder {index:9;}">
+                <Coords points="229,854 1291,854 1291,912 229,912"/>
+                <TextEquiv>
+                    <Unicode>suggestione demonis in nobis efficitur sed per divi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269664776_1525" custom="readingOrder {index:10;}">
+                <Coords points="1278,919 229,919 229,971 1278,971"/>
+                <TextEquiv>
+                    <Unicode>nam iusticiam reparatur. Si igitur quibusdam di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269666914_1528" custom="readingOrder {index:11;}">
+                <Coords points="226,991 1302,991 1302,1029 226,1029"/>
+                <TextEquiv>
+                    <Unicode>vina bonitas impeditur hoc tamen impedimentum divi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269669107_1531" custom="readingOrder {index:12;}">
+                <Coords points="1298,1043 226,1043 226,1077 1298,1077"/>
+                <TextEquiv>
+                    <Unicode>na iusticia reparat et in bonum ordinem reducit. Dixi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269671052_1534" custom="readingOrder {index:13;}">
+                <Coords points="229,1094 1295,1094 1295,1139 229,1139"/>
+                <TextEquiv>
+                    <Unicode>ergo bene que omnino non frustratur quod fieret si ordo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269672881_1537" custom="readingOrder {index:14;}">
+                <Coords points="1284,1153 233,1153 233,1194 1284,1194"/>
+                <TextEquiv>
+                    <Unicode>vine bonitatis a deo institutus quo vidit deus cuncta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269675205_1540" custom="readingOrder {index:15;}">
+                <Coords points="229,1204 1278,1204 1278,1259 229,1259"/>
+                <TextEquiv>
+                    <Unicode>que fecerat et erant valde bona que destitueretur. Sed hic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269676791_1543" custom="readingOrder {index:16;}">
+                <Coords points="1281,1273 240,1273 240,1311 1281,1311"/>
+                <TextEquiv>
+                    <Unicode>ordo perseverat licet in quibusdam liberum arbitrium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269678850_1546" custom="readingOrder {index:17;}">
+                <Coords points="240,1328 1302,1328 1302,1386 240,1386"/>
+                <TextEquiv>
+                    <Unicode>habentibus hoc bonum quo ad eos impeditur ne in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269680710_1549" custom="readingOrder {index:18;}">
+                <Coords points="1295,1386 215,1386 215,1445 1295,1445"/>
+                <TextEquiv>
+                    <Unicode>seipsis participetur tamen non omnino frustratur dummo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269682759_1552" custom="readingOrder {index:19;}">
+                <Coords points="222,1445 1284,1445 1284,1496 222,1496"/>
+                <TextEquiv>
+                    <Unicode>do iniquitas talium iuste corrigitur. et voluntaria ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269684928_1555" custom="readingOrder {index:20;}">
+                <Coords points="1284,1500 215,1500 215,1555 1284,1555"/>
+                <TextEquiv>
+                    <Unicode>licia coactione pene involuntarie per divinam iusticiam re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269686940_1558" custom="readingOrder {index:21;}">
+                <Coords points="246,1569 1295,1569 1295,1610 246,1610"/>
+                <TextEquiv>
+                    <Unicode>formatur. ut sic nullum bonum est irremuneratum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269688644_1561" custom="readingOrder {index:22;}">
+                <Coords points="1295,1627 236,1627 236,1661 1295,1661"/>
+                <TextEquiv>
+                    <Unicode>sic nullum malum maneatur impunitum A quo nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269690106_1564" custom="readingOrder {index:23;}">
+                <Coords points="240,1672 1284,1672 1284,1734 240,1734"/>
+                <TextEquiv>
+                    <Unicode>punitionis malo preservet nos deus ut cum electis semper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269691965_1567" custom="readingOrder {index:24;}">
+                <Coords points="628,1737 212,1737 212,1782 628,1782"/>
+                <TextEquiv>
+                    <Unicode>feliciter gaudeamus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ergo perfecta dei opera pro-&#13;
+pter nos facta licet possunt secundum quid impediri. non&#13;
+tamen simpliciter omnino frustrari. Patet et si oportet&#13;
+gracie frustretur in reprobis hoc supplebitur per divi&#13;
+nam iusticiam malum hoc penaliter reformantem et tur&#13;
+pitudo culpe reformabitur per pulcritudinem iusticie.&#13;
+Una pars. Universe vie domini misericordia et veritas&#13;
+Principaliter via est sue misericordie et bonitatis que&#13;
+si impedimentum quod habuerit erit ex nostra malicia que&#13;
+suggestione demonis in nobis efficitur sed per divi-&#13;
+nam iusticiam reparatur. Si igitur quibusdam di&#13;
+vina bonitas impeditur hoc tamen impedimentum divi&#13;
+na iusticia reparat et in bonum ordinem reducit. Dixi&#13;
+ergo bene que omnino non frustratur quod fieret si ordo di&#13;
+vine bonitatis a deo institutus quo vidit deus cuncta&#13;
+que fecerat et erant valde bona que destitueretur. Sed hic&#13;
+ordo perseverat licet in quibusdam liberum arbitrium&#13;
+habentibus hoc bonum quo ad eos impeditur ne in&#13;
+seipsis participetur tamen non omnino frustratur dummo-&#13;
+do iniquitas talium iuste corrigitur. et voluntaria ma&#13;
+licia coactione pene involuntarie per divinam iusticiam re&#13;
+formatur. ut sic nullum bonum est irremuneratum&#13;
+sic nullum malum maneatur impunitum A quo nos&#13;
+punitionis malo preservet nos deus ut cum electis semper&#13;
+feliciter gaudeamus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1642269555982_1476" custom="readingOrder {index:2;} structure {type:[heading];}">
+            <Coords points="330,1807 1398,1807 1398,2060 330,2060"/>
+            <TextLine id="line_1642269697954_1571" custom="readingOrder {index:0;}">
+                <Coords points="1322,1857 325,1857 325,1809 1322,1809"/>
+                <TextEquiv>
+                    <Unicode>Explicit determinatio eximii et disertissimi do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269700677_1574" custom="readingOrder {index:1;}">
+                <Coords points="360,1868 1305,1868 1305,1902 360,1902"/>
+                <TextEquiv>
+                    <Unicode>ctoris sacre theologie magistri Iohannis de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269702421_1577" custom="readingOrder {index:2;}">
+                <Coords points="1288,1916 353,1916 353,1954 1288,1954"/>
+                <TextEquiv>
+                    <Unicode>Mechilinia habita in universitate Coloniensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269704012_1580" custom="readingOrder {index:3;}">
+                <Coords points="350,1981 985,1981 985,2026 350,2026"/>
+                <TextEquiv>
+                    <Unicode>in scolis artistarum in quolibet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Explicit determinatio eximii et disertissimi do&#13;
+ctoris sacre theologie magistri Iohannis de&#13;
+Mechilinia habita in universitate Coloniensi&#13;
+in scolis artistarum in quolibet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

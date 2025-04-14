@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:22.806+01:00</Created>
+        <LastChange>2022-01-17T11:04:45.789+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071729" pageNr="36" tsid="73003448" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=FQQRCDXGKRNWOLCNGTFRFNCV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYVESRRAUECCWUJWMAEPLEQH" imageId="27321073"/>
+    </Metadata>
+    <Page imageFilename="888817_0036_34071729.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1642413885804" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642269351754_1288"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1642269351754_1288" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="401,326 1597,326 1597,1935 401,1935"/>
+            <TextLine id="line_1642269357697_1292" custom="readingOrder {index:0;}">
+                <Coords points="422,340 1561,340 1561,394 422,394"/>
+                <TextEquiv>
+                    <Unicode>loco immortalitatis in qua a deo erat positus vt obe=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269360180_1295" custom="readingOrder {index:1;}">
+                <Coords points="1554,404 412,404 412,476 1554,476"/>
+                <TextEquiv>
+                    <Unicode>dien~. hunc custodiret in exilium mortis deuiare fe=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269362303_1298" custom="readingOrder {index:2;}">
+                <Coords points="422,486 1561,486 1561,518 422,518"/>
+                <TextEquiv>
+                    <Unicode>cit ⁊ deum vir obediuit mulieri ⁊ hec serpenti bene or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269364145_1301" custom="readingOrder {index:3;}">
+                <Coords points="1551,533 429,533 429,582 1551,582"/>
+                <TextEquiv>
+                    <Unicode>dinata policia ⁊ graciosa yconomia ꝑuersa est. ⁊ hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269366156_1304" custom="readingOrder {index:4;}">
+                <Coords points="422,582 1540,582 1540,632 422,632"/>
+                <TextEquiv>
+                    <Unicode>inesse suo monastico per rebellionem carnis contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269369523_1307" custom="readingOrder {index:5;}">
+                <Coords points="1554,625 422,625 422,689 1554,689"/>
+                <TextEquiv>
+                    <Unicode>spiritum turbatus est. est eciam a custodia angelica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269371580_1310" custom="readingOrder {index:6;}">
+                <Coords points="422,700 1547,700 1547,746 422,746"/>
+                <TextEquiv>
+                    <Unicode>que sibi a paradiso contra fraudes diabolicas proui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269373472_1313" custom="readingOrder {index:7;}">
+                <Coords points="1547,764 412,764 412,828 1547,828"/>
+                <TextEquiv>
+                    <Unicode>sa fuit excommunicatus ⁊ per cherubin cui in plenitu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269375622_1316" custom="readingOrder {index:8;}">
+                <Coords points="412,828 1558,828 1558,878 412,878"/>
+                <TextEquiv>
+                    <Unicode>dine scientie equari voluit expulsus fuit. immo vt ve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269378958_1319" custom="readingOrder {index:9;}">
+                <Coords points="1590,874 433,874 433,928 1590,928"/>
+                <TextEquiv>
+                    <Unicode>rius loquar super cherubin conformitate~ diuine am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269380861_1322" custom="readingOrder {index:10;}">
+                <Coords points="422,935 1547,935 1547,977 422,977"/>
+                <TextEquiv>
+                    <Unicode>biuit credens serpenti qui ait. Eritis sicut dij scientes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269383911_1325" custom="readingOrder {index:11;}">
+                <Coords points="1554,999 404,999 404,1045 1554,1045"/>
+                <TextEquiv>
+                    <Unicode>bonum ⁊ malum. Et cuius intellectus ad instar ange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269386159_1328" custom="readingOrder {index:12;}">
+                <Coords points="401,1056 1565,1056 1565,1102 401,1102"/>
+                <TextEquiv>
+                    <Unicode>lici intellectus erat pleniformis iam in ignorantiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269388491_1331" custom="readingOrder {index:13;}">
+                <Coords points="1558,1113 419,1113 419,1173 1558,1173"/>
+                <TextEquiv>
+                    <Unicode>venit factus vt tabula rasa in qua nichil depictum e~.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269390722_1334" custom="readingOrder {index:14;}">
+                <Coords points="412,1191 1551,1191 1551,1212 412,1212"/>
+                <TextEquiv>
+                    <Unicode>Et varia facta sunt homini incomoda. quoniam hu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269392675_1337" custom="readingOrder {index:15;}">
+                <Coords points="1547,1237 419,1237 419,1291 1547,1291"/>
+                <TextEquiv>
+                    <Unicode>mana natura que creata fuit libera. facta est multipli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269394830_1340" custom="readingOrder {index:16;}">
+                <Coords points="412,1294 1533,1294 1533,1330 412,1330"/>
+                <TextEquiv>
+                    <Unicode>citer ancilla. Homo quidem cum in honore esset no~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269397322_1343" custom="readingOrder {index:17;}">
+                <Coords points="1544,1344 401,1344 401,1401 1544,1401"/>
+                <TextEquiv>
+                    <Unicode>intellexit ⁊c. Et opus dei perfectum in homine exem=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269400569_1346" custom="readingOrder {index:18;}">
+                <Coords points="408,1412 1554,1412 1554,1454 408,1454"/>
+                <TextEquiv>
+                    <Unicode>platum malicia demonis deformatum est ⁊ malicia de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269402869_1349" custom="readingOrder {index:19;}">
+                <Coords points="1554,1465 426,1465 426,1515 1554,1515"/>
+                <TextEquiv>
+                    <Unicode>monis. bonitatis diuine communicatio ⁊ refluxus in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269404864_1352" custom="readingOrder {index:20;}">
+                <Coords points="426,1533 1551,1533 1551,1558 426,1558"/>
+                <TextEquiv>
+                    <Unicode>parte impeditur. Non autem potuit demon resistere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269406846_1355" custom="readingOrder {index:21;}">
+                <Coords points="1547,1565 412,1565 412,1632 1547,1632"/>
+                <TextEquiv>
+                    <Unicode>deo in se a quo proiectus est in damnationem ⁊ perpe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269409777_1358" custom="readingOrder {index:22;}">
+                <Coords points="408,1640 1529,1640 1529,1679 408,1679"/>
+                <TextEquiv>
+                    <Unicode>tue relegatus. Nec potuit resistere operi eius perfe=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269411395_1361" custom="readingOrder {index:23;}">
+                <Coords points="1533,1696 383,1696 383,1739 1533,1739"/>
+                <TextEquiv>
+                    <Unicode>cto in maiori mundo. Sed se homini ⁊ minori mun=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269413880_1364" custom="readingOrder {index:24;}">
+                <Coords points="429,1757 1544,1757 1544,1796 429,1796"/>
+                <TextEquiv>
+                    <Unicode>do opposuit. Et sic quoniam a mu~do architipo auer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269415811_1367" custom="readingOrder {index:25;}">
+                <Coords points="1544,1803 419,1803 419,1857 1544,1857"/>
+                <TextEquiv>
+                    <Unicode>tens mundum maiorem scd'm quod in parte est ha=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642269417750_1370" custom="readingOrder {index:26;}">
+                <Coords points="426,1882 1540,1882 1540,1924 426,1924"/>
+                <TextEquiv>
+                    <Unicode>bitatio minoris mundi ⁊ suo seruit sui deteriorauit co~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>loco immortalitatis in qua a deo erat positus vt obe=&#13;
+dien~. hunc custodiret in exilium mortis deuiare fe=&#13;
+cit ⁊ deum vir obediuit mulieri ⁊ hec serpenti bene or&#13;
+dinata policia ⁊ graciosa yconomia ꝑuersa est. ⁊ hoc&#13;
+inesse suo monastico per rebellionem carnis contra&#13;
+spiritum turbatus est. est eciam a custodia angelica&#13;
+que sibi a paradiso contra fraudes diabolicas proui&#13;
+sa fuit excommunicatus ⁊ per cherubin cui in plenitu&#13;
+dine scientie equari voluit expulsus fuit. immo vt ve&#13;
+rius loquar super cherubin conformitate~ diuine am&#13;
+biuit credens serpenti qui ait. Eritis sicut dij scientes&#13;
+bonum ⁊ malum. Et cuius intellectus ad instar ange&#13;
+lici intellectus erat pleniformis iam in ignorantiam&#13;
+venit factus vt tabula rasa in qua nichil depictum e~.&#13;
+Et varia facta sunt homini incomoda. quoniam hu=&#13;
+mana natura que creata fuit libera. facta est multipli&#13;
+citer ancilla. Homo quidem cum in honore esset no~&#13;
+intellexit ⁊c. Et opus dei perfectum in homine exem=&#13;
+platum malicia demonis deformatum est ⁊ malicia de&#13;
+monis. bonitatis diuine communicatio ⁊ refluxus in&#13;
+parte impeditur. Non autem potuit demon resistere&#13;
+deo in se a quo proiectus est in damnationem ⁊ perpe&#13;
+tue relegatus. Nec potuit resistere operi eius perfe=&#13;
+cto in maiori mundo. Sed se homini ⁊ minori mun=&#13;
+do opposuit. Et sic quoniam a mu~do architipo auer-&#13;
+tens mundum maiorem scd'm quod in parte est ha=&#13;
+bitatio minoris mundi ⁊ suo seruit sui deteriorauit co~</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:10.09+02:00</Created>
+        <LastChange>2022-05-06T14:54:14.318+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131412" pageNr="26" tsid="79647525" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=EOFKNMAVLDODBNHXWGKTQSQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBLCLKLVXQAQDZHSAMCNGQBM" imageId="29937037"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0026.jpg" imageWidth="1847" imageHeight="2582">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1651841654318" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1651840833785_1297"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651840833785_1297" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="450,285 1725,285 1725,2194 450,2194"/>
+            <TextLine id="line_1651840856374_1308" custom="readingOrder {index:0;}">
+                <Coords points="456,316 548,314 687,311 1012,311 1394,313 1444,314 1725,320 1725,350 1699,351 1674,351 456,346"/>
+                <Baseline points="456,336 502,335 548,334 595,333 641,332 687,331 734,331 780,331 826,331 873,331 919,331 965,331 1012,331 1058,332 1104,332 1151,332 1197,333 1243,333 1290,333 1336,333 1383,333 1394,333 1419,334 1444,334 1470,335 1495,336 1521,337 1546,337 1572,339 1597,339 1623,340 1648,340 1674,341 1699,341 1725,340"/>
+                <TextEquiv>
+                    <Unicode>nalis. Suppositio co~munis determinata materialis. e~ acceptio termini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+                <Coords points="454,441 517,438 580,436 644,434 707,433 770,432 834,431 897,431 960,431 1024,431 1087,431 1150,432 1214,433 1277,433 1340,434 1404,435 1467,436 1530,436 1594,437 1657,437 1721,438 1721,408 1657,407 1594,407 1530,406 1467,406 1404,405 1340,404 1277,403 1214,403 1150,402 1087,401 1024,401 960,401 897,401 834,401 770,402 707,403 644,404 580,406 517,408 454,411"/>
+                <Baseline points="454,431 517,428 580,426 644,424 707,423 770,422 834,421 897,421 960,421 1024,421 1087,421 1150,422 1214,423 1277,423 1340,424 1404,425 1467,426 1530,426 1594,427 1657,427 1721,428"/>
+                <TextEquiv>
+                    <Unicode>in propositione. pro suo significato non vltimato. aut pro suis significa=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:2;}">
+                <Coords points="458,528 521,525 584,523 647,522 710,520 774,520 837,519 900,519 963,519 1026,519 1090,519 1153,520 1216,520 1279,521 1342,521 1406,522 1469,523 1532,523 1595,524 1658,524 1722,524 1722,494 1658,494 1595,494 1532,493 1469,493 1406,492 1342,491 1279,491 1216,490 1153,490 1090,489 1026,489 963,489 900,489 837,489 774,490 710,490 647,492 584,493 521,495 458,498"/>
+                <Baseline points="458,518 521,515 584,513 647,512 710,510 774,510 837,509 900,509 963,509 1026,509 1090,509 1153,510 1216,510 1279,511 1342,511 1406,512 1469,513 1532,513 1595,514 1658,514 1722,514"/>
+                <TextEquiv>
+                    <Unicode>tis non vltimatis disiunctiue. de quo vel de quibus talis terminus veri=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651840817103_1260" custom="readingOrder {index:3;}">
+                <Coords points="450,589 512,588 576,587 640,585 704,584 768,583 831,582 895,581 959,580 1023,579 1278,579 1342,580 1406,581 1469,582 1533,583 1597,585 1661,587 1725,590 1725,620 1661,617 1597,615 1533,613 1469,612 1406,611 1342,610 1278,609 1023,609 959,610 895,611 831,612 768,613 704,614 640,615 576,617 512,618 450,619"/>
+                <Baseline points="449,610 450,609"/>
+                <TextEquiv>
+                    <Unicode>ficatur mediante copula talis propositionis. vt amo est verbum. Iij amo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:4;}">
+                <Coords points="454,711 516,708 579,705 642,703 705,701 768,699 831,698 894,698 957,697 1020,697 1083,697 1145,698 1208,698 1271,699 1334,700 1397,700 1460,701 1523,702 1586,703 1649,703 1712,704 1712,674 1649,673 1586,673 1523,672 1460,671 1397,670 1334,670 1271,669 1208,668 1145,668 1083,667 1020,667 957,667 894,668 831,668 768,669 705,671 642,673 579,675 516,678 454,681"/>
+                <Baseline points="454,701 516,698 579,695 642,693 705,691 768,689 831,688 894,688 957,687 1020,687 1083,687 1145,688 1208,688 1271,689 1334,690 1397,690 1460,691 1523,692 1586,693 1649,693 1712,694"/>
+                <TextEquiv>
+                    <Unicode>supponit distributiue. pro quo suo ꝟcato non vltimato. quia sequit^ amo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:5;}">
+                <Coords points="453,798 514,798 576,798 638,797 700,797 762,796 824,796 886,795 948,795 1010,794 1072,794 1133,794 1195,794 1257,793 1319,793 1381,793 1443,793 1505,794 1567,794 1629,795 1691,796 1691,766 1629,765 1567,764 1505,764 1443,763 1381,763 1319,763 1257,763 1195,764 1133,764 1072,764 1010,764 948,765 886,765 824,766 762,766 700,767 638,767 576,768 514,768 453,768"/>
+                <Baseline points="453,788 514,788 576,788 638,787 700,787 762,786 824,786 886,785 948,785 1010,784 1072,784 1133,784 1195,784 1257,783 1319,783 1381,783 1443,783 1505,784 1567,784 1629,785 1691,786"/>
+                <TextEquiv>
+                    <Unicode>est verbum. igitur hoc amo est verbum vel hoc amo est verbum ⁊c~~ijs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:6;}">
+                <Coords points="462,899 525,896 588,894 651,892 714,890 777,889 840,887 903,886 966,886 1029,886 1092,885 1155,885 1218,886 1281,886 1344,886 1407,887 1470,888 1533,889 1596,889 1659,891 1723,892 1723,862 1659,861 1596,859 1533,859 1470,858 1407,857 1344,856 1281,856 1218,856 1155,855 1092,855 1029,856 966,856 903,856 840,857 777,859 714,860 651,862 588,864 525,866 462,869"/>
+                <Baseline points="462,889 525,886 588,884 651,882 714,880 777,879 840,877 903,876 966,876 1029,876 1092,875 1155,875 1218,876 1281,876 1344,876 1407,877 1470,878 1533,879 1596,879 1659,881 1723,882"/>
+                <TextEquiv>
+                    <Unicode>Nota ꝙ terminus dr~ stare disiunctiue. quando contingit sub eo descen=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:7;}">
+                <Coords points="457,985 520,984 583,983 647,982 710,981 773,980 837,979 900,978 963,977 1027,976 1090,976 1153,975 1217,975 1280,975 1343,975 1407,976 1470,977 1533,979 1597,981 1660,983 1724,986 1724,956 1660,953 1597,951 1533,949 1470,947 1407,946 1343,945 1280,945 1217,945 1153,945 1090,946 1027,946 963,947 900,948 837,949 773,950 710,951 647,952 583,953 520,954 457,955"/>
+                <Baseline points="457,975 520,974 583,973 647,972 710,971 773,970 837,969 900,968 963,967 1027,966 1090,966 1153,965 1217,965 1280,965 1343,965 1407,966 1470,967 1533,969 1597,971 1660,973 1724,976"/>
+                <TextEquiv>
+                    <Unicode>dere ad sua singularia. ꝑ propositionem disiunctiuam. Suppositio com</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:8;}">
+                <Coords points="462,1090 524,1088 586,1085 648,1084 711,1082 773,1081 835,1080 898,1079 960,1079 1022,1079 1085,1079 1147,1079 1209,1080 1271,1080 1334,1081 1396,1081 1458,1082 1521,1083 1583,1083 1645,1084 1708,1084 1708,1054 1645,1054 1583,1053 1521,1053 1458,1052 1396,1051 1334,1051 1271,1050 1209,1050 1147,1049 1085,1049 1022,1049 960,1049 898,1049 835,1050 773,1051 711,1052 648,1054 586,1055 524,1058 462,1060"/>
+                <Baseline points="462,1080 524,1078 586,1075 648,1074 711,1072 773,1071 835,1070 898,1069 960,1069 1022,1069 1085,1069 1147,1069 1209,1070 1271,1070 1334,1071 1396,1071 1458,1072 1521,1073 1583,1073 1645,1074 1708,1074"/>
+                <TextEquiv>
+                    <Unicode>munis determinata personalis. est acceptio termini in ꝓpositione ꝓ suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:9;}">
+                <Coords points="457,1185 523,1182 589,1180 655,1178 722,1177 788,1176 854,1175 920,1174 987,1173 1053,1173 1119,1173 1185,1173 1252,1173 1318,1174 1384,1174 1450,1175 1517,1176 1583,1177 1649,1178 1716,1179 1716,1149 1649,1148 1583,1147 1517,1146 1450,1145 1384,1144 1318,1144 1252,1143 1185,1143 1119,1143 1053,1143 987,1143 920,1144 854,1145 788,1146 722,1147 655,1148 589,1150 523,1152 457,1155"/>
+                <Baseline points="457,1175 523,1172 589,1170 655,1168 722,1167 788,1166 854,1165 920,1164 987,1163 1053,1163 1119,1163 1185,1163 1252,1163 1318,1164 1384,1164 1450,1165 1517,1166 1583,1167 1649,1168 1716,1169"/>
+                <TextEquiv>
+                    <Unicode>ꝟcato vltimo. vel suis ꝟcatis vltimatis disiunctiue. de quo vel de q~bus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:10;}">
+                <Coords points="462,1283 524,1281 586,1279 648,1278 711,1277 773,1275 835,1274 897,1273 960,1273 1022,1272 1084,1272 1146,1271 1209,1271 1271,1271 1333,1271 1395,1271 1458,1272 1520,1272 1582,1272 1644,1273 1707,1274 1707,1244 1644,1243 1582,1242 1520,1242 1458,1242 1395,1241 1333,1241 1271,1241 1209,1241 1146,1241 1084,1242 1022,1242 960,1243 897,1243 835,1244 773,1245 711,1247 648,1248 586,1249 524,1251 462,1253"/>
+                <Baseline points="462,1273 524,1271 586,1269 648,1268 711,1267 773,1265 835,1264 897,1263 960,1263 1022,1262 1084,1262 1146,1261 1209,1261 1271,1261 1333,1261 1395,1261 1458,1262 1520,1262 1582,1262 1644,1263 1707,1264"/>
+                <TextEquiv>
+                    <Unicode>talis terminus verificatur mediante copula talis ꝓpositionis. vt homo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:11;}">
+                <Coords points="462,1378 528,1375 594,1373 660,1371 727,1369 793,1368 859,1366 925,1365 992,1364 1058,1364 1124,1363 1190,1363 1257,1363 1323,1363 1389,1363 1455,1364 1522,1364 1588,1365 1654,1366 1721,1367 1721,1337 1654,1336 1588,1335 1522,1334 1455,1334 1389,1333 1323,1333 1257,1333 1190,1333 1124,1333 1058,1334 992,1334 925,1335 859,1336 793,1338 727,1339 660,1341 594,1343 528,1345 462,1348"/>
+                <Baseline points="462,1368 528,1365 594,1363 660,1361 727,1359 793,1358 859,1356 925,1355 992,1354 1058,1354 1124,1353 1190,1353 1257,1353 1323,1353 1389,1353 1455,1354 1522,1354 1588,1355 1654,1356 1721,1357"/>
+                <TextEquiv>
+                    <Unicode>est currens. Suppositio confusa diuiditur. quedam est confusa tm~. ⁊ q~da~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:12;}">
+                <Coords points="466,1471 528,1468 590,1466 652,1463 715,1461 777,1459 839,1458 902,1456 964,1455 1026,1455 1089,1454 1151,1454 1213,1454 1275,1455 1338,1455 1400,1456 1462,1457 1525,1458 1587,1460 1649,1461 1712,1463 1712,1433 1649,1431 1587,1430 1525,1428 1462,1427 1400,1426 1338,1425 1275,1425 1213,1424 1151,1424 1089,1424 1026,1425 964,1425 902,1426 839,1428 777,1429 715,1431 652,1433 590,1436 528,1438 466,1441"/>
+                <Baseline points="466,1461 528,1458 590,1456 652,1453 715,1451 777,1449 839,1448 902,1446 964,1445 1026,1445 1089,1444 1151,1444 1213,1444 1275,1445 1338,1445 1400,1446 1462,1447 1525,1448 1587,1450 1649,1451 1712,1453"/>
+                <TextEquiv>
+                    <Unicode>co~fusa distributiua. Suppositio confusa tm~. est acceptio termini ꝓpo=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:13;}">
+                <Coords points="458,1565 521,1562 584,1560 647,1558 710,1556 773,1555 836,1554 899,1552 962,1552 1025,1552 1088,1551 1151,1551 1214,1552 1277,1552 1340,1552 1403,1553 1466,1554 1529,1555 1592,1556 1655,1557 1718,1558 1718,1528 1655,1527 1592,1526 1529,1525 1466,1524 1403,1523 1340,1522 1277,1522 1214,1522 1151,1521 1088,1521 1025,1522 962,1522 899,1522 836,1524 773,1525 710,1526 647,1528 584,1530 521,1532 458,1535"/>
+                <Baseline points="458,1555 521,1552 584,1550 647,1548 710,1546 773,1545 836,1544 899,1542 962,1542 1025,1542 1088,1541 1151,1541 1214,1542 1277,1542 1340,1542 1403,1543 1466,1544 1529,1545 1592,1546 1655,1547 1718,1548"/>
+                <TextEquiv>
+                    <Unicode>sitione. ꝓ aliquo vel ꝓ aliquibus. de quo vel de q~bus talis terminus veri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651840817103_1262" custom="readingOrder {index:14;}">
+                <Coords points="450,1621 471,1622 549,1621 704,1621 781,1620 859,1619 937,1619 1014,1618 1247,1618 1325,1619 1402,1621 1480,1623 1557,1625 1635,1629 1713,1633 1713,1663 1635,1659 1557,1655 1480,1653 1402,1651 1325,1649 1247,1648 1014,1648 937,1649 859,1649 781,1650 704,1651 549,1651 471,1652 450,1651"/>
+                <Baseline points="450,1641 471,1642 549,1641 626,1641 704,1641 781,1640 859,1639 937,1639 1014,1638 1092,1638 1169,1638 1247,1638 1325,1639 1402,1641 1480,1643 1557,1645 1635,1649 1713,1653"/>
+                <TextEquiv>
+                    <Unicode>ficat^ media~te copula talis ꝓpositionis disiu~ctum. vt tm~ ai~al e~ ho~. Iij ai~al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651840817103_1266" custom="readingOrder {index:15;}">
+                <Coords points="450,1707 465,1708 777,1708 855,1707 933,1706 1245,1706 1323,1707 1401,1709 1479,1711 1557,1713 1635,1717 1713,1721 1713,1751 1635,1747 1557,1743 1479,1741 1401,1739 1323,1737 1245,1736 933,1736 855,1737 777,1738 465,1738 450,1737"/>
+                <Baseline points="450,1727 465,1728 543,1728 621,1728 699,1728 777,1728 855,1727 933,1726 1011,1726 1089,1726 1167,1726 1245,1726 1323,1727 1401,1729 1479,1731 1557,1733 1635,1737 1713,1741"/>
+                <TextEquiv>
+                    <Unicode>supponit co~fusetm~. Notandu~ ꝙ terminus dr~ stare disiu~ctim. qn~ sub eo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651840817103_1270" custom="readingOrder {index:16;}">
+                <Coords points="450,1796 508,1797 579,1798 720,1798 791,1799 1286,1799 1356,1800 1427,1800 1498,1801 1568,1802 1639,1803 1710,1805 1710,1835 1639,1833 1568,1832 1498,1831 1427,1830 1356,1830 1286,1829 791,1829 720,1828 579,1828 508,1827 450,1826"/>
+                <Baseline points="450,1816 508,1817 579,1818 650,1818 720,1818 791,1819 862,1819 932,1819 1003,1819 1074,1819 1144,1819 1215,1819 1286,1819 1356,1820 1427,1820 1498,1821 1568,1822 1639,1823 1710,1825"/>
+                <TextEquiv>
+                    <Unicode>co~tingit desce~dere ad sua supposita. ꝑ ꝓpositionem de disiuncto extremo. vt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:17;} textStyle {offset:22; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="452,1918 514,1918 577,1919 640,1919 702,1919 765,1920 828,1920 890,1920 953,1920 1016,1920 1079,1920 1141,1920 1204,1920 1267,1921 1329,1921 1392,1922 1455,1923 1517,1924 1580,1926 1643,1927 1706,1929 1706,1899 1643,1897 1580,1896 1517,1894 1455,1893 1392,1892 1329,1891 1267,1891 1204,1890 1141,1890 1079,1890 1016,1890 953,1890 890,1890 828,1890 765,1890 702,1889 640,1889 577,1889 514,1888 452,1888"/>
+                <Baseline points="452,1908 514,1908 577,1909 640,1909 702,1909 765,1910 828,1910 890,1910 953,1910 1016,1910 1079,1910 1141,1910 1204,1910 1267,1911 1329,1911 1392,1912 1455,1913 1517,1914 1580,1916 1643,1917 1706,1919"/>
+                <TextEquiv>
+                    <Unicode>oi~s ho~ est animal. go oi~s ho~ e~ hoc animal vel h~ ai~al. et sic de singulis. Sup</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651840817103_1274" custom="readingOrder {index:18;}">
+                <Coords points="450,1978 507,1978 570,1977 633,1976 696,1976 759,1975 1136,1975 1199,1976 1262,1976 1325,1977 1388,1978 1451,1979 1514,1980 1577,1981 1640,1983 1703,1985 1703,2015 1640,2013 1577,2011 1514,2010 1451,2009 1388,2008 1325,2007 1262,2006 1199,2006 1136,2005 759,2005 696,2006 633,2006 570,2007 507,2008 450,2008"/>
+                <Baseline points="450,1998 507,1998 570,1997 633,1996 696,1996 759,1995 822,1995 885,1995 948,1995 1011,1995 1074,1995 1136,1995 1199,1996 1262,1996 1325,1997 1388,1998 1451,1999 1514,2000 1577,2001 1640,2003 1703,2005"/>
+                <TextEquiv>
+                    <Unicode>positio confusa tm~ diuidit^. queda~ e~ materialis. queda~ ꝑsonalis. Suppo=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l77" custom="readingOrder {index:19;}">
+                <Coords points="457,2097 519,2095 582,2094 644,2093 707,2092 769,2091 832,2090 894,2090 957,2090 1019,2090 1082,2091 1144,2091 1207,2092 1269,2093 1332,2094 1394,2095 1457,2096 1519,2098 1582,2099 1644,2101 1707,2103 1707,2073 1644,2071 1582,2069 1519,2068 1457,2066 1394,2065 1332,2064 1269,2063 1207,2062 1144,2061 1082,2061 1019,2060 957,2060 894,2060 832,2060 769,2061 707,2062 644,2063 582,2064 519,2065 457,2067"/>
+                <Baseline points="457,2087 519,2085 582,2084 644,2083 707,2082 769,2081 832,2080 894,2080 957,2080 1019,2080 1082,2081 1144,2081 1207,2082 1269,2083 1332,2084 1394,2085 1457,2086 1519,2088 1582,2089 1644,2091 1707,2093"/>
+                <TextEquiv>
+                    <Unicode>sitio co~fusa tm~ materialis. est acceptio termini in ꝓpositione. pro aliquo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651840817113_1276" custom="readingOrder {index:20;}">
+                <Coords points="450,2140 483,2143 550,2146 617,2149 683,2150 750,2152 817,2152 884,2153 950,2153 1017,2152 1151,2152 1217,2151 1284,2152 1351,2152 1418,2153 1484,2154 1551,2156 1618,2159 1685,2163 1685,2193 1618,2189 1551,2186 1484,2184 1418,2183 1351,2182 1284,2182 1217,2181 1151,2182 1017,2182 950,2183 884,2183 817,2182 750,2182 683,2180 617,2179 550,2176 483,2173 450,2170"/>
+                <Baseline points="450,2160 483,2163 550,2166 617,2169 683,2170 750,2172 817,2172 884,2173 950,2173 1017,2172 1084,2172 1151,2172 1217,2171 1284,2172 1351,2172 1418,2173 1484,2174 1551,2176 1618,2179 1685,2183"/>
+                <TextEquiv>
+                    <Unicode>ꝟcato no~ vltimato. vel ꝓ aliquibus suis ꝟcatis non vltimatis disiu~ctim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nalis. Suppositio co~munis determinata materialis. e~ acceptio termini&#13;
+in propositione. pro suo significato non vltimato. aut pro suis significa=&#13;
+tis non vltimatis disiunctiue. de quo vel de quibus talis terminus veri=&#13;
+ficatur mediante copula talis propositionis. vt amo est verbum. Iij amo&#13;
+supponit distributiue. pro quo suo ꝟcato non vltimato. quia sequit^ amo&#13;
+est verbum. igitur hoc amo est verbum vel hoc amo est verbum ⁊c~~ijs.&#13;
+Nota ꝙ terminus dr~ stare disiunctiue. quando contingit sub eo descen=&#13;
+dere ad sua singularia. ꝑ propositionem disiunctiuam. Suppositio com&#13;
+munis determinata personalis. est acceptio termini in ꝓpositione ꝓ suo&#13;
+ꝟcato vltimo. vel suis ꝟcatis vltimatis disiunctiue. de quo vel de q~bus&#13;
+talis terminus verificatur mediante copula talis ꝓpositionis. vt homo&#13;
+est currens. Suppositio confusa diuiditur. quedam est confusa tm~. ⁊ q~da~&#13;
+co~fusa distributiua. Suppositio confusa tm~. est acceptio termini ꝓpo=&#13;
+sitione. ꝓ aliquo vel ꝓ aliquibus. de quo vel de q~bus talis terminus veri&#13;
+ficat^ media~te copula talis ꝓpositionis disiu~ctum. vt tm~ ai~al e~ ho~. Iij ai~al&#13;
+supponit co~fusetm~. Notandu~ ꝙ terminus dr~ stare disiu~ctim. qn~ sub eo&#13;
+co~tingit desce~dere ad sua supposita. ꝑ ꝓpositionem de disiuncto extremo. vt&#13;
+oi~s ho~ est animal. go oi~s ho~ e~ hoc animal vel h~ ai~al. et sic de singulis. Sup&#13;
+positio confusa tm~ diuidit^. queda~ e~ materialis. queda~ ꝑsonalis. Suppo=&#13;
+sitio co~fusa tm~ materialis. est acceptio termini in ꝓpositione. pro aliquo&#13;
+ꝟcato no~ vltimato. vel ꝓ aliquibus suis ꝟcatis non vltimatis disiu~ctim</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

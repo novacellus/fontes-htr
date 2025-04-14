@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:24+02:00</Created>
+        <LastChange>2022-03-31T21:02:00.249+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131548" pageNr="132" tsid="79648325" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=IOWEOHNNYQMDPXZDYOJIWZWV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XPOYUBJJOXHHHWNSJJFBZQMY" imageId="29937173"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0132.jpg" imageWidth="1813" imageHeight="2557">
+        <PrintSpace>
+            <Coords points="0,0 1813,0 1813,2557 0,2557"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1648753320260" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;} structure {type:DocParagraf;}">
+            <Coords points="398,216 398,2175 1697,2166 1697,207"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;}">
+                <Coords points="418,337 480,337 543,337 606,336 668,336 731,335 794,334 856,334 919,333 982,333 1045,332 1107,332 1170,331 1233,331 1295,331 1358,331 1421,331 1483,331 1546,331 1609,331 1672,332 1672,302 1609,301 1546,301 1483,301 1421,301 1358,301 1295,301 1233,301 1170,301 1107,302 1045,302 982,303 919,303 856,304 794,304 731,305 668,306 606,306 543,307 480,307 418,307"/>
+                <Baseline points="418,327 480,327 543,327 606,326 668,326 731,325 794,324 856,324 919,323 982,323 1045,322 1107,322 1170,321 1233,321 1295,321 1358,321 1421,321 1483,321 1546,321 1609,321 1672,322"/>
+                <TextEquiv>
+                    <Unicode>Ex istis infert^ Corollarie. ꝙ differe~tia e~ inter suppositione~ ⁊ appellatione~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:1;}">
+                <Coords points="413,433 475,432 537,432 600,431 662,430 725,429 787,428 850,428 912,427 975,426 1037,426 1099,426 1162,425 1224,425 1287,425 1349,425 1412,426 1474,426 1537,427 1599,427 1662,428 1662,398 1599,397 1537,397 1474,396 1412,396 1349,395 1287,395 1224,395 1162,395 1099,396 1037,396 975,396 912,397 850,398 787,398 725,399 662,400 600,401 537,402 475,402 413,403"/>
+                <Baseline points="413,423 475,422 537,422 600,421 662,420 725,419 787,418 850,418 912,417 975,416 1037,416 1099,416 1162,415 1224,415 1287,415 1349,415 1412,416 1474,416 1537,417 1599,417 1662,418"/>
+                <TextEquiv>
+                    <Unicode>et s'catione~. Prima differentia e~ inter suppo~nem et appelatione~ ista. quia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:2;}">
+                <Coords points="411,521 474,521 537,521 600,521 663,521 726,520 789,520 852,519 915,519 978,518 1041,517 1104,516 1167,516 1230,515 1293,515 1356,515 1419,515 1482,515 1545,516 1608,517 1672,518 1672,488 1608,487 1545,486 1482,485 1419,485 1356,485 1293,485 1230,485 1167,486 1104,486 1041,487 978,488 915,489 852,489 789,490 726,490 663,491 600,491 537,491 474,491 411,491"/>
+                <Baseline points="411,511 474,511 537,511 600,511 663,511 726,510 789,510 852,509 915,509 978,508 1041,507 1104,506 1167,506 1230,505 1293,505 1356,505 1419,505 1482,505 1545,506 1608,507 1672,508"/>
+                <TextEquiv>
+                    <Unicode>suppositio e~ termini ꝓ suo s'cato materiali. Et liq~t ꝙ terminꝰ no~ suppo~it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:3;}">
+                <Coords points="415,626 482,624 549,622 616,620 683,619 750,618 817,617 885,617 952,617 1019,617 1086,617 1153,618 1220,618 1287,618 1355,619 1422,619 1489,619 1556,619 1623,619 1690,619 1758,618 1758,585 1690,586 1623,586 1556,586 1489,586 1422,586 1355,586 1287,585 1220,585 1153,585 1086,584 1019,584 952,584 885,584 817,584 750,585 683,586 616,587 549,589 482,591 415,593"/>
+                <Baseline points="415,615 482,613 549,611 616,609 683,608 750,607 817,606 885,606 952,606 1019,606 1086,606 1153,607 1220,607 1287,607 1355,608 1422,608 1489,608 1556,608 1623,608 1690,608 1758,607"/>
+                <TextEquiv>
+                    <Unicode>ꝓ eo. qd' co~notat. sed supponit ꝓ suo s'cato materiali .s. ꝓ re sub'ali. appel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:4;}">
+                <Coords points="420,717 482,717 544,717 607,718 669,718 732,718 794,718 857,719 919,719 982,719 1044,719 1106,720 1169,720 1231,720 1294,721 1356,721 1419,722 1481,722 1544,723 1606,724 1669,725 1669,692 1606,691 1544,690 1481,689 1419,689 1356,688 1294,688 1231,687 1169,687 1106,687 1044,686 982,686 919,686 857,686 794,685 732,685 669,685 607,685 544,684 482,684 420,684"/>
+                <Baseline points="420,706 482,706 544,706 607,707 669,707 732,707 794,707 857,708 919,708 982,708 1044,708 1106,709 1169,709 1231,709 1294,710 1356,710 1419,711 1481,711 1544,712 1606,713 1669,714"/>
+                <TextEquiv>
+                    <Unicode>latio aute~ e~ ꝓ formali s'cato qd' terminus co~notat adiacere vł no~ adiacere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:5;}">
+                <Coords points="407,794 469,795 532,796 594,797 657,798 720,799 782,799 845,800 908,801 970,801 1033,801 1096,802 1158,802 1221,802 1284,803 1346,803 1409,804 1472,804 1534,805 1597,806 1660,807 1660,777 1597,776 1534,775 1472,774 1409,774 1346,773 1284,773 1221,772 1158,772 1096,772 1033,771 970,771 908,771 845,770 782,769 720,769 657,768 594,767 532,766 469,765 407,764"/>
+                <Baseline points="407,784 469,785 532,786 594,787 657,788 720,789 782,789 845,790 908,791 970,791 1033,791 1096,792 1158,792 1221,792 1284,793 1346,793 1409,794 1472,794 1534,795 1597,796 1660,797"/>
+                <TextEquiv>
+                    <Unicode>no~ aute~ ꝓ materiali. Etia~ differe~tia e~ inter suppositione~ et appellationem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:6;}">
+                <Coords points="415,899 477,899 540,898 602,898 665,898 728,898 790,898 853,898 915,898 978,899 1041,899 1103,899 1166,900 1228,900 1291,900 1354,901 1416,901 1479,901 1541,901 1604,901 1667,901 1667,868 1604,868 1541,868 1479,868 1416,868 1354,868 1291,867 1228,867 1166,867 1103,866 1041,866 978,866 915,865 853,865 790,865 728,865 665,865 602,865 540,865 477,866 415,866"/>
+                <Baseline points="415,888 477,888 540,887 602,887 665,887 728,887 790,887 853,887 915,887 978,888 1041,888 1103,888 1166,889 1228,889 1291,889 1354,890 1416,890 1479,890 1541,890 1604,890 1667,890"/>
+                <TextEquiv>
+                    <Unicode>qⁱa aliqn~termini supponu~t et no~ appella~t. et aliqn~ termini appella~t qⁱ tn~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:7;}">
+                <Coords points="412,985 474,987 537,988 600,989 663,990 726,990 789,991 852,991 915,991 978,992 1041,992 1103,991 1166,991 1229,991 1292,991 1355,991 1418,991 1481,991 1544,991 1607,991 1670,991 1670,958 1607,958 1544,958 1481,958 1418,958 1355,958 1292,958 1229,958 1166,958 1103,958 1041,959 978,959 915,958 852,958 789,958 726,957 663,957 600,956 537,955 474,954 412,952"/>
+                <Baseline points="412,974 474,976 537,977 600,978 663,979 726,979 789,980 852,980 915,980 978,981 1041,981 1103,980 1166,980 1229,980 1292,980 1355,980 1418,980 1481,980 1544,980 1607,980 1670,980"/>
+                <TextEquiv>
+                    <Unicode>no~ supponu~t. Exemplu~ pⁱmi vt sunt isti termini absoluti sor~ ho~ albedo ni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:8;}">
+                <Coords points="413,1074 476,1075 539,1076 602,1077 665,1078 728,1078 791,1078 854,1079 917,1079 980,1078 1043,1078 1106,1078 1169,1078 1232,1078 1295,1078 1358,1078 1421,1078 1484,1078 1547,1078 1610,1079 1674,1080 1674,1047 1610,1046 1547,1045 1484,1045 1421,1045 1358,1045 1295,1045 1232,1045 1169,1045 1106,1045 1043,1045 980,1045 917,1046 854,1046 791,1045 728,1045 665,1045 602,1044 539,1043 476,1042 413,1041"/>
+                <Baseline points="413,1063 476,1064 539,1065 602,1066 665,1067 728,1067 791,1067 854,1068 917,1068 980,1067 1043,1067 1106,1067 1169,1067 1232,1067 1295,1067 1358,1067 1421,1067 1484,1067 1547,1067 1610,1068 1674,1069"/>
+                <TextEquiv>
+                    <Unicode>gredo ⁊c~. isti supponu~t ꝓ suis s'catis ꝓut notu~ e~ sʒ tn~ no~ appella~t. qⁱa ap-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:9;}">
+                <Coords points="411,1162 473,1162 536,1163 598,1163 661,1163 723,1163 786,1164 848,1164 911,1165 973,1165 1036,1165 1099,1166 1161,1166 1224,1166 1286,1167 1349,1167 1411,1167 1474,1167 1536,1167 1599,1166 1662,1166 1662,1133 1599,1133 1536,1134 1474,1134 1411,1134 1349,1134 1286,1134 1224,1133 1161,1133 1099,1133 1036,1132 973,1132 911,1132 848,1131 786,1131 723,1130 661,1130 598,1130 536,1130 473,1129 411,1129"/>
+                <Baseline points="411,1151 473,1151 536,1152 598,1152 661,1152 723,1152 786,1153 848,1153 911,1154 973,1154 1036,1154 1099,1155 1161,1155 1224,1155 1286,1156 1349,1156 1411,1156 1474,1156 1536,1156 1599,1155 1662,1155"/>
+                <TextEquiv>
+                    <Unicode>pellatio e~ termini respectu sui for~alis s'cati. mo~ isti termini non hn~t aliqd'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:10;}">
+                <Coords points="416,1250 478,1251 541,1253 604,1254 667,1255 730,1255 792,1256 855,1256 918,1256 981,1256 1044,1256 1106,1256 1169,1256 1232,1256 1295,1256 1358,1256 1420,1256 1483,1256 1546,1257 1609,1257 1672,1258 1672,1225 1609,1224 1546,1224 1483,1223 1420,1223 1358,1223 1295,1223 1232,1223 1169,1223 1106,1223 1044,1223 981,1223 918,1223 855,1223 792,1223 730,1222 667,1222 604,1221 541,1220 478,1218 416,1217"/>
+                <Baseline points="416,1239 478,1240 541,1242 604,1243 667,1244 730,1244 792,1245 855,1245 918,1245 981,1245 1044,1245 1106,1245 1169,1245 1232,1245 1295,1245 1358,1245 1420,1245 1483,1245 1546,1246 1609,1246 1672,1247"/>
+                <TextEquiv>
+                    <Unicode>formale s'catu~. cu~ sint termini absoluti et nihil Ↄnota~tes. Exem~ scd'i. vt ho~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:11;}">
+                <Coords points="416,1350 482,1351 548,1351 614,1351 681,1351 747,1351 813,1351 879,1351 946,1351 1012,1351 1078,1351 1144,1350 1211,1350 1277,1350 1343,1351 1409,1351 1476,1351 1542,1352 1608,1353 1675,1354 1675,1321 1608,1320 1542,1319 1476,1318 1409,1318 1343,1318 1277,1317 1211,1317 1144,1317 1078,1318 1012,1318 946,1318 879,1318 813,1318 747,1318 681,1318 614,1318 548,1318 482,1318 416,1317"/>
+                <Baseline points="416,1339 482,1340 548,1340 614,1340 681,1340 747,1340 813,1340 879,1340 946,1340 1012,1340 1078,1340 1144,1339 1211,1339 1277,1339 1343,1340 1409,1340 1476,1340 1542,1341 1608,1342 1675,1343"/>
+                <TextEquiv>
+                    <Unicode>e~ hinnibilis. ho~ ꝓ nullo supponit vt de se notu~ e~. q⁊ de nlła copula ꝓposi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:12;}">
+                <Coords points="414,1447 476,1446 538,1445 601,1445 663,1444 726,1444 788,1443 850,1443 913,1443 975,1442 1038,1442 1100,1441 1162,1441 1225,1440 1287,1440 1350,1440 1412,1439 1474,1439 1537,1439 1599,1439 1662,1438 1662,1408 1599,1409 1537,1409 1474,1409 1412,1409 1350,1410 1287,1410 1225,1410 1162,1411 1100,1411 1038,1412 975,1412 913,1413 850,1413 788,1413 726,1414 663,1414 601,1415 538,1415 476,1416 414,1417"/>
+                <Baseline points="414,1437 476,1436 538,1435 601,1435 663,1434 726,1434 788,1433 850,1433 913,1433 975,1432 1038,1432 1100,1431 1162,1431 1225,1430 1287,1430 1350,1430 1412,1429 1474,1429 1537,1429 1599,1429 1662,1428"/>
+                <TextEquiv>
+                    <Unicode>tionis verificat^. no~ em~ ho~ e~. nec po~t esse hi~nibilis. qd' tn~ dictus terminus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:13;}">
+                <Coords points="416,1534 478,1534 541,1533 604,1533 667,1532 730,1532 793,1531 855,1531 918,1530 981,1530 1044,1529 1107,1528 1170,1528 1233,1527 1295,1527 1358,1526 1421,1526 1484,1526 1547,1525 1610,1525 1673,1525 1673,1492 1610,1492 1547,1492 1484,1493 1421,1493 1358,1493 1295,1494 1233,1494 1170,1495 1107,1495 1044,1496 981,1497 918,1497 855,1498 793,1498 730,1499 667,1499 604,1500 541,1500 478,1501 416,1501"/>
+                <Baseline points="416,1523 478,1523 541,1522 604,1522 667,1521 730,1521 793,1520 855,1520 918,1519 981,1519 1044,1518 1107,1517 1170,1517 1233,1516 1295,1516 1358,1515 1421,1515 1484,1515 1547,1514 1610,1514 1673,1514"/>
+                <TextEquiv>
+                    <Unicode>appellat. vt patet. connotat em~ actu~ hinnie~di posse adiacere homini. Sic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:14;}">
+                <Coords points="423,1628 485,1628 548,1627 611,1626 674,1626 736,1625 799,1625 862,1624 925,1624 987,1623 1050,1623 1113,1622 1176,1622 1238,1622 1301,1622 1364,1622 1427,1622 1489,1622 1552,1622 1615,1623 1678,1624 1678,1591 1615,1590 1552,1589 1489,1589 1427,1589 1364,1589 1301,1589 1238,1589 1176,1589 1113,1589 1050,1590 987,1590 925,1591 862,1591 799,1592 736,1592 674,1593 611,1593 548,1594 485,1595 423,1595"/>
+                <Baseline points="423,1617 485,1617 548,1616 611,1615 674,1615 736,1614 799,1614 862,1613 925,1613 987,1612 1050,1612 1113,1611 1176,1611 1238,1611 1301,1611 1364,1611 1427,1611 1489,1611 1552,1611 1615,1612 1678,1613"/>
+                <TextEquiv>
+                    <Unicode>etia~ hoc aggredatu~ .s. ho~ hi~nibilis appellat formale s'catu~ huius termini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:15;}">
+                <Coords points="411,1719 474,1719 537,1719 600,1718 663,1718 726,1718 789,1718 852,1718 915,1718 978,1718 1041,1718 1104,1718 1167,1718 1230,1719 1293,1719 1356,1719 1419,1719 1482,1720 1545,1720 1608,1721 1671,1721 1671,1688 1608,1688 1545,1687 1482,1687 1419,1686 1356,1686 1293,1686 1230,1686 1167,1685 1104,1685 1041,1685 978,1685 915,1685 852,1685 789,1685 726,1685 663,1685 600,1685 537,1686 474,1686 411,1686"/>
+                <Baseline points="411,1708 474,1708 537,1708 600,1707 663,1707 726,1707 789,1707 852,1707 915,1707 978,1707 1041,1707 1104,1707 1167,1707 1230,1708 1293,1708 1356,1708 1419,1708 1482,1709 1545,1709 1608,1710 1671,1710"/>
+                <TextEquiv>
+                    <Unicode>hinnibile. posse adiacere suo determinabili. tn~ claru~ e~. ꝙ hoc aggregatu~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:16;}">
+                <Coords points="415,1810 478,1810 541,1810 604,1810 667,1809 731,1809 794,1809 857,1808 920,1808 983,1807 1047,1807 1110,1807 1173,1807 1236,1806 1299,1806 1363,1807 1426,1807 1489,1808 1552,1808 1615,1809 1679,1811 1679,1781 1615,1779 1552,1778 1489,1778 1426,1777 1363,1777 1299,1776 1236,1776 1173,1777 1110,1777 1047,1777 983,1777 920,1778 857,1778 794,1779 731,1779 667,1779 604,1780 541,1780 478,1780 415,1780"/>
+                <Baseline points="415,1800 478,1800 541,1800 604,1800 667,1799 731,1799 794,1799 857,1798 920,1798 983,1797 1047,1797 1110,1797 1173,1797 1236,1796 1299,1796 1363,1797 1426,1797 1489,1798 1552,1798 1615,1799 1679,1801"/>
+                <TextEquiv>
+                    <Unicode>ho~ hi~nibilis ꝓ nullo supponit. Est etia~ differe~tia~ inter appellationem et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:17;}">
+                <Coords points="412,1899 475,1900 538,1900 601,1901 664,1901 727,1901 790,1901 853,1900 916,1900 979,1899 1043,1899 1106,1898 1169,1898 1232,1898 1295,1897 1358,1897 1421,1897 1484,1897 1547,1897 1610,1898 1674,1899 1674,1869 1610,1868 1547,1867 1484,1867 1421,1867 1358,1867 1295,1867 1232,1868 1169,1868 1106,1868 1043,1869 979,1869 916,1870 853,1870 790,1871 727,1871 664,1871 601,1871 538,1870 475,1870 412,1869"/>
+                <Baseline points="412,1889 475,1890 538,1890 601,1891 664,1891 727,1891 790,1891 853,1890 916,1890 979,1889 1043,1889 1106,1888 1169,1888 1232,1888 1295,1887 1358,1887 1421,1887 1484,1887 1547,1887 1610,1888 1674,1889"/>
+                <TextEquiv>
+                    <Unicode>significatione~. qⁱa s'catio e~ ta~ respectu s'cati materialis q~ʒ formalis. quia ter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l52" custom="readingOrder {index:18;}">
+                <Coords points="411,1987 474,1987 537,1987 600,1987 663,1987 726,1987 789,1987 852,1987 915,1987 978,1987 1041,1987 1104,1988 1167,1988 1230,1987 1293,1987 1356,1987 1419,1987 1482,1987 1545,1987 1608,1986 1671,1986 1671,1956 1608,1956 1545,1957 1482,1957 1419,1957 1356,1957 1293,1957 1230,1957 1167,1958 1104,1958 1041,1957 978,1957 915,1957 852,1957 789,1957 726,1957 663,1957 600,1957 537,1957 474,1957 411,1957"/>
+                <Baseline points="411,1977 474,1977 537,1977 600,1977 663,1977 726,1977 789,1977 852,1977 915,1977 978,1977 1041,1977 1104,1978 1167,1978 1230,1977 1293,1977 1356,1977 1419,1977 1482,1977 1545,1977 1608,1976 1671,1976"/>
+                <TextEquiv>
+                    <Unicode>minus co~notatiuus. s'cat s'catu~ materiale et s'catu~ formale. vt dictum est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:19;}">
+                <Coords points="415,2078 477,2076 540,2074 603,2073 666,2072 729,2071 792,2071 854,2070 917,2070 980,2070 1043,2070 1106,2069 1169,2069 1232,2069 1294,2069 1357,2069 1420,2069 1483,2069 1546,2069 1609,2068 1672,2067 1672,2034 1609,2035 1546,2036 1483,2036 1420,2036 1357,2036 1294,2036 1232,2036 1169,2036 1106,2036 1043,2037 980,2037 917,2037 854,2037 792,2038 729,2038 666,2039 603,2040 540,2041 477,2043 415,2045"/>
+                <Baseline points="415,2067 477,2065 540,2063 603,2062 666,2061 729,2060 792,2060 854,2059 917,2059 980,2059 1043,2059 1106,2058 1169,2058 1232,2058 1294,2058 1357,2058 1420,2058 1483,2058 1546,2058 1609,2057 1672,2056"/>
+                <TextEquiv>
+                    <Unicode>et vtru~qʒ taliu~ s'cat. Sed appellatio vt dictu~ e~. solu~ e~ respectu s'cati for~alis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l54" custom="readingOrder {index:20;}">
+                <Coords points="414,2175 477,2174 541,2173 604,2173 668,2172 731,2172 795,2171 858,2171 922,2170 985,2170 1049,2170 1112,2169 1176,2169 1239,2168 1303,2168 1366,2168 1430,2167 1493,2167 1557,2166 1620,2166 1684,2165 1684,2132 1620,2133 1557,2133 1493,2134 1430,2134 1366,2135 1303,2135 1239,2135 1176,2136 1112,2136 1049,2137 985,2137 922,2137 858,2138 795,2138 731,2139 668,2139 604,2140 541,2140 477,2141 414,2142"/>
+                <Baseline points="414,2164 477,2163 541,2162 604,2162 668,2161 731,2161 795,2160 858,2160 922,2159 985,2159 1049,2159 1112,2158 1176,2158 1239,2157 1303,2157 1366,2157 1430,2156 1493,2156 1557,2155 1620,2155 1684,2154"/>
+                <TextEquiv>
+                    <Unicode>patet etiam ex alio. nam significatio est superius ad appellationem. quia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ex istis infert^ Corollarie. ꝙ differe~tia e~ inter suppositione~ ⁊ appellatione~&#13;
+et s'catione~. Prima differentia e~ inter suppo~nem et appelatione~ ista. quia&#13;
+suppositio e~ termini ꝓ suo s'cato materiali. Et liq~t ꝙ terminꝰ no~ suppo~it&#13;
+ꝓ eo. qd' co~notat. sed supponit ꝓ suo s'cato materiali .s. ꝓ re sub'ali. appel-&#13;
+latio aute~ e~ ꝓ formali s'cato qd' terminus co~notat adiacere vł no~ adiacere&#13;
+no~ aute~ ꝓ materiali. Etia~ differe~tia e~ inter suppositione~ et appellationem&#13;
+qⁱa aliqn~termini supponu~t et no~ appella~t. et aliqn~ termini appella~t qⁱ tn~&#13;
+no~ supponu~t. Exemplu~ pⁱmi vt sunt isti termini absoluti sor~ ho~ albedo ni&#13;
+gredo ⁊c~. isti supponu~t ꝓ suis s'catis ꝓut notu~ e~ sʒ tn~ no~ appella~t. qⁱa ap-&#13;
+pellatio e~ termini respectu sui for~alis s'cati. mo~ isti termini non hn~t aliqd'&#13;
+formale s'catu~. cu~ sint termini absoluti et nihil Ↄnota~tes. Exem~ scd'i. vt ho~&#13;
+e~ hinnibilis. ho~ ꝓ nullo supponit vt de se notu~ e~. q⁊ de nlła copula ꝓposi&#13;
+tionis verificat^. no~ em~ ho~ e~. nec po~t esse hi~nibilis. qd' tn~ dictus terminus&#13;
+appellat. vt patet. connotat em~ actu~ hinnie~di posse adiacere homini. Sic&#13;
+etia~ hoc aggredatu~ .s. ho~ hi~nibilis appellat formale s'catu~ huius termini&#13;
+hinnibile. posse adiacere suo determinabili. tn~ claru~ e~. ꝙ hoc aggregatu~&#13;
+ho~ hi~nibilis ꝓ nullo supponit. Est etia~ differe~tia~ inter appellationem et&#13;
+significatione~. qⁱa s'catio e~ ta~ respectu s'cati materialis q~ʒ formalis. quia ter&#13;
+minus co~notatiuus. s'cat s'catu~ materiale et s'catu~ formale. vt dictum est&#13;
+et vtru~qʒ taliu~ s'cat. Sed appellatio vt dictu~ e~. solu~ e~ respectu s'cati for~alis&#13;
+patet etiam ex alio. nam significatio est superius ad appellationem. quia</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:1;}">
+            <Coords points="0,0 1813,0 1813,70 0,70"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:2;}">
+            <Coords points="526,1926 790,1926 790,1936 526,1936"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:3;}">
+            <Coords points="0,2510 1766,2510 1766,2557 0,2557"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:4;}">
+            <Coords points="0,0 68,0 68,2557 0,2557"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

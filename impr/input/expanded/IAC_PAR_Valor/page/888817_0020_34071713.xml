@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-10T17:49:21.845+01:00</Created>
+        <LastChange>2022-12-16T16:03:23.079+01:00</LastChange>
+        <TranskribusMetadata docId="888817" pageId="34071713" pageNr="20" tsid="73003416" status="NEW" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=DZMDFVTRRXIDCVTVITFLNTGH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ODZJHIKXGRAPWIIEXOHOOFEQ" imageId="27321057"/>
+    </Metadata>
+    <Page imageFilename="888817_0020_34071713.jpg" imageWidth="1863" imageHeight="2506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1671203003079" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642267332784_569"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1642267332784_569" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="566,314 1630,314 1630,2062 566,2062"/>
+            <TextLine id="line_1642267339476_572" custom="readingOrder {index:0;}">
+                <Coords points="1609,349 576,349 576,381 1609,381"/>
+                <TextEquiv>
+                    <Unicode>de sapientia Prover. iii. Preciosior est cunctis opibus et omnia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267342589_575" custom="readingOrder {index:1;}">
+                <Coords points="587,401 1626,401 1626,450 587,450"/>
+                <TextEquiv>
+                    <Unicode>que considerantur huic non valent comparari. Secundo et illud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267345458_578" custom="readingOrder {index:2;}">
+                <Coords points="1626,468 583,468 583,503 1626,503"/>
+                <TextEquiv>
+                    <Unicode>potest esse debita venditionis materia cuius vendicior est dominus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267347917_581" custom="readingOrder {index:3;}">
+                <Coords points="594,513 1616,513 1616,562 594,562"/>
+                <TextEquiv>
+                    <Unicode>clericus autem non est dominus rerum spiritualium sed ministrator ut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267349950_584" custom="readingOrder {index:4;}">
+                <Coords points="1616,590 580,590 580,628 1616,628"/>
+                <TextEquiv>
+                    <Unicode>dicitur. in. cor. iiii. Tercio et venditio repugnat origini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267352755_587" custom="readingOrder {index:5;}">
+                <Coords points="580,642 1612,642 1612,702 580,702"/>
+                <TextEquiv>
+                    <Unicode>spiritualium que ex gratuita dei voluntate proveniunt. Unde dominus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267355617_590" custom="readingOrder {index:6;}">
+                <Coords points="1609,712 576,712 576,747 1609,747"/>
+                <TextEquiv>
+                    <Unicode>math. i. dicit. Gratis accepistis gratis date Patet ve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267357968_593" custom="readingOrder {index:7;}">
+                <Coords points="576,757 1609,757 1609,806 576,806"/>
+                <TextEquiv>
+                    <Unicode>ritas responsionis ad questionem ex illo et sicut propter pe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267360114_596" custom="readingOrder {index:8;}">
+                <Coords points="1609,813 569,813 569,869 1609,869"/>
+                <TextEquiv>
+                    <Unicode>cuniam celebrans pecuniam preponit spirituali scilicet celebra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267364398_599" custom="readingOrder {index:9;}">
+                <Coords points="583,886 1619,886 1619,935 583,935"/>
+                <TextEquiv>
+                    <Unicode>tioni Semper enim deterius est gratia melioris. ut dicit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267366894_602" custom="readingOrder {index:10;}">
+                <Coords points="1612,942 583,942 583,988 1612,988"/>
+                <TextEquiv>
+                    <Unicode>aresto. in polli. Eciam magis diligit pecuniam quam deum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267370045_605" custom="readingOrder {index:11;}">
+                <Coords points="583,988 1623,988 1623,1040 583,1040"/>
+                <TextEquiv>
+                    <Unicode>et spiritualia. ut patet primo posteriorum Propter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267372511_608" custom="readingOrder {index:12;}">
+                <Coords points="1623,1043 576,1043 576,1103 1623,1103"/>
+                <TextEquiv>
+                    <Unicode>unumquodque tale et ipsum magis tale ex quo autem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267375158_611" custom="readingOrder {index:13;}">
+                <Coords points="576,1106 1619,1106 1619,1172 576,1172"/>
+                <TextEquiv>
+                    <Unicode>diligit corpus cristi tractare propter pecuniam con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267377626_614" custom="readingOrder {index:14;}">
+                <Coords points="1619,1172 569,1172 569,1221 1619,1221"/>
+                <TextEquiv>
+                    <Unicode>sequens est pecuniam magis diligat. Patet ergo veri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267379889_617" custom="readingOrder {index:15;}">
+                <Coords points="580,1221 1616,1221 1616,1281 580,1281"/>
+                <TextEquiv>
+                    <Unicode>tas responsionis ad questionem et falsitas eiusdem. Ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267381638_620" custom="readingOrder {index:16;}">
+                <Coords points="1616,1302 576,1302 576,1340 1616,1340"/>
+                <TextEquiv>
+                    <Unicode>rationes autem in oppositum dicit sanctus Tho. ubi super Ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267383506_623" custom="readingOrder {index:17;}">
+                <Coords points="576,1357 1612,1357 1612,1399 576,1399"/>
+                <TextEquiv>
+                    <Unicode>cipere pecuniam pro spirituali gracia sacramentorum est cri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267386503_626" custom="readingOrder {index:18;}">
+                <Coords points="1612,1413 566,1413 566,1452 1612,1452"/>
+                <TextEquiv>
+                    <Unicode>men simonie que nulla consuetudine potest excusari. quia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267388750_629" custom="readingOrder {index:19;}">
+                <Coords points="576,1455 1612,1455 1612,1518 576,1518"/>
+                <TextEquiv>
+                    <Unicode>consuetudo non preiudicat iuri naturali. vel mora </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267390955_632" custom="readingOrder {index:20;}">
+                <Coords points="1612,1518 569,1518 569,1570 1612,1570"/>
+                <TextEquiv>
+                    <Unicode>li. Ad secundum dicit. s. Tho. ibidem Accipere aliquid vel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267393484_635" custom="readingOrder {index:21;}">
+                <Coords points="569,1570 1609,1570 1609,1640 569,1640"/>
+                <TextEquiv>
+                    <Unicode>aliqua ad sustentationem eorum qui sacramenta ministrat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267398472_638" custom="readingOrder {index:22;}">
+                <Coords points="569,1682 1599,1682 1599,1640 569,1640"/>
+                <TextEquiv>
+                    <Unicode>vel missas celebrant secundum ordinationem ecclesie et con-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267401414_641" custom="readingOrder {index:23;}">
+                <Coords points="1602,1699 555,1699 555,1748 1602,1748"/>
+                <TextEquiv>
+                    <Unicode>suetudines approbatas non est simonia nec peccatum. Non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267403551_644" custom="readingOrder {index:24;}">
+                <Coords points="559,1752 1612,1752 1612,1814 559,1814"/>
+                <TextEquiv>
+                    <Unicode>enim accipitur tanquam precium mercedis sed tamquam stipendium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267405575_647" custom="readingOrder {index:25;}">
+                <Coords points="1612,1818 562,1818 562,1863 1612,1863"/>
+                <TextEquiv>
+                    <Unicode>necessitatis. Unde super illud primo ad thimo. v. qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267407909_650" custom="readingOrder {index:26;}">
+                <Coords points="590,1867 1599,1867 1599,1937 590,1937"/>
+                <TextEquiv>
+                    <Unicode>bene presunt presbiteri dicit glo. augu. accipiet necessi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267410243_653" custom="readingOrder {index:27;}">
+                <Coords points="1602,1937 562,1937 562,1978 1602,1978"/>
+                <TextEquiv>
+                    <Unicode>tatem sustentationis a populo mercedem dispensationis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642267412891_656" custom="readingOrder {index:28;}">
+                <Coords points="562,1978 1595,1978 1595,2041 562,2041"/>
+                <TextEquiv>
+                    <Unicode>a domina Caveat ergo quisque presbiter ne pecunia sit finis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>de sapientia Prover. iii. Preciosior est cunctis opibus et omnia&#13;
+que considerantur huic non valent comparari. Secundo et illud&#13;
+potest esse debita venditionis materia cuius vendicior est dominus&#13;
+clericus autem non est dominus rerum spiritualium sed ministrator ut&#13;
+dicitur. in. cor. iiii. Tercio et venditio repugnat origini&#13;
+spiritualium que ex gratuita dei voluntate proveniunt. Unde dominus&#13;
+math. i. dicit. Gratis accepistis gratis date Patet ve&#13;
+ritas responsionis ad questionem ex illo et sicut propter pe-&#13;
+cuniam celebrans pecuniam preponit spirituali scilicet celebra&#13;
+tioni Semper enim deterius est gratia melioris. ut dicit&#13;
+aresto. in polli. Eciam magis diligit pecuniam quam deum&#13;
+et spiritualia. ut patet primo posteriorum Propter&#13;
+unumquodque tale et ipsum magis tale ex quo autem&#13;
+diligit corpus cristi tractare propter pecuniam con&#13;
+sequens est pecuniam magis diligat. Patet ergo veri&#13;
+tas responsionis ad questionem et falsitas eiusdem. Ad&#13;
+rationes autem in oppositum dicit sanctus Tho. ubi super Ac&#13;
+cipere pecuniam pro spirituali gracia sacramentorum est cri-&#13;
+men simonie que nulla consuetudine potest excusari. quia&#13;
+consuetudo non preiudicat iuri naturali. vel mora &#13;
+li. Ad secundum dicit. s. Tho. ibidem Accipere aliquid vel&#13;
+aliqua ad sustentationem eorum qui sacramenta ministrat&#13;
+vel missas celebrant secundum ordinationem ecclesie et con-&#13;
+suetudines approbatas non est simonia nec peccatum. Non&#13;
+enim accipitur tanquam precium mercedis sed tamquam stipendium&#13;
+necessitatis. Unde super illud primo ad thimo. v. qui&#13;
+bene presunt presbiteri dicit glo. augu. accipiet necessi&#13;
+tatem sustentationis a populo mercedem dispensationis&#13;
+a domina Caveat ergo quisque presbiter ne pecunia sit finis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

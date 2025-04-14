@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-28T11:45:12.937+02:00</Created>
+        <LastChange>2022-05-06T20:28:46.316+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="955435" pageId="37131440" pageNr="49" tsid="79647762" status="IN_PROGRESS" userId="14555" imgUrl="https://files.transkribus.eu/Get?id=GXTONJNPGELQGWYRXFNTGVSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HAJXBGFQDYWFDUQSVDRBTEIS" imageId="29937065"/>
+    </Metadata>
+    <Page imageFilename="GIELCZ-0049.jpg" imageWidth="1766" imageHeight="2563">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1651861726331" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1651860753762_601"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1651860753762_600"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651860753762_601" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="131,254 1418,254 1418,1019 131,1019"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="131,290 194,292 258,294 321,296 385,298 449,299 512,300 576,301 639,302 703,303 767,303 830,304 894,304 957,305 1021,305 1085,306 1148,306 1212,307 1275,307 1339,308 1403,309 1403,273 1339,272 1275,271 1212,271 1148,270 1085,270 1021,269 957,269 894,268 830,268 767,267 703,267 639,266 576,265 512,264 449,263 385,262 321,260 258,258 194,256 131,254"/>
+                <Baseline points="131,278 194,280 258,282 321,284 385,286 449,287 512,288 576,289 639,290 703,291 767,291 830,292 894,292 957,293 1021,293 1085,294 1148,294 1212,295 1275,295 1339,296 1403,297"/>
+                <TextEquiv>
+                    <Unicode>state expone~tis ad falsitatem exponibilis. ¶ Decima regula. Omnis ter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="149,341 211,343 273,345 335,346 397,348 459,349 521,350 583,351 645,352 707,353 770,353 832,354 894,354 956,355 1018,356 1080,356 1142,357 1204,358 1266,358 1328,359 1391,360 1391,324 1328,323 1266,322 1204,322 1142,321 1080,320 1018,320 956,319 894,318 832,318 770,317 707,317 645,316 583,315 521,314 459,313 397,312 335,310 273,309 211,307 149,305"/>
+                <Baseline points="149,329 211,331 273,333 335,334 397,336 459,337 521,338 583,339 645,340 707,341 770,341 832,342 894,342 956,343 1018,344 1080,344 1142,345 1204,346 1266,346 1328,347 1391,348"/>
+                <TextEquiv>
+                    <Unicode>minus include~s negationem. rege~s post se ablatiuum mediante a vel ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="143,389 204,391 265,393 327,395 388,396 450,397 511,399 572,400 634,401 695,402 757,403 818,404 879,404 941,405 1002,406 1064,407 1125,407 1186,408 1248,409 1309,410 1371,410 1371,374 1309,374 1248,373 1186,372 1125,371 1064,371 1002,370 941,369 879,368 818,368 757,367 695,366 634,365 572,364 511,363 450,361 388,360 327,359 265,357 204,355 143,353"/>
+                <Baseline points="143,377 204,379 265,381 327,383 388,384 450,385 511,387 572,388 634,389 695,390 757,391 818,392 879,392 941,393 1002,394 1064,395 1125,395 1186,396 1248,397 1309,398 1371,398"/>
+                <TextEquiv>
+                    <Unicode>distribuit ip~m du~ modo no~ impediatur sicut sunt isti termini caret ⁊c~~.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="141,441 204,442 267,444 330,445 393,447 456,448 519,449 582,451 645,452 708,453 771,454 834,455 897,456 960,457 1023,458 1086,458 1149,459 1212,459 1275,459 1338,459 1402,458 1402,422 1338,423 1275,423 1212,423 1149,423 1086,422 1023,422 960,421 897,420 834,419 771,418 708,417 645,416 582,415 519,413 456,412 393,411 330,409 267,408 204,406 141,405"/>
+                <Baseline points="141,429 204,430 267,432 330,433 393,435 456,436 519,437 582,439 645,440 708,441 771,442 834,443 897,444 960,445 1023,446 1086,446 1149,447 1212,447 1275,447 1338,447 1402,446"/>
+                <TextEquiv>
+                    <Unicode>Dicit^ notanter rege~s media~te a vel ab q~a nisi sic tunc no~ oporteret ip~m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="143,491 205,492 268,493 330,494 393,495 456,496 518,498 581,499 643,500 706,501 769,502 831,503 894,504 956,505 1019,506 1082,507 1144,507 1207,508 1269,508 1332,508 1395,508 1395,474 1332,474 1269,474 1207,474 1144,473 1082,473 1019,472 956,471 894,470 831,469 769,468 706,467 643,466 581,465 518,464 456,462 393,461 330,460 268,459 205,458 143,457"/>
+                <Baseline points="143,480 205,481 268,482 330,483 393,484 456,485 518,487 581,488 643,489 706,490 769,491 831,492 894,493 956,494 1019,495 1082,496 1144,496 1207,497 1269,497 1332,497 1395,497"/>
+                <TextEquiv>
+                    <Unicode>supponere co~fuse distributiue. vt fortes differt anima rationali ab asino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="145,540 207,541 270,543 332,544 395,546 457,547 520,548 582,549 645,550 707,551 770,552 832,553 895,554 957,554 1020,555 1082,555 1145,556 1207,556 1270,556 1332,556 1395,556 1395,522 1332,522 1270,522 1207,522 1145,522 1082,521 1020,521 957,520 895,520 832,519 770,518 707,517 645,516 582,515 520,514 457,513 395,512 332,510 270,509 207,507 145,506"/>
+                <Baseline points="145,529 207,530 270,532 332,533 395,535 457,536 520,537 582,538 645,539 707,540 770,541 832,542 895,543 957,543 1020,544 1082,544 1145,545 1207,545 1270,545 1332,545 1395,545"/>
+                <TextEquiv>
+                    <Unicode>Iij anima rationali stat determinate etem~ regit^ a Iij differt. quia tamen no~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="135,589 198,590 261,591 324,593 387,594 451,595 514,596 577,598 640,599 703,600 767,601 830,602 893,603 956,603 1019,604 1083,604 1146,605 1209,605 1272,605 1335,605 1399,604 1399,570 1335,571 1272,571 1209,571 1146,571 1083,570 1019,570 956,569 893,569 830,568 767,567 703,566 640,565 577,564 514,562 451,561 387,560 324,559 261,557 198,556 135,555"/>
+                <Baseline points="135,578 198,579 261,580 324,582 387,583 451,584 514,585 577,587 640,588 703,589 767,590 830,591 893,592 956,592 1019,593 1083,593 1146,594 1209,594 1272,594 1335,594 1399,593"/>
+                <TextEquiv>
+                    <Unicode>media~te Iij a vel ab. q3 autem stet determinate. patet quia sor~ omni anima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="145,639 207,639 269,640 331,641 393,642 456,644 518,645 580,646 642,647 704,648 767,649 829,650 891,651 953,652 1015,653 1078,653 1140,654 1202,654 1264,654 1326,654 1389,653 1389,619 1326,620 1264,620 1202,620 1140,620 1078,619 1015,619 953,618 891,617 829,616 767,615 704,614 642,613 580,612 518,611 456,610 393,608 331,607 269,606 207,605 145,605"/>
+                <Baseline points="145,628 207,628 269,629 331,630 393,631 456,633 518,634 580,635 642,636 704,637 767,638 829,639 891,640 953,641 1015,642 1078,642 1140,643 1202,643 1264,643 1326,643 1389,642"/>
+                <TextEquiv>
+                    <Unicode>rationali no~ differt ab asino. qd' tamen sequeretur si Iij anima rationali ibi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="141,689 203,689 266,689 329,690 392,690 455,691 517,692 580,694 643,695 706,696 769,697 831,699 894,700 957,701 1020,702 1083,703 1145,703 1208,703 1271,703 1334,703 1397,702 1397,668 1334,669 1271,669 1208,669 1145,669 1083,669 1020,668 957,667 894,666 831,665 769,663 706,662 643,661 580,660 517,658 455,657 392,656 329,656 266,655 203,655 141,655"/>
+                <Baseline points="141,678 203,678 266,678 329,679 392,679 455,680 517,681 580,683 643,684 706,685 769,686 831,688 894,689 957,690 1020,691 1083,692 1145,692 1208,692 1271,692 1334,692 1397,691"/>
+                <TextEquiv>
+                    <Unicode>distribueretur. Possunt tamen alique dictiones negationem importan~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="133,739 196,738 259,738 322,738 385,738 449,739 512,739 575,740 638,741 701,743 765,744 828,746 891,747 954,748 1017,749 1081,751 1144,751 1207,752 1270,752 1333,752 1397,752 1397,719 1333,719 1270,719 1207,719 1144,718 1081,718 1017,716 954,715 891,714 828,713 765,711 701,710 638,708 575,707 512,706 449,706 385,705 322,705 259,705 196,705 133,706"/>
+                <Baseline points="133,728 196,727 259,727 322,727 385,727 449,728 512,728 575,729 638,730 701,732 765,733 828,735 891,736 954,737 1017,738 1081,740 1144,740 1207,741 1270,741 1333,741 1397,741"/>
+                <TextEquiv>
+                    <Unicode>terminu~ a se rectum distribuere etiam sine talibus prepositionibus a vel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="137,787 200,786 263,785 326,785 389,785 452,785 515,785 578,786 641,787 704,788 767,790 830,791 893,792 956,794 1019,795 1082,797 1145,798 1208,800 1271,801 1334,802 1397,803 1397,770 1334,769 1271,768 1208,767 1145,765 1082,764 1019,762 956,761 893,759 830,758 767,757 704,755 641,754 578,753 515,752 452,752 389,752 326,752 263,752 200,753 137,754"/>
+                <Baseline points="137,776 200,775 263,774 326,774 389,774 452,774 515,774 578,775 641,776 704,777 767,779 830,780 893,781 956,783 1019,784 1082,786 1145,787 1208,789 1271,790 1334,791 1397,792"/>
+                <TextEquiv>
+                    <Unicode>ab sicut dicendo iste caret visu. rudibile repugant homini. Iij. homini sup=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="149,834 211,833 273,833 335,834 398,834 460,835 522,836 585,836 647,837 709,838 772,839 834,841 896,842 958,843 1021,844 1083,844 1145,845 1208,846 1270,846 1332,847 1395,847 1395,814 1332,814 1270,813 1208,813 1145,812 1083,811 1021,811 958,810 896,809 834,808 772,806 709,805 647,804 585,803 522,803 460,802 398,801 335,801 273,800 211,800 149,801"/>
+                <Baseline points="149,823 211,822 273,822 335,823 398,823 460,824 522,825 585,825 647,826 709,827 772,828 834,830 896,831 958,832 1021,833 1083,833 1145,834 1208,835 1270,835 1332,836 1395,836"/>
+                <TextEquiv>
+                    <Unicode>ponit confuse distributiue. eodem modo dicendum est. de istis preposi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="142,880 204,880 267,881 330,882 392,883 455,884 518,885 580,886 643,888 706,889 769,890 831,891 894,892 957,893 1019,894 1082,894 1145,895 1207,895 1270,895 1333,894 1396,893 1396,860 1333,861 1270,862 1207,862 1145,862 1082,861 1019,861 957,860 894,859 831,858 769,857 706,856 643,855 580,853 518,852 455,851 392,850 330,849 267,848 204,847 142,847"/>
+                <Baseline points="142,869 204,869 267,870 330,871 392,872 455,873 518,874 580,875 643,877 706,878 769,879 831,880 894,881 957,882 1019,883 1082,883 1145,884 1207,884 1270,884 1333,883 1396,882"/>
+                <TextEquiv>
+                    <Unicode>tionibus extra er sine respectu suorum casualium. vt iste est extra domum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="144,928 206,929 269,930 331,932 394,933 457,935 519,936 582,937 644,939 707,940 770,941 832,942 895,943 957,943 1020,944 1083,945 1145,945 1208,945 1270,946 1333,946 1396,945 1396,911 1333,912 1270,912 1208,911 1145,911 1083,911 1020,910 957,909 895,909 832,908 770,907 707,906 644,905 582,903 519,902 457,901 394,899 331,898 269,896 206,895 144,894"/>
+                <Baseline points="144,917 206,918 269,919 331,921 394,922 457,924 519,925 582,926 644,928 707,929 770,930 832,931 895,932 957,932 1020,933 1083,934 1145,934 1208,934 1270,935 1333,935 1396,934"/>
+                <TextEquiv>
+                    <Unicode>¶ Undecima et duodecima regule eode~ modo exponantur in omnibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="138,983 200,984 262,984 324,984 387,985 449,986 511,987 574,988 636,989 698,990 761,991 823,992 885,993 947,994 1010,995 1072,996 1134,996 1197,997 1259,997 1321,997 1384,997 1384,961 1321,961 1259,961 1197,961 1134,960 1072,960 1010,959 947,958 885,957 823,956 761,955 698,954 636,953 574,952 511,951 449,950 387,949 324,948 262,948 200,948 138,947"/>
+                <Baseline points="138,971 200,972 262,972 324,972 387,973 449,974 511,975 574,976 636,977 698,978 761,979 823,980 885,981 947,982 1010,983 1072,984 1134,984 1197,985 1259,985 1321,985 1384,985"/>
+                <TextEquiv>
+                    <Unicode>exponendo de termino co~muniter tento. et a talibus dictionibus recto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>state expone~tis ad falsitatem exponibilis. ¶ Decima regula. Omnis ter&#13;
+minus include~s negationem. rege~s post se ablatiuum mediante a vel ab&#13;
+distribuit ip~m du~ modo no~ impediatur sicut sunt isti termini caret ⁊c~~.&#13;
+Dicit^ notanter rege~s media~te a vel ab q~a nisi sic tunc no~ oporteret ip~m&#13;
+supponere co~fuse distributiue. vt fortes differt anima rationali ab asino.&#13;
+Iij anima rationali stat determinate etem~ regit^ a Iij differt. quia tamen no~&#13;
+media~te Iij a vel ab. q3 autem stet determinate. patet quia sor~ omni anima&#13;
+rationali no~ differt ab asino. qd' tamen sequeretur si Iij anima rationali ibi&#13;
+distribueretur. Possunt tamen alique dictiones negationem importan~&#13;
+terminu~ a se rectum distribuere etiam sine talibus prepositionibus a vel&#13;
+ab sicut dicendo iste caret visu. rudibile repugant homini. Iij. homini sup=&#13;
+ponit confuse distributiue. eodem modo dicendum est. de istis preposi=&#13;
+tionibus extra er sine respectu suorum casualium. vt iste est extra domum&#13;
+¶ Undecima et duodecima regule eode~ modo exponantur in omnibus&#13;
+exponendo de termino co~muniter tento. et a talibus dictionibus recto</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1651860753762_600" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="131,1019 1418,1019 1418,2130 131,2130"/>
+            <TextLine id="r1l16" custom="readingOrder {index:0;}">
+                <Coords points="140,1101 203,1101 266,1102 329,1103 392,1103 455,1104 518,1105 581,1106 644,1107 707,1108 771,1109 834,1110 897,1111 960,1113 1023,1114 1086,1115 1149,1116 1212,1116 1275,1117 1338,1118 1402,1119 1402,1083 1338,1082 1275,1081 1212,1080 1149,1080 1086,1079 1023,1078 960,1077 897,1075 834,1074 771,1073 707,1072 644,1071 581,1070 518,1069 455,1068 392,1067 329,1067 266,1066 203,1065 140,1065"/>
+                <Baseline points="140,1089 203,1089 266,1090 329,1091 392,1091 455,1092 518,1093 581,1094 644,1095 707,1096 771,1097 834,1098 897,1099 960,1101 1023,1102 1086,1103 1149,1104 1212,1104 1275,1105 1338,1106 1402,1107"/>
+                <TextEquiv>
+                    <Unicode>De suppositione confusa tm~ sit Prima regula. et tredecima. predicatu~ vni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:1;}">
+                <Coords points="135,1190 197,1190 259,1191 321,1192 383,1193 445,1194 507,1195 570,1196 632,1198 694,1199 756,1200 818,1202 880,1203 942,1204 1005,1206 1067,1207 1129,1207 1191,1208 1253,1209 1315,1209 1378,1209 1378,1173 1315,1173 1253,1173 1191,1172 1129,1171 1067,1171 1005,1170 942,1168 880,1167 818,1166 756,1164 694,1163 632,1162 570,1160 507,1159 445,1158 383,1157 321,1156 259,1155 197,1154 135,1154"/>
+                <Baseline points="135,1178 197,1178 259,1179 321,1180 383,1181 445,1182 507,1183 570,1184 632,1186 694,1187 756,1188 818,1190 880,1191 942,1192 1005,1194 1067,1195 1129,1195 1191,1196 1253,1197 1315,1197 1378,1197"/>
+                <TextEquiv>
+                    <Unicode>uersalis affirmatione. supponit confuse tm~. vt omnis homo est animal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:2;}">
+                <Coords points="144,1285 206,1286 269,1287 332,1288 395,1289 458,1289 521,1290 583,1290 646,1291 709,1291 772,1291 835,1291 898,1292 961,1292 1023,1293 1086,1293 1149,1294 1212,1294 1275,1295 1338,1296 1401,1297 1401,1261 1338,1260 1275,1259 1212,1258 1149,1258 1086,1257 1023,1257 961,1256 898,1256 835,1255 772,1255 709,1255 646,1255 583,1254 521,1254 458,1253 395,1253 332,1252 269,1251 206,1250 144,1249"/>
+                <Baseline points="144,1273 206,1274 269,1275 332,1276 395,1277 458,1277 521,1278 583,1278 646,1279 709,1279 772,1279 835,1279 898,1280 961,1280 1023,1281 1086,1281 1149,1282 1212,1282 1275,1283 1338,1284 1401,1285"/>
+                <TextEquiv>
+                    <Unicode>¶ Quartadecima regula. subiectu~ propositionis exclusiue supponit con=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+                <Coords points="143,1379 206,1380 269,1381 332,1382 395,1383 458,1384 521,1384 584,1385 647,1386 710,1387 774,1388 837,1388 900,1388 963,1389 1026,1389 1089,1389 1152,1389 1215,1389 1278,1388 1341,1388 1405,1387 1405,1351 1341,1352 1278,1352 1215,1353 1152,1353 1089,1353 1026,1353 963,1353 900,1352 837,1352 774,1352 710,1351 647,1350 584,1349 521,1348 458,1348 395,1347 332,1346 269,1345 206,1344 143,1343"/>
+                <Baseline points="143,1367 206,1368 269,1369 332,1370 395,1371 458,1372 521,1372 584,1373 647,1374 710,1375 774,1376 837,1376 900,1376 963,1377 1026,1377 1089,1377 1152,1377 1215,1377 1278,1376 1341,1376 1405,1375"/>
+                <TextEquiv>
+                    <Unicode>fuse tm~. vt tm~ animal est homo. ¶ Quindecima regula. terminus seque~s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:4;}">
+                <Coords points="139,1471 202,1471 265,1472 329,1472 392,1472 456,1472 519,1473 582,1473 646,1473 709,1473 773,1473 836,1473 899,1473 963,1473 1026,1473 1090,1473 1153,1473 1216,1474 1280,1474 1343,1474 1407,1474 1407,1438 1343,1438 1280,1438 1216,1438 1153,1437 1090,1437 1026,1437 963,1437 899,1437 836,1437 773,1437 709,1437 646,1437 582,1437 519,1437 456,1436 392,1436 329,1436 265,1436 202,1435 139,1435"/>
+                <Baseline points="139,1459 202,1459 265,1460 329,1460 392,1460 456,1460 519,1461 582,1461 646,1461 709,1461 773,1461 836,1461 899,1461 963,1461 1026,1461 1090,1461 1153,1461 1216,1462 1280,1462 1343,1462 1407,1462"/>
+                <TextEquiv>
+                    <Unicode>mediate signu~ vniuersale affirmatiuu~. cadens super copula~ supponit co~=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:5;}">
+                <Coords points="139,1557 205,1558 271,1559 337,1559 404,1560 470,1561 536,1561 602,1561 669,1561 735,1561 801,1561 867,1561 934,1561 1000,1561 1066,1561 1132,1561 1199,1561 1265,1561 1331,1562 1398,1562 1398,1526 1331,1526 1265,1525 1199,1525 1132,1525 1066,1525 1000,1525 934,1525 867,1525 801,1525 735,1525 669,1525 602,1525 536,1525 470,1525 404,1524 337,1523 271,1523 205,1522 139,1521"/>
+                <Baseline points="139,1545 205,1546 271,1547 337,1547 404,1548 470,1549 536,1549 602,1549 669,1549 735,1549 801,1549 867,1549 934,1549 1000,1549 1066,1549 1132,1549 1199,1549 1265,1549 1331,1550 1398,1550"/>
+                <TextEquiv>
+                    <Unicode>fuse. vt oi~s ho~e~ ai~al. Iij ai~al supponit co~fuse tm~. siłr hic cuiuslibet hoi~s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+                <Coords points="140,1639 203,1641 266,1642 329,1644 393,1645 456,1645 519,1646 582,1647 646,1647 709,1647 772,1647 835,1647 899,1647 962,1647 1025,1646 1088,1646 1152,1645 1215,1645 1278,1644 1341,1644 1405,1643 1405,1607 1341,1608 1278,1608 1215,1609 1152,1609 1088,1610 1025,1610 962,1611 899,1611 835,1611 772,1611 709,1611 646,1611 582,1611 519,1610 456,1609 393,1609 329,1608 266,1606 203,1605 140,1603"/>
+                <Baseline points="140,1627 203,1629 266,1630 329,1632 393,1633 456,1633 519,1634 582,1635 646,1635 709,1635 772,1635 835,1635 899,1635 962,1635 1025,1634 1088,1634 1152,1633 1215,1633 1278,1632 1341,1632 1405,1631"/>
+                <TextEquiv>
+                    <Unicode>asinus e~ curre~s. ta~ Iij asinus qʒ~~ Iij currens supponit co~fuse tm~. Et dico no=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:7;}">
+                <Coords points="133,1747 195,1748 258,1749 321,1750 383,1751 446,1752 509,1752 571,1753 634,1753 697,1754 760,1754 822,1754 885,1754 948,1754 1010,1754 1073,1754 1136,1754 1198,1753 1261,1753 1324,1752 1387,1751 1387,1715 1324,1716 1261,1717 1198,1717 1136,1718 1073,1718 1010,1718 948,1718 885,1718 822,1718 760,1718 697,1718 634,1717 571,1717 509,1716 446,1716 383,1715 321,1714 258,1713 195,1712 133,1711"/>
+                <Baseline points="133,1735 195,1736 258,1737 321,1738 383,1739 446,1740 509,1740 571,1741 634,1741 697,1742 760,1742 822,1742 885,1742 948,1742 1010,1742 1073,1742 1136,1742 1198,1741 1261,1741 1324,1740 1387,1739"/>
+                <TextEquiv>
+                    <Unicode>tanter cadens super copulam. quia si caderet super subiectu~ no~ oportere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:8;}">
+                <Coords points="139,1840 205,1841 271,1842 337,1843 404,1844 470,1844 536,1845 602,1845 669,1845 735,1844 801,1844 867,1844 934,1843 1000,1842 1066,1841 1132,1841 1199,1840 1265,1839 1331,1838 1398,1837 1398,1801 1331,1802 1265,1803 1199,1804 1132,1805 1066,1805 1000,1806 934,1807 867,1808 801,1808 735,1808 669,1809 602,1809 536,1809 470,1808 404,1808 337,1807 271,1806 205,1805 139,1804"/>
+                <Baseline points="139,1828 205,1829 271,1830 337,1831 404,1832 470,1832 536,1833 602,1833 669,1833 735,1832 801,1832 867,1832 934,1831 1000,1830 1066,1829 1132,1829 1199,1828 1265,1827 1331,1826 1398,1825"/>
+                <TextEquiv>
+                    <Unicode>mostaret determinate. vt videns omnem homine~ e~ animal. Iij ai~al sup=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651860739305_572" custom="readingOrder {index:9;}">
+                <Coords points="136,1893 212,1897 288,1901 364,1903 441,1904 517,1905 746,1905 822,1904 898,1903 974,1902 1051,1901 1127,1900 1279,1900 1356,1901 1418,1901 1418,1931 1356,1931 1279,1930 1127,1930 1051,1931 974,1932 898,1933 822,1934 746,1935 517,1935 441,1934 364,1933 288,1931 212,1927 136,1923"/>
+                <Baseline points="136,1913 212,1917 288,1921 364,1923 441,1924 517,1925 593,1925 669,1925 746,1925 822,1924 898,1923 974,1922 1051,1921 1127,1920 1203,1920 1279,1920 1356,1921 1418,1921"/>
+                <TextEquiv>
+                    <Unicode>ponit determinate. quia Iij omnem non cadit super copulam. ¶ Sedeci~a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:10;}">
+                <Coords points="136,2019 198,2022 261,2024 323,2026 386,2028 448,2030 511,2031 573,2032 636,2033 698,2034 761,2034 823,2034 886,2034 948,2034 1011,2033 1073,2033 1136,2032 1198,2031 1261,2030 1323,2029 1386,2028 1386,1998 1323,1999 1261,2000 1198,2001 1136,2002 1073,2003 1011,2003 948,2004 886,2004 823,2004 761,2004 698,2004 636,2003 573,2002 511,2001 448,2000 386,1998 323,1996 261,1994 198,1992 136,1989"/>
+                <Baseline points="136,2009 198,2012 261,2014 323,2016 386,2018 448,2020 511,2021 573,2022 636,2023 698,2024 761,2024 823,2024 886,2024 948,2024 1011,2023 1073,2023 1136,2022 1198,2021 1261,2020 1323,2019 1386,2018"/>
+                <TextEquiv>
+                    <Unicode>regula. quando duo signa distributiua. cadunt super terminum commu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651860739311_584" custom="readingOrder {index:11;}">
+                <Coords points="142,2088 217,2091 293,2094 369,2096 445,2097 521,2098 672,2098 748,2097 824,2097 900,2096 976,2096 1052,2095 1128,2096 1203,2096 1279,2097 1355,2099 1418,2100 1418,2130 1355,2129 1279,2127 1203,2126 1128,2126 1052,2125 976,2126 900,2126 824,2127 748,2127 672,2128 521,2128 445,2127 369,2126 293,2124 217,2121 142,2118"/>
+                <Baseline points="142,2108 217,2111 293,2114 369,2116 445,2117 521,2118 597,2118 672,2118 748,2117 824,2117 900,2116 976,2116 1052,2115 1128,2116 1203,2116 1279,2117 1355,2119 1418,2120"/>
+                <TextEquiv>
+                    <Unicode>nem in propositione particulari indefinita vel singulari talis terminus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De suppositione confusa tm~ sit Prima regula. et tredecima. predicatu~ vni&#13;
+uersalis affirmatione. supponit confuse tm~. vt omnis homo est animal.&#13;
+¶ Quartadecima regula. subiectu~ propositionis exclusiue supponit con=&#13;
+fuse tm~. vt tm~ animal est homo. ¶ Quindecima regula. terminus seque~s&#13;
+mediate signu~ vniuersale affirmatiuu~. cadens super copula~ supponit co~=&#13;
+fuse. vt oi~s ho~e~ ai~al. Iij ai~al supponit co~fuse tm~. siłr hic cuiuslibet hoi~s&#13;
+asinus e~ curre~s. ta~ Iij asinus qʒ~~ Iij currens supponit co~fuse tm~. Et dico no=&#13;
+tanter cadens super copulam. quia si caderet super subiectu~ no~ oportere&#13;
+mostaret determinate. vt videns omnem homine~ e~ animal. Iij ai~al sup=&#13;
+ponit determinate. quia Iij omnem non cadit super copulam. ¶ Sedeci~a&#13;
+regula. quando duo signa distributiua. cadunt super terminum commu=&#13;
+nem in propositione particulari indefinita vel singulari talis terminus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
