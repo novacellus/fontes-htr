@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T22:21:17.456+02:00</Created>
+        <LastChange>2022-10-13T08:47:02.973+02:00</LastChange>
+        <TranskribusMetadata docId="1178375" pageId="48093943" pageNr="1" tsid="97485944" status="IN_PROGRESS" userId="110794" imgUrl="https://files.transkribus.eu/Get?id=VAJLAYTKRUXQDIRBGZPRVZKJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRTPVZKLUNUJYRWVBPRRNWVV" imageId="38663836"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0092.jpg" imageWidth="2863" imageHeight="3689">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814033302" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663100559006_920"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663100559006_920" custom="readingOrder {index:0;}">
+            <Coords points="153,2740 2751,2740 2751,3315 153,3315"/>
+            <TextLine id="line_1663100559045_923" custom="readingOrder {index:0;} textStyle {offset:27; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="819,2767 864,2749 948,2770 1012,2774 1070,2749 1142,2779 1206,2781 1240,2777 1336,2784 1400,2785 1465,2787 1579,2773 1731,2782 1875,2786 1941,2774 2047,2782 2112,2779 2112,2818 2047,2821 1974,2844 1918,2823 1853,2824 1769,2831 1756,2816 1400,2824 1314,2851 1233,2838 1206,2820 1142,2818 1077,2816 995,2837 955,2821 876,2820 819,2802"/>
+                <Baseline points="824,2795 888,2799 953,2802 1017,2806 1082,2809 1147,2811 1202,2816 1271,2821 1345,2818 1405,2817 1470,2819 1535,2819 1599,2819 1664,2819 1729,2819 1793,2819 1858,2817 1923,2816 1987,2816 2052,2814 2117,2811"/>
+                <TextEquiv>
+                    <Unicode>Olchowycz donatio perpetua riuuloruum rivulorum ad villam Krziwe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l46" custom="readingOrder {index:1;} textStyle {offset:3; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="275,2913 364,2901 478,2870 607,2874 711,2874 816,2874 920,2874 1024,2875 1170,2880 1332,2886 1372,2872 1442,2878 1546,2880 1651,2880 1755,2881 1860,2881 2017,2891 2109,2889 2196,2875 2262,2894 2382,2877 2382,2838 2277,2839 2143,2807 2068,2842 1964,2842 1832,2826 1769,2834 1759,2820 1546,2841 1442,2839 1338,2838 1233,2838 1129,2836 1024,2836 920,2835 806,2818 711,2835 605,2819 502,2836 405,2815 275,2794"/>
+                <Baseline points="294,2865 398,2862 502,2862 607,2861 711,2861 816,2861 920,2861 1024,2862 1129,2862 1233,2864 1338,2864 1442,2865 1546,2867 1651,2867 1755,2868 1860,2868 1964,2868 2068,2868 2173,2867 2277,2865 2382,2864"/>
+                <TextEquiv>
+                    <Unicode>In nominee nomine domini Amen Ad perpetuam rei memoriam Magnifica regum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:2;} textStyle {offset:0; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:54; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="336,2944 439,2941 543,2938 647,2937 734,2945 866,2941 958,2934 1100,2967 1166,2947 1270,2935 1388,2966 1477,2937 1581,2938 1685,2938 1789,2969 1914,2970 1967,2948 2069,2953 2204,2941 2308,2941 2412,2941 2424,2881 2253,2897 2193,2878 2100,2893 1996,2893 1893,2893 1789,2892 1685,2890 1581,2890 1397,2873 1358,2890 1270,2887 1129,2878 1062,2886 975,2878 830,2871 751,2887 688,2871 558,2880 477,2873 342,2904"/>
+                <Baseline points="336,2928 439,2925 543,2922 647,2921 751,2919 855,2918 958,2918 1062,2918 1166,2918 1270,2919 1374,2919 1477,2921 1581,2922 1685,2922 1789,2924 1893,2925 1996,2925 2100,2925 2204,2925 2308,2925 2412,2925"/>
+                <TextEquiv>
+                    <Unicode>Auctoritas auctoritas litteris patenntibus patentibus consueuit consuevit graciosius roborare que suorum fidelium utilitatem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:3;} textStyle {offset:14; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:4;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:39; length:6;} textStyle {offset:46; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:105; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="334,3012 404,3026 570,3005 667,3030 731,3015 817,2987 947,3025 1035,2990 1168,2994 1265,3010 1381,3022 1485,3007 1574,3015 1696,3017 1774,3000 1875,3000 1973,3010 2073,3010 2176,3002 2276,3000 2377,2999 2377,2954 2276,2955 2176,2957 2058,2951 1975,2957 1875,2955 1774,2955 1673,2942 1574,2954 1473,2952 1373,2951 1269,2937 1172,2949 1072,2951 972,2951 850,2944 750,2946 671,2957 570,2960 522,2945 329,2954"/>
+                <Baseline points="344,2999 444,2994 544,2990 645,2987 745,2984 845,2982 946,2981 1046,2981 1146,2981 1247,2981 1347,2981 1447,2982 1548,2984 1648,2984 1748,2985 1849,2985 1949,2987 2049,2987 2150,2987 2250,2985 2351,2984"/>
+                <TextEquiv>
+                    <Unicode>respiciunt et perfectum profectum dent debent incoonwlsa inconwlsa perpetuis temporibus remanere Proinde Nos nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l49" custom="readingOrder {index:4;} textStyle {offset:0; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:67; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:88; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:108; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:122; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="348,3074 418,3062 557,3064 715,3073 767,3059 924,3092 989,3060 1081,3058 1302,3078 1408,3078 1454,3098 1517,3079 1572,3080 1710,3067 1815,3068 1920,3070 2024,3070 2129,3068 2234,3067 2339,3064 2444,3061 2444,3018 2346,3010 2234,3024 2129,3025 2086,3007 1920,3027 1824,3012 1710,3024 1605,3022 1522,3002 1396,3019 1291,3018 1186,3016 1081,3015 976,3015 872,3015 765,3003 662,3018 557,3021 376,3024 348,3031"/>
+                <Baseline points="348,3060 452,3054 557,3050 662,3047 767,3045 872,3044 976,3044 1081,3044 1186,3045 1291,3047 1396,3048 1500,3050 1605,3051 1710,3053 1815,3054 1920,3056 2024,3056 2129,3054 2234,3053 2339,3050 2444,3047"/>
+                <TextEquiv>
+                    <Unicode>Kazimierus Kazimirus deigraciam Dei gracia Rex rex polonie Polonie Magnusdux magnus dux lithwanie Lithwanie Necnon necnon Terrarum terrarum Cracovie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l50" custom="readingOrder {index:5;}">
+                <Coords points="335,3143 438,3137 541,3134 644,3131 748,3128 851,3128 954,3126 1129,3137 1161,3126 1295,3137 1367,3129 1470,3129 1539,3140 1677,3132 1780,3134 1883,3135 2024,3157 2101,3169 2193,3135 2296,3135 2443,3122 2400,3088 2260,3064 2193,3089 2090,3090 1987,3089 1883,3089 1780,3088 1677,3086 1574,3085 1470,3083 1367,3083 1222,3073 1119,3071 1057,3080 968,3074 932,3092 748,3082 644,3085 541,3088 411,3061 335,3097"/>
+                <Baseline points="335,3128 438,3122 541,3119 644,3116 748,3113 851,3113 954,3111 1057,3111 1161,3111 1264,3113 1367,3114 1470,3114 1574,3116 1677,3117 1780,3119 1883,3120 1987,3120 2090,3121 2193,3120 2296,3120 2400,3119"/>
+                <TextEquiv>
+                    <Unicode>Sandomirie Siradie Lancicie Cuyawie Pomeranie Russieque dominus et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l51" custom="readingOrder {index:6;} textStyle {offset:6; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:33; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="335,3206 364,3214 537,3198 638,3195 740,3194 794,3224 942,3192 1043,3192 1145,3194 1229,3223 1347,3196 1448,3197 1550,3200 1620,3222 1743,3224 1823,3206 1850,3218 1970,3226 2158,3215 2171,3248 2277,3211 2442,3227 2365,3133 2157,3161 2056,3160 1955,3160 1853,3158 1752,3157 1588,3136 1560,3165 1448,3151 1368,3125 1246,3149 1172,3131 1043,3146 969,3132 841,3146 740,3148 638,3149 537,3152 470,3143 335,3160"/>
+                <Baseline points="335,3191 436,3186 537,3183 638,3180 740,3179 841,3177 942,3177 1043,3177 1145,3179 1246,3180 1347,3181 1448,3182 1550,3185 1651,3186 1752,3188 1853,3189 1955,3191 2056,3191 2157,3192 2258,3192 2360,3191"/>
+                <TextEquiv>
+                    <Unicode>heres etc et cetera Significamus tenorer tenore presencium universis quibus expedit presentibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l52" custom="readingOrder {index:7;} textStyle {offset:45; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="338,3269 448,3310 541,3267 692,3291 745,3266 794,3302 949,3266 1050,3267 1152,3267 1301,3307 1356,3270 1467,3312 1572,3291 1662,3275 1763,3278 1865,3279 1967,3282 2132,3296 2171,3287 2284,3302 2399,3307 2415,3205 2185,3245 2132,3225 1986,3236 1948,3223 1824,3209 1763,3232 1662,3229 1560,3227 1458,3226 1421,3191 1254,3223 1149,3203 1050,3221 949,3220 847,3220 745,3220 643,3220 541,3221 474,3207 338,3223"/>
+                <Baseline points="338,3254 439,3252 541,3252 643,3251 745,3251 847,3251 949,3251 1050,3252 1152,3252 1254,3254 1356,3255 1458,3257 1560,3258 1662,3260 1763,3263 1865,3264 1967,3267 2069,3269 2171,3272 2273,3275 2375,3278"/>
+                <TextEquiv>
+                    <Unicode>et futuris Ad quorum noticiam presens pagina deuoluetur devolvetur Quomodo attendentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Olchowycz donatio perpetua riuuloruum rivulorum ad villam Krziwe&#13;
+In nominee nomine domini Amen Ad perpetuam rei memoriam Magnifica regum&#13;
+Auctoritas auctoritas litteris patenntibus patentibus consueuit consuevit graciosius roborare que suorum fidelium utilitatem&#13;
+respiciunt et perfectum profectum dent debent incoonwlsa inconwlsa perpetuis temporibus remanere Proinde Nos nos&#13;
+Kazimierus Kazimirus deigraciam Dei gracia Rex rex polonie Polonie Magnusdux magnus dux lithwanie Lithwanie Necnon necnon Terrarum terrarum Cracovie&#13;
+Sandomirie Siradie Lancicie Cuyawie Pomeranie Russieque dominus et &#13;
+heres etc et cetera Significamus tenorer tenore presencium universis quibus expedit presentibus&#13;
+et futuris Ad quorum noticiam presens pagina deuoluetur devolvetur Quomodo attendentes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

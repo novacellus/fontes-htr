@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:26:07.750+02:00</Created>
+        <LastChange>2022-10-05T03:37:52.525+02:00</LastChange>
+        <TranskribusMetadata docId="1178370" pageId="48093930" pageNr="2" tsid="96816426" status="IN_PROGRESS" userId="78190" imgUrl="https://files.transkribus.eu/Get?id=YTYZURQLRTVOJARFVCJLOHHS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLOUVIAOMNNBYWFYFBYHAGNO" imageId="38664168"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0110v.jpg" imageWidth="2916" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814035457" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663104624982_1280"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663104624982_1280" custom="readingOrder {index:0;}">
+            <Coords points="510,221 2633,225 2627,991 504,991"/>
+            <TextLine id="r4l2" custom="readingOrder {index:0;} textStyle {offset:8; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:63; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:76; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:89; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:97; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:109; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:123; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="623,376 744,372 838,370 931,368 1025,368 1118,368 1212,369 1305,370 1399,371 1492,373 1586,374 1680,376 1773,376 1867,377 1960,377 2054,377 2147,376 2241,374 2334,371 2428,368 2522,362 2522,320 2451,296 2349,297 2244,297 2171,297 2066,297 1963,299 1868,326 1773,304 1681,304 1586,332 1519,305 1398,306 1300,308 1207,307 1120,282 1027,282 937,292 844,294 744,318 620,316"/>
+                <Baseline points="651,362 744,358 838,356 931,354 1025,354 1118,354 1212,355 1305,356 1399,357 1492,359 1586,360 1680,362 1773,362 1867,363 1960,363 2054,363 2147,362 2241,360 2334,357 2428,354 2522,348"/>
+                <TextEquiv>
+                    <Unicode>Johanne ar̄epo Arep̄o et p̄mate p̕mate Gnezn̄, 6bignes Sbigneo ... miẜacōn diūa diuīa tt̄ tt̕ s̄cte sc̄te pre te priſce p̄ſb̄ro p̄ſbr̄o Car</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:1;} textStyle {offset:10; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:58; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="651,435 753,434 846,431 939,430 1033,428 1126,428 1219,428 1312,428 1406,430 1499,431 1592,431 1685,433 1779,434 1872,436 1965,436 2058,436 2152,434 2245,434 2338,431 2431,428 2525,424 2525,382 2439,371 2346,374 2248,379 2155,379 2058,394 1965,394 1878,381 1785,379 1690,380 1597,378 1499,377 1406,376 1312,386 1220,378 1125,378 1034,379 940,380 849,381 754,382 652,383"/>
+                <Baseline points="660,425 753,420 846,417 939,416 1033,414 1126,414 1219,414 1312,414 1406,416 1499,417 1592,417 1685,419 1779,420 1872,422 1965,422 2058,422 2152,420 2245,420 2338,417 2431,414 2525,410"/>
+                <TextEquiv>
+                    <Unicode>dinali et Epō Ep̄o Crac̄ Gregorio Leopolien̄ leopolien̄ Ar̄epō Arep̄o Johanne wlaɖ Andrea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:2;} textStyle {offset:8; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:59; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:82; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="650,497 742,496 834,494 926,494 1018,493 1110,493 1202,493 1294,493 1386,494 1478,494 1571,496 1663,496 1755,497 1847,497 1939,499 2031,499 2123,499 2215,497 2307,497 2399,496 2492,494 2492,437 2399,439 2310,434 2218,434 2127,435 2035,435 1946,443 1854,441 1757,441 1665,433 1581,432 1490,428 1394,427 1300,435 1206,435 1114,435 1020,438 928,439 835,438 743,440 650,454"/>
+                <Baseline points="650,483 742,482 834,480 926,480 1018,479 1110,479 1202,479 1294,479 1386,480 1478,480 1571,482 1663,482 1755,483 1847,483 1939,485 2031,485 2123,485 2215,483 2307,483 2399,482 2492,480"/>
+                <TextEquiv>
+                    <Unicode>poznan̄ nicolau Nicolao premislen̄ premiſlien̄ Ēpis Ep̄i6 nemō necnō magnificꝭ d̄nis dn̄i6 Johanne de Czi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:3;} brak {offset:1; length:4;} textStyle {offset:16; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="645,557 739,557 834,559 928,559 1023,559 1118,559 1212,560 1307,560 1402,560 1496,560 1591,559 1686,559 1780,559 1875,559 1970,559 2064,557 2159,557 2254,557 2348,557 2443,556 2538,556 2538,514 2445,510 2350,510 2256,509 2157,509 2065,509 1970,501 1875,499 1780,517 1684,510 1590,509 1496,518 1403,508 1308,508 1210,500 1118,501 1023,513 930,503 836,503 739,515 645,515"/>
+                <Baseline points="645,543 739,543 834,545 928,545 1023,545 1118,545 1212,546 1307,546 1402,546 1496,546 1591,545 1686,545 1780,545 1875,545 1970,545 2064,543 2159,543 2254,543 2348,543 2443,542 2538,542"/>
+                <TextEquiv>
+                    <Unicode> szow Caſst̄ et capit̄ Capit̄ et Johanne de Thanczin pallat̄ Cracꝭ luca de Gor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:4;} textStyle {offset:3; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="605,625 701,623 798,623 895,622 992,622 1088,620 1185,620 1282,620 1386,618 1483,630 1572,632 1669,619 1766,619 1863,619 1960,617 2056,617 2153,616 2250,616 2347,614 2444,613 2444,571 2349,562 2250,561 2153,561 2056,575 1965,565 1866,564 1765,564 1669,577 1574,559 1478,559 1379,569 1282,569 1185,578 1090,558 994,555 895,580 805,556 702,554 606,556"/>
+                <Baseline points="605,611 701,609 798,609 895,608 992,608 1088,606 1185,606 1282,606 1379,606 1476,605 1572,605 1669,605 1766,605 1863,605 1960,603 2056,603 2153,602 2250,602 2347,600 2444,599"/>
+                <TextEquiv>
+                    <Unicode>ka pallat̄ poznan̄ et Capit̄ maioriſpolonie ḡn̄ali gn̕ali Johanne de oleſthnÿcza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:5;} textStyle {offset:13; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:79; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:104; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:114; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="599,697 697,694 795,692 893,691 992,689 1090,688 1188,686 1286,685 1385,685 1483,683 1581,683 1679,682 1778,682 1876,682 1974,682 2072,682 2171,680 2269,680 2367,680 2467,698 2572,698 2570,638 2465,638 2367,638 2269,638 2171,638 2072,640 1975,629 1877,629 1820,629 1678,630 1581,629 1483,641 1384,628 1285,624 1191,623 1092,639 994,640 896,639 798,640 696,639 598,642"/>
+                <Baseline points="599,683 697,680 795,678 893,677 992,675 1090,674 1188,672 1286,671 1385,671 1483,669 1581,669 1679,668 1778,668 1876,668 1974,668 2072,668 2171,666 2269,666 2367,666 2465,666 2564,666"/>
+                <TextEquiv>
+                    <Unicode>Sandomirien̄ Stanislao Staniſlao de oſstrorog oſtrorog Caliſ hien̄ Caliſchien̄ pallatinus pallatini6 et alÿs alÿ6 ꝯ̄mplurib9 q̄mplurib6 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:6;} textStyle {offset:0; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:74; length:2;fontSize:0.0; kerning:0; superscript:true;} brak {offset:77; length:6;} textStyle {offset:81; length:2;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="555,756 686,755 779,755 874,754 971,754 1066,752 1161,752 1256,752 1351,751 1446,749 1541,749 1636,748 1731,748 1826,746 1921,746 2016,745 2111,745 2206,743 2301,743 2396,742 2504,742 2502,681 2394,681 2299,682 2204,682 2103,668 2016,703 1921,700 1826,700 1731,706 1637,700 1542,701 1446,707 1352,685 1257,686 1161,710 1066,710 971,712 876,712 791,694 688,695 556,708"/>
+                <Baseline points="591,741 686,741 781,741 876,740 971,740 1066,738 1161,738 1256,738 1351,737 1446,735 1541,735 1636,734 1731,734 1826,732 1921,732 2016,731 2111,731 2206,729 2301,729 2396,728 2492,728"/>
+                <TextEquiv>
+                    <Unicode>... et̄ Dat̄ ꝑ manu6 magniciorum magnificorum Johannes Johannis de Conyeczle Can̄rÿ petri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:7;} textStyle {offset:29; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="629,825 703,826 776,858 851,858 928,825 1002,825 1077,823 1152,823 1230,862 1304,862 1372,861 1447,860 1522,860 1600,817 1675,817 1750,816 1825,816 1899,816 1974,816 2049,816 2124,817 2120,747 2045,746 1976,747 1901,747 1829,749 1754,749 1682,750 1604,756 1526,770 1451,770 1376,771 1301,773 1227,773 1152,774 1077,774 1002,776 928,776 853,769 778,769 703,768 629,767"/>
+                <Baseline points="629,809 703,810 778,810 853,810 928,809 1002,809 1077,807 1152,807 1227,806 1301,806 1376,804 1451,803 1526,803 1600,801 1675,801 1750,800 1825,800 1899,800 1974,800 2049,800 2124,801"/>
+                <TextEquiv>
+                    <Unicode>de Sczekoczini vicecancꝭ R p sinc̄ sincē nob̄ dilētorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:8;} textStyle {offset:0; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1613,916 1657,915 1701,915 1746,913 1790,913 1835,912 1879,912 1924,912 1968,910 2013,910 2057,909 2101,909 2146,907 2190,907 2235,906 2279,906 2324,904 2368,903 2413,901 2457,899 2502,898 2502,849 2457,850 2413,852 2368,854 2324,855 2279,857 2235,857 2201,846 2145,847 2100,848 2066,821 2022,822 1968,861 1924,863 1879,863 1835,853 1789,853 1746,864 1702,835 1658,835 1614,835"/>
+                <Baseline points="1613,900 1657,899 1701,899 1746,897 1790,897 1835,896 1879,896 1924,896 1968,894 2013,894 2057,893 2101,893 2146,891 2190,891 2235,890 2279,890 2324,888 2368,887 2413,885 2457,883 2502,882"/>
+                <TextEquiv>
+                    <Unicode>Rtō Rlo eiuſɖ magnifici Johannu6 Johanni6 de Co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:9;} textStyle {offset:14; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1596,970 1635,974 1675,976 1715,978 1732,1044 1772,1046 1835,981 1875,981 1915,981 1955,981 1983,1023 2034,979 2074,979 2114,978 2154,978 2194,976 2234,976 2274,976 2314,978 2354,978 2411,979 2414,922 2357,921 2314,920 2280,896 2231,896 2194,928 2154,930 2114,930 2074,931 2034,931 1995,931 1955,933 1915,933 1876,916 1838,917 1798,917 1755,931 1715,930 1675,928 1635,926 1596,922"/>
+                <Baseline points="1596,954 1635,958 1675,960 1715,962 1755,963 1795,965 1835,965 1875,965 1915,965 1955,965 1995,963 2034,963 2074,963 2114,962 2154,962 2194,960 2234,960 2274,960 2314,962 2354,962 2394,963"/>
+                <TextEquiv>
+                    <Unicode>nyeczpole R p cancellarÿ Cancellarÿ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Johanne ar̄epo Arep̄o et p̄mate p̕mate Gnezn̄, 6bignes Sbigneo ... miẜacōn diūa diuīa tt̄ tt̕ s̄cte sc̄te pre te priſce p̄ſb̄ro p̄ſbr̄o Car&#13;
+dinali et Epō Ep̄o Crac̄ Gregorio Leopolien̄ leopolien̄ Ar̄epō Arep̄o Johanne wlaɖ Andrea&#13;
+poznan̄ nicolau Nicolao premislen̄ premiſlien̄ Ēpis Ep̄i6 nemō necnō magnificꝭ d̄nis dn̄i6 Johanne de Czi&#13;
+ szow Caſst̄ et capit̄ Capit̄ et Johanne de Thanczin pallat̄ Cracꝭ luca de Gor&#13;
+ka pallat̄ poznan̄ et Capit̄ maioriſpolonie ḡn̄ali gn̕ali Johanne de oleſthnÿcza&#13;
+Sandomirien̄ Stanislao Staniſlao de oſstrorog oſtrorog Caliſ hien̄ Caliſchien̄ pallatinus pallatini6 et alÿs alÿ6 ꝯ̄mplurib9 q̄mplurib6 &#13;
+... et̄ Dat̄ ꝑ manu6 magniciorum magnificorum Johannes Johannis de Conyeczle Can̄rÿ petri&#13;
+de Sczekoczini vicecancꝭ R p sinc̄ sincē nob̄ dilētorum&#13;
+Rtō Rlo eiuſɖ magnifici Johannu6 Johanni6 de Co&#13;
+nyeczpole R p cancellarÿ Cancellarÿ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

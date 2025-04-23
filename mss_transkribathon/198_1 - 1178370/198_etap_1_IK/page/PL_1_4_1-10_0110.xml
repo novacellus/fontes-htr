@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:26:07.724+02:00</Created>
+        <LastChange>2022-10-10T09:27:42.171+02:00</LastChange>
+        <TranskribusMetadata docId="1178370" pageId="48093929" pageNr="1" tsid="97158352" status="IN_PROGRESS" userId="110794" imgUrl="https://files.transkribus.eu/Get?id=AAQXTWUTQQFISWVXUFBBGTMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBWLJTCJBWZWWQTDFXSYZYAF" imageId="38664167"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0110.jpg" imageWidth="2916" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814035437" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663104486152_1233"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663104486152_1233" custom="readingOrder {index:0;}">
+            <Coords points="292,980 2531,980 2561,3389 322,3407"/>
+            <TextLine id="r2l14" custom="readingOrder {index:0;}">
+                <Coords points="432,1119 529,1116 582,1113 635,1111 689,1110 742,1108 795,1107 848,1106 902,1105 955,1104 1008,1102 1061,1101 1115,1099 1168,1098 1221,1097 1274,1096 1328,1093 1381,1092 1434,1090 1487,1087 1541,1084 1541,1036 1487,1039 1434,1042 1389,1010 1336,1011 1273,1010 1220,1011 1163,1011 1110,1012 1061,1053 1008,1054 955,1056 902,1057 848,1058 795,1059 742,1060 678,1037 624,1038 587,1025 531,1009 434,1012"/>
+                <Baseline points="476,1101 529,1100 582,1097 635,1095 689,1094 742,1092 795,1091 848,1090 902,1089 955,1088 1008,1086 1061,1085 1115,1083 1168,1082 1221,1081 1274,1080 1328,1077 1381,1076 1434,1074 1487,1071 1541,1068"/>
+                <TextEquiv>
+                    <Unicode>Iuſtheutunicum petro claczinſky datum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:1;} textStyle {offset:32; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="626,1174 683,1176 741,1176 799,1176 857,1175 915,1174 973,1173 1031,1171 1089,1170 1147,1168 1205,1165 1262,1164 1320,1161 1378,1158 1436,1155 1494,1153 1552,1150 1610,1147 1668,1144 1726,1143 1784,1140 1784,1092 1726,1095 1668,1096 1610,1099 1552,1102 1494,1105 1436,1107 1378,1110 1320,1113 1262,1116 1205,1117 1147,1120 1089,1122 1031,1123 973,1125 915,1126 857,1127 799,1128 741,1128 683,1128 626,1126"/>
+                <Baseline points="626,1158 683,1160 741,1160 799,1160 857,1159 915,1158 973,1157 1031,1155 1089,1154 1147,1152 1205,1149 1262,1148 1320,1145 1378,1142 1436,1139 1494,1137 1552,1134 1610,1131 1668,1128 1726,1127 1784,1124"/>
+                <TextEquiv>
+                    <Unicode>nyewodna Dobrzechowka Magnusdux Lithwanie lithwanie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:2;} textStyle {offset:3; length:6;strikethrough:true; fontSize:0.0; kerning:0;} brak {offset:23; length:4;} textStyle {offset:28; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="283,1255 442,1255 542,1255 642,1253 742,1250 843,1247 943,1245 1043,1241 1143,1238 1243,1235 1344,1232 1444,1229 1544,1226 1644,1224 1744,1222 1845,1220 1945,1220 2045,1220 2145,1222 2245,1223 2390,1222 2394,1094 2293,1091 2145,1180 2057,1128 1957,1128 1862,1149 1757,1146 1644,1182 1544,1184 1444,1187 1344,1190 1243,1193 1112,1170 1012,1173 943,1203 843,1173 742,1176 655,1176 555,1178 421,1123 279,1119"/>
+                <Baseline points="342,1241 442,1241 542,1241 642,1239 742,1236 843,1233 943,1231 1043,1227 1143,1224 1243,1221 1344,1218 1444,1215 1544,1212 1644,1210 1744,1208 1845,1206 1945,1206 2045,1206 2145,1208 2245,1209 2346,1212"/>
+                <TextEquiv>
+                    <Unicode>In nomiē nomīe domī Amen ad Ad perpettuam rei memoriam Ex quo om̄e6 actu6 Actu6 mūdi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:3;} textStyle {offset:24; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="446,1319 566,1317 659,1315 752,1312 845,1308 938,1305 1031,1302 1123,1298 1216,1295 1309,1292 1402,1289 1495,1286 1588,1284 1681,1282 1773,1280 1866,1279 1959,1279 2052,1279 2145,1280 2238,1282 2392,1283 2388,1225 2240,1222 2143,1224 2052,1229 1959,1229 1866,1227 1773,1228 1681,1229 1588,1231 1497,1229 1404,1232 1309,1237 1216,1240 1123,1240 1031,1244 940,1243 847,1246 750,1258 657,1261 568,1261 448,1263"/>
+                <Baseline points="474,1305 566,1303 659,1301 752,1298 845,1294 938,1291 1031,1288 1123,1284 1216,1281 1309,1278 1402,1275 1495,1272 1588,1270 1681,1268 1773,1266 1866,1265 1959,1265 2052,1265 2145,1266 2238,1268 2331,1271"/>
+                <TextEquiv>
+                    <Unicode>ſubito auida deglutiret oblivio obliuio niſi lr̄ali6 ſcripture ſolidata6 eo6 ꝑpettue cōmenda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:4;} textStyle {offset:0; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="398,1377 530,1376 629,1374 728,1373 826,1370 925,1367 1024,1365 1122,1362 1221,1359 1320,1356 1419,1355 1517,1352 1616,1350 1715,1349 1813,1347 1912,1347 2011,1347 2109,1347 2208,1347 2331,1360 2448,1421 2448,1298 2308,1296 2210,1281 2111,1281 2019,1285 1920,1285 1813,1287 1715,1289 1600,1294 1501,1296 1419,1310 1320,1311 1221,1314 1123,1287 1024,1320 931,1309 824,1309 726,1312 629,1329 530,1331 398,1332"/>
+                <Baseline points="432,1362 530,1361 629,1359 728,1358 826,1355 925,1352 1024,1350 1122,1347 1221,1344 1320,1341 1419,1340 1517,1337 1616,1335 1715,1334 1813,1332 1912,1332 2011,1332 2109,1332 2208,1332 2307,1334 2406,1337"/>
+                <TextEquiv>
+                    <Unicode>ret rei memorie proinde No6 Kazimiru6 deigrā deigr̄a Rex polonie n̄non tēarum t̕rarum Crac̄ꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:5;} textStyle {offset:51; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="411,1440 508,1439 606,1437 704,1434 802,1432 900,1430 998,1427 1096,1424 1194,1421 1292,1418 1390,1415 1487,1413 1585,1412 1683,1409 1781,1409 1879,1407 1977,1407 2075,1409 2173,1410 2271,1412 2369,1416 2369,1370 2267,1354 2169,1352 2075,1363 1977,1361 1879,1361 1781,1363 1683,1363 1585,1366 1485,1355 1388,1357 1292,1372 1194,1375 1096,1378 998,1381 902,1370 804,1372 704,1388 602,1376 504,1378 413,1376"/>
+                <Baseline points="411,1425 508,1424 606,1422 704,1419 802,1417 900,1415 998,1412 1096,1409 1194,1406 1292,1403 1390,1400 1487,1398 1585,1397 1683,1394 1781,1394 1879,1392 1977,1392 2075,1394 2173,1395 2271,1397 2369,1401"/>
+                <TextEquiv>
+                    <Unicode>Sandomirie siraɖ lancꝭ Cuÿawie pomeranie Ruſſie qʒ dominus dominu6 et here6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:6;} textStyle {offset:13; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:5;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:93; length:1;}">
+                <Coords points="398,1503 476,1506 578,1503 681,1500 783,1497 886,1494 988,1491 1091,1488 1193,1486 1296,1484 1398,1482 1500,1479 1603,1478 1705,1476 1808,1476 1910,1475 2013,1475 2115,1475 2218,1475 2320,1476 2434,1478 2434,1416 2320,1414 2226,1411 2123,1411 2013,1416 1910,1416 1804,1417 1701,1417 1607,1421 1504,1422 1398,1423 1296,1425 1193,1440 1091,1442 988,1445 885,1427 782,1430 681,1454 590,1424 488,1427 398,1457"/>
+                <Baseline points="374,1494 476,1491 578,1488 681,1485 783,1482 886,1479 988,1476 1091,1473 1193,1471 1296,1469 1398,1467 1500,1464 1603,1463 1705,1461 1808,1461 1910,1460 2013,1460 2115,1460 2218,1460 2320,1461 2423,1463"/>
+                <TextEquiv>
+                    <Unicode>Significamu6 presencium preſencium tenore vniuerſi6 pn̄tibu6 et futuri6 quibꝯ quib9 expedit horum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:7;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:28; length:4;strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:57; length:16;comment:poprawka\u0020JM;} textStyle {offset:57; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:80; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:103; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="392,1578 494,1572 596,1568 698,1564 801,1560 903,1557 1005,1554 1108,1552 1210,1550 1312,1548 1415,1547 1517,1545 1619,1545 1721,1544 1824,1542 1926,1541 2028,1541 2131,1539 2233,1537 2335,1535 2438,1533 2438,1487 2340,1475 2238,1477 2128,1475 2025,1477 1928,1487 1826,1488 1725,1484 1623,1485 1519,1486 1408,1482 1305,1485 1212,1485 1110,1487 1009,1491 907,1494 801,1514 701,1497 596,1522 494,1524 392,1530"/>
+                <Baseline points="392,1563 494,1557 596,1553 698,1549 801,1545 903,1542 1005,1539 1108,1537 1210,1535 1312,1533 1415,1532 1517,1530 1619,1530 1721,1529 1824,1527 1926,1526 2028,1526 2131,1524 2233,1522 2335,1520 2438,1518"/>
+                <TextEquiv>
+                    <Unicode>notitiam noticiam habituri6 qmō Quō pro parte nobilium Johnni6 Johanni6 petri staniſlai Staniſlai et andree Andree</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:8;} textStyle {offset:16; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:36; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="359,1646 463,1640 568,1635 673,1629 778,1626 883,1622 988,1619 1092,1617 1197,1614 1302,1613 1407,1611 1512,1610 1617,1610 1722,1608 1826,1607 1931,1607 2036,1605 2141,1604 2246,1602 2351,1600 2456,1598 2454,1537 2349,1539 2246,1557 2141,1559 2040,1540 1935,1542 1826,1562 1722,1545 1617,1546 1510,1545 1405,1547 1308,1546 1203,1547 1092,1572 988,1574 887,1555 782,1559 679,1565 574,1571 463,1576 359,1582"/>
+                <Baseline points="359,1631 463,1625 568,1620 673,1614 778,1611 883,1607 988,1604 1092,1602 1197,1599 1302,1598 1407,1596 1512,1595 1617,1595 1722,1593 1826,1592 1931,1592 2036,1590 2141,1589 2246,1587 2351,1585 2456,1583"/>
+                <TextEquiv>
+                    <Unicode>de dobrzechowka ḡmanorum g̕manorum ..erō.. vr̄o maieſtati nr̄e oblata continebat quatin9 villa6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:9;} textStyle {offset:36; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:12;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="405,1704 506,1700 607,1694 708,1691 809,1687 911,1683 1012,1682 1113,1679 1214,1677 1315,1674 1417,1673 1518,1671 1619,1670 1720,1670 1821,1668 1923,1668 2024,1667 2125,1667 2226,1665 2327,1665 2429,1664 2427,1601 2325,1602 2233,1598 2132,1600 2028,1602 1927,1603 1827,1599 1726,1601 1619,1625 1522,1603 1421,1605 1317,1620 1216,1623 1111,1616 1010,1619 913,1630 811,1634 706,1637 605,1640 506,1645 405,1649"/>
+                <Baseline points="405,1689 506,1685 607,1679 708,1676 809,1672 911,1668 1012,1667 1113,1664 1214,1662 1315,1659 1417,1658 1518,1656 1619,1655 1720,1655 1821,1653 1923,1653 2024,1652 2125,1652 2226,1650 2327,1650 2429,1649"/>
+                <TextEquiv>
+                    <Unicode>ipſorum Nÿewodna et dobrzechowka in trā t̕ra 6andomirien̄ Sandomirien̄ et diſtrictu pilſznen̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:10;} textStyle {offset:9; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:68; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="378,1792 513,1787 618,1757 719,1752 820,1748 921,1745 1022,1742 1123,1740 1224,1737 1325,1736 1426,1734 1527,1733 1628,1731 1729,1731 1830,1731 1931,1731 2032,1731 2133,1731 2234,1733 2335,1734 2436,1736 2436,1691 2335,1689 2234,1688 2133,1658 2032,1658 1931,1686 1830,1686 1729,1686 1622,1662 1521,1664 1426,1689 1325,1691 1224,1692 1127,1684 1026,1686 921,1700 818,1689 717,1693 618,1712 514,1686 378,1689"/>
+                <Baseline points="416,1751 517,1746 618,1742 719,1737 820,1733 921,1730 1022,1727 1123,1725 1224,1722 1325,1721 1426,1719 1527,1718 1628,1716 1729,1716 1830,1716 1931,1716 2032,1716 2133,1716 2234,1718 2335,1719 2436,1721"/>
+                <TextEquiv>
+                    <Unicode>ſita6 de iure Jure polonico in Iustheutunicum tranſferre dignaremur grōſe. gr̄oſe No6 tamen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:11;} textStyle {offset:23; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="401,1828 501,1825 602,1820 702,1816 803,1812 903,1809 1004,1806 1104,1803 1205,1800 1305,1797 1406,1795 1507,1794 1607,1792 1708,1792 1808,1791 1909,1791 2009,1792 2110,1792 2210,1794 2311,1796 2412,1798 2412,1758 2312,1731 2211,1729 2121,1721 2020,1721 1909,1751 1808,1731 1708,1732 1605,1728 1505,1730 1406,1755 1314,1730 1218,1725 1099,1729 1004,1766 907,1750 807,1753 690,1752 588,1752 501,1785 401,1788"/>
+                <Baseline points="401,1815 501,1812 602,1807 702,1803 803,1799 903,1796 1004,1793 1104,1790 1205,1787 1305,1784 1406,1782 1507,1781 1607,1779 1708,1779 1808,1778 1909,1778 2009,1779 2110,1779 2210,1781 2311,1783 2412,1785"/>
+                <TextEquiv>
+                    <Unicode>peticionibus huiuſmodi tanqm̄ tanq̄m iuſti6 et racioni ꝯſonis ꝯſoni6 benigniter acclinati Memo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:12;} textStyle {offset:23; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="396,1884 497,1882 599,1879 701,1878 802,1875 904,1872 1006,1870 1107,1867 1209,1866 1311,1863 1413,1861 1514,1860 1616,1858 1718,1857 1819,1855 1921,1855 2023,1855 2124,1855 2226,1857 2328,1858 2501,1858 2498,1796 2322,1796 2220,1795 2124,1815 2023,1815 1921,1795 1819,1795 1720,1797 1618,1798 1514,1820 1415,1808 1313,1810 1213,1810 1111,1811 1012,1814 910,1816 808,1817 707,1820 599,1839 497,1842 396,1844"/>
+                <Baseline points="396,1871 497,1869 599,1866 701,1865 802,1862 904,1859 1006,1857 1107,1854 1209,1853 1311,1850 1413,1848 1514,1847 1616,1845 1718,1844 1819,1842 1921,1842 2023,1842 2124,1842 2226,1844 2328,1845 2430,1847"/>
+                <TextEquiv>
+                    <Unicode>rata6 eorum villa6 sev hēditate6 he̕ditate6 nÿewodna Nÿewodna et dobrzechowka prout in ſui6 metꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:13;} textStyle {offset:27; length:18;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:84; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="399,1946 501,1946 603,1946 705,1944 807,1942 909,1940 1011,1938 1114,1935 1216,1932 1318,1929 1420,1928 1522,1925 1624,1923 1726,1922 1829,1922 1931,1922 2033,1923 2135,1925 2237,1928 2339,1932 2442,1937 2442,1892 2343,1866 2241,1862 2135,1880 2033,1865 1931,1864 1832,1864 1729,1864 1618,1862 1516,1864 1420,1883 1326,1872 1224,1875 1140,1857 1021,1875 913,1874 811,1876 710,1880 608,1882 503,1882 401,1882"/>
+                <Baseline points="399,1931 501,1931 603,1931 705,1929 807,1927 909,1925 1011,1923 1114,1920 1216,1917 1318,1914 1420,1913 1522,1910 1624,1908 1726,1907 1829,1907 1931,1907 2033,1908 2135,1910 2237,1913 2339,1917 2442,1922"/>
+                <TextEquiv>
+                    <Unicode>et limitibu6 longe late qʒ c̄cumferencialiter c̕cumferencialiter diſtincte exiſtunt abantiguo ab antiquo et limitate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:14;} textStyle {offset:3; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:14;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="340,2007 473,2007 572,2006 671,2006 769,2004 868,2001 967,1999 1065,1997 1164,1994 1263,1991 1362,1988 1460,1986 1559,1985 1658,1983 1756,1982 1855,1982 1954,1982 2052,1983 2151,1986 2250,1989 2349,1995 2349,1949 2250,1936 2151,1933 2053,1922 1955,1921 1855,1936 1756,1936 1660,1919 1559,1939 1460,1940 1362,1942 1264,1937 1165,1940 1068,1936 970,1938 868,1955 769,1958 670,1935 572,1960 474,1945 341,1945"/>
+                <Baseline points="375,1992 473,1992 572,1991 671,1991 769,1989 868,1986 967,1984 1065,1982 1164,1979 1263,1976 1362,1973 1460,1971 1559,1970 1658,1968 1756,1967 1855,1967 1954,1967 2052,1968 2151,1971 2250,1974 2349,1980"/>
+                <TextEquiv>
+                    <Unicode>De Iure Jure polonico et quoviſalio quouiſalio in Iuſtheutunicum Juſtheutunicum quod Maÿdemburgen̄ dicitur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:15;} textStyle {offset:16; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:64; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:88; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="397,2071 507,2070 606,2069 705,2067 804,2066 903,2064 1002,2061 1101,2058 1200,2056 1299,2054 1398,2051 1497,2049 1596,2048 1695,2046 1794,2046 1893,2046 1992,2046 2091,2049 2190,2051 2289,2055 2388,2061 2397,1976 2284,1996 2185,1992 2089,1994 1990,1991 1895,1997 1796,1997 1695,2001 1594,1989 1497,2004 1398,1992 1299,1992 1200,2011 1099,1999 998,2002 877,2006 780,2008 705,2022 599,2012 500,2013 397,2026"/>
+                <Baseline points="408,2055 507,2055 606,2054 705,2052 804,2051 903,2049 1002,2046 1101,2043 1200,2041 1299,2039 1398,2036 1497,2034 1596,2033 1695,2031 1794,2031 1893,2031 1992,2031 2091,2034 2190,2036 2289,2040 2388,2046"/>
+                <TextEquiv>
+                    <Unicode>tranſferrim9 et Tn̄stulim9 T̕nſtulim9 tenore preſencium median̄ ꝑpetue ꝑpettue duratur̄ Removen̄ Remouen̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:16;} textStyle {offset:13; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:58; length:14;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="362,2139 487,2136 596,2133 706,2130 815,2127 925,2123 1034,2120 1143,2117 1253,2114 1362,2112 1472,2109 1581,2108 1691,2108 1800,2106 1909,2108 2019,2109 2128,2111 2238,2114 2347,2120 2457,2126 2455,2049 2352,2048 2249,2067 2128,2066 2019,2064 1909,2051 1800,2049 1691,2063 1581,2063 1471,2050 1361,2053 1253,2069 1143,2065 1034,2068 924,2065 815,2082 706,2072 596,2075 487,2080 362,2083"/>
+                <Baseline points="378,2124 487,2121 596,2118 706,2115 815,2112 925,2108 1034,2105 1143,2102 1253,2099 1362,2097 1472,2094 1581,2093 1691,2093 1800,2091 1909,2093 2019,2094 2128,2096 2238,2099 2347,2105 2457,2111"/>
+                <TextEquiv>
+                    <Unicode>ibidem om̄ia Iura Jura polonicalia et queuiſalia modo6 et conſivetudine6 conſwetudine6 vniuerſa6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:17;} textStyle {offset:9; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:33; length:13;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="354,2197 459,2194 564,2191 670,2188 775,2185 881,2181 986,2178 1092,2175 1197,2172 1303,2169 1408,2167 1513,2166 1619,2164 1724,2164 1830,2164 1935,2164 2041,2167 2146,2169 2252,2173 2357,2178 2463,2184 2463,2142 2357,2136 2252,2143 2120,2107 2041,2137 1933,2114 1830,2134 1754,2125 1620,2111 1514,2113 1408,2137 1303,2115 1196,2117 1089,2131 982,2131 881,2151 792,2130 687,2133 568,2133 463,2136 354,2167"/>
+                <Baseline points="354,2187 459,2184 564,2181 670,2178 775,2175 881,2171 986,2168 1092,2165 1197,2162 1303,2159 1408,2157 1513,2156 1619,2154 1724,2154 1830,2154 1935,2154 2041,2157 2146,2159 2252,2163 2357,2168 2463,2174"/>
+                <TextEquiv>
+                    <Unicode>que ip̄m iuſtheunicum Juſtheucum mandemburgen̄ Maydemburgen̄ p̄dictum plerumqʒ p̄turbare conſweuerunt et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:18;} textStyle {offset:9; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:25; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="366,2266 471,2262 577,2259 683,2255 789,2251 894,2247 1000,2244 1106,2240 1212,2237 1317,2233 1423,2232 1529,2230 1635,2228 1740,2227 1846,2227 1952,2229 2058,2230 2163,2233 2269,2236 2375,2241 2499,2245 2498,2189 2385,2186 2269,2206 2170,2180 2060,2180 1957,2181 1864,2181 1744,2184 1639,2185 1527,2187 1412,2186 1319,2186 1214,2190 1106,2210 1003,2195 896,2193 789,2221 683,2213 576,2213 470,2216 366,2236"/>
+                <Baseline points="366,2256 471,2252 577,2249 683,2245 789,2241 894,2237 1000,2234 1106,2230 1212,2227 1317,2223 1423,2222 1529,2220 1635,2218 1740,2217 1846,2217 1952,2219 2058,2220 2163,2223 2269,2226 2375,2231 2481,2238"/>
+                <TextEquiv>
+                    <Unicode>impedire eximim9 Eximim9 insuꝑ inſuꝑ et ꝑpetue ꝑpettue liberamu6 om̄e6 et ſingulo6 kmethone6 et quoſui6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:19;} textStyle {offset:20; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:81; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:97; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="320,2334 460,2333 564,2330 667,2327 771,2322 875,2319 978,2315 1082,2311 1186,2308 1289,2304 1393,2301 1497,2300 1600,2298 1704,2297 1808,2295 1911,2297 2015,2298 2119,2300 2222,2303 2326,2307 2430,2313 2430,2247 2323,2242 2219,2238 2119,2255 2018,2235 1914,2234 1808,2250 1704,2237 1600,2238 1508,2238 1404,2239 1288,2241 1185,2245 1082,2266 978,2270 875,2274 771,2277 667,2264 564,2267 457,2274 317,2275"/>
+                <Baseline points="357,2321 460,2318 564,2315 667,2312 771,2307 875,2304 978,2300 1082,2296 1186,2293 1289,2289 1393,2286 1497,2285 1600,2283 1704,2282 1808,2280 1911,2282 2015,2283 2119,2285 2222,2288 2326,2292 2430,2298"/>
+                <TextEquiv>
+                    <Unicode>villarum p̄dictarum incola6 Incola6 ab om̄i Regni n̄ri nr̄i pallat̄ Caſt̄ Capit̄ Iudicum Judicum ̄ sbiudicū sb̄iudicū</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:20;} textStyle {offset:0; length:13;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:14; length:14;} textStyle {offset:29; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:104; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:127; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="350,2394 474,2391 577,2390 680,2387 783,2384 886,2381 989,2378 1092,2375 1195,2372 1298,2369 1401,2366 1503,2364 1606,2363 1709,2361 1812,2360 1915,2360 2018,2361 2121,2363 2224,2366 2327,2369 2439,2374 2438,2305 2335,2299 2224,2321 2124,2309 2015,2299 1915,2315 1812,2315 1709,2316 1606,2318 1504,2301 1402,2303 1300,2309 1197,2310 1092,2317 989,2327 886,2330 783,2339 681,2334 578,2337 474,2346 350,2349"/>
+                <Baseline points="372,2379 474,2376 577,2375 680,2372 783,2369 886,2366 989,2363 1092,2360 1195,2357 1298,2354 1401,2351 1503,2349 1606,2348 1709,2346 1812,2345 1915,2345 2018,2346 2121,2348 2224,2351 2327,2354 2430,2360"/>
+                <TextEquiv>
+                    <Unicode>succamerarioꝝ succamerariōꝝ aut Aut ip̄orum mīst̄alium mīſt̕alium et offcalium officalium iudicio et ptatē pt̄ate ut coram ip̄is ip̄i6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:21;} textStyle {offset:0; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:4;strikethrough:true; fontSize:0.0; kerning:0;} brak {offset:73; length:8;}">
+                <Coords points="333,2453 436,2453 540,2451 643,2449 747,2446 851,2444 954,2440 1058,2436 1162,2433 1265,2429 1369,2426 1473,2424 1576,2421 1680,2420 1784,2420 1887,2420 1991,2421 2095,2424 2198,2428 2302,2434 2406,2441 2406,2396 2317,2361 2198,2383 2094,2365 1991,2376 1887,2364 1784,2364 1680,2361 1576,2362 1473,2379 1369,2381 1265,2384 1162,2388 1058,2379 952,2381 851,2399 746,2395 642,2398 543,2393 439,2395 333,2408"/>
+                <Baseline points="333,2438 436,2438 540,2436 643,2434 747,2431 851,2429 954,2425 1058,2421 1162,2418 1265,2414 1369,2411 1473,2409 1576,2406 1680,2405 1784,2405 1887,2405 1991,2406 2095,2409 2198,2413 2302,2419 2406,2426"/>
+                <TextEquiv>
+                    <Unicode>aut Aut ipſorum aliquo pro cauſi6 magni6 et ꝑui6 puta pura furti incendÿ homicidÿ ſanḡni6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:22;} brak {offset:10; length:2;} textStyle {offset:13; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:32; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:77; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:95; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="378,2519 479,2518 581,2515 683,2512 785,2509 887,2506 989,2503 1090,2499 1192,2496 1294,2493 1396,2491 1498,2488 1600,2486 1702,2485 1803,2485 1905,2485 2007,2486 2109,2488 2211,2492 2313,2496 2415,2501 2415,2458 2313,2453 2212,2430 2109,2428 2009,2427 1907,2426 1803,2442 1702,2442 1600,2429 1498,2431 1408,2431 1294,2450 1193,2429 1100,2438 989,2460 885,2445 783,2448 683,2469 581,2472 481,2463 380,2464"/>
+                <Baseline points="378,2505 479,2504 581,2501 683,2498 785,2495 887,2492 989,2489 1090,2485 1192,2482 1294,2479 1396,2477 1498,2474 1600,2472 1702,2471 1803,2471 1905,2471 2007,2472 2109,2474 2211,2478 2313,2482 2415,2487"/>
+                <TextEquiv>
+                    <Unicode>effuſione et memrorum membrorum mutillac̄on̄ mutillacōn et alÿ6 quibuſcumqʒ enormibꝯ enormib9 exceſſiꝯ exceſſib9 Cittati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:23;} textStyle {offset:6; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:73; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="344,2582 465,2580 567,2576 669,2573 771,2570 873,2567 975,2564 1078,2561 1180,2559 1282,2557 1384,2555 1486,2554 1588,2552 1690,2552 1793,2551 1895,2552 1997,2552 2099,2554 2201,2555 2303,2558 2406,2561 2407,2497 2303,2498 2202,2499 2097,2498 1997,2509 1895,2509 1794,2497 1691,2498 1587,2497 1485,2499 1386,2500 1284,2502 1180,2516 1078,2518 974,2509 872,2512 771,2527 669,2523 567,2526 466,2525 345,2527"/>
+                <Baseline points="363,2570 465,2566 567,2562 669,2559 771,2556 873,2553 975,2550 1078,2547 1180,2545 1282,2543 1384,2541 1486,2540 1588,2538 1690,2538 1793,2537 1895,2538 1997,2538 2099,2540 2201,2541 2303,2544 2406,2547"/>
+                <TextEquiv>
+                    <Unicode>mīme reſpōdebut reſpōdebunt nec aliqua6 pena6 ſolvē soluē tenebunt͛ ..6ꝫ tn̄.. Sꝫ tn̄ p̄dictorum villarum kme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:24;} textStyle {offset:64; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:76; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="336,2654 441,2649 547,2645 652,2640 758,2636 863,2631 969,2628 1074,2625 1180,2622 1285,2619 1391,2618 1497,2616 1602,2615 1708,2615 1813,2615 1919,2616 2024,2618 2130,2620 2235,2624 2341,2627 2447,2633 2448,2565 2343,2564 2235,2579 2130,2575 2024,2573 1919,2571 1812,2559 1707,2559 1601,2562 1496,2563 1393,2558 1285,2561 1188,2552 1074,2580 969,2570 863,2573 758,2591 652,2595 547,2600 442,2595 337,2600"/>
+                <Baseline points="336,2639 441,2634 547,2630 652,2625 758,2621 863,2616 969,2613 1074,2610 1180,2607 1285,2604 1391,2603 1497,2601 1602,2600 1708,2600 1813,2600 1919,2601 2024,2603 2130,2605 2235,2609 2341,2612 2447,2618"/>
+                <TextEquiv>
+                    <Unicode>thone6 et quiui6 Incole Coram ſui6 scultetꝭ villarum dictarum ꝓ temꝑr temꝑe ex̄ntibu6 exn̄tibu6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:25;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:39; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:82; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:94; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="327,2717 457,2712 560,2706 664,2700 767,2696 870,2691 974,2688 1077,2687 1180,2684 1284,2684 1387,2682 1490,2682 1594,2682 1697,2684 1800,2684 1904,2685 2007,2688 2110,2690 2214,2693 2317,2696 2421,2699 2421,2646 2317,2643 2215,2634 2107,2631 2012,2620 1907,2619 1825,2621 1700,2621 1596,2626 1492,2626 1386,2624 1286,2621 1183,2634 1077,2642 975,2636 871,2639 767,2651 664,2655 560,2661 457,2651 327,2656"/>
+                <Baseline points="354,2703 457,2697 560,2691 664,2685 767,2681 870,2676 974,2673 1077,2672 1180,2669 1284,2669 1387,2667 1490,2667 1594,2667 1697,2669 1800,2669 1904,2670 2007,2673 2110,2675 2214,2678 2317,2681 2421,2684"/>
+                <TextEquiv>
+                    <Unicode>sculteti Sculteti vero Coram nobi6 aut judice Judice n̄ro nr̄o generali dum tn̄ ꝑ l̄tram lram n̄ram nr̄am evocati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:26;} textStyle {offset:19; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:35; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:1;strikethrough:true; fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:42; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:50; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:61; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="357,2778 459,2772 561,2768 664,2763 766,2759 869,2756 971,2753 1074,2750 1176,2748 1279,2747 1381,2747 1483,2747 1586,2747 1688,2747 1791,2748 1893,2748 1996,2750 2098,2752 2201,2754 2303,2756 2406,2759 2406,2699 2305,2699 2203,2701 2097,2698 1995,2696 1893,2703 1791,2703 1687,2685 1585,2685 1483,2702 1381,2702 1280,2695 1177,2696 1074,2705 971,2708 869,2711 766,2714 664,2718 561,2723 458,2716 356,2720"/>
+                <Baseline points="357,2763 459,2757 561,2753 664,2748 766,2744 869,2741 971,2738 1074,2735 1176,2733 1279,2732 1381,2732 1483,2732 1586,2732 1688,2732 1791,2733 1893,2733 1996,2735 2098,2737 2201,2739 2303,2741 2406,2744"/>
+                <TextEquiv>
+                    <Unicode>fuerunt et cittati et Et hoc ſi in reddēa redden̄a iuſticia remiſſe remiſſi fuerint et negligen̄ Tunc nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:27;} textStyle {offset:7; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:13;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:91; length:12;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="344,2844 458,2838 563,2831 667,2826 772,2821 876,2816 981,2814 1085,2811 1190,2810 1294,2808 1399,2808 1504,2808 1608,2810 1713,2810 1817,2812 1922,2814 2026,2816 2131,2819 2235,2822 2340,2825 2445,2826 2444,2758 2340,2757 2236,2764 2131,2763 2026,2760 1923,2759 1818,2757 1736,2751 1607,2752 1504,2753 1400,2754 1295,2754 1190,2765 1085,2766 981,2769 876,2771 772,2776 643,2764 564,2776 459,2781 345,2787"/>
+                <Baseline points="354,2832 458,2823 563,2816 667,2811 772,2806 876,2801 981,2799 1085,2796 1190,2795 1294,2793 1399,2793 1504,2793 1608,2795 1713,2795 1817,2797 1922,2799 2026,2801 2131,2804 2235,2807 2340,2810 2445,2811"/>
+                <TextEquiv>
+                    <Unicode>aliter qm̄ q̄m ſuo jure Jure theutunico mandemburgen̄ Maydemburgen̄ p̄dicte ſinguli6 de ſe querolantib9 querulantib9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:28;} textStyle {offset:16; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:80; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="351,2910 460,2903 569,2896 679,2891 788,2885 898,2881 1007,2877 1116,2876 1226,2873 1335,2871 1445,2871 1554,2871 1664,2871 1773,2873 1882,2876 1992,2879 2101,2882 2211,2886 2320,2891 2430,2897 2430,2826 2321,2823 2212,2823 2101,2836 1994,2825 1883,2824 1774,2821 1664,2825 1555,2814 1446,2814 1335,2816 1226,2818 1124,2814 1004,2821 895,2825 790,2822 683,2836 573,2841 458,2842 349,2849"/>
+                <Baseline points="351,2895 460,2888 569,2881 679,2876 788,2870 898,2866 1007,2862 1116,2861 1226,2858 1335,2856 1445,2856 1554,2856 1664,2856 1773,2858 1882,2861 1992,2864 2101,2867 2211,2871 2320,2876 2430,2882"/>
+                <TextEquiv>
+                    <Unicode>reſpondere ſunt ast̄ cti ast̕cti In cauſi6 aut̄ Crimīalibꝯ Crimīalib9 vel uel Capitalibꝯ Capitalib9 ſuꝑiu6 exp̄ssatꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:29;} textStyle {offset:19; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:37; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:56; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:73; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:90; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:109; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="342,2970 464,2966 563,2961 662,2957 761,2952 861,2948 960,2945 1059,2940 1158,2937 1257,2936 1357,2934 1456,2933 1555,2933 1654,2934 1753,2936 1853,2940 1952,2944 2051,2950 2150,2957 2249,2965 2384,2977 2386,2922 2251,2910 2150,2911 2052,2900 1960,2886 1861,2882 1752,2881 1653,2879 1555,2887 1456,2887 1357,2881 1257,2883 1158,2891 1059,2894 965,2884 861,2902 760,2890 661,2893 563,2915 464,2920 342,2924"/>
+                <Baseline points="365,2955 464,2951 563,2946 662,2942 761,2937 861,2933 960,2930 1059,2925 1158,2922 1257,2921 1357,2919 1456,2918 1555,2918 1654,2919 1753,2921 1853,2925 1952,2929 2051,2935 2150,2942 2249,2950 2349,2961"/>
+                <TextEquiv>
+                    <Unicode>ꝑdictarum villarum 6cultetꝭ scultetꝭ indicanɖ iudicandi sin̄anɖ sin̄andi p̄nienɖ pūiendi plectenɖ plectendi ꝯdempn̄ ꝯdempn̄di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:30;} textStyle {offset:15; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:33; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:86; length:3;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:90; length:2;} textStyle {offset:98; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="362,3039 481,3032 582,3027 683,3021 784,3016 885,3012 985,3007 1086,3004 1187,3001 1288,2998 1389,2997 1489,2995 1590,2995 1691,2997 1792,3000 1893,3003 1993,3007 2094,3013 2195,3021 2296,3031 2397,3042 2397,2994 2296,2983 2195,2973 2094,2965 1993,2959 1893,2955 1792,2952 1696,2929 1595,2927 1476,2937 1389,2949 1287,2941 1187,2944 1086,2947 985,2959 882,2951 784,2968 683,2967 582,2973 484,2966 365,2973"/>
+                <Baseline points="381,3021 481,3016 582,3011 683,3005 784,3000 885,2996 985,2991 1086,2988 1187,2985 1288,2982 1389,2981 1489,2979 1590,2979 1691,2981 1792,2984 1893,2987 1993,2991 2094,2997 2195,3005 2296,3015 2397,3026"/>
+                <TextEquiv>
+                    <Unicode>plenam dam9 et imn̄odam omīodam tenor̄̄ncium tenor̄ pn̄cium ꝯcedim9 facultatem prout hc̄ hc ip̄m Iu6Ju6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:31;} textStyle {offset:0; length:11;strikethrough:true; fontSize:0.0; kerning:0;} brak {offset:57; length:9;}">
+                <Coords points="347,3111 450,3105 554,3098 658,3092 761,3086 865,3081 969,3076 1072,3071 1176,3068 1280,3065 1384,3062 1487,3060 1591,3060 1695,3062 1798,3063 1902,3066 2006,3071 2109,3077 2213,3084 2317,3093 2421,3104 2420,3049 2314,3038 2210,3029 2109,3022 2006,3016 1902,3021 1797,3011 1694,3010 1591,3015 1487,2995 1384,2997 1280,3020 1176,3023 1071,3013 969,3013 865,3018 761,3041 658,3047 554,3053 451,3038 348,3044"/>
+                <Baseline points="347,3096 450,3090 554,3083 658,3077 761,3071 865,3066 969,3061 1072,3056 1176,3053 1280,3050 1384,3047 1487,3045 1591,3045 1695,3047 1798,3048 1902,3051 2006,3056 2109,3062 2213,3069 2317,3078 2421,3089"/>
+                <TextEquiv>
+                    <Unicode>theutunicum Theutunicum In om̄ibu6 ſui6 punctꝭ clauſuli6 articuli6 ꝯdicōnib9 poſtulat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:32;} textStyle {offset:12; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:26; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:64; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:108; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="366,3178 469,3170 572,3162 675,3157 778,3150 881,3145 984,3142 1087,3138 1190,3136 1293,3133 1396,3133 1499,3133 1602,3133 1705,3134 1808,3136 1911,3139 2014,3142 2117,3146 2220,3152 2323,3158 2427,3164 2425,3101 2321,3095 2226,3093 2117,3103 2022,3074 1911,3096 1807,3063 1707,3065 1604,3064 1506,3064 1403,3064 1297,3066 1191,3065 1082,3071 979,3075 878,3088 773,3093 669,3105 572,3119 469,3127 366,3135"/>
+                <Baseline points="366,3164 469,3156 572,3148 675,3143 778,3136 881,3131 984,3128 1087,3124 1190,3122 1293,3119 1396,3119 1499,3119 1602,3119 1705,3120 1808,3122 1911,3125 2014,3128 2117,3132 2220,3138 2323,3144 2427,3150"/>
+                <TextEquiv>
+                    <Unicode>et requirit iurib9 Jurib9 t̄n tn̄ n̄ras nr̄i6 regalib9 Regalib9 ꝑom̄ia ꝑ om̄ia ſꝑ salui6 haꝝ quib9 sigillū n̄rm nr̄m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:33;} textStyle {offset:12; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:32; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:84; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:89; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:102; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="345,3247 449,3238 553,3230 657,3223 762,3217 866,3213 970,3209 1074,3206 1179,3203 1283,3202 1387,3200 1491,3200 1596,3201 1700,3202 1804,3203 1908,3206 2013,3208 2117,3211 2221,3215 2325,3218 2430,3223 2430,3180 2325,3175 2221,3172 2115,3154 2011,3151 1908,3157 1804,3154 1720,3148 1598,3146 1491,3147 1387,3147 1280,3150 1178,3133 1074,3163 955,3152 866,3170 761,3168 645,3174 544,3171 449,3172 345,3181"/>
+                <Baseline points="345,3233 449,3224 553,3216 657,3209 762,3203 866,3199 970,3195 1074,3192 1179,3189 1283,3188 1387,3186 1491,3186 1596,3187 1700,3188 1804,3189 1908,3192 2013,3194 2117,3197 2221,3201 2325,3204 2430,3209"/>
+                <TextEquiv>
+                    <Unicode>ē appēſum teſtimo[.] teſtimoo liāꝝ lr̄aꝝ Act̄ Cracꝭ domicā domic̄a pꝯ p9 feſtum ſt̄ bti valentini anno Anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:34;} textStyle {offset:13; length:13;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:38; length:2;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:51; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:87; length:3;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:94; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="351,3309 444,3306 538,3300 631,3296 725,3291 819,3287 912,3282 1006,3279 1100,3275 1193,3273 1287,3270 1380,3269 1474,3267 1568,3267 1661,3267 1755,3269 1849,3272 1942,3275 2036,3279 2391,3283 2392,3225 2037,3221 1948,3208 1852,3208 1757,3212 1679,3206 1570,3195 1476,3195 1386,3206 1293,3207 1194,3206 1101,3208 1025,3213 911,3229 818,3230 725,3246 631,3251 538,3255 469,3237 350,3246"/>
+                <Baseline points="351,3294 444,3291 538,3285 631,3281 725,3276 819,3272 912,3267 1006,3264 1100,3260 1193,3258 1287,3255 1380,3254 1474,3252 1568,3252 1661,3252 1755,3254 1849,3257 1942,3260 2036,3264 2130,3270"/>
+                <TextEquiv>
+                    <Unicode>dn̄i mill̄mo quadrangen̄mo quadringen̄mo lmo q̄rto par̄b9 pn̄tib9 ibiɖ Rever̄mu6 Reuen̄mi6 et  ...ndi6 Reue̕ndi6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Iuſtheutunicum petro claczinſky datum&#13;
+nyewodna Dobrzechowka Magnusdux Lithwanie lithwanie&#13;
+In nomiē nomīe domī Amen ad Ad perpettuam rei memoriam Ex quo om̄e6 actu6 Actu6 mūdi&#13;
+ſubito auida deglutiret oblivio obliuio niſi lr̄ali6 ſcripture ſolidata6 eo6 ꝑpettue cōmenda&#13;
+ret rei memorie proinde No6 Kazimiru6 deigrā deigr̄a Rex polonie n̄non tēarum t̕rarum Crac̄ꝭ&#13;
+Sandomirie siraɖ lancꝭ Cuÿawie pomeranie Ruſſie qʒ dominus dominu6 et here6&#13;
+Significamu6 presencium preſencium tenore vniuerſi6 pn̄tibu6 et futuri6 quibꝯ quib9 expedit horum&#13;
+notitiam noticiam habituri6 qmō Quō pro parte nobilium Johnni6 Johanni6 petri staniſlai Staniſlai et andree Andree&#13;
+de dobrzechowka ḡmanorum g̕manorum ..erō.. vr̄o maieſtati nr̄e oblata continebat quatin9 villa6&#13;
+ipſorum Nÿewodna et dobrzechowka in trā t̕ra 6andomirien̄ Sandomirien̄ et diſtrictu pilſznen̄&#13;
+ſita6 de iure Jure polonico in Iustheutunicum tranſferre dignaremur grōſe. gr̄oſe No6 tamen&#13;
+peticionibus huiuſmodi tanqm̄ tanq̄m iuſti6 et racioni ꝯſonis ꝯſoni6 benigniter acclinati Memo&#13;
+rata6 eorum villa6 sev hēditate6 he̕ditate6 nÿewodna Nÿewodna et dobrzechowka prout in ſui6 metꝭ&#13;
+et limitibu6 longe late qʒ c̄cumferencialiter c̕cumferencialiter diſtincte exiſtunt abantiguo ab antiquo et limitate&#13;
+De Iure Jure polonico et quoviſalio quouiſalio in Iuſtheutunicum Juſtheutunicum quod Maÿdemburgen̄ dicitur&#13;
+tranſferrim9 et Tn̄stulim9 T̕nſtulim9 tenore preſencium median̄ ꝑpetue ꝑpettue duratur̄ Removen̄ Remouen̄&#13;
+ibidem om̄ia Iura Jura polonicalia et queuiſalia modo6 et conſivetudine6 conſwetudine6 vniuerſa6&#13;
+que ip̄m iuſtheunicum Juſtheucum mandemburgen̄ Maydemburgen̄ p̄dictum plerumqʒ p̄turbare conſweuerunt et&#13;
+impedire eximim9 Eximim9 insuꝑ inſuꝑ et ꝑpetue ꝑpettue liberamu6 om̄e6 et ſingulo6 kmethone6 et quoſui6&#13;
+villarum p̄dictarum incola6 Incola6 ab om̄i Regni n̄ri nr̄i pallat̄ Caſt̄ Capit̄ Iudicum Judicum ̄ sbiudicū sb̄iudicū&#13;
+succamerarioꝝ succamerariōꝝ aut Aut ip̄orum mīst̄alium mīſt̕alium et offcalium officalium iudicio et ptatē pt̄ate ut coram ip̄is ip̄i6&#13;
+aut Aut ipſorum aliquo pro cauſi6 magni6 et ꝑui6 puta pura furti incendÿ homicidÿ ſanḡni6&#13;
+effuſione et memrorum membrorum mutillac̄on̄ mutillacōn et alÿ6 quibuſcumqʒ enormibꝯ enormib9 exceſſiꝯ exceſſib9 Cittati&#13;
+mīme reſpōdebut reſpōdebunt nec aliqua6 pena6 ſolvē soluē tenebunt͛ ..6ꝫ tn̄.. Sꝫ tn̄ p̄dictorum villarum kme&#13;
+thone6 et quiui6 Incole Coram ſui6 scultetꝭ villarum dictarum ꝓ temꝑr temꝑe ex̄ntibu6 exn̄tibu6&#13;
+sculteti Sculteti vero Coram nobi6 aut judice Judice n̄ro nr̄o generali dum tn̄ ꝑ l̄tram lram n̄ram nr̄am evocati&#13;
+fuerunt et cittati et Et hoc ſi in reddēa redden̄a iuſticia remiſſe remiſſi fuerint et negligen̄ Tunc nō&#13;
+aliter qm̄ q̄m ſuo jure Jure theutunico mandemburgen̄ Maydemburgen̄ p̄dicte ſinguli6 de ſe querolantib9 querulantib9&#13;
+reſpondere ſunt ast̄ cti ast̕cti In cauſi6 aut̄ Crimīalibꝯ Crimīalib9 vel uel Capitalibꝯ Capitalib9 ſuꝑiu6 exp̄ssatꝭ&#13;
+ꝑdictarum villarum 6cultetꝭ scultetꝭ indicanɖ iudicandi sin̄anɖ sin̄andi p̄nienɖ pūiendi plectenɖ plectendi ꝯdempn̄ ꝯdempn̄di&#13;
+plenam dam9 et imn̄odam omīodam tenor̄̄ncium tenor̄ pn̄cium ꝯcedim9 facultatem prout hc̄ hc ip̄m Iu6Ju6&#13;
+theutunicum Theutunicum In om̄ibu6 ſui6 punctꝭ clauſuli6 articuli6 ꝯdicōnib9 poſtulat&#13;
+et requirit iurib9 Jurib9 t̄n tn̄ n̄ras nr̄i6 regalib9 Regalib9 ꝑom̄ia ꝑ om̄ia ſꝑ salui6 haꝝ quib9 sigillū n̄rm nr̄m&#13;
+ē appēſum teſtimo[.] teſtimoo liāꝝ lr̄aꝝ Act̄ Cracꝭ domicā domic̄a pꝯ p9 feſtum ſt̄ bti valentini anno Anno&#13;
+dn̄i mill̄mo quadrangen̄mo quadringen̄mo lmo q̄rto par̄b9 pn̄tib9 ibiɖ Rever̄mu6 Reuen̄mi6 et  ...ndi6 Reue̕ndi6</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

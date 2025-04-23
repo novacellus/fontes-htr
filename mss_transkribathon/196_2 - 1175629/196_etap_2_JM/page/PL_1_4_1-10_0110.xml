@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:12:00.764+02:00</Created>
+        <LastChange>2022-10-13T07:30:35.260+02:00</LastChange>
+        <TranskribusMetadata docId="1175629" pageId="47898776" pageNr="2" tsid="97485323" status="IN_PROGRESS" userId="110794" imgUrl="https://files.transkribus.eu/Get?id=QYZGRYDXVIXRUZDLQBFHQGZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AOVOXZMGCWISCDRNUIFCJJKZ" imageId="38664165"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0110.jpg" imageWidth="2916" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814039126" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1663104293653_1196"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="252,250 252,400 321,400 321,250"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1663104293653_1196" custom="readingOrder {index:1;}">
+            <Coords points="325,258 2424,254 2423,1050 324,1050"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;}">
+                <Coords points="365,385 460,386 541,407 650,388 746,388 841,388 936,388 1083,400 1127,386 1222,385 1318,385 1413,383 1508,382 1603,380 1699,379 1794,377 1889,376 1955,402 2080,373 2293,391 2398,366 2398,324 2175,328 2115,271 2001,284 1821,312 1794,335 1699,337 1603,338 1508,340 1408,309 1318,305 1222,343 1127,344 1032,344 911,311 841,346 746,346 701,326 563,314 481,319 350,322"/>
+                <Baseline points="365,371 460,372 555,372 650,374 746,374 841,374 936,374 1032,372 1127,372 1222,371 1318,371 1413,369 1508,368 1603,366 1699,365 1794,363 1889,362 1985,360 2080,359 2175,356 2271,354"/>
+                <TextEquiv>
+                    <Unicode>Cracoviensi Johanne de Thanczin Cracoviensi Luca de Gorka Poznaniensi capitaneo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663104334163_1220" custom="readingOrder {index:1;} textStyle {offset:0; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="380,398 2312,394 2340,394 2340,442 2256,445 1682,448 1403,449 1031,449 845,448 566,444 380,440"/>
+                <Baseline points="380,426 473,428 566,430 659,431 752,432 845,434 938,434 1031,435 1124,435 1217,435 1310,435 1403,435 1496,434 1589,434 1682,434 1775,432 1868,432 1961,431 2054,429 2147,429 2241,428 2256,429 2284,428 2312,426 2340,426"/>
+                <TextEquiv>
+                    <Unicode>Maioris Majoris Polonie generali Johanne de Oleschnycza Sandomiriensi Stanislao de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:2;} textStyle {offset:21; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="389,513 489,513 590,514 691,516 792,517 893,517 993,519 1094,521 1195,523 1296,524 1397,525 1497,526 1598,528 1699,528 1800,528 1901,528 2001,528 2102,526 2203,525 2304,522 2405,519 2405,471 2304,474 2203,477 2102,478 2001,480 1901,480 1800,480 1699,480 1598,480 1497,478 1397,477 1296,476 1195,475 1094,473 993,471 893,469 792,469 691,468 590,466 489,465 389,465"/>
+                <Baseline points="389,497 489,497 590,498 691,500 792,501 893,501 993,503 1094,505 1195,507 1296,508 1397,509 1497,510 1598,512 1699,512 1800,512 1901,512 2001,512 2102,510 2203,509 2304,506 2405,503"/>
+                <TextEquiv>
+                    <Unicode>Ostrorog Kalischiensi, Nicolao Scharleysky de Stiborze Brestensi pallatinis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;} textStyle {offset:57; length:12;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="389,591 487,589 586,588 684,588 783,588 882,588 980,589 1079,589 1177,591 1276,592 1375,594 1473,595 1572,595 1670,597 1769,597 1868,597 1966,597 2065,595 2163,594 2262,592 2361,589 2361,541 2262,544 2163,546 2065,547 1966,549 1868,549 1769,549 1670,549 1572,547 1473,547 1375,546 1276,544 1177,543 1079,541 980,541 882,540 783,540 684,540 586,540 487,541 389,543"/>
+                <Baseline points="389,575 487,573 586,572 684,572 783,572 882,572 980,573 1079,573 1177,575 1276,576 1375,578 1473,579 1572,579 1670,581 1769,581 1868,581 1966,581 2065,579 2163,578 2262,576 2361,573"/>
+                <TextEquiv>
+                    <Unicode>Petro de Schamotuli Poznaniensi Predborio de Conyeczpole Sndomiriensi Sandomiriensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="389,664 488,666 587,666 686,667 785,669 884,669 983,670 1082,670 1181,670 1280,672 1379,672 1478,672 1577,672 1676,670 1775,670 1874,670 1973,669 2072,667 2171,666 2270,664 2369,661 2369,613 2270,616 2171,618 2072,619 1973,621 1874,622 1775,622 1676,622 1577,624 1478,624 1379,624 1280,624 1181,622 1082,622 983,622 884,621 785,621 686,619 587,618 488,618 389,616"/>
+                <Baseline points="389,648 488,650 587,650 686,651 785,653 884,653 983,654 1082,654 1181,654 1280,656 1379,656 1478,656 1577,656 1676,654 1775,654 1874,654 1973,653 2072,651 2171,650 2270,648 2369,645"/>
+                <TextEquiv>
+                    <Unicode>Derslao de Rtihwani Rospergensi castellanis et aliis quam pluribus fidedignis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;}">
+                <Coords points="410,738 504,738 599,738 694,738 789,739 884,739 979,739 1073,741 1168,741 1263,742 1358,742 1453,742 1548,744 1643,744 1737,744 1832,744 1927,744 2022,744 2117,744 2212,742 2307,742 2307,694 2212,694 2117,696 2022,696 1927,696 1832,696 1737,696 1643,696 1548,696 1453,694 1358,694 1263,694 1168,693 1073,693 979,691 884,691 789,691 694,690 599,690 504,690 410,690"/>
+                <Baseline points="410,722 504,722 599,722 694,722 789,723 884,723 979,723 1073,725 1168,725 1263,726 1358,726 1453,726 1548,728 1643,728 1737,728 1832,728 1927,728 2022,728 2117,728 2212,726 2307,726"/>
+                <TextEquiv>
+                    <Unicode>testibus ad premissa Datum per manus magnificorum Johannis de Conyeczpole</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;} textStyle {offset:0; length:11;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:61; length:4;}">
+                <Coords points="393,808 489,810 585,811 682,811 778,813 875,813 971,814 1068,814 1164,814 1261,816 1357,816 1453,816 1550,816 1646,816 1743,816 1839,816 1936,814 2032,814 2129,814 2225,814 2322,814 2322,766 2225,766 2129,766 2032,766 1936,766 1839,768 1743,768 1646,768 1550,768 1453,768 1357,768 1261,768 1164,766 1068,766 971,766 875,765 778,765 682,763 585,763 489,762 393,760"/>
+                <Baseline points="393,792 489,794 585,795 682,795 778,797 875,797 971,798 1068,798 1164,798 1261,800 1357,800 1453,800 1550,800 1646,800 1743,800 1839,800 1936,798 2032,798 2129,798 2225,798 2322,798"/>
+                <TextEquiv>
+                    <Unicode>Cancellarii cancellarii et capitanei Siradiensis et Petri de Szczekocini vicecancelarii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;} textStyle {offset:0; length:5;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:34; length:4;} illegible {offset:34; length:4;}">
+                <Coords points="404,897 446,897 488,923 531,895 573,895 616,955 658,894 701,892 743,891 786,890 828,889 870,888 913,887 1000,927 998,885 1040,885 1083,885 1125,885 1168,885 1210,885 1253,885 1253,837 1210,837 1189,816 1149,805 1083,837 1040,837 998,837 955,838 924,801 870,840 828,841 786,842 745,812 701,844 658,846 616,846 573,847 531,847 488,849 446,849 404,849"/>
+                <Baseline points="404,881 446,881 488,881 531,879 573,879 616,878 658,878 701,876 743,875 786,874 828,873 870,872 913,871 955,870 998,869 1040,869 1083,869 1125,869 1168,869 1210,869 1253,869"/>
+                <TextEquiv>
+                    <Unicode>Regni regni Polonie sincere nobis quod dilectorum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;} textStyle {offset:14; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1491,993 1532,990 1573,988 1615,986 1656,984 1697,982 1739,981 1780,979 1821,978 1863,976 1904,976 1945,975 1987,973 2028,973 2069,972 2111,971 2152,970 2193,969 2235,968 2276,967 2411,970 2409,894 2274,891 2235,920 2193,921 2152,922 2111,923 2069,924 2028,925 1987,925 1945,927 1904,928 1863,928 1821,930 1780,931 1739,933 1697,934 1656,936 1615,938 1573,940 1532,942 1491,945"/>
+                <Baseline points="1491,977 1532,974 1573,972 1615,970 1656,968 1697,966 1739,965 1780,963 1821,962 1863,960 1904,960 1945,959 1987,957 2028,957 2069,956 2111,955 2152,954 2193,953 2235,952 2276,951 2318,950"/>
+                <TextEquiv>
+                    <Unicode>Ad relacionem eiusdem ejusdem magnifici Iohannis Johannis de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;} textStyle {offset:12; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1505,1031 1641,1051 1678,1050 1716,1050 1753,1050 1790,1048 1828,1048 1865,1047 1902,1047 1940,1045 1977,1045 2014,1044 2052,1044 2089,1042 2126,1042 2164,1041 2201,1041 2238,1041 2276,1041 2313,1041 2351,1041 2351,993 2313,993 2276,993 2238,993 2201,993 2164,993 2126,994 2089,994 2052,996 2014,996 1977,997 1940,997 1902,999 1865,999 1828,1000 1790,1000 1753,1002 1716,1002 1678,1002 1641,1003 1491,996"/>
+                <Baseline points="1604,1035 1641,1035 1678,1034 1716,1034 1753,1034 1790,1032 1828,1032 1865,1031 1902,1031 1940,1029 1977,1029 2014,1028 2052,1028 2089,1026 2126,1026 2164,1025 2201,1025 2238,1025 2276,1025 2313,1025 2351,1025"/>
+                <TextEquiv>
+                    <Unicode>Conyeczpole Regni regni Polonie cancelarii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cracoviensi Johanne de Thanczin Cracoviensi Luca de Gorka Poznaniensi capitaneo&#13;
+Maioris Majoris Polonie generali Johanne de Oleschnycza Sandomiriensi Stanislao de &#13;
+Ostrorog Kalischiensi, Nicolao Scharleysky de Stiborze Brestensi pallatinis&#13;
+Petro de Schamotuli Poznaniensi Predborio de Conyeczpole Sndomiriensi Sandomiriensi&#13;
+Derslao de Rtihwani Rospergensi castellanis et aliis quam pluribus fidedignis&#13;
+testibus ad premissa Datum per manus magnificorum Johannis de Conyeczpole&#13;
+Cancellarii cancellarii et capitanei Siradiensis et Petri de Szczekocini vicecancelarii&#13;
+Regni regni Polonie sincere nobis quod dilectorum &#13;
+Ad relacionem eiusdem ejusdem magnifici Iohannis Johannis de&#13;
+Conyeczpole Regni regni Polonie cancelarii</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

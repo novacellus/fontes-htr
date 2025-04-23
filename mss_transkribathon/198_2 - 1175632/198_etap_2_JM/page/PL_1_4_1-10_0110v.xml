@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:26:07.750+02:00</Created>
+        <LastChange>2022-10-10T13:14:00.771+02:00</LastChange>
+        <TranskribusMetadata docId="1175632" pageId="47898781" pageNr="2" tsid="97168193" status="IN_PROGRESS" userId="110794" imgUrl="https://files.transkribus.eu/Get?id=YTYZURQLRTVOJARFVCJLOHHS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUUXGZRYNVOYNSACDHTMCLUE" imageId="38664168"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0110v.jpg" imageWidth="2916" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814038806" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663104624982_1280"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663104624982_1280" custom="readingOrder {index:0;}">
+            <Coords points="510,221 2633,225 2627,991 504,991"/>
+            <TextLine id="r4l2" custom="readingOrder {index:0;} textStyle {offset:33; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:102; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="651,376 744,372 838,370 931,368 1025,368 1118,368 1212,369 1305,370 1399,371 1492,373 1586,374 1673,409 1773,376 1867,377 1960,377 2054,377 2147,376 2241,374 2334,371 2428,368 2522,362 2522,320 2470,305 2460,278 2283,262 2108,276 2054,335 2012,266 1867,335 1846,285 1791,281 1586,332 1431,256 1305,279 1213,304 1212,327 1073,259 1025,326 959,290 838,328 752,305 591,286"/>
+                <Baseline points="651,362 744,358 838,356 931,354 1025,354 1118,354 1212,355 1305,356 1399,357 1492,359 1586,360 1680,362 1773,362 1867,363 1960,363 2054,363 2147,362 2241,360 2334,357 2428,354 2522,348"/>
+                <TextEquiv>
+                    <Unicode>Johanne archiepiscopo et primate Gneznensis Gneznensi Sbigneo miseracione divina tituli sancte Prisce te presbitero car</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:1;} textStyle {offset:0; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:84; length:13;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="660,439 753,434 846,431 939,430 1033,428 1126,428 1219,428 1312,428 1406,430 1499,431 1592,431 1685,433 1779,434 1872,436 1965,436 2058,436 2152,434 2245,434 2338,431 2431,428 2525,424 2525,382 2431,386 2338,389 2245,392 2152,392 2058,394 1965,394 1872,394 1779,392 1685,391 1592,389 1499,389 1406,388 1312,386 1219,386 1126,386 1033,386 939,388 846,389 753,392 660,397"/>
+                <Baseline points="660,425 753,420 846,417 939,416 1033,414 1126,414 1219,414 1312,414 1406,416 1499,417 1592,417 1685,419 1779,420 1872,422 1965,422 2058,422 2152,420 2245,420 2338,417 2431,414 2525,410"/>
+                <TextEquiv>
+                    <Unicode>dinale cardinali et episcopo Cracoviensi Gregorio Leopoliensi archiepiscopo Johanne Wlaislaviensi Wladislaviensi Andrea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:2;}">
+                <Coords points="650,497 742,496 834,494 926,494 1018,493 1110,493 1202,493 1294,493 1386,494 1478,494 1571,496 1663,496 1755,497 1847,497 1939,499 2031,499 2123,499 2215,497 2307,497 2399,496 2492,494 2492,451 2399,453 2307,454 2215,454 2123,456 2031,456 1939,456 1847,454 1755,454 1663,453 1571,453 1478,451 1386,451 1294,450 1202,450 1110,450 1018,450 926,451 834,451 742,453 650,454"/>
+                <Baseline points="650,483 742,482 834,480 926,480 1018,479 1110,479 1202,479 1294,479 1386,480 1478,480 1571,482 1663,482 1755,483 1847,483 1939,485 2031,485 2123,485 2215,483 2307,483 2399,482 2492,480"/>
+                <TextEquiv>
+                    <Unicode>Poznaniensi Nicolao Premislensi Episcopis necnon magnificis dominis Johanne de Czi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:3;} textStyle {offset:5; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:73; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:93; length:12;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="645,557 739,557 834,559 928,559 1023,559 1118,559 1212,560 1307,560 1402,560 1496,560 1591,559 1686,559 1780,559 1875,559 1970,559 2064,557 2159,557 2254,557 2348,557 2443,556 2538,556 2538,514 2443,514 2348,515 2254,515 2159,515 2064,515 1970,517 1875,517 1780,517 1686,517 1591,517 1496,518 1402,518 1307,518 1212,518 1118,517 1023,517 928,517 834,517 739,515 645,515"/>
+                <Baseline points="645,543 739,543 834,545 928,545 1023,545 1118,545 1212,546 1307,546 1402,546 1496,546 1591,545 1686,545 1780,545 1875,545 1970,545 2064,543 2159,543 2254,543 2348,543 2443,542 2538,542"/>
+                <TextEquiv>
+                    <Unicode>szow castellani castellano et capitanei capitaneo et Johanne de Thanczin pallatini pallatino Cracoviensis Cracoviensi Luca de Gor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:4;} textStyle {offset:3; length:9;strikethrough:true; fontSize:0.0; kerning:0;} erasure {offset:13; length:9;} textStyle {offset:13; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:84; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="605,625 701,623 798,623 895,622 992,622 1088,620 1185,620 1282,620 1379,620 1476,619 1572,619 1669,619 1766,619 1863,619 1960,617 2056,617 2153,616 2250,616 2347,614 2444,613 2444,571 2347,572 2250,574 2153,574 2056,575 1960,575 1863,577 1766,577 1669,577 1572,577 1476,577 1379,578 1282,578 1185,578 1088,578 992,580 895,580 798,581 701,581 605,583"/>
+                <Baseline points="605,611 701,609 798,609 895,608 992,608 1088,606 1185,606 1282,606 1379,606 1476,605 1572,605 1669,605 1766,605 1863,605 1960,603 2056,603 2153,602 2250,602 2347,600 2444,599"/>
+                <TextEquiv>
+                    <Unicode>ka pallatini pallatino Poznaniensi et capitanei Maioris Polonie generali Johanne de Oleschnÿcza Oleschnycza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:5;} textStyle {offset:63; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="599,697 697,694 795,692 893,691 992,689 1090,688 1188,686 1286,685 1385,685 1483,683 1581,683 1679,682 1778,682 1876,682 1974,682 2072,682 2171,680 2269,680 2367,680 2465,680 2564,680 2564,638 2465,638 2367,638 2269,638 2171,638 2072,640 1974,640 1876,640 1778,640 1679,640 1581,641 1483,641 1385,643 1286,643 1188,644 1090,646 992,647 893,649 795,650 697,652 599,655"/>
+                <Baseline points="599,683 697,680 795,678 893,677 992,675 1090,674 1188,672 1286,671 1385,671 1483,669 1581,669 1679,668 1778,668 1876,668 1974,668 2072,668 2171,666 2269,666 2367,666 2465,666 2564,666"/>
+                <TextEquiv>
+                    <Unicode>Sandomiriensi Stanislao de Ostrorog Calischiensi pallatinis et alÿs aliis quampluribus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:6;} textStyle {offset:3; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="558,761 686,755 781,755 806,787 883,754 1066,752 1161,752 1256,752 1351,751 1446,749 1541,749 1636,748 1731,748 1826,746 1921,746 2016,745 2111,745 2206,743 2301,743 2396,742 2492,742 2492,700 2396,700 2301,701 2206,701 2111,703 2016,703 1921,704 1826,704 1731,706 1636,706 1541,707 1446,707 1351,709 1256,710 1161,710 1066,710 971,712 876,712 839,693 720,690 557,708"/>
+                <Baseline points="591,741 686,741 781,741 876,740 971,740 1066,738 1161,738 1256,738 1351,737 1446,735 1541,735 1636,734 1731,734 1826,732 1921,732 2016,731 2111,731 2206,729 2301,729 2396,728 2492,728"/>
+                <TextEquiv>
+                    <Unicode>etc. Datum per manus magnicorum magnificorum Johannes Johannis de Conyeczpole Cancellarii Petri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:7;} textStyle {offset:15; length:14;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="629,825 703,826 778,826 853,826 928,825 1002,825 1077,823 1152,823 1227,822 1301,822 1376,820 1451,819 1526,819 1600,817 1675,817 1750,816 1825,816 1899,816 1974,816 2049,816 2124,817 2124,768 2049,767 1974,767 1899,767 1825,767 1750,767 1675,768 1600,768 1526,770 1451,770 1376,771 1301,773 1227,773 1152,774 1077,774 1002,776 928,776 853,777 778,777 703,777 629,776"/>
+                <Baseline points="629,809 703,810 778,810 853,810 928,809 1002,809 1077,807 1152,807 1227,806 1301,806 1376,804 1451,803 1526,803 1600,801 1675,801 1750,800 1825,800 1899,800 1974,800 2049,800 2124,801"/>
+                <TextEquiv>
+                    <Unicode>de Sczekoczini vicecancellari vicecancellarii Regni regni Polonie sincere nobis dilectorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:8;} textStyle {offset:8; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1613,916 1657,915 1701,915 1746,913 1777,928 1835,912 1879,912 1914,940 1968,910 2013,937 2057,909 2101,909 2104,936 2190,907 2235,906 2279,906 2324,904 2368,903 2413,901 2457,899 2502,898 2502,849 2457,850 2413,852 2368,854 2324,855 2279,857 2235,857 2187,825 2122,837 2101,860 2072,804 2034,818 1968,861 1924,863 1879,863 1835,863 1790,864 1746,864 1710,824 1658,836 1606,831"/>
+                <Baseline points="1613,900 1657,899 1701,899 1746,897 1790,897 1835,896 1879,896 1924,896 1968,894 2013,894 2057,893 2101,893 2146,891 2190,891 2235,890 2279,890 2324,888 2368,887 2413,885 2457,883 2502,882"/>
+                <TextEquiv>
+                    <Unicode>Relacio eiusdem ejusdem magnifici Johannis de Co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:9;} textStyle {offset:10; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1596,970 1635,974 1675,976 1715,978 1731,1036 1795,981 1835,981 1875,981 1915,981 1955,981 1986,1029 2034,979 2074,979 2114,978 2154,978 2194,976 2234,976 2274,976 2314,978 2354,978 2394,979 2394,931 2354,930 2314,930 2304,902 2257,893 2194,928 2154,930 2114,930 2074,931 2034,931 1995,931 1955,933 1915,933 1875,933 1835,933 1795,933 1755,931 1715,930 1675,928 1635,926 1596,922"/>
+                <Baseline points="1596,954 1635,958 1675,960 1715,962 1755,963 1795,965 1835,965 1875,965 1915,965 1955,965 1995,963 2034,963 2074,963 2114,962 2154,962 2194,960 2234,960 2274,960 2314,962 2354,962 2394,963"/>
+                <TextEquiv>
+                    <Unicode>nyeczpole Regni regni Polonie cancellarÿ cancellarii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Johanne archiepiscopo et primate Gneznensis Gneznensi Sbigneo miseracione divina tituli sancte Prisce te presbitero car&#13;
+dinale cardinali et episcopo Cracoviensi Gregorio Leopoliensi archiepiscopo Johanne Wlaislaviensi Wladislaviensi Andrea&#13;
+Poznaniensi Nicolao Premislensi Episcopis necnon magnificis dominis Johanne de Czi&#13;
+szow castellani castellano et capitanei capitaneo et Johanne de Thanczin pallatini pallatino Cracoviensis Cracoviensi Luca de Gor&#13;
+ka pallatini pallatino Poznaniensi et capitanei Maioris Polonie generali Johanne de Oleschnÿcza Oleschnycza&#13;
+Sandomiriensi Stanislao de Ostrorog Calischiensi pallatinis et alÿs aliis quampluribus &#13;
+etc. Datum per manus magnicorum magnificorum Johannes Johannis de Conyeczpole Cancellarii Petri&#13;
+de Sczekoczini vicecancellari vicecancellarii Regni regni Polonie sincere nobis dilectorum&#13;
+Relacio eiusdem ejusdem magnifici Johannis de Co&#13;
+nyeczpole Regni regni Polonie cancellarÿ cancellarii</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

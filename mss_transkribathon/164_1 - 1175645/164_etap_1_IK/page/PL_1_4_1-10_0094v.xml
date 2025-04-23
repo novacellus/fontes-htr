@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:46:47.082+02:00</Created>
+        <LastChange>2022-10-04T15:53:26.001+02:00</LastChange>
+        <TranskribusMetadata docId="1175645" pageId="47898811" pageNr="1" tsid="96795390" status="IN_PROGRESS" userId="78190" imgUrl="https://files.transkribus.eu/Get?id=YXNDDGZTFNDVUZVKSTQKBMSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELDOHKZQEVRGLOSPEHJFGYQW" imageId="38664225"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0094v.jpg" imageWidth="2863" imageHeight="3689">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814037064" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663105746915_1512"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663105746915_1512" custom="readingOrder {index:0;}">
+            <Coords points="472,2570 2643,2570 2643,3277 472,3277"/>
+            <TextLine id="r1l33" custom="readingOrder {index:0;} sic {offset:12; length:7;}">
+                <Coords points="1068,2708 1132,2709 1197,2711 1261,2711 1326,2712 1391,2711 1455,2711 1520,2709 1584,2708 1649,2705 1714,2703 1778,2700 1843,2697 1907,2694 1972,2690 2036,2687 2101,2682 2166,2679 2230,2675 2295,2672 2360,2667 2360,2613 2295,2618 2230,2621 2166,2625 2101,2628 2036,2633 1972,2636 1907,2640 1843,2643 1778,2646 1714,2649 1649,2651 1584,2654 1520,2655 1455,2657 1391,2657 1326,2658 1261,2657 1197,2657 1132,2655 1068,2654"/>
+                <Baseline points="1068,2690 1132,2691 1197,2693 1261,2693 1326,2694 1391,2693 1455,2693 1520,2691 1584,2690 1649,2687 1714,2685 1778,2682 1843,2679 1907,2676 1972,2672 2036,2669 2101,2664 2166,2661 2230,2657 2295,2654 2360,2649"/>
+                <TextEquiv>
+                    <Unicode>Priuilegium pepetue donacōni6 ſuper viginti Manſo6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663105767180_1519" custom="readingOrder {index:1;} textStyle {offset:3; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="977,2735 1036,2738 1118,2741 1201,2742 1366,2742 1449,2741 1532,2739 1615,2737 1697,2734 1780,2731 1863,2727 1945,2722 2028,2717 2111,2711 2193,2705 2276,2699 2359,2692 2442,2685 2442,2739 2359,2746 2276,2753 2193,2759 2111,2765 2028,2771 1945,2776 1863,2781 1780,2785 1697,2788 1615,2791 1532,2793 1449,2795 1366,2796 1201,2796 1118,2795 1036,2792 977,2789"/>
+                <Baseline points="977,2771 1036,2774 1118,2777 1201,2778 1284,2778 1366,2778 1449,2777 1532,2775 1615,2773 1697,2770 1780,2767 1863,2763 1945,2758 2028,2753 2111,2747 2193,2741 2276,2735 2359,2728 2442,2721"/>
+                <TextEquiv>
+                    <Unicode>in 6ilwa silwa Mokow magnifico Stanislao Staniſlao de oſtrorog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:2;}">
+                <Coords points="1013,2888 1038,2888 1064,2888 1090,2888 1116,2888 1142,2887 1167,2885 1193,2885 1219,2883 1245,2882 1271,2880 1297,2879 1322,2877 1348,2875 1374,2874 1400,2873 1426,2871 1452,2871 1488,2819 1433,2788 1407,2788 1374,2820 1348,2821 1322,2823 1297,2825 1271,2826 1245,2828 1234,2817 1231,2792 1204,2787 1175,2792 1119,2807 1091,2814 1069,2811 1038,2834 1013,2834"/>
+                <Baseline points="1013,2870 1038,2870 1064,2870 1090,2870 1116,2870 1142,2869 1167,2867 1193,2867 1219,2865 1245,2864 1271,2862 1297,2861 1322,2859 1348,2857 1374,2856 1400,2855 1426,2853 1452,2853"/>
+                <TextEquiv>
+                    <Unicode>Castn̄o Gnezn̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:3;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:70; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="504,2996 674,2967 770,2972 866,2975 962,2976 1058,2978 1154,2978 1249,2976 1345,2975 1441,2972 1537,2969 1633,2966 1729,2960 1825,2955 1920,2951 2016,2946 2112,2941 2208,2936 2304,2930 2400,2925 2496,2921 2496,2867 2393,2861 2304,2876 2282,2862 2244,2816 2074,2854 1962,2850 1842,2855 1763,2855 1649,2854 1581,2852 1441,2918 1345,2921 1249,2922 1154,2924 1058,2924 965,2888 880,2876 770,2918 673,2867 507,2864"/>
+                <Baseline points="579,2943 674,2949 770,2954 866,2957 962,2958 1058,2960 1154,2960 1249,2958 1345,2957 1441,2954 1537,2951 1633,2948 1729,2942 1825,2937 1920,2933 2016,2928 2112,2923 2208,2918 2304,2912 2400,2907 2496,2903"/>
+                <TextEquiv>
+                    <Unicode>INnomine IN nomine dn̄i Amen Ad ꝑpetuam rei memoriā Omnīa Om̄ia que agunꝝ agun͛ in tempor̄ ne ſimul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:4;} textStyle {offset:50; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:78; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:80; length:3;strikethrough:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="617,3032 712,3036 808,3039 903,3041 999,3041 1094,3041 1190,3041 1285,3039 1368,3040 1387,3057 1572,3030 1668,3027 1763,3023 1859,3020 1954,3016 2050,3012 2145,3008 2222,3021 2336,3000 2432,2997 2528,2994 2528,2940 2432,2943 2336,2946 2241,2950 2145,2954 2050,2958 1954,2962 1859,2966 1763,2969 1668,2973 1572,2976 1476,2979 1381,2982 1285,2985 1190,2987 1094,2987 999,2987 903,2987 808,2985 712,2982 617,2978"/>
+                <Baseline points="617,3014 712,3018 808,3021 903,3023 999,3023 1094,3023 1190,3023 1285,3021 1381,3018 1476,3015 1572,3012 1668,3009 1763,3005 1859,3002 1954,2998 2050,2994 2145,2990 2241,2986 2336,2982 2432,2979 2528,2976"/>
+                <TextEquiv>
+                    <Unicode>cum lapſu temporꝭ euanescant proinde no6 Kazimirꝰ Deigr̄a deigr̄a Rex Polonie ncnō n̄nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:5;} textStyle {offset:0; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:15; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:54; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="557,3111 654,3110 751,3108 848,3107 945,3107 1042,3105 1139,3104 1236,3104 1333,3102 1430,3101 1527,3099 1624,3096 1721,3093 1818,3090 1915,3087 2012,3083 2109,3077 2206,3070 2303,3064 2400,3055 2498,3045 2498,2991 2400,3001 2303,3010 2206,3016 2109,3023 2012,3029 1915,3033 1818,3036 1721,3039 1624,3042 1527,3045 1430,3047 1333,3048 1236,3050 1139,3050 1042,3051 945,3053 848,3053 751,3054 654,3056 557,3057"/>
+                <Baseline points="557,3093 654,3092 751,3090 848,3089 945,3089 1042,3087 1139,3086 1236,3086 1333,3084 1430,3083 1527,3081 1624,3078 1721,3075 1818,3072 1915,3069 2012,3065 2109,3059 2206,3052 2303,3046 2400,3037 2498,3027"/>
+                <TextEquiv>
+                    <Unicode>Terrarꝝ Terraꝝ Craccovie Craccouie Sandomirie Siradie Lancicie lancicie Cuauie Dobrinie Pomoranie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:6;} textStyle {offset:40; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="588,3170 666,3206 781,3167 878,3165 975,3165 1072,3165 1169,3164 1265,3164 1362,3162 1459,3162 1556,3161 1653,3159 1750,3156 1822,3184 1938,3166 2040,3146 2137,3140 2234,3134 2285,3149 2456,3132 2525,3108 2525,3054 2428,3063 2332,3053 2234,3080 2137,3086 2040,3092 1943,3096 1847,3099 1750,3102 1653,3105 1556,3107 1459,3108 1362,3108 1265,3110 1169,3110 1072,3111 975,3111 878,3111 781,3113 684,3114 588,3116"/>
+                <Baseline points="588,3152 684,3150 781,3149 878,3147 975,3147 1072,3147 1169,3146 1265,3146 1362,3144 1459,3144 1556,3143 1653,3141 1750,3138 1847,3135 1943,3132 2040,3128 2137,3122 2234,3116 2331,3108 2428,3099 2525,3090"/>
+                <TextEquiv>
+                    <Unicode>Magnuſdux lythwanie et here6 Ruſſie et̄ 6ignificamꝰ Significamꝰ tenor̄ pn̄cum quib9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Priuilegium pepetue donacōni6 ſuper viginti Manſo6&#13;
+in 6ilwa silwa Mokow magnifico Stanislao Staniſlao de oſtrorog&#13;
+Castn̄o Gnezn̄&#13;
+INnomine IN nomine dn̄i Amen Ad ꝑpetuam rei memoriā Omnīa Om̄ia que agunꝝ agun͛ in tempor̄ ne ſimul&#13;
+cum lapſu temporꝭ euanescant proinde no6 Kazimirꝰ Deigr̄a deigr̄a Rex Polonie ncnō n̄nō&#13;
+Terrarꝝ Terraꝝ Craccovie Craccouie Sandomirie Siradie Lancicie lancicie Cuauie Dobrinie Pomoranie&#13;
+Magnuſdux lythwanie et here6 Ruſſie et̄ 6ignificamꝰ Significamꝰ tenor̄ pn̄cum quib9</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

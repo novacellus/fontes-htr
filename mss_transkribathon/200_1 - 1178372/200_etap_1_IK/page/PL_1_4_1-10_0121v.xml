@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:32:52.748+02:00</Created>
+        <LastChange>2022-10-05T18:46:28.010+02:00</LastChange>
+        <TranskribusMetadata docId="1178372" pageId="48093937" pageNr="4" tsid="96847482" status="IN_PROGRESS" userId="78190" imgUrl="https://files.transkribus.eu/Get?id=EJSPKAXGGTFJSYFVWDGBFLZO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UBTABYFFSHGFXRJWFHMKDONU" imageId="38664177"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0121v.jpg" imageWidth="2916" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814034655" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663105229885_1438"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663105229885_1438" custom="readingOrder {index:0;}">
+            <Coords points="582,202 2880,200 2876,901 578,903"/>
+            <TextLine id="r4l2" custom="readingOrder {index:0;} textStyle {offset:10; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:33; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:85; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="607,309 707,305 782,315 899,298 996,298 1093,300 1190,300 1287,301 1384,303 1481,303 1578,304 1675,304 1772,304 1812,321 1964,313 2070,316 2155,312 2257,309 2373,301 2451,288 2549,283 2549,241 2451,246 2354,251 2257,255 2160,258 2063,261 2059,225 1851,229 1772,262 1675,262 1578,262 1481,261 1345,240 1288,258 1238,258 1209,222 1035,214 903,252 871,196 623,178 608,258"/>
+                <Baseline points="606,296 703,294 800,294 897,294 994,294 1091,296 1188,296 1285,297 1382,299 1479,299 1576,300 1673,300 1770,300 1867,300 1964,299 2061,299 2158,296 2255,293 2352,289 2449,284 2547,279"/>
+                <TextEquiv>
+                    <Unicode>Aurifabro Caſtrensis Castren̄ in Cracouia Craccouia Data eſt feria lr̄a ſuper xxiiii marc Marc̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:1;} textStyle {offset:0; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="626,354 735,358 826,357 873,345 1007,357 1124,360 1188,358 1279,360 1349,400 1460,363 1551,366 1641,367 1732,369 1818,458 1913,370 2046,423 2094,370 2185,367 2235,399 2366,361 2457,357 2457,315 2361,300 2273,314 2183,315 2054,315 2004,328 1913,328 1822,328 1816,312 1746,309 1547,300 1434,305 1369,319 1279,318 1165,292 1098,315 1036,297 968,292 826,315 735,316 623,315"/>
+                <Baseline points="645,353 735,351 826,350 916,348 1007,350 1098,350 1188,351 1279,353 1369,354 1460,356 1551,359 1641,360 1732,362 1822,363 1913,363 2004,363 2094,363 2185,360 2275,359 2366,354 2457,350"/>
+                <TextEquiv>
+                    <Unicode>annatum anuatum ab beneplacitum voluntatꝭ ſuper zupp̄ Bochnen̄ et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:2;} textStyle {offset:0; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="591,395 670,433 703,432 736,432 772,533 831,442 835,432 867,432 900,432 933,432 966,432 999,432 1032,433 1065,433 1099,504 1130,433 1163,433 1196,433 1229,433 1262,433 1295,433 1295,385 1262,385 1229,385 1196,385 1163,385 1145,363 1097,385 1065,385 1032,385 999,384 966,384 933,384 900,384 875,343 835,384 802,384 794,373 764,363 703,384 670,385 638,385"/>
+                <Baseline points="638,417 670,417 703,416 736,416 769,416 802,416 835,416 867,416 900,416 933,416 966,416 999,416 1032,417 1065,417 1097,417 1130,417 1163,417 1196,417 1229,417 1262,417 1295,417"/>
+                <TextEquiv>
+                    <Unicode>Wieliczen Wyeliczen̄ ut in forma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:3;} textStyle {offset:0; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:15; length:8;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:34; length:8;} textStyle {offset:58; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:85; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:101; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="600,592 705,611 803,595 896,592 990,589 1050,595 1224,608 1281,606 1363,586 1456,586 1550,586 1643,586 1736,586 1829,586 1923,588 1966,606 2109,587 2203,586 2330,593 2442,602 2538,576 2463,517 2366,523 2296,545 2203,546 2109,547 2016,548 1923,548 1829,546 1736,546 1668,543 1656,531 1509,519 1363,504 1270,546 1176,546 1083,548 1038,534 952,526 803,555 742,539 616,538"/>
+                <Baseline points="617,590 710,586 803,582 896,579 990,576 1083,575 1176,573 1270,573 1363,573 1456,573 1550,573 1643,573 1736,573 1829,573 1923,575 2016,575 2109,574 2203,573 2296,572 2389,570 2483,569"/>
+                <TextEquiv>
+                    <Unicode>Conſſia Conſẜ9 nobilib6 Nobilibu6 Bnuczerz et Nicolau6 de 6reniawa Syenyawa germani6 indivi6 indiuiẜ ſup ſuꝑ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:4;} textStyle {offset:15; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:73; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="590,686 697,654 791,652 886,649 980,648 1075,646 1169,646 1241,670 1371,655 1453,645 1547,645 1641,645 1736,643 1830,643 1925,643 2019,643 2114,642 2208,642 2303,640 2397,638 2492,636 2492,596 2397,598 2303,600 2208,602 2114,602 2019,603 1925,603 1827,590 1736,603 1641,593 1527,593 1453,605 1358,605 1254,600 1169,606 1075,606 943,594 886,609 791,612 697,614 557,606"/>
+                <Baseline points="603,644 697,641 791,639 886,636 980,635 1075,633 1169,633 1264,632 1358,632 1453,632 1547,632 1641,632 1736,630 1830,630 1925,630 2019,630 2114,629 2208,629 2303,627 2397,625 2492,623"/>
+                <TextEquiv>
+                    <Unicode>villas Wonylaw Thomaſzawcze Thomaſzowcze et Drohaw in Terra et diſtrictu Rahczen̄ haliczien̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:5;} textStyle {offset:3; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:39; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:64; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:92; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="612,719 709,714 807,712 904,710 1002,708 1100,707 1197,705 1295,705 1392,704 1490,704 1588,704 1711,716 1783,702 1839,710 1978,699 2076,696 2173,694 2253,700 2368,686 2466,680 2564,674 2572,616 2513,617 2368,641 2271,645 2173,649 2076,651 1978,654 1880,656 1783,657 1685,657 1588,659 1490,659 1392,659 1295,660 1197,660 1100,662 1002,663 904,665 834,653 709,669 607,666"/>
+                <Baseline points="612,704 709,699 807,697 904,695 1002,693 1100,692 1197,690 1295,690 1392,689 1490,689 1588,689 1685,687 1783,687 1880,686 1978,684 2076,681 2173,679 2271,675 2368,671 2466,665 2564,659"/>
+                <TextEquiv>
+                    <Unicode>in 6umā sum̄a eadem Trecenta Tricenta marcarum Marcarum in qua nobile6 Nobl̄e6 Johanne6 et Nicola6 Nicolaꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:6;} textStyle {offset:44; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:57; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:74; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="606,779 700,776 795,773 889,770 943,788 1079,765 1177,771 1268,760 1363,758 1457,755 1552,753 1647,751 1741,749 1836,747 1931,746 2025,744 2063,752 2215,743 2309,741 2404,741 2499,741 2515,686 2404,704 2278,695 2215,706 2120,706 2006,695 1931,709 1836,710 1800,697 1647,714 1547,687 1466,714 1386,712 1268,723 1179,715 1079,728 984,730 889,733 854,715 629,720 606,742"/>
+                <Baseline points="606,767 700,764 795,761 889,758 984,755 1079,753 1173,750 1268,748 1363,746 1457,743 1552,741 1647,739 1741,737 1836,735 1931,734 2025,732 2120,731 2215,731 2309,729 2404,729 2499,729"/>
+                <TextEquiv>
+                    <Unicode>de Wonylaw germani tenuerunt tamdiu quouſqʒ dicta dictā pecunia pecuniā Trecentꝝ Tricentꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:7;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:18; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:3;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:54; length:3;} textStyle {offset:54; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:86; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="602,826 677,828 753,828 829,828 883,869 980,825 990,885 1132,820 1208,817 1283,814 1359,811 1435,808 1511,805 1588,837 1694,832 1738,796 1814,795 1899,848 1965,792 2041,792 2117,792 2059,774 2053,745 1965,755 1937,740 1814,758 1738,759 1662,761 1586,765 1511,768 1442,746 1416,756 1340,746 1208,780 1132,783 1091,762 980,788 907,769 829,791 753,791 677,791 602,789"/>
+                <Baseline points="602,819 677,821 753,821 829,821 905,819 980,818 1056,816 1132,813 1208,810 1283,807 1359,804 1435,801 1511,798 1586,795 1662,791 1738,789 1814,788 1889,786 1965,785 2041,785 2117,785"/>
+                <TextEquiv>
+                    <Unicode>marcarum Marcarum fuit fiūt ꝑsoluta ꝑſoluta tnc cuī hoc lr̄e tenor ſequitur in forma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aurifabro Caſtrensis Castren̄ in Cracouia Craccouia Data eſt feria lr̄a ſuper xxiiii marc Marc̄&#13;
+annatum anuatum ab beneplacitum voluntatꝭ ſuper zupp̄ Bochnen̄ et &#13;
+Wieliczen Wyeliczen̄ ut in forma&#13;
+Conſſia Conſẜ9 nobilib6 Nobilibu6 Bnuczerz et Nicolau6 de 6reniawa Syenyawa germani6 indivi6 indiuiẜ ſup ſuꝑ&#13;
+villas Wonylaw Thomaſzawcze Thomaſzowcze et Drohaw in Terra et diſtrictu Rahczen̄ haliczien̄&#13;
+in 6umā sum̄a eadem Trecenta Tricenta marcarum Marcarum in qua nobile6 Nobl̄e6 Johanne6 et Nicola6 Nicolaꝰ&#13;
+de Wonylaw germani tenuerunt tamdiu quouſqʒ dicta dictā pecunia pecuniā Trecentꝝ Tricentꝭ&#13;
+marcarum Marcarum fuit fiūt ꝑsoluta ꝑſoluta tnc cuī hoc lr̄e tenor ſequitur in forma.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

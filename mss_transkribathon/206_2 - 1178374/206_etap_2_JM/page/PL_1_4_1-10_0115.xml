@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T21:05:23.895+02:00</Created>
+        <LastChange>2022-10-09T17:03:13.995+02:00</LastChange>
+        <TranskribusMetadata docId="1178374" pageId="48093940" pageNr="2" tsid="97147156" status="IN_PROGRESS" userId="110794" imgUrl="https://files.transkribus.eu/Get?id=GDZTDTYHZOZMLHZIZEGGRATT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WIPUDMHBKQZURLQMNHQPCDJN" imageId="38662539"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0115.jpg" imageWidth="2916" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814033893" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="312,323 302,3148 2466,3139 2476,314"/>
+            <TextLine id="line_1664278541053_51" custom="readingOrder {index:0;} textStyle {offset:0; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:12; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:68; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:111; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:124; length:11;} textStyle {offset:127; length:8;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:136; length:10;}">
+                <Coords points="389,409 2181,364 2188,313 2416,313 2416,396 2330,458 874,449 389,446"/>
+                <Baseline points="389,434 486,434 583,435 680,435 777,435 874,437 971,437 1068,437 1165,437 1262,437 1359,437 1456,438 1553,438 1650,438 1747,440 1844,440 1941,441 2038,441 2135,443 2232,444 2330,446"/>
+                <TextEquiv>
+                    <Unicode>Atque atque Auarum avarum abrogent imperium et in Dicionem dicionem pt̄atem potestatemque alterius transmigrent, condicione et varietem varietatem accio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:1;} textStyle {offset:47; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:57; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:81; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:83; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:104; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="410,502 512,501 614,501 716,501 818,501 920,501 1022,501 1124,501 1226,501 1328,501 1430,502 1532,502 1634,503 1736,504 1838,504 1940,505 2042,505 2144,507 2246,508 2349,508 2349,478 2246,478 2144,477 2042,475 1940,475 1838,474 1736,474 1634,473 1532,472 1430,472 1328,471 1226,471 1124,471 1022,471 920,471 818,471 716,471 614,471 512,471 410,472"/>
+                <Baseline points="410,492 512,491 614,491 716,491 818,491 920,491 1022,491 1124,491 1226,491 1328,491 1430,492 1532,492 1634,493 1736,494 1838,494 1940,495 2042,495 2144,497 2246,498 2349,498"/>
+                <TextEquiv>
+                    <Unicode>num et temporum facultatem illis subministrante. Proinde Nos nos prelati, barones, Militares, militares No no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:2;} textStyle {offset:6; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:43; length:8;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:61; length:5;} textStyle {offset:61; length:5;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:67; length:9;} textStyle {offset:96; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:119; length:14;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="392,559 489,557 587,557 684,556 782,556 879,556 977,556 1074,556 1172,556 1269,556 1367,556 1465,557 1562,557 1660,557 1757,557 1855,557 1952,557 2050,557 2147,557 2245,557 2343,556 2343,522 2245,523 2147,523 2050,523 1952,523 1855,523 1757,523 1660,523 1562,523 1465,523 1367,522 1269,522 1262,488 1180,488 1172,522 1074,522 977,522 879,522 782,522 684,522 587,523 489,523 392,525"/>
+                <Baseline points="392,548 489,546 587,546 684,545 782,545 879,545 977,545 1074,545 1172,545 1269,545 1367,545 1465,546 1562,546 1660,546 1757,546 1855,546 1952,546 2050,546 2147,546 2245,546 2343,545"/>
+                <TextEquiv>
+                    <Unicode>biles Cives cives opidani et Incole incole Terrarum terrarum usque videlicet Prussie Chelmensis pomeranie Pomeranie et Michalouiensis Michaloviensis status</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:3;} textStyle {offset:0; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:59; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:86; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:124; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:143; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="384,615 483,614 582,611 681,609 780,609 879,609 978,609 1077,609 1176,609 1275,609 1375,611 1474,611 1573,611 1672,612 1771,612 1870,611 1969,611 2068,609 2167,607 2266,605 2366,602 2366,565 2266,568 2167,570 2068,572 1969,574 1870,574 1771,575 1672,575 1573,574 1474,574 1375,574 1275,572 1176,572 1077,572 978,572 879,572 780,572 681,572 582,574 483,577 384,578"/>
+                <Baseline points="384,603 483,602 582,599 681,597 780,597 879,597 978,597 1077,597 1176,597 1275,597 1375,599 1474,599 1573,599 1672,600 1771,600 1870,599 1969,599 2068,597 2167,595 2266,593 2366,590"/>
+                <TextEquiv>
+                    <Unicode>Eclisiastici eclesiastici et secularis significamus tenore praesencium presencium tam praesentibus presentibus quam futuris equaliter qualiter et si etsi superio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:4;} unclear {offset:26; length:3;} textStyle {offset:26; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:37; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:85; length:9;strikethrough:true; fontSize:0.0; kerning:0;} unclear {offset:85; length:8;} textStyle {offset:112; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="390,669 488,668 587,667 686,666 784,665 883,665 982,665 1080,665 1179,665 1278,665 1377,665 1475,665 1574,665 1673,666 1771,666 1870,666 1969,666 2067,666 2166,666 2265,666 2364,666 2364,629 2265,629 2166,629 2067,629 1969,629 1870,629 1771,629 1673,629 1574,628 1475,628 1377,628 1278,628 1179,628 1080,628 982,628 883,628 784,628 686,629 587,630 488,631 390,632"/>
+                <Baseline points="390,657 488,656 587,655 686,654 784,653 883,653 982,653 1080,653 1179,653 1278,653 1377,653 1475,653 1574,653 1673,654 1771,654 1870,654 1969,654 2067,654 2166,654 2265,654 2364,654"/>
+                <TextEquiv>
+                    <Unicode>ribus temporibus prothavi Aui avi et Genitores genitores nostri et tandem nos graves innabiles innumerabilesque A a magistro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:5;} textStyle {offset:18; length:13;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:32; length:13;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:87; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:116; length:12;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="395,728 492,726 590,725 688,723 786,723 884,722 982,722 1079,720 1177,720 1275,720 1373,720 1471,720 1569,720 1667,720 1764,720 1862,720 1960,722 2058,722 2156,722 2254,723 2352,723 2352,686 2254,686 2156,685 2058,685 1960,685 1862,683 1764,683 1667,683 1569,683 1471,683 1373,683 1275,683 1177,683 1079,683 982,685 884,685 786,686 688,686 590,688 492,689 395,691"/>
+                <Baseline points="395,716 492,714 590,713 688,711 786,711 884,710 982,710 1079,708 1177,708 1275,708 1373,708 1471,708 1569,708 1667,708 1764,708 1862,708 1960,710 2058,710 2156,710 2254,711 2352,711"/>
+                <TextEquiv>
+                    <Unicode>et ordine Prussie rotullissemus protulissemus pertulissemus oppressiones dum non solum Magister magister sed et sui Comendatores comendatores in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:6;} textStyle {offset:0; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:44; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:49; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:88; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:107; length:13;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="402,789 501,788 601,785 701,783 801,782 900,780 1000,779 1100,777 1200,777 1299,776 1399,776 1499,776 1599,774 1698,774 1798,775 1898,776 1998,776 2097,776 2197,777 2297,777 2397,777 2397,740 2297,740 2197,740 2097,739 1998,739 1898,739 1798,738 1698,737 1599,737 1499,739 1399,739 1299,739 1200,740 1100,740 1000,742 900,743 801,745 701,746 601,748 501,751 402,752"/>
+                <Baseline points="402,777 501,776 601,773 701,771 801,770 900,768 1000,767 1100,765 1200,765 1299,764 1399,764 1499,764 1599,762 1698,762 1798,763 1898,764 1998,764 2097,764 2197,765 2297,765 2397,765"/>
+                <TextEquiv>
+                    <Unicode>Nos nos deseviendo plerosque ex nobis nullo Iure iure jure servato capitibus plecterent alios que aliosque prostriberent proscriberent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:7;} textStyle {offset:0; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:74; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="365,843 464,843 564,843 663,842 763,842 863,840 962,839 1062,837 1162,836 1261,834 1361,834 1461,833 1560,831 1660,831 1760,831 1859,831 1959,831 2059,833 2158,834 2258,837 2358,840 2358,803 2258,800 2158,797 2059,796 1959,794 1859,794 1760,794 1660,794 1560,794 1461,796 1361,797 1261,797 1162,799 1062,800 962,802 863,803 763,805 663,805 564,806 464,806 365,806"/>
+                <Baseline points="365,831 464,831 564,831 663,830 763,830 863,828 962,827 1062,825 1162,824 1261,822 1361,822 1461,821 1560,819 1660,819 1760,819 1859,819 1959,819 2059,821 2158,822 2258,825 2358,828"/>
+                <TextEquiv>
+                    <Unicode>Alios alios bonis temporalibus mulctarent et quod dictu quoque nephas est Coniuges coniuges et filias nostras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:8;} textStyle {offset:11; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:95; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="413,900 516,902 619,901 722,900 825,899 928,897 1031,896 1134,894 1237,891 1340,890 1444,887 1547,885 1650,884 1753,884 1856,884 1959,884 2062,886 2165,888 2268,893 2372,897 2372,860 2268,856 2165,851 2062,849 1959,847 1856,847 1753,847 1650,847 1547,848 1444,850 1340,853 1237,854 1134,857 1031,859 928,860 825,862 722,863 619,864 516,865 413,863"/>
+                <Baseline points="413,888 516,890 619,889 722,888 825,887 928,885 1031,884 1134,882 1237,879 1340,878 1444,875 1547,873 1650,872 1753,872 1856,872 1959,872 2062,874 2165,876 2268,881 2372,885"/>
+                <TextEquiv>
+                    <Unicode>stupris et Adulteriis adulteriis violentis viciarent In in quosdam ex nobis ut trucidaremur ut venum venun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:9;} textStyle {offset:70; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="369,960 468,959 567,957 667,956 766,954 866,951 965,950 1065,947 1164,945 1264,944 1363,942 1462,941 1562,939 1661,938 1761,938 1860,938 1960,938 2059,939 2159,941 2258,944 2358,947 2358,910 2258,907 2159,904 2059,902 1960,901 1860,901 1761,901 1661,901 1562,902 1462,904 1363,905 1264,907 1164,908 1065,910 965,913 866,914 766,917 667,919 567,920 468,922 369,923"/>
+                <Baseline points="369,948 468,947 567,945 667,944 766,942 866,939 965,938 1065,935 1164,933 1264,932 1363,930 1462,929 1562,927 1661,926 1761,926 1860,926 1960,926 2059,927 2159,929 2258,932 2358,935"/>
+                <TextEquiv>
+                    <Unicode>daremur caperemur depactaremur facultatem conferendo totque cogebamur recognostem recognoscere et profiteri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:10;} textStyle {offset:49; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:89; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="372,1022 474,1019 577,1016 679,1013 782,1010 885,1007 987,1004 1090,1002 1192,999 1295,998 1398,996 1500,995 1603,995 1705,995 1808,995 1911,995 2013,996 2116,998 2218,999 2321,1003 2424,1007 2424,970 2321,966 2218,962 2116,961 2013,959 1911,958 1808,958 1705,958 1603,958 1500,958 1398,959 1295,961 1192,962 1090,965 987,967 885,970 782,973 679,976 577,979 474,982 372,985"/>
+                <Baseline points="372,1010 474,1007 577,1004 679,1001 782,998 885,995 987,992 1090,990 1192,987 1295,986 1398,984 1500,983 1603,983 1705,983 1808,983 1911,983 2013,984 2116,986 2218,987 2321,991 2424,995"/>
+                <TextEquiv>
+                    <Unicode>dominos superbe avareque nobis imperitantes quot Terra terra Prussie gessit comendatores Cum cum unusquis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:11;} textStyle {offset:19; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:98; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="387,1082 484,1079 582,1076 679,1073 777,1070 875,1067 972,1064 1070,1061 1168,1059 1265,1056 1363,1054 1461,1052 1558,1052 1656,1050 1754,1050 1851,1050 1949,1050 2047,1053 2144,1055 2242,1058 2340,1061 2340,1024 2242,1021 2144,1018 2047,1016 1949,1013 1851,1013 1754,1013 1656,1013 1558,1015 1461,1015 1363,1017 1265,1019 1168,1022 1070,1024 972,1027 875,1030 777,1033 679,1036 582,1039 484,1042 387,1045"/>
+                <Baseline points="387,1070 484,1067 582,1064 679,1061 777,1058 875,1055 972,1052 1070,1049 1168,1047 1265,1044 1363,1042 1461,1040 1558,1040 1656,1038 1754,1038 1851,1038 1949,1038 2047,1041 2144,1043 2242,1046 2340,1049"/>
+                <TextEquiv>
+                    <Unicode>que illorum plenam Principandi principandi et Imperandi imperandi apud se consistere arbitrabatur presentatem potestatem Qua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:12;} textStyle {offset:15; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="378,1137 476,1136 574,1133 673,1130 771,1127 870,1124 968,1121 1066,1119 1165,1116 1263,1115 1362,1112 1460,1110 1558,1109 1657,1109 1755,1107 1854,1107 1952,1109 2050,1109 2149,1111 2247,1113 2346,1116 2346,1079 2247,1076 2149,1074 2050,1072 1952,1072 1854,1070 1755,1070 1657,1072 1558,1072 1460,1073 1362,1075 1263,1078 1165,1079 1066,1082 968,1084 870,1087 771,1090 673,1093 574,1096 476,1099 378,1100"/>
+                <Baseline points="378,1125 476,1124 574,1121 673,1118 771,1115 870,1112 968,1109 1066,1107 1165,1104 1263,1103 1362,1100 1460,1098 1558,1097 1657,1097 1755,1095 1854,1095 1952,1097 2050,1097 2149,1099 2247,1101 2346,1104"/>
+                <TextEquiv>
+                    <Unicode>quidem inflati licentia licencia obliti professionis sue qua conta contra infideles militare spoponderant nulla offensa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:13;} textStyle {offset:0; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:8; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:34; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:40; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:52; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:110; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="375,1190 476,1190 578,1188 680,1188 781,1185 883,1183 985,1181 1086,1178 1188,1175 1290,1172 1392,1169 1493,1166 1595,1164 1697,1163 1798,1163 1900,1163 2002,1163 2103,1166 2205,1168 2307,1173 2409,1178 2409,1141 2307,1136 2205,1131 2103,1129 2002,1126 1900,1126 1798,1126 1697,1126 1595,1127 1493,1129 1392,1132 1290,1135 1188,1138 1086,1141 985,1144 883,1146 781,1148 680,1151 578,1151 476,1153 375,1153"/>
+                <Baseline points="375,1178 476,1178 578,1176 680,1176 781,1173 883,1171 985,1169 1086,1166 1188,1163 1290,1160 1392,1157 1493,1154 1595,1152 1697,1151 1798,1151 1900,1151 2002,1151 2103,1154 2205,1156 2307,1161 2409,1166"/>
+                <TextEquiv>
+                    <Unicode>Aut aut Iniuria iniuria provocati In in Reges reges Principes principesque Polonie quorum beneficio accersiti Ad ad impugnaci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:14;} textStyle {offset:72; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:90; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="402,1248 497,1247 592,1245 688,1244 783,1241 879,1238 974,1235 1069,1232 1165,1229 1260,1226 1356,1223 1451,1221 1546,1220 1642,1218 1737,1217 1833,1218 1928,1218 2023,1221 2119,1224 2214,1229 2407,1226 2407,1189 2214,1192 2119,1187 2023,1184 1928,1181 1833,1181 1737,1180 1642,1181 1546,1183 1451,1184 1356,1186 1260,1189 1165,1192 1069,1195 974,1198 879,1201 783,1204 688,1207 592,1208 497,1210 402,1211"/>
+                <Baseline points="402,1236 497,1235 592,1233 688,1232 783,1229 879,1226 974,1223 1069,1220 1165,1217 1260,1214 1356,1211 1451,1209 1546,1208 1642,1206 1737,1205 1833,1206 1928,1206 2023,1209 2119,1212 2214,1217 2310,1223"/>
+                <TextEquiv>
+                    <Unicode>onem infidelium dotatique et instituti fuerant arma convertebant federe Primum primum cum Domino domino Ka</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:15;} textStyle {offset:0; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:66; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="393,1304 490,1302 587,1301 684,1298 781,1296 878,1293 975,1289 1072,1286 1169,1283 1266,1280 1363,1277 1460,1275 1557,1272 1654,1272 1751,1271 1848,1271 1945,1272 2042,1274 2139,1277 2236,1282 2394,1283 2394,1246 2236,1245 2139,1240 2042,1237 1945,1235 1848,1234 1751,1234 1654,1235 1557,1235 1460,1238 1363,1240 1266,1243 1169,1246 1072,1249 975,1252 878,1256 781,1259 684,1261 587,1264 490,1265 393,1267"/>
+                <Baseline points="393,1292 490,1290 587,1289 684,1286 781,1284 878,1281 975,1277 1072,1274 1169,1271 1266,1268 1363,1265 1460,1263 1557,1260 1654,1260 1751,1259 1848,1259 1945,1260 2042,1262 2139,1265 2236,1270 2334,1275"/>
+                <TextEquiv>
+                    <Unicode>Zimiro zimiro deinde cum domino Wladislao Regibus regibus Polonie er per illos quater firmato et tociens viola</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:16;} textStyle {offset:3; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:23; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:98; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="384,1356 484,1356 584,1356 685,1355 785,1352 886,1350 986,1347 1087,1344 1187,1341 1288,1338 1388,1335 1488,1332 1589,1329 1689,1328 1790,1326 1890,1325 1991,1325 2091,1326 2192,1328 2292,1331 2393,1334 2393,1297 2292,1294 2192,1291 2091,1289 1991,1288 1890,1288 1790,1289 1689,1291 1589,1292 1488,1295 1388,1298 1288,1301 1187,1304 1087,1307 986,1310 886,1313 785,1315 685,1318 584,1319 484,1319 384,1319"/>
+                <Baseline points="384,1344 484,1344 584,1344 685,1343 785,1340 886,1338 986,1335 1087,1332 1187,1329 1288,1326 1388,1323 1488,1320 1589,1317 1689,1316 1790,1314 1890,1313 1991,1313 2091,1314 2192,1316 2292,1319 2393,1322"/>
+                <TextEquiv>
+                    <Unicode>to Regni regni Polonie Terras terras nisi Cladibus cladibus domiti fuissent decreverant occupasse Cogentes cogentes nos ad ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:17;} textStyle {offset:46; length:8;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:64; length:7;} textStyle {offset:93; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="366,1418 466,1415 567,1413 667,1410 768,1407 869,1404 969,1401 1070,1398 1170,1395 1271,1392 1372,1389 1472,1386 1573,1384 1673,1383 1774,1381 1875,1380 1975,1380 2076,1380 2176,1380 2277,1383 2378,1385 2378,1348 2277,1346 2176,1343 2076,1343 1975,1343 1875,1343 1756,1320 1655,1322 1573,1347 1472,1349 1372,1352 1271,1355 1170,1358 1070,1361 969,1364 869,1367 768,1370 667,1373 567,1376 466,1378 366,1381"/>
+                <Baseline points="366,1406 466,1403 567,1401 667,1398 768,1395 869,1392 969,1389 1070,1386 1170,1383 1271,1380 1372,1377 1472,1374 1573,1372 1673,1371 1774,1369 1875,1368 1975,1368 2076,1368 2176,1368 2277,1371 2378,1373"/>
+                <TextEquiv>
+                    <Unicode>rendum secum iniusta bella licet nobiscum rem ingratam integram nunquam communicati fuissent Cum cum ipsos ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:18;} textStyle {offset:67; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:93; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="375,1473 474,1470 574,1467 674,1464 774,1460 874,1457 974,1454 1074,1451 1174,1448 1274,1445 1374,1442 1473,1440 1573,1438 1673,1436 1773,1435 1873,1434 1973,1434 2073,1434 2173,1435 2273,1436 2373,1439 2373,1402 2273,1399 2173,1398 2073,1397 1973,1397 1873,1397 1773,1398 1673,1399 1573,1401 1473,1403 1374,1405 1274,1408 1174,1411 1074,1414 974,1417 874,1420 774,1423 674,1427 574,1430 474,1433 375,1436"/>
+                <Baseline points="375,1461 474,1458 574,1455 674,1452 774,1448 874,1445 974,1442 1074,1439 1174,1436 1274,1433 1374,1430 1473,1428 1573,1426 1673,1424 1773,1423 1873,1422 1973,1422 2073,1422 2173,1423 2273,1424 2373,1427"/>
+                <TextEquiv>
+                    <Unicode>illa obeunda alienos fines occupandi fomes aut livor fastusque non iusta justa causa urgeret In in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:19;} textStyle {offset:57; length:16;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:111; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="381,1524 481,1521 581,1518 681,1516 782,1513 882,1511 982,1508 1083,1505 1183,1502 1283,1500 1384,1497 1484,1496 1584,1494 1684,1493 1785,1491 1885,1491 1985,1490 2086,1490 2186,1491 2286,1491 2387,1493 2387,1456 2286,1454 2186,1454 2086,1453 1985,1453 1885,1454 1785,1454 1684,1456 1584,1457 1484,1459 1384,1460 1283,1463 1183,1465 1083,1468 982,1471 882,1474 782,1476 681,1479 581,1481 481,1484 381,1487"/>
+                <Baseline points="381,1512 481,1509 581,1506 681,1504 782,1501 882,1499 982,1496 1083,1493 1183,1490 1283,1488 1384,1485 1484,1484 1584,1482 1684,1481 1785,1479 1885,1479 1985,1478 2086,1478 2186,1479 2286,1479 2387,1481"/>
+                <TextEquiv>
+                    <Unicode>quibus clades orbitates fortunarumque et rerum nostrarum periclitactiones periclitaciones illic exceptas tanta maiori majori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:20;} textStyle {offset:43; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:86; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="363,1581 465,1577 567,1573 669,1569 771,1566 873,1563 975,1560 1078,1557 1180,1554 1282,1552 1384,1550 1486,1548 1588,1547 1690,1547 1793,1545 1895,1545 1997,1545 2099,1545 2201,1547 2303,1548 2406,1550 2406,1513 2303,1511 2201,1510 2099,1508 1997,1508 1895,1508 1793,1508 1690,1510 1588,1510 1486,1511 1384,1513 1282,1515 1180,1517 1078,1520 975,1523 873,1526 771,1529 669,1532 567,1536 465,1540 363,1544"/>
+                <Baseline points="363,1569 465,1565 567,1561 669,1557 771,1554 873,1551 975,1548 1078,1545 1180,1542 1282,1540 1384,1538 1486,1536 1588,1535 1690,1535 1793,1533 1895,1533 1997,1533 2099,1533 2201,1535 2303,1536 2406,1538"/>
+                <TextEquiv>
+                    <Unicode>amaritudine prosequimur quanto constat nos Imperio imperio presidum nostrorum coactos Non non corporum solum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:21;} textStyle {offset:19; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:68; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:80; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:106; length:9;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:109; length:1;} comment {offset:118; length:2;comment:ligatura\u0020st;}">
+                <Coords points="384,1638 484,1634 585,1629 685,1626 786,1622 887,1619 987,1616 1088,1613 1189,1611 1289,1608 1390,1607 1491,1605 1591,1604 1692,1604 1793,1602 1893,1602 1994,1602 2095,1602 2195,1603 2296,1604 2397,1605 2397,1568 2296,1567 2195,1566 2095,1565 1994,1565 1893,1565 1793,1565 1692,1567 1591,1567 1491,1568 1390,1570 1289,1571 1189,1574 1088,1576 987,1579 887,1582 786,1585 685,1589 585,1592 484,1597 384,1601"/>
+                <Baseline points="384,1626 484,1622 585,1617 685,1614 786,1610 887,1607 987,1604 1088,1601 1189,1599 1289,1596 1390,1595 1491,1593 1591,1592 1692,1592 1793,1590 1893,1590 1994,1590 2095,1590 2195,1591 2296,1592 2397,1593"/>
+                <TextEquiv>
+                    <Unicode>et rerum sed eciam ammarum animarum nostrarum per iniuataa iniustas aciea acies aepiua sepius contraxisse distrimen discrimen et capitibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:22;} textStyle {offset:13; length:6;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:14; length:1;} comment {offset:20; length:2;comment:ligatura\u0020st;} textStyle {offset:50; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="387,1694 489,1690 592,1686 695,1682 797,1679 900,1676 1003,1673 1105,1670 1208,1668 1311,1667 1414,1664 1516,1662 1619,1661 1722,1661 1824,1659 1927,1659 2030,1659 2132,1659 2235,1659 2338,1659 2441,1659 2441,1622 2338,1622 2235,1622 2132,1622 2030,1622 1927,1622 1824,1622 1722,1624 1619,1624 1516,1625 1414,1627 1311,1630 1208,1631 1105,1633 1003,1636 900,1639 797,1642 695,1645 592,1649 489,1653 387,1657"/>
+                <Baseline points="387,1682 489,1678 592,1674 695,1670 797,1667 900,1664 1003,1661 1105,1658 1208,1656 1311,1655 1414,1652 1516,1650 1619,1649 1722,1649 1824,1647 1927,1647 2030,1647 2132,1647 2235,1647 2338,1647 2441,1647"/>
+                <TextEquiv>
+                    <Unicode>nostris omne stelus scelus iniusti belli expiasse Magistro magistro et ordine nostras clades magis ex arce spectantibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:23;} textStyle {offset:79; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:91; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="389,1746 490,1745 592,1741 694,1738 796,1734 897,1731 999,1728 1101,1725 1203,1722 1304,1719 1406,1718 1508,1716 1610,1715 1711,1713 1813,1713 1915,1715 2017,1715 2118,1718 2220,1721 2322,1724 2424,1730 2424,1693 2322,1687 2220,1684 2118,1681 2017,1678 1915,1678 1813,1676 1711,1676 1610,1678 1508,1679 1406,1681 1304,1682 1203,1685 1101,1688 999,1691 897,1694 796,1697 694,1701 592,1704 490,1708 389,1709"/>
+                <Baseline points="389,1734 490,1733 592,1729 694,1726 796,1722 897,1719 999,1716 1101,1713 1203,1710 1304,1707 1406,1706 1508,1704 1610,1703 1711,1701 1813,1701 1915,1703 2017,1703 2118,1706 2220,1709 2322,1712 2424,1718"/>
+                <TextEquiv>
+                    <Unicode>quam relevantibus Verum cum tot mala nullo termino aut spacio videremus finiri Atque atque nobix nobis poste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:24;} textStyle {offset:15; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:53; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:92; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:116; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="375,1802 478,1799 581,1794 685,1791 788,1788 891,1785 995,1782 1098,1779 1201,1778 1305,1775 1408,1773 1511,1772 1615,1772 1718,1770 1821,1770 1925,1770 2028,1772 2131,1773 2235,1775 2338,1776 2442,1779 2442,1742 2338,1739 2235,1738 2131,1736 2028,1735 1925,1733 1821,1733 1718,1733 1615,1735 1511,1735 1408,1736 1305,1738 1201,1741 1098,1742 995,1745 891,1748 788,1751 685,1754 581,1757 478,1762 375,1765"/>
+                <Baseline points="375,1790 478,1787 581,1782 685,1779 788,1776 891,1773 995,1770 1098,1767 1201,1766 1305,1763 1408,1761 1511,1760 1615,1760 1718,1758 1821,1758 1925,1758 2028,1760 2131,1761 2235,1763 2338,1764 2442,1767"/>
+                <TextEquiv>
+                    <Unicode>risque nostris maiores majores calamitates orbitates Magistro magistro et ordine Prussie ad rumpendem rumpendum cum Rege rege et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:25;} textStyle {offset:0; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:27; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:58; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:87; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:103; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:121; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="369,1862 471,1859 573,1855 675,1852 777,1848 879,1845 981,1842 1083,1838 1185,1835 1287,1832 1390,1830 1492,1829 1594,1826 1696,1826 1798,1824 1900,1824 2002,1826 2104,1827 2206,1830 2308,1833 2411,1838 2411,1801 2308,1796 2206,1793 2104,1790 2002,1789 1900,1787 1798,1787 1696,1789 1594,1789 1492,1792 1390,1793 1287,1795 1185,1798 1083,1801 981,1805 879,1808 777,1811 675,1815 573,1818 471,1822 369,1825"/>
+                <Baseline points="369,1850 471,1847 573,1843 675,1840 777,1836 879,1833 981,1830 1083,1826 1185,1823 1287,1820 1390,1818 1492,1817 1594,1814 1696,1814 1798,1812 1900,1812 2002,1814 2104,1815 2206,1818 2308,1821 2411,1826"/>
+                <TextEquiv>
+                    <Unicode>Regno regno Polonie ultimo cororali corporali interposito iuramento juramento a quo se absolui absolvi Concilii concilii Generalis generalis Basiliensis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:26;} textStyle {offset:20; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:120; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="378,1917 481,1914 585,1910 688,1907 792,1903 896,1899 999,1896 1103,1893 1207,1890 1310,1887 1414,1884 1518,1883 1621,1881 1725,1880 1829,1880 1932,1880 2036,1881 2140,1884 2243,1886 2347,1890 2451,1895 2451,1858 2347,1853 2243,1849 2140,1847 2036,1844 1932,1843 1829,1843 1725,1843 1621,1844 1518,1846 1414,1847 1310,1850 1207,1853 1103,1856 999,1859 896,1862 792,1866 688,1870 585,1873 481,1877 378,1880"/>
+                <Baseline points="378,1905 481,1902 585,1898 688,1895 792,1891 896,1887 999,1884 1103,1881 1207,1878 1310,1875 1414,1872 1518,1871 1621,1869 1725,1868 1829,1868 1932,1868 2036,1869 2140,1872 2243,1874 2347,1878 2451,1883"/>
+                <TextEquiv>
+                    <Unicode>et summi pontificis Auctoritate auctoritate multiplici inſtantia instantia expetebant percussum fedus et bellum de nowo gerere geren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:27;} unclear {offset:4; length:8;} textStyle {offset:29; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:51; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:83; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:116; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="354,1980 463,1976 572,1971 682,1967 791,1962 901,1957 1010,1952 1119,1947 1229,1944 1338,1941 1448,1938 1557,1937 1667,1935 1776,1934 1885,1935 1995,1937 2104,1939 2214,1942 2323,1947 2433,1953 2433,1916 2323,1910 2214,1905 2104,1902 1995,1900 1885,1898 1776,1897 1667,1898 1557,1900 1448,1901 1338,1904 1229,1907 1119,1910 1010,1915 901,1920 791,1925 682,1930 572,1934 463,1939 354,1943"/>
+                <Baseline points="354,1968 463,1964 572,1959 682,1955 791,1950 901,1945 1010,1940 1119,1935 1229,1932 1338,1929 1448,1926 1557,1925 1667,1923 1776,1922 1885,1923 1995,1925 2104,1927 2214,1930 2323,1935 2433,1941"/>
+                <TextEquiv>
+                    <Unicode>dum aspirant parari ligam et vnionem unionem omnem iusticam justiciam equitatemque redolens redolentes nonque illis iustam justam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:28;} textStyle {offset:44; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:81; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:109; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="369,2043 471,2037 573,2030 675,2024 778,2018 880,2013 982,2007 1085,2003 1187,1999 1289,1995 1392,1994 1494,1991 1596,1989 1698,1989 1801,1989 1903,1989 2005,1992 2108,1994 2210,1998 2312,2002 2415,2007 2415,1971 2312,1966 2210,1962 2108,1958 2005,1956 1903,1953 1801,1953 1698,1953 1596,1953 1494,1955 1392,1958 1289,1959 1187,1963 1085,1967 982,1971 880,1977 778,1982 675,1988 573,1994 471,2001 369,2007"/>
+                <Baseline points="369,2031 471,2025 573,2018 675,2012 778,2006 880,2001 982,1995 1085,1991 1187,1987 1289,1983 1392,1982 1494,1979 1596,1977 1698,1977 1801,1977 1903,1977 2005,1980 2108,1982 2210,1986 2312,1990 2415,1995"/>
+                <TextEquiv>
+                    <Unicode>potestatem adimeret sed iniusta illos bella sustipere suscipere et in nos absque iure jure et demerito vacuo ut uti mucrone </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:29;} add {offset:85; length:7;} textStyle {offset:93; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="357,2092 459,2089 561,2086 664,2082 766,2077 869,2073 971,2067 1074,2062 1176,2058 1279,2053 1381,2049 1483,2046 1586,2043 1688,2040 1791,2038 1893,2038 1996,2039 2098,2041 2201,2045 2303,2049 2406,2056 2406,2026 2303,2019 2201,2015 2162,1979 2107,1980 2046,1977 1996,2009 1893,2008 1791,2008 1688,2010 1586,2013 1483,2016 1381,2019 1279,2023 1176,2028 1074,2032 971,2037 869,2043 766,2047 664,2052 561,2056 459,2059 357,2062"/>
+                <Baseline points="357,2082 459,2079 561,2076 664,2072 766,2067 869,2063 971,2057 1074,2052 1176,2048 1279,2043 1381,2039 1483,2036 1586,2033 1688,2030 1791,2028 1893,2028 1996,2029 2098,2031 2201,2035 2303,2039 2406,2046"/>
+                <TextEquiv>
+                    <Unicode>Nosque fortunis et rebus spoliare nostris prohiberet iniimus hanc cum annis pluribus per nos Magistri magistri et ordinis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:30;} textStyle {offset:9; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:15; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:112; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="356,2150 456,2149 556,2147 657,2142 757,2138 858,2134 958,2129 1058,2124 1159,2118 1259,2112 1360,2108 1460,2103 1560,2100 1661,2097 1761,2096 1862,2096 1962,2097 2062,2100 2163,2105 2263,2111 2364,2120 2364,2083 2263,2074 2163,2068 2062,2063 1962,2060 1862,2059 1761,2059 1661,2060 1560,2063 1460,2066 1360,2071 1259,2075 1159,2081 1058,2087 958,2092 858,2097 757,2101 657,2105 556,2110 456,2112 356,2113"/>
+                <Baseline points="356,2138 456,2137 556,2135 657,2130 757,2126 858,2122 958,2117 1058,2112 1159,2106 1259,2100 1360,2096 1460,2091 1560,2088 1661,2085 1761,2084 1862,2084 1962,2085 2062,2088 2163,2093 2263,2099 2364,2108"/>
+                <TextEquiv>
+                    <Unicode>consensu Ac ac Imperialibus imperialibus Privilegiis privilegiis et confirmacionibus desuper dotati habuissemus In in usu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:31;}">
+                <Coords points="363,2208 464,2205 565,2202 667,2198 768,2194 870,2189 971,2184 1072,2180 1174,2174 1275,2169 1377,2165 1478,2162 1579,2159 1681,2156 1782,2154 1884,2154 1985,2156 2086,2159 2188,2164 2289,2169 2391,2177 2391,2140 2289,2132 2188,2127 2086,2122 1985,2119 1884,2117 1782,2117 1681,2119 1579,2122 1478,2125 1377,2128 1275,2132 1174,2137 1072,2143 971,2147 870,2152 768,2157 667,2161 565,2165 464,2168 363,2171"/>
+                <Baseline points="363,2196 464,2193 565,2190 667,2186 768,2182 870,2177 971,2172 1072,2168 1174,2162 1275,2157 1377,2153 1478,2150 1579,2147 1681,2144 1782,2142 1884,2142 1985,2144 2086,2147 2188,2152 2289,2157 2391,2165"/>
+                <TextEquiv>
+                    <Unicode>observancia et praxi tanto ardore cura et sollicitudine pro illius perpettua abolicione certatim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:32;} textStyle {offset:0; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:28; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:30; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:77; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:79; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="339,2264 440,2262 542,2259 644,2256 745,2252 847,2248 949,2244 1050,2238 1152,2235 1254,2231 1356,2226 1457,2222 1559,2219 1661,2217 1762,2214 1864,2214 1966,2214 2067,2216 2169,2219 2271,2223 2373,2229 2373,2192 2271,2186 2169,2182 2067,2179 1966,2177 1864,2177 1762,2177 1661,2180 1559,2182 1457,2185 1356,2189 1254,2194 1152,2198 1050,2201 949,2207 847,2211 745,2215 644,2219 542,2222 440,2225 339,2227"/>
+                <Baseline points="339,2252 440,2250 542,2247 644,2244 745,2240 847,2236 949,2232 1050,2226 1152,2223 1254,2219 1356,2214 1457,2210 1559,2207 1661,2205 1762,2202 1864,2202 1966,2202 2067,2204 2169,2207 2271,2211 2373,2217"/>
+                <TextEquiv>
+                    <Unicode>Non non erubuerunt insistere. Ut ut nos velut Ethniicos ethnycos hereticosque. Coram coram summo pontifice assererent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:33;} textStyle {offset:9; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:11; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:45; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:3;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:104; length:4;}">
+                <Coords points="315,2319 418,2318 521,2315 625,2312 728,2309 831,2304 935,2300 1038,2297 1141,2292 1245,2289 1348,2285 1451,2282 1555,2279 1658,2276 1761,2274 1865,2273 1968,2273 2071,2274 2175,2276 2278,2279 2402,2280 2402,2232 2278,2231 2175,2239 2071,2237 1968,2236 1865,2236 1761,2237 1658,2239 1555,2242 1451,2245 1348,2248 1245,2252 1141,2255 1038,2260 935,2263 831,2267 728,2272 625,2275 521,2278 418,2281 315,2282"/>
+                <Baseline points="315,2307 418,2306 521,2303 625,2300 728,2297 831,2292 935,2288 1038,2285 1141,2280 1245,2277 1348,2273 1451,2270 1555,2267 1658,2264 1761,2262 1865,2261 1968,2261 2071,2262 2175,2264 2278,2267 2382,2270"/>
+                <TextEquiv>
+                    <Unicode>et deinde. Ad ad imperiale traherent tribunal. Non  non quo per abrogacionem violacionemque nostre huiusmodi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:34;} textStyle {offset:35; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="357,2369 458,2369 560,2367 662,2366 763,2363 865,2360 967,2357 1068,2353 1170,2350 1272,2346 1374,2343 1475,2340 1577,2337 1679,2336 1780,2333 1882,2331 1984,2331 2085,2331 2187,2332 2289,2334 2391,2337 2391,2300 2289,2297 2187,2295 2085,2294 1984,2294 1882,2294 1780,2296 1679,2299 1577,2300 1475,2303 1374,2306 1272,2309 1170,2313 1068,2316 967,2320 865,2323 763,2326 662,2329 560,2330 458,2332 357,2332"/>
+                <Baseline points="357,2357 458,2357 560,2355 662,2354 763,2351 865,2348 967,2345 1068,2341 1170,2338 1272,2334 1374,2331 1475,2328 1577,2325 1679,2324 1780,2321 1882,2319 1984,2319 2085,2319 2187,2320 2289,2322 2391,2325"/>
+                <TextEquiv>
+                    <Unicode>unionis et lige aliquid comodi aut prefectus profectus capescerent sed ut liberius obstante illis nemine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:35;} textStyle {offset:16; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="336,2429 436,2427 537,2424 637,2421 738,2419 838,2416 939,2414 1039,2411 1140,2408 1240,2405 1341,2402 1441,2400 1542,2397 1642,2396 1743,2394 1843,2393 1944,2391 2044,2390 2145,2390 2245,2390 2346,2391 2346,2354 2245,2353 2145,2353 2044,2353 1944,2354 1843,2356 1743,2357 1642,2359 1542,2360 1441,2363 1341,2365 1240,2368 1140,2371 1039,2374 939,2377 838,2379 738,2382 637,2384 537,2387 436,2390 336,2392"/>
+                <Baseline points="336,2417 436,2415 537,2412 637,2409 738,2407 838,2404 939,2402 1039,2399 1140,2396 1240,2393 1341,2390 1441,2388 1542,2385 1642,2384 1743,2382 1843,2381 1944,2379 2044,2378 2145,2378 2245,2378 2346,2379"/>
+                <TextEquiv>
+                    <Unicode>execranda bella Regi regi et Regno regno Polonie. Ceteris que ceterisque finitimis nostris tandem cervicibus ut sepe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:36;} textStyle {offset:0; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:39; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:74; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="348,2490 448,2486 548,2483 649,2480 749,2475 850,2473 950,2469 1051,2467 1151,2465 1252,2462 1352,2460 1452,2457 1553,2456 1653,2454 1754,2453 1854,2453 1955,2451 2055,2451 2156,2451 2256,2451 2357,2451 2357,2414 2256,2414 2156,2414 2055,2414 1955,2414 1854,2416 1754,2416 1653,2417 1553,2419 1452,2420 1352,2423 1252,2425 1151,2428 1051,2430 950,2432 850,2436 749,2438 649,2443 548,2446 448,2449 348,2453"/>
+                <Baseline points="348,2478 448,2474 548,2471 649,2468 749,2463 850,2461 950,2457 1051,2455 1151,2453 1252,2450 1352,2448 1452,2445 1553,2444 1653,2442 1754,2441 1854,2441 1955,2439 2055,2439 2156,2439 2256,2439 2357,2439"/>
+                <TextEquiv>
+                    <Unicode>ales alias accedebat expianda moverent licet Licet autem coram tribunali. Cesareo cesareo comparendi nulla nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:37;} textStyle {offset:77; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:99; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="347,2547 446,2544 546,2541 645,2538 745,2535 844,2532 944,2529 1043,2526 1143,2523 1242,2520 1342,2518 1441,2516 1541,2513 1640,2511 1740,2510 1839,2508 1939,2508 2038,2507 2138,2507 2237,2507 2337,2507 2337,2470 2237,2470 2138,2470 2038,2470 1939,2471 1839,2471 1740,2473 1640,2474 1541,2476 1441,2479 1342,2481 1242,2483 1143,2486 1043,2489 944,2492 844,2495 745,2498 645,2501 546,2504 446,2507 347,2510"/>
+                <Baseline points="347,2535 446,2532 546,2529 645,2526 745,2523 844,2520 944,2517 1043,2514 1143,2511 1242,2508 1342,2506 1441,2504 1541,2501 1640,2499 1740,2498 1839,2496 1939,2496 2038,2495 2138,2495 2237,2495 2337,2495"/>
+                <TextEquiv>
+                    <Unicode>condicio artaret vel potestas cum imperiali dicioni nunquam nos remur fuisse subiiectos. subyectos Ut ut tamen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:38;} textStyle {offset:0; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="342,2604 442,2601 543,2598 643,2594 744,2591 845,2588 945,2585 1046,2582 1146,2579 1247,2576 1348,2573 1448,2570 1549,2568 1649,2567 1750,2565 1851,2564 1951,2564 2052,2564 2152,2564 2253,2565 2354,2568 2354,2531 2253,2528 2152,2527 2052,2527 1951,2527 1851,2527 1750,2528 1649,2530 1549,2531 1448,2533 1348,2536 1247,2539 1146,2542 1046,2545 945,2548 845,2551 744,2554 643,2557 543,2561 442,2564 342,2567"/>
+                <Baseline points="342,2592 442,2589 543,2586 643,2582 744,2579 845,2576 945,2573 1046,2570 1146,2567 1247,2564 1348,2561 1448,2558 1549,2556 1649,2555 1750,2553 1851,2552 1951,2552 2052,2552 2152,2552 2253,2553 2354,2556"/>
+                <TextEquiv>
+                    <Unicode>Nichil nichil restaret quo nostra argui posset iusticia justicia et pura quam in hiis ad pacem reconciliacionemque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:39;} textStyle {offset:9; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:46; length:1;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:48; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:75; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:113; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="363,2658 462,2654 561,2651 660,2648 760,2645 859,2642 958,2640 1058,2637 1157,2635 1256,2633 1356,2631 1455,2630 1554,2628 1653,2627 1753,2627 1852,2625 1951,2624 2051,2624 2150,2624 2249,2624 2349,2624 2349,2587 2249,2587 2150,2587 2051,2587 1951,2587 1852,2588 1753,2590 1653,2590 1554,2591 1455,2593 1356,2594 1256,2596 1157,2598 1058,2600 958,2603 859,2605 760,2608 660,2611 561,2614 462,2617 363,2621"/>
+                <Baseline points="363,2646 462,2642 561,2639 660,2636 760,2633 859,2630 958,2628 1058,2625 1157,2623 1256,2621 1356,2619 1455,2618 1554,2616 1653,2615 1753,2615 1852,2613 1951,2612 2051,2612 2150,2612 2249,2612 2349,2612"/>
+                <TextEquiv>
+                    <Unicode>quam cum Magistro magistro et ordine gerebamus. Intencio intencio accusari Tribunal tribunal huiusmodi accessimus. Et et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:40;} textStyle {offset:0; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:70; length:10;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:70; length:2;} sic {offset:73; length:7;} sic {offset:87; length:1;} textStyle {offset:104; length:16;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:120; length:3;strikethrough:true; fontSize:0.0; kerning:0; superscript:true;} add {offset:139; length:3;}">
+                <Coords points="321,2718 423,2713 525,2708 627,2703 729,2700 831,2697 933,2693 1036,2691 1138,2688 1240,2687 1342,2685 1444,2684 1546,2682 1648,2681 1751,2681 1853,2681 1955,2679 2057,2679 2159,2679 2261,2678 2364,2678 2364,2641 2261,2641 2159,2642 2057,2642 1955,2642 1853,2644 1751,2644 1648,2644 1546,2645 1444,2647 1342,2648 1240,2650 1138,2651 1036,2654 933,2656 831,2660 729,2663 627,2666 525,2671 423,2676 321,2681"/>
+                <Baseline points="321,2706 423,2701 525,2696 627,2691 729,2688 831,2685 933,2681 1036,2679 1138,2676 1240,2675 1342,2673 1444,2672 1546,2670 1648,2669 1751,2669 1853,2669 1955,2667 2057,2667 2159,2667 2261,2666 2364,2666"/>
+                <TextEquiv>
+                    <Unicode>Anno anno prope uno exact̄ exacto cum personarum nostrarum amplissimo distrinine discrinine in querelis proposicionibus que proposicionibusque et repli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:41;} textStyle {offset:11; length:6;strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:26; length:5;comment:\u0022c\u0022\u0020niewidoczne;} textStyle {offset:48; length:17;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:102; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="375,2774 474,2769 574,2765 673,2760 773,2756 872,2753 972,2750 1071,2747 1171,2744 1270,2742 1370,2741 1470,2739 1569,2738 1669,2738 1768,2738 1868,2739 1967,2739 2067,2741 2166,2744 2266,2746 2366,2750 2366,2713 2266,2709 2166,2707 2067,2704 1967,2702 1868,2702 1768,2701 1669,2701 1569,2701 1470,2702 1370,2704 1270,2705 1171,2707 1071,2710 972,2713 872,2716 773,2719 673,2723 574,2728 474,2732 375,2737"/>
+                <Baseline points="375,2762 474,2757 574,2753 673,2748 773,2744 872,2741 972,2738 1071,2735 1171,2732 1270,2730 1370,2729 1470,2727 1569,2726 1669,2726 1768,2726 1868,2727 1967,2727 2067,2729 2166,2732 2266,2734 2366,2738"/>
+                <TextEquiv>
+                    <Unicode>cacionibus versat versati licet causam pluribus iustificacionibus justificacionibus fundatam haberemus. Tantus tamen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:42;} textStyle {offset:6; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:33; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:96; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:124; length:6;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:130; length:2;strikethrough:true; fontSize:0.0; kerning:0; superscript:true;} add {offset:138; length:4;}">
+                <Coords points="336,2832 438,2829 541,2825 644,2822 747,2817 849,2814 952,2811 1055,2808 1158,2805 1260,2804 1363,2801 1466,2799 1569,2798 1671,2798 1774,2796 1877,2797 1980,2798 2082,2799 2185,2801 2288,2804 2391,2807 2391,2770 2288,2767 2185,2764 2082,2762 1980,2761 1877,2760 1774,2759 1671,2761 1569,2761 1466,2762 1363,2764 1260,2767 1158,2768 1055,2771 952,2774 849,2777 747,2780 644,2785 541,2788 438,2792 336,2795"/>
+                <Baseline points="336,2820 438,2817 541,2813 644,2810 747,2805 849,2802 952,2799 1055,2796 1158,2793 1260,2792 1363,2789 1466,2787 1569,2786 1671,2786 1774,2784 1877,2785 1980,2786 2082,2787 2185,2789 2288,2792 2391,2795"/>
+                <TextEquiv>
+                    <Unicode>favor Magistro magistro et ordini. In in pronunccianda Imperiali imperiali sententia habitus est. Ut ut liga et unio nostra huius di huiusmodi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:43;} textStyle {offset:34; length:20;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:98; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:114; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="351,2889 452,2885 553,2880 654,2876 756,2873 857,2870 958,2866 1059,2864 1161,2861 1262,2859 1363,2858 1464,2856 1566,2856 1667,2856 1768,2855 1869,2856 1971,2856 2072,2858 2173,2858 2274,2859 2376,2862 2376,2825 2274,2822 2173,2821 2072,2821 1971,2819 1869,2819 1768,2818 1667,2819 1566,2819 1464,2819 1363,2821 1262,2822 1161,2824 1059,2827 958,2829 857,2833 756,2836 654,2839 553,2843 452,2848 351,2852"/>
+                <Baseline points="351,2877 452,2873 553,2868 654,2864 756,2861 857,2858 958,2854 1059,2852 1161,2849 1262,2847 1363,2846 1464,2844 1566,2844 1667,2844 1768,2843 1869,2844 1971,2844 2072,2846 2173,2846 2274,2847 2376,2850"/>
+                <TextEquiv>
+                    <Unicode>pro qua omne contamen fuit exortum. Inhibicione Cesari inhibicione cesari per nos tanquam arbitro Jure jure facta reie reje</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:44;} textStyle {offset:15; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:42; length:14;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="362,2946 462,2943 563,2940 663,2937 764,2934 864,2931 965,2928 1065,2925 1166,2922 1266,2919 1367,2918 1468,2915 1568,2913 1669,2913 1769,2912 1870,2912 1970,2913 2071,2913 2171,2916 2272,2918 2373,2922 2373,2885 2272,2881 2171,2879 2071,2876 1970,2876 1870,2875 1769,2875 1669,2876 1568,2876 1468,2878 1367,2881 1266,2882 1166,2885 1065,2888 965,2891 864,2894 764,2897 663,2900 563,2903 462,2906 362,2909"/>
+                <Baseline points="362,2934 462,2931 563,2928 663,2925 764,2922 864,2919 965,2916 1065,2913 1166,2910 1266,2907 1367,2906 1468,2903 1568,2901 1669,2901 1769,2900 1870,2900 1970,2901 2071,2901 2171,2904 2272,2906 2373,2910"/>
+                <TextEquiv>
+                    <Unicode>cta cassaretur Magistro magistro et ordine. Nichilomnis  nichilominus post hec instantibus ut in sexingentis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l52" custom="readingOrder {index:45;} textStyle {offset:11; length:16;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:83; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="360,3011 460,3008 561,3004 661,3000 762,2997 862,2993 963,2989 1063,2985 1164,2982 1264,2979 1365,2976 1465,2975 1566,2972 1666,2972 1767,2970 1867,2971 1968,2972 2068,2975 2169,2978 2269,2982 2370,2988 2370,2951 2269,2945 2169,2941 2068,2938 1968,2935 1867,2934 1767,2933 1666,2935 1566,2935 1465,2938 1365,2939 1264,2942 1164,2945 1063,2948 963,2952 862,2956 762,2960 661,2963 561,2967 460,2971 360,2974"/>
+                <Baseline points="360,2999 460,2996 561,2992 661,2988 762,2985 862,2981 963,2977 1063,2973 1164,2970 1264,2967 1365,2964 1465,2963 1566,2960 1666,2960 1767,2958 1867,2959 1968,2960 2068,2963 2169,2966 2269,2970 2370,2976"/>
+                <TextEquiv>
+                    <Unicode>florenorum Milibus Magistro milibus magistro et ordini soluendis solvendis et adeo Magistro magistro et ordini obnoxii fuisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:46;} textStyle {offset:8; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:20; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:54; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:74; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:101; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="357,3071 458,3069 560,3066 662,3063 764,3060 866,3056 968,3053 1069,3048 1171,3044 1273,3041 1375,3038 1477,3035 1579,3032 1681,3030 1782,3030 1884,3030 1986,3030 2088,3032 2190,3036 2292,3040 2394,3045 2394,3008 2292,3003 2190,2999 2088,2995 1986,2993 1884,2993 1782,2993 1681,2993 1579,2995 1477,2998 1375,3001 1273,3004 1171,3007 1069,3011 968,3016 866,3019 764,3023 662,3026 560,3029 458,3032 357,3034"/>
+                <Baseline points="357,3059 458,3057 560,3054 662,3051 764,3048 866,3044 968,3041 1069,3036 1171,3032 1273,3029 1375,3026 1477,3023 1579,3020 1681,3018 1782,3018 1884,3018 1986,3018 2088,3020 2190,3024 2292,3028 2394,3033"/>
+                <TextEquiv>
+                    <Unicode>et fore iuxta juxta acsi ac si precio empti fuissemus Nova nova sententia Cesarea cesarea dampnaremur. Vigore vigore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Atque atque Auarum avarum abrogent imperium et in Dicionem dicionem pt̄atem potestatemque alterius transmigrent, condicione et varietem varietatem accio&#13;
+num et temporum facultatem illis subministrante. Proinde Nos nos prelati, barones, Militares, militares No no&#13;
+biles Cives cives opidani et Incole incole Terrarum terrarum usque videlicet Prussie Chelmensis pomeranie Pomeranie et Michalouiensis Michaloviensis status&#13;
+Eclisiastici eclesiastici et secularis significamus tenore praesencium presencium tam praesentibus presentibus quam futuris equaliter qualiter et si etsi superio &#13;
+ribus temporibus prothavi Aui avi et Genitores genitores nostri et tandem nos graves innabiles innumerabilesque A a magistro&#13;
+et ordine Prussie rotullissemus protulissemus pertulissemus oppressiones dum non solum Magister magister sed et sui Comendatores comendatores in&#13;
+Nos nos deseviendo plerosque ex nobis nullo Iure iure jure servato capitibus plecterent alios que aliosque prostriberent proscriberent&#13;
+Alios alios bonis temporalibus mulctarent et quod dictu quoque nephas est Coniuges coniuges et filias nostras&#13;
+stupris et Adulteriis adulteriis violentis viciarent In in quosdam ex nobis ut trucidaremur ut venum venun&#13;
+daremur caperemur depactaremur facultatem conferendo totque cogebamur recognostem recognoscere et profiteri&#13;
+dominos superbe avareque nobis imperitantes quot Terra terra Prussie gessit comendatores Cum cum unusquis&#13;
+que illorum plenam Principandi principandi et Imperandi imperandi apud se consistere arbitrabatur presentatem potestatem Qua&#13;
+quidem inflati licentia licencia obliti professionis sue qua conta contra infideles militare spoponderant nulla offensa&#13;
+Aut aut Iniuria iniuria provocati In in Reges reges Principes principesque Polonie quorum beneficio accersiti Ad ad impugnaci&#13;
+onem infidelium dotatique et instituti fuerant arma convertebant federe Primum primum cum Domino domino Ka&#13;
+Zimiro zimiro deinde cum domino Wladislao Regibus regibus Polonie er per illos quater firmato et tociens viola&#13;
+to Regni regni Polonie Terras terras nisi Cladibus cladibus domiti fuissent decreverant occupasse Cogentes cogentes nos ad ge&#13;
+rendum secum iniusta bella licet nobiscum rem ingratam integram nunquam communicati fuissent Cum cum ipsos ad&#13;
+illa obeunda alienos fines occupandi fomes aut livor fastusque non iusta justa causa urgeret In in&#13;
+quibus clades orbitates fortunarumque et rerum nostrarum periclitactiones periclitaciones illic exceptas tanta maiori majori&#13;
+amaritudine prosequimur quanto constat nos Imperio imperio presidum nostrorum coactos Non non corporum solum&#13;
+et rerum sed eciam ammarum animarum nostrarum per iniuataa iniustas aciea acies aepiua sepius contraxisse distrimen discrimen et capitibus&#13;
+nostris omne stelus scelus iniusti belli expiasse Magistro magistro et ordine nostras clades magis ex arce spectantibus&#13;
+quam relevantibus Verum cum tot mala nullo termino aut spacio videremus finiri Atque atque nobix nobis poste&#13;
+risque nostris maiores majores calamitates orbitates Magistro magistro et ordine Prussie ad rumpendem rumpendum cum Rege rege et&#13;
+Regno regno Polonie ultimo cororali corporali interposito iuramento juramento a quo se absolui absolvi Concilii concilii Generalis generalis Basiliensis&#13;
+et summi pontificis Auctoritate auctoritate multiplici inſtantia instantia expetebant percussum fedus et bellum de nowo gerere geren&#13;
+dum aspirant parari ligam et vnionem unionem omnem iusticam justiciam equitatemque redolens redolentes nonque illis iustam justam&#13;
+potestatem adimeret sed iniusta illos bella sustipere suscipere et in nos absque iure jure et demerito vacuo ut uti mucrone &#13;
+Nosque fortunis et rebus spoliare nostris prohiberet iniimus hanc cum annis pluribus per nos Magistri magistri et ordinis&#13;
+consensu Ac ac Imperialibus imperialibus Privilegiis privilegiis et confirmacionibus desuper dotati habuissemus In in usu&#13;
+observancia et praxi tanto ardore cura et sollicitudine pro illius perpettua abolicione certatim&#13;
+Non non erubuerunt insistere. Ut ut nos velut Ethniicos ethnycos hereticosque. Coram coram summo pontifice assererent&#13;
+et deinde. Ad ad imperiale traherent tribunal. Non  non quo per abrogacionem violacionemque nostre huiusmodi&#13;
+unionis et lige aliquid comodi aut prefectus profectus capescerent sed ut liberius obstante illis nemine&#13;
+execranda bella Regi regi et Regno regno Polonie. Ceteris que ceterisque finitimis nostris tandem cervicibus ut sepe&#13;
+ales alias accedebat expianda moverent licet Licet autem coram tribunali. Cesareo cesareo comparendi nulla nos&#13;
+condicio artaret vel potestas cum imperiali dicioni nunquam nos remur fuisse subiiectos. subyectos Ut ut tamen&#13;
+Nichil nichil restaret quo nostra argui posset iusticia justicia et pura quam in hiis ad pacem reconciliacionemque&#13;
+quam cum Magistro magistro et ordine gerebamus. Intencio intencio accusari Tribunal tribunal huiusmodi accessimus. Et et&#13;
+Anno anno prope uno exact̄ exacto cum personarum nostrarum amplissimo distrinine discrinine in querelis proposicionibus que proposicionibusque et repli&#13;
+cacionibus versat versati licet causam pluribus iustificacionibus justificacionibus fundatam haberemus. Tantus tamen&#13;
+favor Magistro magistro et ordini. In in pronunccianda Imperiali imperiali sententia habitus est. Ut ut liga et unio nostra huius di huiusmodi&#13;
+pro qua omne contamen fuit exortum. Inhibicione Cesari inhibicione cesari per nos tanquam arbitro Jure jure facta reie reje&#13;
+cta cassaretur Magistro magistro et ordine. Nichilomnis  nichilominus post hec instantibus ut in sexingentis&#13;
+florenorum Milibus Magistro milibus magistro et ordini soluendis solvendis et adeo Magistro magistro et ordini obnoxii fuisse&#13;
+et fore iuxta juxta acsi ac si precio empti fuissemus Nova nova sententia Cesarea cesarea dampnaremur. Vigore vigore</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

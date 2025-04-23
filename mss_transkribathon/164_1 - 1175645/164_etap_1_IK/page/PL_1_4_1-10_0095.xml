@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-13T23:46:47.103+02:00</Created>
+        <LastChange>2022-10-04T16:56:09.157+02:00</LastChange>
+        <TranskribusMetadata docId="1175645" pageId="47898812" pageNr="2" tsid="96800537" status="IN_PROGRESS" userId="78190" imgUrl="https://files.transkribus.eu/Get?id=AYFFUVGMXTXUNGJCOGCFUYKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FEGWDKCTRVUHENKTLOVNIYWG" imageId="38664226"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0095.jpg" imageWidth="2863" imageHeight="3689">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1666814037075" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663105848348_1539"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663105848348_1539" custom="readingOrder {index:0;}">
+            <Coords points="267,154 2478,181 2478,2177 267,2177"/>
+            <TextLine id="line_1663105896086_1564" custom="readingOrder {index:0;} textStyle {offset:35; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:60; length:6;strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:60; length:4;comment:ij\u0020bez\u0020kropek;} comment {offset:65; length:1;comment:ij\u0020bez\u0020kropek;} textStyle {offset:84; length:9;strikethrough:true; fontSize:0.0; kerning:0;} blackening {offset:107; length:8;}">
+                <Coords points="304,248 312,248 433,228 506,243 599,198 700,238 784,192 923,183 990,229 1087,226 1212,193 1281,218 1378,215 1475,211 1571,205 1668,200 1765,196 1862,190 1959,184 2056,176 2443,175 2434,234 2056,222 1959,230 1862,236 1765,242 1668,246 1571,251 1475,257 1378,261 1281,264 1184,269 1087,272 990,275 893,278 797,281 700,284 603,287 506,289 409,291 312,294 304,294"/>
+                <Baseline points="304,279 312,279 409,276 506,274 603,272 700,269 797,266 893,263 990,260 1087,257 1184,254 1281,249 1378,246 1475,242 1571,236 1668,231 1765,227 1862,221 1959,215 2056,207 2153,200"/>
+                <TextEquiv>
+                    <Unicode>expedit vniu̕ẜ Qmō conſideratꝭ et inſp̄tꝭ inſp̕tꝭ fidelibꝯ ẜuicy6 ẜuicÿ6 magnifici Stanislai Staniſlai de Ostrorog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} textStyle {offset:17; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:47; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:77; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:101; length:3;strikethrough:true; fontSize:0.0; kerning:0;} faded {offset:105; length:4;} sic {offset:105; length:4;}">
+                <Coords points="324,357 424,355 524,353 624,350 724,348 824,347 924,344 1025,342 1125,339 1269,352 1325,334 1425,330 1564,354 1625,322 1726,318 1826,312 1926,305 2026,297 2126,290 2226,281 2453,283 2443,230 2226,235 2126,244 2026,251 1926,259 1826,266 1726,272 1625,276 1518,261 1423,266 1325,288 1225,290 1125,293 1025,296 943,284 845,275 734,279 624,304 524,307 424,309 324,311"/>
+                <Baseline points="324,342 424,340 524,338 624,335 724,333 824,332 924,329 1025,327 1125,324 1225,321 1325,319 1425,315 1525,311 1625,307 1726,303 1826,297 1926,290 2026,282 2126,275 2226,266 2327,255"/>
+                <TextEquiv>
+                    <Unicode>Castn̄i Gneznen̄ nō6 nob̄ ſincere dilecti que nō6 nob̄ exhibuit et aduc in futm̄ fut͛m aucto fidei exh exhi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} textStyle {offset:6; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:29; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:63; length:4;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:72; length:7;}">
+                <Coords points="348,420 453,420 559,420 664,419 770,419 875,417 981,417 1086,416 1192,414 1297,411 1366,434 1509,406 1614,402 1720,398 1812,408 1931,386 2036,379 2142,372 2247,362 2353,351 2459,339 2459,293 2353,305 2247,316 2148,305 2037,299 1897,308 1825,332 1720,352 1614,356 1509,360 1403,364 1293,353 1193,363 1086,370 1012,349 875,371 769,358 664,373 568,362 457,359 347,361"/>
+                <Baseline points="348,405 453,405 559,405 664,404 770,404 875,402 981,402 1086,401 1192,399 1297,396 1403,395 1509,391 1614,387 1720,383 1825,377 1931,371 2036,364 2142,357 2247,347 2353,336 2459,324"/>
+                <TextEquiv>
+                    <Unicode>bebit 6ibi sibi et 6ui6 sui6 6ucꝯ succꝭ legitimi6 tamqʒ tamq̄ʒ ben̄ bn̄ nnerito et fauor̄ nr̄o nō indigno viginti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} textStyle {offset:70; length:11;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:97; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="357,482 462,483 568,486 674,488 779,489 885,491 991,492 1096,492 1202,492 1308,491 1414,489 1519,486 1625,483 1731,479 1836,475 1942,469 2048,462 2153,454 2259,444 2365,435 2471,423 2471,377 2365,389 2259,398 2167,389 2030,402 1942,423 1836,429 1741,424 1656,418 1519,440 1414,443 1311,431 1224,415 1137,411 991,446 885,445 779,443 674,442 568,440 462,437 357,436"/>
+                <Baseline points="357,467 462,468 568,471 674,473 779,474 885,476 991,477 1096,477 1202,477 1308,476 1414,474 1519,471 1625,468 1731,464 1836,460 1942,454 2048,447 2153,439 2259,429 2365,420 2471,408"/>
+                <TextEquiv>
+                    <Unicode>manſo6 tl̄i6 menſure ſicut in vill̄ nr̄i6 Nyemirzewo et Cemborow ſunt demenſurari demenſurati in 6ilua silua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} unclear {offset:60; length:4;} textStyle {offset:60; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="332,558 437,559 542,560 648,561 753,561 859,561 964,561 1088,572 1175,559 1281,558 1386,556 1491,553 1597,550 1702,546 1830,554 1913,537 2019,532 2124,525 2230,517 2335,509 2441,501 2441,461 2335,469 2273,463 2173,472 2060,477 1895,479 1806,485 1702,506 1597,510 1491,513 1386,516 1281,518 1175,519 1088,512 964,521 860,499 771,499 652,498 538,492 451,493 332,518"/>
+                <Baseline points="332,545 437,546 542,547 648,548 753,548 859,548 964,548 1070,548 1175,546 1281,545 1386,543 1491,540 1597,537 1702,533 1808,528 1913,524 2019,519 2124,512 2230,504 2335,496 2441,488"/>
+                <TextEquiv>
+                    <Unicode>nr̄a Mokow Damꝰ qui manſi eidem Staniſlao demenſurari dꝫn̄t cica circa 6cupulo6 scupulo6 ſuo6 vi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} textStyle {offset:76; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="335,621 440,624 545,627 650,630 755,631 860,631 965,633 1071,633 1176,631 1249,652 1386,628 1470,651 1596,620 1732,637 1807,610 1912,604 2017,596 2076,608 2227,578 2338,579 2438,556 2438,516 2393,506 2227,538 2154,535 2017,556 1912,564 1812,560 1649,567 1596,580 1491,584 1386,588 1281,590 1209,580 1071,593 965,593 851,578 755,591 650,590 588,569 431,573 335,581"/>
+                <Baseline points="335,608 440,611 545,614 650,617 755,618 860,618 965,620 1071,620 1176,618 1281,617 1386,615 1491,611 1596,607 1701,603 1807,597 1912,591 2017,583 2122,574 2227,565 2332,555 2438,543"/>
+                <TextEquiv>
+                    <Unicode>llarum ſuarum Othoczna et Sandzywyewo ꝑpetui6 temporib9 damni9 aſcribimꝰ et gr̄oſe grōſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} textStyle {offset:36; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:55; length:12;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:94; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="362,701 446,715 574,701 680,701 831,724 893,704 999,704 1105,706 1212,706 1318,706 1424,704 1530,703 1637,700 1743,694 1849,688 1955,679 2062,670 2183,671 2289,657 2444,632 2434,572 2274,591 2168,605 2062,619 1955,628 1849,637 1743,643 1637,649 1530,652 1424,653 1318,655 1212,655 1105,655 999,653 852,641 787,652 686,642 574,650 468,650 362,650"/>
+                <Baseline points="362,684 468,684 574,684 680,684 787,686 893,687 999,687 1105,689 1212,689 1318,689 1424,687 1530,686 1637,683 1743,677 1849,671 1955,662 2062,653 2168,639 2274,625 2381,608"/>
+                <TextEquiv>
+                    <Unicode>largimur nichil ꝓp̕etatꝭ dominÿ pro nō6 nob̄ et nr̄i6 6ucceſſorib9 succeſſorib9 in eiſɖ manẜ penit9 penitꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} textStyle {offset:0; length:9;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:61; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:71; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="341,772 442,770 544,770 645,770 747,772 827,786 950,775 1051,776 1153,778 1254,778 1356,778 1458,777 1559,775 1661,772 1762,768 1864,761 1965,753 2067,743 2168,730 2270,714 2410,697 2410,646 2270,663 2168,679 2067,692 1965,702 1864,710 1762,717 1661,721 1559,724 1458,726 1356,727 1254,727 1153,727 1051,725 950,724 848,722 747,721 661,713 544,719 442,719 341,721"/>
+                <Baseline points="341,755 442,753 544,753 645,753 747,755 848,756 950,758 1051,759 1153,761 1254,761 1356,761 1458,760 1559,758 1661,755 1762,751 1864,744 1965,736 2067,726 2168,713 2270,697 2372,680"/>
+                <TextEquiv>
+                    <Unicode>reẜ uando reẜuando damuſqʒ predicto6 manẜ eidem Staniſlao et 6ui6 sui6 6ucc̄ succꝭ legitimi6 cum om̄ib9 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} textStyle {offset:23; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:57; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="383,842 483,842 584,843 685,844 786,845 887,847 987,848 1088,850 1189,850 1310,863 1391,850 1449,861 1592,845 1695,852 1794,837 1895,831 1995,823 2096,814 2197,800 2298,788 2457,780 2425,710 2298,737 2197,749 2096,763 1995,772 1895,780 1794,786 1693,791 1592,794 1491,797 1393,787 1290,799 1189,799 1088,799 987,797 887,796 786,794 690,770 559,761 484,780 383,791"/>
+                <Baseline points="383,825 483,825 584,826 685,827 786,828 887,830 987,831 1088,833 1189,833 1290,833 1391,833 1491,831 1592,828 1693,825 1794,820 1895,814 1995,806 2096,797 2197,783 2298,771 2399,753"/>
+                <TextEquiv>
+                    <Unicode>et ſingul̄ vtilitatib9 vʒc vꝫt Agri6 pratꝭ Campi6 mericꝭ Silui6 silui6 Lacub9 Molendini6 factꝭ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="398,906 516,910 619,911 711,926 825,914 928,917 1031,919 1134,920 1237,920 1340,920 1444,920 1575,928 1652,927 1753,910 1856,904 1959,896 2079,893 2165,873 2268,858 2380,841 2373,778 2267,792 2165,822 2062,835 1960,827 1856,853 1658,864 1600,861 1572,854 1444,869 1340,869 1237,869 1134,869 1031,868 928,866 825,863 725,848 619,860 516,859 399,856"/>
+                <Baseline points="413,891 516,893 619,894 722,896 825,897 928,900 1031,902 1134,903 1237,903 1340,903 1444,903 1547,900 1650,897 1753,893 1856,887 1959,879 2062,869 2165,856 2268,841 2372,824"/>
+                <TextEquiv>
+                    <Unicode>et inpoſterum faciendꝭ om̄ibuſqʒ et ſinguli6 vtilitatib9 que in eiſdem Manẜ pronūc ſūt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} textStyle {offset:53; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="407,977 507,979 608,980 708,982 809,984 897,998 1010,986 1072,1010 1211,988 1311,988 1412,986 1512,985 1613,982 1713,979 1814,974 1914,968 2015,961 2115,953 2217,951 2354,938 2417,917 2417,866 2316,880 2216,891 2115,902 2015,910 1874,903 1814,923 1713,928 1613,931 1512,934 1412,935 1311,937 1211,937 1110,937 1010,920 911,916 809,933 708,931 608,929 507,928 407,926"/>
+                <Baseline points="407,960 507,962 608,963 708,965 809,967 909,969 1010,969 1110,971 1211,971 1311,971 1412,969 1512,968 1613,965 1713,962 1814,957 1914,951 2015,944 2115,936 2216,925 2316,914 2417,900"/>
+                <TextEquiv>
+                    <Unicode>et inpoſterum exoriri pn̄t ꝑ ip̄m Staniſlaum et ſuo6 6ucc̄ succꝭ leittimo6 ip̄o6 xx māſo6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="381,1056 485,1046 581,1046 677,1046 773,1046 869,1048 965,1049 1062,1049 1196,1057 1254,1052 1350,1052 1446,1052 1542,1052 1638,1051 1735,1048 1831,1044 1927,1040 2023,1033 2109,1032 2215,1015 2312,1003 2312,952 2215,964 2119,974 2023,982 1927,989 1831,993 1735,997 1638,1000 1542,1001 1446,1001 1350,992 1254,1001 1158,1000 1062,998 965,998 869,997 759,1004 679,971 584,988 485,995 389,997"/>
+                <Baseline points="389,1031 485,1029 581,1029 677,1029 773,1029 869,1031 965,1032 1062,1032 1158,1034 1254,1035 1350,1035 1446,1035 1542,1035 1638,1034 1735,1031 1831,1027 1927,1023 2023,1016 2119,1008 2215,998 2312,986"/>
+                <TextEquiv>
+                    <Unicode>ꝑpetue hn̄dum tenendum collocanɖ extirpandum et vſu6 ſuo6 bn̄placito6 prout ſibi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} textStyle {offset:4; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:50; length:10;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:72; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="405,1104 518,1109 614,1112 710,1114 807,1115 903,1117 999,1118 1096,1118 1192,1118 1288,1117 1385,1115 1481,1114 1577,1112 1673,1109 1770,1105 1866,1101 1962,1096 2059,1091 2155,1084 2251,1078 2348,1070 2348,1019 2251,1027 2155,1033 2059,1040 1962,1045 1866,1050 1770,1054 1673,1058 1577,1061 1481,1063 1385,1064 1288,1066 1192,1067 1095,1056 999,1067 933,1050 781,1048 710,1063 614,1061 514,1052 409,1062"/>
+                <Baseline points="422,1089 518,1092 614,1095 710,1097 807,1098 903,1100 999,1101 1096,1101 1192,1101 1288,1100 1385,1098 1481,1097 1577,1095 1673,1092 1770,1088 1866,1084 1962,1079 2059,1074 2155,1067 2251,1061 2348,1053"/>
+                <TextEquiv>
+                    <Unicode>aut 6ucc̄ succꝭ ſui6 leitꝭ ꝯu̕tendum In cuiu6 Rei teſtimoūm teſtimon̄m siḡ sigꝭ nr̄m pn̄tib9 eſt appenſum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} textStyle {offset:7; length:3;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:21; length:5;strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:87; length:10;comment:Brak\u0020znaku\u0020skrótu\u0020nad\u0020drugim\u0020\u0022o\u0022.;}">
+                <Coords points="413,1175 511,1178 632,1194 707,1182 805,1184 903,1185 1001,1185 1147,1196 1197,1185 1272,1193 1394,1182 1492,1181 1590,1178 1688,1175 1786,1172 1884,1169 1982,1163 2080,1158 2178,1153 2276,1147 2375,1142 2375,1096 2280,1081 2178,1107 2114,1094 1982,1117 1884,1123 1786,1126 1688,1129 1590,1132 1492,1135 1394,1136 1295,1138 1210,1118 1099,1139 1001,1139 903,1139 805,1138 707,1136 609,1135 510,1123 413,1129"/>
+                <Baseline points="413,1160 511,1163 609,1166 707,1167 805,1169 903,1170 1001,1170 1099,1170 1197,1170 1295,1169 1394,1167 1492,1166 1590,1163 1688,1160 1786,1157 1884,1154 1982,1148 2080,1143 2178,1138 2276,1132 2375,1127"/>
+                <TextEquiv>
+                    <Unicode>et hoc ꝓeo ꝓ eo quia 6iḡʒ sigꝭ maieſtatꝭ nr̄e ꝓtunc nō fuit paratum Actum et dat̄ in Cōvēcon̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} textStyle {offset:21; length:4;strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:39; length:8;comment:iiii\u0020?;} textStyle {offset:67; length:6;strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:93; length:5;comment:ij\u0020bez\u0020kropek;}">
+                <Coords points="401,1244 500,1244 599,1245 698,1247 798,1247 897,1248 996,1250 1096,1250 1195,1251 1294,1251 1394,1251 1493,1250 1592,1248 1691,1246 1791,1244 1890,1239 1989,1235 2089,1228 2188,1220 2287,1213 2387,1203 2387,1157 2287,1167 2188,1174 2089,1182 1989,1189 1897,1185 1786,1175 1646,1191 1592,1202 1516,1179 1394,1205 1294,1205 1221,1197 1109,1194 996,1204 897,1202 796,1192 698,1201 579,1185 500,1198 401,1198"/>
+                <Baseline points="401,1229 500,1229 599,1230 698,1232 798,1232 897,1233 996,1235 1096,1235 1195,1236 1294,1236 1394,1236 1493,1235 1592,1233 1691,1231 1791,1229 1890,1224 1989,1220 2089,1213 2188,1205 2287,1198 2387,1188"/>
+                <TextEquiv>
+                    <Unicode>Siradien̄ Gnali Anno dīy dn̄j Millēo c̄c̄c̄c̄ qūquageſimo ſc̄do 6abato sabato in craſtino Egidÿ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} textStyle {offset:8; length:7;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:24; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:69; length:7;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="401,1308 500,1310 600,1311 700,1313 800,1316 900,1317 1000,1319 1100,1319 1200,1320 1300,1320 1400,1320 1500,1320 1600,1319 1700,1317 1800,1314 1900,1311 2000,1307 2100,1302 2200,1296 2300,1289 2300,1243 2200,1250 2092,1251 2001,1255 1900,1265 1808,1234 1710,1263 1598,1247 1500,1274 1400,1274 1300,1274 1200,1274 1100,1273 1000,1273 900,1271 800,1270 700,1267 600,1265 500,1264 401,1262"/>
+                <Baseline points="401,1293 500,1295 600,1296 700,1298 800,1301 900,1302 1000,1304 1100,1304 1200,1305 1300,1305 1400,1305 1500,1305 1600,1304 1700,1302 1800,1299 1900,1296 2000,1292 2100,1287 2200,1281 2300,1274"/>
+                <TextEquiv>
+                    <Unicode>Confeſẜ p̄ntib9 pn̄tib9 ℞mi6 ℞mo ℞dꝭ qʒ in xo pr̄ib9 domī6 Wladꝭlao 6sancte sancte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;} unclear {offset:42; length:7;}">
+                <Coords points="401,1369 502,1383 593,1380 689,1383 785,1387 881,1390 977,1393 1073,1395 1169,1395 1265,1408 1352,1412 1457,1395 1553,1402 1649,1412 1745,1389 1841,1386 1937,1383 2033,1378 2129,1374 2225,1368 2329,1363 2330,1311 2228,1313 2129,1334 2033,1338 1937,1343 1842,1316 1749,1330 1649,1352 1553,1353 1457,1355 1361,1356 1265,1356 1169,1355 1073,1355 983,1323 893,1320 794,1326 705,1315 593,1340 547,1314 401,1329"/>
+                <Baseline points="401,1356 497,1362 593,1367 689,1370 785,1374 881,1377 977,1380 1073,1382 1169,1382 1265,1383 1361,1383 1457,1382 1553,1380 1649,1379 1745,1376 1841,1373 1937,1370 2033,1365 2129,1361 2225,1355 2321,1349"/>
+                <TextEquiv>
+                    <Unicode>Gnezn̄ Eclīe Archiep̄o et P̕mate Johanne Wladꝭn̄ Andrea poznanien̄ Ep̄i6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1663605926962_7" custom="readingOrder {index:17;} textStyle {offset:13; length:4;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:41; length:5;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:77; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="390,1387 2330,1374 2330,1417 2142,1437 2049,1445 1862,1459 1768,1464 1581,1470 1502,1491 1300,1473 1113,1470 1019,1467 926,1464 417,1443 390,1441"/>
+                <Baseline points="390,1424 417,1426 444,1427 458,1424 551,1431 645,1436 738,1442 832,1447 926,1451 1019,1454 1113,1457 1206,1458 1300,1460 1394,1460 1487,1458 1581,1457 1674,1454 1768,1451 1862,1446 1955,1439 2049,1432 2142,1424 2236,1414 2330,1404"/>
+                <TextEquiv>
+                    <Unicode>Magnificꝭ et Gn̄ẜ Gn͛ẜ Johanne de Czyzow Cast̄ Caſtꝭ Craccꝭ Joh̄ de Thanczin Cracc Cran̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="404,1528 507,1530 610,1532 713,1535 816,1538 919,1541 1022,1544 1125,1547 1228,1549 1331,1549 1435,1549 1538,1547 1622,1557 1744,1542 1847,1537 1950,1530 2053,1521 2156,1510 2259,1496 2382,1486 2376,1430 2257,1433 2171,1438 2069,1445 1929,1453 1847,1486 1744,1491 1641,1495 1538,1496 1435,1498 1331,1498 1228,1498 1092,1470 1028,1468 919,1490 815,1469 718,1473 610,1481 485,1469 415,1452"/>
+                <Baseline points="404,1511 507,1513 610,1515 713,1518 816,1521 919,1524 1022,1527 1125,1530 1228,1532 1331,1532 1435,1532 1538,1530 1641,1529 1744,1525 1847,1520 1950,1513 2053,1504 2156,1493 2259,1479 2363,1464"/>
+                <TextEquiv>
+                    <Unicode>Luca de Gorka poznanien̄ Andrea Odrowaſch6 de Sprowa leopolien̄ Ryczkon̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="407,1607 502,1606 598,1607 694,1609 790,1610 886,1613 982,1616 1077,1618 1173,1621 1269,1623 1365,1625 1461,1625 1557,1627 1653,1625 1748,1624 1844,1620 1940,1615 2036,1608 2132,1600 2228,1589 2324,1576 2324,1525 2228,1538 2132,1549 2036,1557 1949,1554 1834,1558 1748,1573 1653,1574 1557,1576 1461,1574 1365,1574 1269,1572 1173,1570 1077,1567 982,1565 906,1553 790,1559 694,1558 598,1556 502,1555 407,1556"/>
+                <Baseline points="407,1590 502,1589 598,1590 694,1592 790,1593 886,1596 982,1599 1077,1601 1173,1604 1269,1606 1365,1608 1461,1608 1557,1610 1653,1608 1748,1607 1844,1603 1940,1598 2036,1591 2132,1583 2228,1572 2324,1559"/>
+                <TextEquiv>
+                    <Unicode>de pomorzani podolie pallat̄ predborio de Conyeczpolye Sandomirien̄ Petro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;} textStyle {offset:53; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="398,1687 492,1685 587,1685 681,1685 776,1687 871,1688 965,1691 1060,1693 1155,1696 1249,1698 1344,1700 1439,1702 1533,1702 1628,1702 1723,1700 1817,1699 1912,1694 2007,1689 2101,1681 2196,1672 2313,1660 2307,1603 2198,1600 2101,1630 2029,1607 1912,1643 1866,1618 1723,1649 1608,1640 1533,1651 1439,1651 1344,1649 1249,1647 1134,1632 1060,1642 965,1640 871,1637 776,1636 680,1612 587,1634 492,1634 398,1636"/>
+                <Baseline points="398,1670 492,1668 587,1668 681,1668 776,1670 871,1671 965,1674 1060,1676 1155,1679 1249,1681 1344,1683 1439,1685 1533,1685 1628,1685 1723,1683 1817,1682 1912,1677 2007,1672 2101,1664 2196,1655 2291,1643"/>
+                <TextEquiv>
+                    <Unicode>de Gay Kaliſien̄ et Teodrico de Buczacz Camyeniczen̄ Castn̄i6 Cast̕ni6 dat̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;} textStyle {offset:0; length:6;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="396,1759 512,1761 612,1750 706,1753 800,1755 894,1759 988,1762 1082,1766 1176,1768 1270,1771 1364,1774 1457,1775 1551,1775 1645,1774 1739,1772 1833,1769 1927,1764 2021,1756 2115,1748 2209,1737 2322,1724 2314,1674 2202,1674 2115,1697 2021,1705 1927,1713 1833,1718 1739,1721 1645,1723 1551,1724 1457,1724 1365,1711 1270,1720 1176,1717 1082,1715 988,1711 894,1708 800,1704 706,1702 612,1699 518,1697 402,1696"/>
+                <Baseline points="425,1730 518,1731 612,1733 706,1736 800,1738 894,1742 988,1745 1082,1749 1176,1751 1270,1754 1364,1757 1457,1758 1551,1758 1645,1757 1739,1755 1833,1752 1927,1747 2021,1739 2115,1731 2209,1720 2303,1706"/>
+                <TextEquiv>
+                    <Unicode>ꝑmanu6 ꝑ manu6 Magnificorum Johanni6 de Conyeczpolye Cancellarj et petri de Scze </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;} textStyle {offset:36; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="419,1831 491,1834 554,1835 639,1825 712,1828 784,1830 856,1834 928,1835 1001,1837 1073,1840 1145,1841 1217,1843 1290,1844 1362,1846 1434,1847 1506,1847 1579,1847 1651,1847 1723,1846 1795,1846 1907,1857 1905,1771 1795,1795 1723,1795 1651,1796 1579,1796 1509,1786 1434,1776 1362,1795 1290,1793 1240,1784 1145,1790 1073,1789 1001,1786 928,1784 856,1783 784,1779 712,1777 639,1774 574,1763 495,1768 423,1765"/>
+                <Baseline points="423,1799 495,1802 567,1805 639,1808 712,1811 784,1813 856,1817 928,1818 1001,1820 1073,1823 1145,1824 1217,1826 1290,1827 1362,1829 1434,1830 1506,1830 1579,1830 1651,1830 1723,1829 1795,1829 1868,1827"/>
+                <TextEquiv>
+                    <Unicode>koczini vicecancelarj Regni polonie nō6 nob̄ ſincere dlctōꝝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;} textStyle {offset:9; length:2;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="1602,2029 1639,2029 1676,2028 1714,2027 1751,2026 1788,2023 1826,2021 1863,2018 1900,2015 1938,2012 1975,2009 2012,2005 2050,2002 2087,1999 2124,1996 2162,1994 2199,1991 2236,1989 2274,1987 2311,1985 2349,1984 2349,1933 2311,1934 2274,1936 2241,1902 2205,1898 2162,1943 2143,1933 2087,1948 2050,1951 2012,1954 1978,1935 1957,1937 1900,1964 1880,1941 1837,1939 1804,1934 1770,1933 1737,1939 1698,1935 1655,1935 1607,1939"/>
+                <Baseline points="1602,2012 1639,2012 1676,2011 1714,2010 1751,2009 1788,2006 1826,2004 1863,2001 1900,1998 1938,1995 1975,1992 2012,1988 2050,1985 2087,1982 2124,1979 2162,1977 2199,1974 2236,1972 2274,1970 2311,1968 2349,1967"/>
+                <TextEquiv>
+                    <Unicode>Rl̄o Maḡci Hincze de Rogow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;} textStyle {offset:11; length:10;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1577,2111 1606,2113 1636,2113 1666,2114 1696,2113 1725,2113 1755,2111 1785,2110 1815,2108 1844,2105 1874,2103 1904,2101 1934,2098 1963,2094 1993,2092 2023,2089 2053,2086 2082,2084 2112,2081 2142,2078 2172,2075 2172,2024 2142,2027 2112,2030 2082,2033 2053,2035 2023,2038 1993,2041 1963,2043 1936,2027 1904,2050 1874,2052 1844,2054 1815,2057 1785,2059 1755,2060 1725,2062 1696,2062 1666,2035 1636,2062 1606,2062 1577,2060"/>
+                <Baseline points="1577,2094 1606,2096 1636,2096 1666,2097 1696,2096 1725,2096 1755,2094 1785,2093 1815,2091 1844,2088 1874,2086 1904,2084 1934,2081 1963,2077 1993,2075 2023,2072 2053,2069 2082,2067 2112,2064 2142,2061 2172,2058"/>
+                <TextEquiv>
+                    <Unicode>Castellani Roſperieiẜ Roſperienẜ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>expedit vniu̕ẜ Qmō conſideratꝭ et inſp̄tꝭ inſp̕tꝭ fidelibꝯ ẜuicy6 ẜuicÿ6 magnifici Stanislai Staniſlai de Ostrorog&#13;
+Castn̄i Gneznen̄ nō6 nob̄ ſincere dilecti que nō6 nob̄ exhibuit et aduc in futm̄ fut͛m aucto fidei exh exhi&#13;
+bebit 6ibi sibi et 6ui6 sui6 6ucꝯ succꝭ legitimi6 tamqʒ tamq̄ʒ ben̄ bn̄ nnerito et fauor̄ nr̄o nō indigno viginti&#13;
+manſo6 tl̄i6 menſure ſicut in vill̄ nr̄i6 Nyemirzewo et Cemborow ſunt demenſurari demenſurati in 6ilua silua&#13;
+nr̄a Mokow Damꝰ qui manſi eidem Staniſlao demenſurari dꝫn̄t cica circa 6cupulo6 scupulo6 ſuo6 vi&#13;
+llarum ſuarum Othoczna et Sandzywyewo ꝑpetui6 temporib9 damni9 aſcribimꝰ et gr̄oſe grōſe&#13;
+largimur nichil ꝓp̕etatꝭ dominÿ pro nō6 nob̄ et nr̄i6 6ucceſſorib9 succeſſorib9 in eiſɖ manẜ penit9 penitꝰ&#13;
+reẜ uando reẜuando damuſqʒ predicto6 manẜ eidem Staniſlao et 6ui6 sui6 6ucc̄ succꝭ legitimi6 cum om̄ib9 &#13;
+et ſingul̄ vtilitatib9 vʒc vꝫt Agri6 pratꝭ Campi6 mericꝭ Silui6 silui6 Lacub9 Molendini6 factꝭ&#13;
+et inpoſterum faciendꝭ om̄ibuſqʒ et ſinguli6 vtilitatib9 que in eiſdem Manẜ pronūc ſūt&#13;
+et inpoſterum exoriri pn̄t ꝑ ip̄m Staniſlaum et ſuo6 6ucc̄ succꝭ leittimo6 ip̄o6 xx māſo6&#13;
+ꝑpetue hn̄dum tenendum collocanɖ extirpandum et vſu6 ſuo6 bn̄placito6 prout ſibi&#13;
+aut 6ucc̄ succꝭ ſui6 leitꝭ ꝯu̕tendum In cuiu6 Rei teſtimoūm teſtimon̄m siḡ sigꝭ nr̄m pn̄tib9 eſt appenſum&#13;
+et hoc ꝓeo ꝓ eo quia 6iḡʒ sigꝭ maieſtatꝭ nr̄e ꝓtunc nō fuit paratum Actum et dat̄ in Cōvēcon̄&#13;
+Siradien̄ Gnali Anno dīy dn̄j Millēo c̄c̄c̄c̄ qūquageſimo ſc̄do 6abato sabato in craſtino Egidÿ&#13;
+Confeſẜ p̄ntib9 pn̄tib9 ℞mi6 ℞mo ℞dꝭ qʒ in xo pr̄ib9 domī6 Wladꝭlao 6sancte sancte&#13;
+Gnezn̄ Eclīe Archiep̄o et P̕mate Johanne Wladꝭn̄ Andrea poznanien̄ Ep̄i6&#13;
+Magnificꝭ et Gn̄ẜ Gn͛ẜ Johanne de Czyzow Cast̄ Caſtꝭ Craccꝭ Joh̄ de Thanczin Cracc Cran̄&#13;
+Luca de Gorka poznanien̄ Andrea Odrowaſch6 de Sprowa leopolien̄ Ryczkon̄&#13;
+de pomorzani podolie pallat̄ predborio de Conyeczpolye Sandomirien̄ Petro&#13;
+de Gay Kaliſien̄ et Teodrico de Buczacz Camyeniczen̄ Castn̄i6 Cast̕ni6 dat̄&#13;
+ꝑmanu6 ꝑ manu6 Magnificorum Johanni6 de Conyeczpolye Cancellarj et petri de Scze &#13;
+koczini vicecancelarj Regni polonie nō6 nob̄ ſincere dlctōꝝ&#13;
+Rl̄o Maḡci Hincze de Rogow&#13;
+Castellani Roſperieiẜ Roſperienẜ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
