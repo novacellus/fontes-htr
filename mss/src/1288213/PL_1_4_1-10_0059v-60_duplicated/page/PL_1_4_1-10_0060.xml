@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-28T22:29:27.300+02:00</Created>
+        <LastChange>2023-02-01T12:14:34.350+01:00</LastChange>
+        <TranskribusMetadata docId="1288213" pageId="51494415" pageNr="2" tsid="112610350" status="IN_PROGRESS" userId="110750" imgUrl="https://files.transkribus.eu/Get?id=KUOFRTLTPTRLONHIURWDDDMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NDYDGPDUVJMIKCRRELLJWKMN" imageId="39085749"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0060.jpg" imageWidth="2863" imageHeight="3689">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681816254535" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1664397929523_376"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1664397929523_376" custom="readingOrder {index:0;}">
+            <Coords points="215,201 2457,254 2457,817 215,790"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+                <Coords points="374,405 470,408 563,403 676,420 756,406 852,409 948,416 1048,424 1081,427 1088,438 1144,419 1237,416 1334,418 1430,419 1526,422 1622,424 1719,427 1815,430 1828,443 1854,431 1911,432 2008,436 2104,439 2204,455 2322,460 2318,404 2203,388 2107,367 2008,375 1911,371 1815,369 1719,384 1596,333 1500,331 1430,376 1334,375 1237,373 1141,370 1045,369 957,348 861,347 756,332 659,330 563,360 467,358 371,355"/>
+                <Baseline points="371,384 467,387 563,389 659,390 756,392 852,395 948,396 1045,398 1141,399 1237,402 1334,404 1430,405 1526,408 1622,410 1719,413 1815,416 1911,418 2008,422 2104,425 2200,428 2297,432"/>
+                <TextEquiv>
+                    <Unicode>neczpole Castellano Sandomiriensi Petro de Gorn Judice et Petro Czikowski</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="378,466 471,466 565,466 658,466 752,466 815,453 846,466 939,466 1033,467 1126,467 1170,479 1220,469 1246,483 1277,470 1314,470 1353,470 1398,488 1407,472 1424,496 1457,472 1501,473 1587,488 1594,475 1688,478 1782,479 1848,485 1876,505 1907,485 1969,485 2062,488 2156,491 2250,496 2250,462 2227,468 2156,457 2062,454 1969,451 1875,448 1828,447 1807,435 1782,445 1758,429 1688,444 1594,441 1501,424 1407,423 1334,421 1314,436 1223,414 1126,433 1033,433 939,432 891,407 846,432 752,432 706,412 658,432 566,419 472,419 432,414 420,398 404,405 378,432"/>
+                <Baseline points="378,455 471,455 565,455 658,455 752,455 846,455 939,455 1033,456 1126,456 1220,458 1314,459 1407,461 1501,462 1594,464 1688,467 1782,468 1875,471 1969,474 2062,477 2156,480 2250,485"/>
+                <TextEquiv>
+                    <Unicode>Subjudice Cracoviensi et aliis quampluribus fidedignis Datum per manus ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664397991903_405" custom="readingOrder {index:2;}">
+                <Coords points="362,492 438,482 594,466 745,484 809,452 861,482 892,482 906,463 1053,483 1099,470 1206,484 1321,479 1437,487 1472,470 1518,492 1599,497 1650,482 1743,499 1776,482 1840,491 1871,511 1904,487 1967,497 1996,491 2049,494 2073,503 2099,490 2133,501 2221,511 2278,518 2278,570 2230,559 2119,552 1736,533 1716,551 1690,551 1690,533 1609,525 1576,543 1537,533 1205,517 1170,526 1145,541 1129,525 699,522 696,543 655,543 655,529 504,528 504,555 460,555 460,531 430,528 421,550 362,552"/>
+                <Baseline points="-522,530 -446,528 -369,526 -292,524 -215,523 -139,522 -62,521 15,521 92,521 169,521 245,522 322,522 399,524 476,524 553,525 629,527 706,529 783,531 860,533 937,534 978,534 1004,532 1030,531 1057,530 1083,530 1110,531 1136,533 1163,534 1189,536 1216,539 1242,541 1269,543 1295,545 1322,547 1348,549 1375,551"/>
+                <TextEquiv>
+                    <Unicode>gnificorum Johannis de Conyeczpole Cancellarii et Petri de Sczekoczini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="375,607 444,604 513,602 583,599 652,597 722,595 791,593 804,621 860,592 916,621 999,589 1069,589 1134,619 1208,589 1277,589 1346,589 1413,604 1485,590 1555,592 1624,593 1694,595 1694,552 1624,550 1555,549 1485,540 1416,539 1376,534 1346,546 1277,546 1246,519 1208,546 1181,546 1159,534 1138,546 1069,546 999,533 930,541 860,543 804,539 744,528 722,552 652,554 632,541 583,556 513,559 444,561 375,564"/>
+                <Baseline points="771,488 840,485 909,483 979,480 1048,478 1118,476 1187,474 1256,473 1326,471 1395,470 1465,470 1534,470 1604,470 1673,470 1742,470 1812,470 1881,471 1951,473 2020,474 2090,476"/>
+                <TextEquiv>
+                    <Unicode>vicecancellarii Regni Polonie sincere nobis dilectorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="1280,682 1338,682 1387,682 1435,682 1484,682 1532,682 1581,682 1629,682 1666,683 1698,696 1742,679 1775,682 1791,700 1824,683 1872,683 1907,683 1932,699 1969,685 2018,685 2066,686 2115,688 2132,705 2163,689 2192,710 2212,691 2282,692 2282,640 2212,619 2163,617 2115,636 2066,624 2018,623 1969,633 1922,617 1873,624 1823,621 1775,630 1726,630 1678,630 1629,630 1575,615 1532,630 1482,622 1437,624 1387,610 1338,610 1280,630"/>
+                <Baseline points="1290,665 1338,665 1387,665 1435,665 1484,665 1532,665 1581,665 1629,665 1678,665 1726,665 1775,665 1824,666 1872,666 1921,666 1969,668 2018,668 2066,669 2115,671 2163,672 2212,674 2261,675"/>
+                <TextEquiv>
+                    <Unicode>Ad Relacioneom magnifici Johannis prefati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1664472615166_291" custom="readingOrder {index:5;} unclear {offset:10; length:10;}">
+                <Coords points="1304,695 1348,680 1445,679 1548,693 1645,693 1682,700 1702,692 1722,685 1742,691 1765,692 1787,692 1796,706 1839,691 1868,694 1936,693 1971,699 1990,696 2011,676 2033,694 2102,686 2130,696 2227,699 2272,681 2345,677 2357,703 2325,755 2227,751 2130,748 2033,746 1936,745 1839,743 1742,743 1645,745 1548,754 1451,755 1354,747 1304,747"/>
+                <Baseline points="1304,730 1354,730 1451,729 1548,728 1645,728 1742,726 1839,726 1936,728 2033,729 2130,731 2227,734 2325,738"/>
+                <TextEquiv>
+                    <Unicode>de Czizow Castellani et Capitanei Cracoviensis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>neczpole Castellano Sandomiriensi Petro de Gorn Judice et Petro Czikowski&#13;
+Subjudice Cracoviensi et aliis quampluribus fidedignis Datum per manus ma&#13;
+gnificorum Johannis de Conyeczpole Cancellarii et Petri de Sczekoczini&#13;
+vicecancellarii Regni Polonie sincere nobis dilectorum&#13;
+Ad Relacioneom magnifici Johannis prefati&#13;
+de Czizow Castellani et Capitanei Cracoviensis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

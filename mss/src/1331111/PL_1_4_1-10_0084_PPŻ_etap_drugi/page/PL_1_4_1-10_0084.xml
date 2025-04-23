@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-21T12:14:09.609+02:00</Created>
+        <LastChange>2023-03-20T09:49:53.205+01:00</LastChange>
+        <TranskribusMetadata docId="1331111" pageId="52272702" pageNr="1" tsid="117126937" status="DONE" userId="90548" imgUrl="https://files.transkribus.eu/Get?id=QQGRHZPPSPAIPXLUSVKIVOEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DSZZKTPOFHNUKVTJFWDOYYGX" imageId="38960507"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0084.jpg" imageWidth="2863" imageHeight="3689">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681819418866" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1663756432152_621"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1663756432152_620"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1663756432152_621" custom="readingOrder {index:0;}">
+            <Coords points="349,137 2423,158 2417,1182 343,1182"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;}">
+                <Coords points="638,326 697,324 771,377 815,320 852,349 933,335 992,312 1051,351 1111,307 1170,305 1229,303 1285,338 1347,335 1406,294 1466,293 1525,290 1584,287 1643,285 1701,306 1761,279 1821,276 1821,222 1761,225 1702,227 1643,231 1584,233 1525,236 1466,239 1406,240 1347,243 1294,228 1229,249 1199,223 1069,227 1052,256 973,247 870,228 852,254 817,256 785,251 752,241 619,226"/>
+                <Baseline points="638,308 697,306 756,304 815,302 874,299 933,297 992,294 1052,292 1111,289 1170,287 1229,285 1288,282 1347,279 1406,276 1466,275 1525,272 1584,269 1643,267 1702,263 1761,261 1821,258"/>
+                <TextEquiv>
+                    <Unicode>Priuilegium confirmationis super Molendino Czechow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:1;}">
+                <Coords points="430,632 465,458 528,449 618,446 708,443 798,440 873,435 930,454 979,431 1030,429 1059,449 1094,433 1158,425 1166,447 1229,428 1241,458 1300,441 1339,418 1415,432 1429,413 1471,439 1519,409 1529,437 1609,405 1668,408 1711,418 1731,400 1730,426 1795,411 1818,392 1820,428 1834,426 1853,394 1879,392 1902,406 1969,388 2006,405 2041,400 2059,383 2149,380 2240,376 2240,343 2217,311 2149,347 2059,350 1987,327 1969,355 1879,359 1846,335 1789,363 1699,368 1645,356 1609,372 1585,345 1519,376 1438,358 1419,361 1414,369 1339,385 1347,346 1310,343 1248,389 1174,370 1158,392 1086,381 1068,397 1030,372 978,401 888,404 827,377 798,407 734,376 698,371 676,390 631,388 618,413 468,336 435,284 366,236 248,247"/>
+                <Baseline points="438,441 528,438 618,435 708,432 798,429 888,426 978,423 1068,419 1158,414 1248,411 1339,407 1429,402 1519,398 1609,394 1699,390 1789,385 1879,381 1969,377 2059,372 2149,369 2240,365"/>
+                <TextEquiv>
+                    <Unicode>In nomine Domini Amen nos Kazimirus Dei gratia Rex Polonie magnus dux Lythwanie etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:2;}">
+                <Coords points="444,503 479,524 534,500 539,534 570,500 624,496 627,492 649,508 669,491 714,492 805,488 833,498 860,485 895,485 939,483 966,512 985,480 1075,476 1089,496 1120,492 1149,495 1166,472 1256,467 1346,463 1384,489 1436,460 1527,455 1617,451 1639,465 1704,466 1707,447 1797,442 1888,439 1978,434 2068,430 2158,425 2249,421 2249,388 2158,392 2081,374 2068,397 1978,401 1888,406 1797,409 1753,399 1707,414 1617,418 1527,422 1436,427 1367,412 1346,430 1256,434 1166,439 1075,443 985,447 895,452 873,434 805,455 714,459 642,454 624,463 562,453 534,467 430,458 444,470"/>
+                <Baseline points="444,492 534,489 624,485 714,481 805,477 895,474 985,469 1075,465 1166,461 1256,456 1346,452 1436,449 1527,444 1617,440 1707,436 1797,431 1888,428 1978,423 2068,419 2158,414 2249,410"/>
+                <TextEquiv>
+                    <Unicode>significamus tenore presencium quibus expedit universis quomodo dum multe et varie litere et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="438,551 529,548 581,554 603,590 626,541 690,557 711,541 803,538 868,537 897,561 921,534 985,531 1077,527 1168,523 1228,532 1265,530 1351,515 1442,512 1539,513 1601,519 1626,525 1675,518 1716,500 1785,516 1801,510 1821,521 1898,492 1990,488 2073,524 2111,486 2172,481 2247,500 2274,431 2227,423 2176,424 2157,418 2081,451 1994,441 1899,437 1821,442 1807,462 1725,448 1697,475 1579,458 1533,474 1512,463 1442,478 1351,481 1310,458 1259,486 1221,471 1168,489 1137,466 1077,493 985,497 909,480 894,501 872,476 803,504 711,507 615,486 529,514 438,517"/>
+                <Baseline points="438,540 529,537 620,534 711,530 803,527 894,524 985,520 1077,516 1168,512 1259,509 1351,504 1442,501 1533,497 1624,493 1716,489 1807,485 1898,481 1990,477 2081,474 2172,470 2264,467"/>
+                <TextEquiv>
+                    <Unicode>controversie inter generosos et nobiles Johannem de Sczekocyny dapiferum et capitaneum nostrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="455,644 479,610 613,603 733,597 751,630 788,591 847,616 890,590 982,586 1074,581 1106,593 1166,577 1205,589 1258,571 1351,567 1443,563 1479,576 1535,558 1626,576 1660,553 1894,538 1924,563 1944,548 2088,539 2113,565 2133,534 2180,537 2190,556 2218,533 2232,568 2280,545 2299,537 2313,462 2226,492 2180,501 2136,485 2082,509 1996,506 1990,491 1931,498 1899,490 1812,510 1719,501 1672,525 1633,510 1574,517 1518,507 1442,516 1375,511 1351,531 1348,513 1258,535 1170,514 1166,541 1074,545 1059,531 982,550 890,554 797,552 739,539 705,563 638,541 609,573 521,572 429,575"/>
+                <Baseline points="429,599 521,596 613,591 705,587 797,583 890,578 982,574 1074,569 1166,565 1258,559 1351,555 1443,551 1535,546 1627,542 1719,539 1812,534 1904,532 1996,530 2088,527 2180,525 2273,525"/>
+                <TextEquiv>
+                    <Unicode>protunc Lublinensem ex una et nobilem Nicolaum Czibulka heredem de Czechow consurexisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="418,661 500,655 520,705 543,659 567,690 584,657 662,653 698,702 699,652 723,652 773,672 814,649 906,644 964,654 997,639 1088,635 1179,629 1270,624 1360,633 1410,624 1453,615 1532,610 1549,625 1587,602 1635,606 1651,631 1691,599 1726,602 1790,633 1909,595 2000,593 2089,610 2181,599 2255,618 2288,598 2314,536 2180,541 2126,555 2079,539 2022,542 1949,542 1854,542 1726,565 1673,547 1622,570 1544,573 1453,578 1410,570 1362,582 1341,573 1270,587 1179,592 1088,598 1077,584 997,602 922,585 878,600 837,609 795,598 756,616 745,604 719,597 632,619 586,607 558,607 536,612 450,623"/>
+                <Baseline points="450,648 541,647 632,644 723,640 814,637 906,632 997,627 1088,623 1179,617 1270,612 1362,607 1453,603 1544,598 1635,594 1726,590 1818,587 1909,583 2000,581 2091,579 2182,578 2274,579"/>
+                <TextEquiv>
+                    <Unicode>et suscitate fuissent occasione molendini in Czechow in quo ipse capitaneus noster Lublinensis hominibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;} unclear {offset:61; length:6;}">
+                <Coords points="444,717 469,739 536,717 628,715 721,712 813,708 875,704 932,712 1006,692 1080,714 1115,703 1170,704 1220,687 1368,678 1397,688 1460,672 1521,668 1539,693 1552,666 1645,662 1737,657 1781,650 1817,685 1830,652 1924,642 2100,645 2108,708 2137,642 2324,646 2318,587 2199,604 2089,613 1977,592 1883,599 1830,613 1737,618 1719,604 1645,623 1631,623 1574,613 1538,627 1460,633 1409,631 1371,623 1352,640 1275,645 1195,632 1183,650 1119,635 1090,655 1083,635 998,660 958,645 906,665 813,669 764,659 721,673 628,676 558,665 536,678 444,678"/>
+                <Baseline points="444,704 536,704 628,702 721,699 813,695 906,691 998,686 1090,681 1183,676 1275,671 1368,665 1460,659 1552,653 1645,649 1737,644 1830,639 1922,636 2014,633 2107,632 2199,630 2292,632"/>
+                <TextEquiv>
+                    <Unicode>ex suburio civitatis Lublinensis in molendino Czechow ipsius molere prohibebat in preiudicium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;}">
+                <Coords points="461,793 542,797 617,770 667,787 799,763 880,777 981,755 1054,776 1108,755 1152,771 1254,738 1299,739 1323,756 1362,735 1414,761 1432,728 1458,762 1466,754 1521,760 1563,724 1615,755 1678,736 1700,715 1800,707 1902,714 1982,698 2106,706 2164,692 2277,691 2255,655 2164,658 2073,660 1915,639 1858,648 1800,673 1730,677 1683,660 1618,683 1527,688 1421,678 1345,700 1222,683 1111,704 1058,711 984,702 901,706 799,729 740,702 617,736 550,710 427,739"/>
+                <Baseline points="435,762 526,761 617,759 708,756 799,752 890,748 981,744 1072,738 1163,734 1254,727 1345,723 1436,716 1527,711 1618,706 1709,700 1800,696 1891,691 1982,687 2073,683 2164,681 2255,678"/>
+                <TextEquiv>
+                    <Unicode>prefati Nicolai Czebulka juriumque suorum que se super prefata molicione dive memorie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:8;}">
+                <Coords points="421,814 445,834 519,848 561,829 627,823 657,833 718,820 809,817 899,813 929,835 990,809 1081,805 1172,800 1190,832 1262,796 1353,790 1444,784 1535,779 1589,796 1664,804 1807,762 1898,757 1988,750 2079,745 2137,754 2203,736 2276,742 2324,688 2170,706 2079,711 1988,716 1917,714 1800,699 1673,720 1625,739 1535,745 1444,750 1417,747 1387,737 1353,756 1282,739 1262,762 1227,746 1172,766 1146,769 1114,756 1081,771 990,775 955,752 899,779 809,783 771,767 716,774 643,782 625,769 536,790 461,787 446,790"/>
+                <Baseline points="446,813 536,813 627,812 718,809 809,806 899,802 990,798 1081,794 1172,789 1262,785 1353,779 1444,773 1535,768 1625,762 1716,756 1807,751 1898,746 1988,739 2079,734 2170,729 2261,725"/>
+                <TextEquiv>
+                    <Unicode>regis Kazimiri antecessoris nostri asserebat obtinere nosque de veritate tam nobis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:9;} textStyle {offset:0; length:4;strikethrough:true;} corr {offset:83; length:7;}">
+                <Coords points="441,885 531,883 622,879 713,876 798,899 894,867 985,863 996,898 1064,855 1269,868 1348,842 1438,838 1465,861 1620,826 1720,841 1800,809 1930,820 1982,802 2073,797 2204,814 2255,786 2270,735 2164,755 2073,761 2014,746 1892,772 1811,756 1710,785 1620,790 1529,795 1438,802 1348,786 1256,810 1134,802 1075,823 1042,805 833,811 803,836 686,818 622,843 531,847 441,849"/>
+                <Baseline points="441,873 531,871 622,867 713,864 803,860 894,855 985,851 1075,847 1166,842 1257,837 1348,830 1438,826 1529,819 1620,814 1710,809 1801,803 1892,796 1982,790 2073,785 2164,779 2255,774"/>
+                <TextEquiv>
+                    <Unicode>quam et nostro capitaneo quam ipsi Nicolao Czibulka impendenda wolemus experiri et cuiquam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:10;}">
+                <Coords points="459,934 548,934 568,971 612,934 680,929 693,961 727,931 817,928 886,948 907,924 943,945 996,921 1083,934 1086,916 1176,912 1245,911 1269,922 1296,903 1355,901 1445,894 1534,889 1545,910 1624,883 1714,877 1788,896 1803,871 1846,870 1861,895 1931,880 1983,861 2036,878 2072,855 2142,868 2162,850 2208,871 2261,878 2278,836 2260,804 2195,792 2158,792 2072,816 1983,822 1882,817 1803,832 1714,838 1624,844 1544,839 1527,842 1453,846 1434,835 1359,853 1329,849 1247,863 1176,873 1163,859 1086,877 998,895 967,859 917,885 796,896 747,884 715,866 638,894 592,877 548,895 459,895"/>
+                <Baseline points="459,921 548,921 638,920 727,918 817,915 907,911 996,908 1086,903 1176,899 1265,894 1355,888 1445,881 1534,876 1624,870 1714,864 1803,858 1893,852 1983,848 2072,842 2162,837 2252,833"/>
+                <TextEquiv>
+                    <Unicode>de insana sanere prefato Nicolao Czibulka litteras jura et privilegia que se super</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:11;}">
+                <Coords points="442,1005 546,989 745,992 789,1013 817,981 907,978 997,975 1087,971 1256,964 1288,985 1358,958 1438,966 1585,955 1634,943 1701,945 1799,969 1900,925 1990,919 2079,927 2170,909 2261,903 2261,864 2168,864 2110,860 1990,880 1873,893 1821,872 1719,897 1628,885 1539,909 1454,898 1354,905 1294,911 1179,923 1087,932 1010,923 907,939 817,942 756,932 640,936 534,932 456,938"/>
+                <Baseline points="456,978 546,976 636,974 726,971 817,968 907,965 997,962 1087,958 1178,953 1268,948 1358,945 1448,939 1539,935 1629,929 1719,923 1809,918 1900,912 1990,906 2080,901 2170,896 2261,890"/>
+                <TextEquiv>
+                    <Unicode>huiusmodi libertacione pretendit obtinere comisimus conspectui nostro representare et exhibere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="446,1064 554,1044 646,1041 689,1059 738,1038 830,1035 906,1053 922,1032 1014,1027 1069,1056 1192,1018 1223,1044 1290,1015 1382,1011 1450,1025 1566,1002 1598,1028 1813,1016 1863,1009 1895,983 2026,976 2123,994 2210,965 2320,960 2302,884 2210,925 2159,900 2026,936 1972,911 1842,947 1750,952 1658,937 1551,954 1475,953 1397,977 1281,980 1239,956 1106,984 1014,987 922,992 905,976 841,977 830,995 738,998 703,980 646,1001 528,996 462,1005"/>
+                <Baseline points="462,1032 554,1031 646,1028 738,1025 830,1022 922,1019 1014,1014 1106,1011 1198,1007 1290,1002 1382,998 1474,993 1566,989 1658,983 1750,979 1842,974 1934,968 2026,963 2118,957 2210,952 2303,947"/>
+                <TextEquiv>
+                    <Unicode>quibus revisis et diligenter per consiliarios nostros auscultatis prefatam litteram ipsius domini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:13;} corr {offset:75; length:8;}">
+                <Coords points="461,1106 497,1119 650,1101 722,1118 744,1098 773,1113 839,1095 926,1101 992,1112 1147,1095 1217,1078 1311,1073 1413,1086 1501,1063 1595,1058 1690,1052 1777,1069 1879,1043 1973,1038 2126,1032 2160,1063 2203,1030 2352,1025 2352,988 2192,965 2162,994 2068,997 1993,979 1892,1000 1784,1011 1690,1015 1595,1021 1532,1003 1406,1030 1267,1016 1217,1041 1191,1017 1094,1048 936,1047 839,1058 784,1031 744,1061 650,1064 476,1050 445,1067"/>
+                <Baseline points="461,1094 555,1092 650,1089 744,1086 839,1083 933,1079 1028,1075 1122,1070 1217,1066 1311,1061 1406,1055 1501,1051 1595,1046 1690,1040 1784,1036 1879,1031 1973,1026 2068,1022 2162,1019 2257,1016 2352,1013"/>
+                <TextEquiv>
+                    <Unicode>Kazimiri regis Polonie antecessoris nostri decrevimus sentenciavimus robur obtinere firmitatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:14;} textStyle {offset:9; length:9;strikethrough:true;}">
+                <Coords points="435,1167 606,1165 642,1156 762,1167 830,1151 904,1172 1005,1187 1111,1140 1139,1155 1298,1133 1362,1151 1486,1123 1552,1152 1642,1147 1767,1109 1861,1104 1955,1100 2048,1096 2127,1112 2204,1118 2369,1138 2380,1037 2243,1037 2111,1036 2048,1059 1963,1053 1894,1040 1763,1067 1668,1066 1578,1061 1452,1073 1392,1091 1330,1075 1205,1100 1160,1088 1015,1096 925,1106 844,1087 732,1112 650,1109 536,1107 455,1121"/>
+                <Baseline points="455,1146 548,1146 642,1144 736,1142 830,1139 923,1136 1017,1133 1111,1128 1205,1125 1298,1121 1392,1116 1486,1111 1580,1106 1673,1101 1767,1097 1861,1092 1955,1088 2048,1084 2142,1080 2236,1077 2330,1074"/>
+                <TextEquiv>
+                    <Unicode>actum in Sanomiria Lublyn feria quarta in vigilia ascensionis Domini anno etc. quinquagesimo secundo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Priuilegium confirmationis super Molendino Czechow
+In nomine Domini Amen nos Kazimirus Dei gratia Rex Polonie magnus dux Lythwanie etc.
+significamus tenore presencium quibus expedit universis quomodo dum multe et varie litere et
+controversie inter generosos et nobiles Johannem de Sczekocyny dapiferum et capitaneum nostrum
+protunc Lublinensem ex una et nobilem Nicolaum Czibulka heredem de Czechow consurexisse
+et suscitate fuissent occasione molendini in Czechow in quo ipse capitaneus noster Lublinensis hominibus
+ex suburio civitatis Lublinensis in molendino Czechow ipsius molere prohibebat in preiudicium
+prefati Nicolai Czebulka juriumque suorum que se super prefata molicione dive memorie
+regis Kazimiri antecessoris nostri asserebat obtinere nosque de veritate tam nobis
+quam et nostro capitaneo quam ipsi Nicolao Czibulka impendenda wolemus experiri et cuiquam
+de insana sanere prefato Nicolao Czibulka litteras jura et privilegia que se super
+huiusmodi libertacione pretendit obtinere comisimus conspectui nostro representare et exhibere
+quibus revisis et diligenter per consiliarios nostros auscultatis prefatam litteram ipsius domini
+Kazimiri regis Polonie antecessoris nostri decrevimus sentenciavimus robur obtinere firmitatis
+actum in Sanomiria Lublyn feria quarta in vigilia ascensionis Domini anno etc. quinquagesimo secundo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1663756432152_620" custom="readingOrder {index:1;}">
+            <Coords points="343,1182 2417,1182 2413,2090 339,2069"/>
+            <TextLine id="r2l20" custom="readingOrder {index:0;}">
+                <Coords points="854,1293 898,1293 942,1293 986,1293 1031,1293 1075,1293 1119,1293 1164,1292 1158,1338 1252,1290 1297,1289 1341,1287 1385,1287 1429,1285 1474,1284 1518,1283 1562,1281 1607,1280 1651,1278 1695,1277 1740,1275 1796,1245 1840,1206 1680,1191 1607,1190 1562,1227 1518,1229 1474,1230 1429,1231 1378,1209 1341,1233 1296,1202 1252,1236 1208,1237 1164,1238 1119,1239 1075,1239 1031,1239 986,1239 979,1208 972,1178 813,1179"/>
+                <Baseline points="854,1275 898,1275 942,1275 986,1275 1031,1275 1075,1275 1119,1275 1164,1274 1208,1273 1252,1272 1297,1271 1341,1269 1385,1269 1429,1267 1474,1266 1518,1265 1562,1263 1607,1262 1651,1260 1695,1259 1740,1257"/>
+                <TextEquiv>
+                    <Unicode>Arenda pro theloneo Cracowiensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:1;}">
+                <Coords points="432,1463 573,1454 676,1462 759,1447 852,1442 882,1437 910,1474 964,1440 1038,1435 1110,1467 1152,1435 1182,1460 1206,1435 1224,1437 1318,1424 1400,1433 1460,1435 1498,1460 1548,1419 1589,1454 1621,1415 1638,1415 1673,1470 1714,1428 1797,1418 1877,1408 1970,1406 2046,1430 2208,1401 2242,1440 2364,1402 2373,1333 2263,1340 2182,1330 2094,1360 2066,1306 1877,1375 1793,1363 1721,1342 1593,1366 1504,1385 1415,1378 1318,1391 1249,1342 1132,1399 1085,1364 988,1354 874,1385 759,1414 666,1418 786,1153 444,1159"/>
+                <Baseline points="480,1448 573,1443 666,1440 759,1436 852,1431 945,1428 1038,1424 1132,1421 1225,1416 1318,1413 1411,1410 1504,1407 1597,1404 1690,1401 1784,1399 1877,1397 1970,1395 2063,1394 2156,1394 2249,1392 2343,1392"/>
+                <TextEquiv>
+                    <Unicode>Kazimirus Dei gracia rex Polonie magnus dux Lithwanie heres Russie etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:2;}">
+                <Coords points="457,1519 532,1537 573,1502 598,1527 666,1501 760,1499 924,1498 936,1523 975,1503 1040,1493 1085,1496 1123,1522 1155,1494 1227,1487 1290,1485 1309,1519 1365,1518 1507,1481 1601,1478 1657,1498 1788,1474 1881,1472 1975,1471 2068,1469 2162,1468 2242,1481 2254,1512 2281,1472 2359,1464 2366,1411 2239,1433 2198,1398 2062,1432 1975,1438 1883,1415 1774,1406 1698,1433 1629,1416 1507,1448 1413,1434 1321,1453 1196,1429 1134,1457 1031,1420 947,1462 865,1434 758,1458 666,1468 605,1443 454,1463"/>
+                <Baseline points="480,1493 573,1491 666,1490 760,1488 853,1486 947,1484 1040,1482 1134,1479 1227,1476 1321,1475 1414,1472 1507,1470 1601,1467 1694,1466 1788,1463 1881,1461 1975,1460 2068,1458 2162,1457 2255,1457 2349,1455"/>
+                <TextEquiv>
+                    <Unicode>significamus tenore presencium quibus expedit universis quomodo inter certas nostre solli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:3;}">
+                <Coords points="461,1565 578,1557 672,1556 766,1553 888,1570 954,1550 1053,1574 1123,1547 1235,1545 1329,1544 1423,1542 1519,1535 1610,1541 1734,1539 1779,1566 1940,1562 1985,1536 2066,1551 2173,1535 2267,1533 2392,1550 2377,1467 2267,1496 2206,1471 2079,1499 1994,1489 1887,1475 1798,1501 1621,1483 1542,1483 1516,1504 1423,1505 1379,1487 1254,1487 1141,1510 1047,1511 923,1492 860,1514 766,1516 672,1519 570,1510 485,1523"/>
+                <Baseline points="485,1548 578,1545 672,1544 766,1541 860,1539 954,1538 1047,1536 1141,1535 1235,1533 1329,1532 1423,1530 1516,1529 1610,1529 1704,1527 1798,1526 1892,1526 1985,1524 2079,1524 2173,1523 2267,1521 2361,1521"/>
+                <TextEquiv>
+                    <Unicode>citudinis curas plerumque in annis nostro revoluitur ut proventus regni nostri nobis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:4;} gap {offset:83; length:0;}">
+                <Coords points="474,1620 568,1615 662,1611 733,1611 762,1646 850,1605 945,1602 983,1628 1039,1601 1180,1606 1213,1660 1240,1610 1377,1597 1414,1625 1442,1610 1491,1591 1604,1598 1698,1598 1728,1624 1792,1598 1860,1627 1908,1601 1981,1598 2007,1617 2075,1598 2169,1598 2263,1596 2405,1618 2407,1549 2283,1548 2247,1539 2169,1561 2102,1542 2052,1562 1981,1561 1887,1561 1792,1561 1750,1542 1705,1542 1607,1531 1575,1556 1549,1538 1497,1528 1413,1556 1327,1551 1262,1542 1214,1551 1133,1534 1039,1564 945,1565 850,1568 830,1555 756,1571 662,1574 582,1565 568,1578 525,1566 474,1583"/>
+                <Baseline points="474,1608 568,1603 662,1599 756,1596 850,1593 945,1590 1039,1589 1133,1587 1227,1587 1321,1586 1416,1586 1510,1586 1604,1586 1698,1586 1792,1586 1887,1586 1981,1586 2075,1586 2169,1586 2263,1584 2358,1584"/>
+                <TextEquiv>
+                    <Unicode>ab alto concessos tempore nostri felicis regiminis commodose augeamus cum autem thelonea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:5;}">
+                <Coords points="453,1689 547,1685 642,1680 736,1676 802,1681 926,1670 1020,1668 1115,1667 1228,1700 1304,1664 1399,1664 1494,1662 1588,1662 1683,1662 1778,1664 1872,1664 1967,1664 2126,1665 2178,1683 2251,1667 2375,1693 2371,1617 2251,1613 2156,1611 2062,1611 1967,1610 1783,1601 1744,1606 1671,1607 1494,1586 1417,1629 1399,1610 1382,1591 1210,1611 1109,1601 1020,1614 926,1616 764,1607 736,1622 642,1626 527,1613 453,1635"/>
+                <Baseline points="453,1671 547,1667 642,1662 736,1658 831,1655 926,1652 1020,1650 1115,1649 1210,1647 1304,1646 1399,1646 1494,1644 1588,1644 1683,1644 1778,1646 1872,1646 1967,1646 2062,1647 2156,1647 2251,1649 2346,1650"/>
+                <TextEquiv>
+                    <Unicode>nostra Cracoviensia in sorte aliorum proventuum nostrorum non minori extimacione contra reputamus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:6;}">
+                <Coords points="438,1757 621,1743 645,1774 748,1751 814,1740 943,1734 1038,1731 1133,1728 1255,1751 1323,1725 1418,1725 1513,1724 1608,1724 1703,1724 1798,1724 1909,1754 1964,1757 2083,1727 2178,1728 2273,1730 2369,1731 2369,1685 2295,1669 2130,1658 2083,1681 1988,1679 1937,1660 1798,1678 1703,1678 1576,1664 1513,1678 1418,1679 1342,1664 1228,1681 1133,1682 1049,1681 935,1671 848,1691 783,1674 664,1692 551,1672 415,1703"/>
+                <Baseline points="468,1739 563,1733 658,1729 753,1725 848,1722 943,1719 1038,1716 1133,1713 1228,1712 1323,1710 1418,1710 1513,1709 1608,1709 1703,1709 1798,1709 1893,1709 1988,1710 2083,1712 2178,1713 2273,1715 2369,1716"/>
+                <TextEquiv>
+                    <Unicode>volentes sic ipsorum commodo et augmento intendere matura desuper deliberacione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:7;} corr {offset:31; length:4;}">
+                <Coords points="479,1816 475,1844 572,1810 666,1805 759,1802 818,1796 840,1817 867,1815 947,1796 1040,1795 1100,1813 1134,1792 1227,1792 1321,1790 1415,1790 1508,1790 1602,1790 1695,1790 1702,1809 1753,1790 1781,1819 1789,1792 1883,1792 1976,1793 2012,1819 2090,1788 2111,1809 2145,1793 2236,1795 2248,1830 2257,1795 2295,1790 2419,1823 2351,1752 2299,1733 2199,1731 2070,1750 1981,1743 1923,1755 1798,1730 1695,1747 1602,1733 1443,1723 1415,1747 1321,1747 1227,1749 1134,1749 1037,1750 945,1738 787,1738 752,1761 666,1762 610,1740 447,1768"/>
+                <Baseline points="479,1802 572,1796 666,1791 759,1788 853,1785 947,1782 1040,1781 1134,1778 1227,1778 1321,1776 1415,1776 1508,1776 1602,1776 1695,1776 1789,1778 1883,1778 1976,1779 2070,1779 2163,1781 2257,1781 2351,1781"/>
+                <TextEquiv>
+                    <Unicode>prehibita nobili Johanni Marci civi nostro Cracoviensi cuius fidem et ingenii industriam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:8;} corr {offset:9; length:13;}">
+                <Coords points="452,1875 566,1870 709,1863 790,1891 872,1858 974,1855 1025,1876 1178,1852 1280,1850 1419,1843 1488,1889 1586,1852 1688,1853 1745,1869 1864,1870 1994,1876 2034,1850 2165,1888 2300,1868 2337,1898 2403,1828 2300,1790 2204,1797 2102,1779 1999,1821 1957,1795 1738,1788 1688,1810 1586,1809 1484,1807 1406,1786 1216,1788 1178,1809 1076,1810 974,1812 865,1806 744,1802 668,1822 591,1813 464,1833"/>
+                <Baseline points="464,1862 566,1856 668,1851 770,1847 872,1844 974,1841 1076,1839 1178,1838 1280,1836 1382,1836 1484,1836 1586,1838 1688,1839 1790,1841 1892,1842 1994,1845 2096,1848 2198,1851 2300,1854 2403,1857"/>
+                <TextEquiv>
+                    <Unicode>a multis multipliciter recepimus commendatam exinde de ipso plenam habentes fiduciam ipsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:9;}">
+                <Coords points="459,1936 604,1940 650,1929 745,1925 841,1922 937,1919 1044,1909 1128,1915 1224,1913 1296,1934 1415,1910 1511,1910 1606,1910 1702,1912 1798,1913 1893,1915 2005,1943 2085,1922 2180,1926 2276,1931 2372,1937 2372,1894 2288,1878 2180,1883 2041,1847 1989,1875 1893,1872 1798,1870 1702,1869 1631,1834 1471,1881 1402,1842 1319,1869 1224,1870 1128,1872 1032,1873 956,1857 841,1879 736,1878 650,1866 520,1868 459,1893"/>
+                <Baseline points="459,1922 554,1918 650,1915 745,1911 841,1908 937,1905 1032,1902 1128,1901 1224,1899 1319,1898 1415,1896 1511,1896 1606,1896 1702,1898 1798,1899 1893,1901 1989,1904 2085,1908 2180,1912 2276,1917 2372,1923"/>
+                <TextEquiv>
+                    <Unicode>nostra theolonea Cracoviensia a die date presencium ad trium annorum decursum inmediate </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:10;}">
+                <Coords points="459,2021 560,2019 627,2010 757,2019 857,1981 934,2021 1052,1976 1149,1974 1246,1973 1343,1986 1441,1972 1538,1972 1636,1973 1733,1975 1830,1976 1928,1978 2034,2006 2122,1984 2245,1983 2323,2006 2440,2010 2415,1951 2317,1947 2191,1924 2122,1941 2007,1941 1936,1919 1842,1917 1733,1932 1636,1930 1516,1906 1441,1929 1344,1929 1257,1912 1159,1904 1042,1906 954,1935 857,1938 760,1941 656,1924 547,1943 455,1951"/>
+                <Baseline points="468,1983 565,1979 662,1974 760,1970 857,1967 954,1964 1052,1962 1149,1960 1246,1959 1344,1958 1441,1958 1538,1958 1636,1959 1733,1961 1830,1962 1928,1964 2025,1967 2122,1970 2220,1973 2317,1976 2415,1980"/>
+                <TextEquiv>
+                    <Unicode>se sequencium tenore presencium convenimus vendidimus et arendamus pro mille septin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:11;}">
+                <Coords points="387,2064 453,2089 485,2056 510,2054 535,2054 560,2055 585,2056 610,2056 635,2054 660,2054 685,2053 693,2085 735,2084 833,1972 764,1955 689,1983 650,1982 628,1992 605,2007 585,2013 560,2012 535,2011 510,2011 485,2013 460,2013 417,2005"/>
+                <Baseline points="435,2043 460,2042 485,2042 510,2040 535,2040 560,2041 585,2042 610,2042 635,2040 660,2040 685,2039 710,2038 735,2036"/>
+                <TextEquiv>
+                    <Unicode>gentis marcis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Arenda pro theloneo Cracowiensi
+Kazimirus Dei gracia rex Polonie magnus dux Lithwanie heres Russie etc.
+significamus tenore presencium quibus expedit universis quomodo inter certas nostre solli
+citudinis curas plerumque in annis nostro revoluitur ut proventus regni nostri nobis
+ab alto concessos tempore nostri felicis regiminis commodose augeamus cum autem thelonea
+nostra Cracoviensia in sorte aliorum proventuum nostrorum non minori extimacione contra reputamus
+volentes sic ipsorum commodo et augmento intendere matura desuper deliberacione
+prehibita nobili Johanni Marci civi nostro Cracoviensi cuius fidem et ingenii industriam
+a multis multipliciter recepimus commendatam exinde de ipso plenam habentes fiduciam ipsi
+nostra theolonea Cracoviensia a die date presencium ad trium annorum decursum inmediate 
+se sequencium tenore presencium convenimus vendidimus et arendamus pro mille septin
+gentis marcis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

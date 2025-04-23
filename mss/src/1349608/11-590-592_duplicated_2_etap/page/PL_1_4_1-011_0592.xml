@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Gothic_Book_Scripts_XIII-XV_M4(htr_id=19285)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-07T01:16:16.780+01:00</Created>
+        <LastChange>2023-03-30T14:07:21.888+02:00</LastChange>
+        <TranskribusMetadata docId="1349608" pageId="52976418" pageNr="3" tsid="117705339" status="IN_PROGRESS" userId="110750" imgUrl="https://files.transkribus.eu/Get?id=TOIYQQSVOJJHISYQTUQVPHVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJFIDTGFKFMHNAXRMKYGJQMT" imageId="40332428"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-011_0592.jpg" imageWidth="2625" imageHeight="3500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681816269460" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="356,308 356,3224 2048,3224 2048,308"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="425,516 529,534 694,517 858,545 913,525 1055,528 1176,523 1347,520 1633,522 1874,545 2018,533 2022,456 1670,451 1580,456 1441,452 1233,459 1077,479 727,469 594,446 425,464"/>
+                <Baseline points="435,497 513,500 592,501 670,503 749,504 828,504 906,506 985,505 1063,504 1142,504 1221,504 1299,503 1378,503 1456,503 1535,503 1614,503 1692,504 1771,506 1849,507 1928,509 2007,513"/>
+                <TextEquiv>
+                    <Unicode>in ipsa racione non reproductas aut exhibitas dictum Georgium et Magdalenam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;} corr {offset:11; length:6;}">
+                <Coords points="419,605 477,595 643,592 707,613 764,600 832,594 876,610 944,586 1051,596 1150,607 1302,599 1411,604 1524,589 1679,600 1747,602 1835,597 1915,591 2042,596 2032,528 1955,538 1861,544 1763,542 1628,539 1526,532 1432,538 1316,530 1249,541 1072,544 905,528 871,545 816,546 736,533 638,539 533,541 418,540"/>
+                <Baseline points="428,575 507,575 587,575 667,575 746,575 826,575 906,573 985,573 1065,573 1145,572 1225,572 1304,572 1384,572 1464,571 1543,570 1623,570 1703,570 1782,570 1862,570 1942,572 2022,572"/>
+                <TextEquiv>
+                    <Unicode>habere aut postea reproducere contingat tales ipsis Georgio et Magdalene coram nobis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} unclear {offset:78; length:2;}">
+                <Coords points="424,677 487,684 525,663 586,672 611,685 666,669 791,663 837,670 913,658 1097,658 1163,659 1214,685 1268,664 1435,659 1506,664 1567,673 1606,650 1687,664 1773,674 1828,653 1927,671 2005,662 2004,595 1933,606 1904,581 1782,605 1718,610 1640,598 1556,599 1454,597 1406,614 1355,612 1281,604 1177,611 1107,597 1054,608 981,586 947,596 902,618 862,617 800,599 758,615 699,624 649,613 559,602 483,612 424,610"/>
+                <Baseline points="434,645 512,645 590,647 668,647 746,647 824,645 902,645 980,645 1058,645 1136,644 1214,644 1292,643 1370,642 1448,642 1526,641 1604,641 1682,641 1760,641 1838,639 1916,639 1995,639"/>
+                <TextEquiv>
+                    <Unicode>de facto consencientibus et annuentibus cassamus anullamus nulliusque roborum ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} unclear {offset:0; length:7;}">
+                <Coords points="388,729 460,735 588,725 625,744 685,725 977,726 1013,756 1038,729 1440,723 1496,766 1523,741 1586,738 1688,707 1753,719 1992,722 1992,662 1825,662 1752,679 1664,663 1591,679 1552,686 1407,686 1328,661 1269,680 1204,693 1118,669 977,670 845,667 791,668 721,670 642,682 586,691 535,676 484,696 402,691"/>
+                <Baseline points="398,719 477,716 556,714 635,713 714,713 794,713 873,713 952,713 1031,713 1110,713 1190,714 1269,714 1348,714 1427,714 1506,714 1586,713 1665,713 1744,711 1823,708 1902,706 1982,702"/>
+                <TextEquiv>
+                    <Unicode>monniti esse decernimus tenore presencium mediante demptis litteris tribus et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} unclear {offset:64; length:6;} unclear {offset:71; length:2;}">
+                <Coords points="429,826 453,820 483,803 608,793 639,810 693,800 727,838 753,800 833,793 942,836 1018,785 1025,793 1291,793 1462,818 1571,804 1623,835 1648,790 1806,776 1836,818 1869,787 2020,799 2020,734 1931,736 1784,736 1660,736 1555,741 1516,761 1324,753 1129,741 1009,758 937,745 705,739 624,754 500,734 429,745"/>
+                <Baseline points="440,789 518,788 596,786 675,785 753,783 832,783 910,783 989,783 1067,783 1146,783 1224,783 1302,783 1381,782 1459,782 1538,780 1616,779 1695,777 1773,775 1852,772 1930,768 2009,764"/>
+                <TextEquiv>
+                    <Unicode>presentibus exclusis una super mille marcas in quibus scultella picari et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="413,842 425,886 475,883 512,898 623,889 726,875 839,875 1037,857 1179,873 1227,907 1257,880 1386,887 1536,887 1586,874 1667,890 1737,860 1796,870 1941,882 1984,867 1992,814 1835,817 1708,810 1678,813 1627,835 1569,819 1465,831 1376,815 1313,822 1133,811 1014,809 976,823 900,827 791,825 711,823 668,810 557,831 475,840 425,826"/>
+                <Baseline points="435,864 512,861 589,858 666,857 743,855 820,855 897,855 974,855 1051,855 1128,857 1205,857 1282,858 1359,858 1436,860 1513,860 1590,858 1667,858 1744,857 1821,854 1898,851 1976,846"/>
+                <TextEquiv>
+                    <Unicode>vasa argentea Secunda vero debitum quadringentorum florenorum Hungaricalium in se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;} unclear {offset:76; length:4;}">
+                <Coords points="416,967 550,953 665,957 850,938 999,923 1050,942 1185,947 1284,951 1338,964 1517,953 1678,953 1774,964 1865,947 1932,942 1960,983 2016,936 2022,871 1803,887 1685,898 1628,897 1560,890 1526,899 1453,912 1217,903 958,886 755,884 712,881 629,901 527,894 508,910 471,906 416,921"/>
+                <Baseline points="426,945 505,940 584,936 663,933 743,931 822,929 901,929 981,929 1060,929 1139,929 1219,930 1298,930 1377,932 1456,932 1536,933 1615,933 1694,932 1774,932 1853,930 1932,927 2012,924"/>
+                <TextEquiv>
+                    <Unicode>continens in quibus due selle deaurate et argento reformate et confecte etc apud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="433,1034 499,1059 553,1045 595,1031 687,1031 767,1010 898,1016 952,1028 1044,1015 1259,1017 1353,1018 1402,1035 1474,1021 1544,1018 1571,1027 1665,1029 1740,1037 1799,1024 1869,1020 1949,1028 2008,1029 2008,975 1968,976 1912,957 1787,974 1630,963 1515,957 1448,959 1371,958 1308,971 1234,953 1115,965 988,965 876,959 745,965 698,973 624,968 517,971 487,985 421,989"/>
+                <Baseline points="441,1017 518,1013 596,1010 674,1006 752,1004 830,1002 907,1001 985,1001 1063,999 1141,999 1219,1001 1296,1001 1374,1001 1452,1002 1530,1003 1608,1004 1685,1005 1763,1005 1841,1005 1919,1005 1997,1005"/>
+                <TextEquiv>
+                    <Unicode>eosdem Georgium et Magdalenam in titulum obligacionis sunt reposita que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="409,1108 487,1101 523,1110 578,1096 646,1111 694,1108 762,1094 849,1105 955,1091 1166,1093 1330,1099 1493,1086 1639,1083 1721,1091 1926,1091 1987,1089 1996,1037 1949,1036 1899,1041 1812,1029 1743,1059 1648,1030 1558,1043 1543,1021 1506,1026 1429,1024 1396,1043 1375,1040 1310,1031 1190,1024 1096,1022 1007,1026 930,1024 869,1024 791,1035 694,1043 562,1043 495,1062 408,1054"/>
+                <Baseline points="420,1091 497,1086 575,1082 653,1080 731,1077 809,1076 886,1074 964,1073 1042,1073 1120,1073 1198,1073 1275,1073 1353,1073 1431,1074 1509,1074 1587,1076 1664,1076 1742,1076 1820,1077 1898,1077 1976,1077"/>
+                <TextEquiv>
+                    <Unicode>non sunt posite ad predictam racionem Tercia vero littera debitum trium milium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="418,1202 455,1170 533,1187 555,1180 609,1181 679,1171 849,1165 901,1144 1086,1167 1137,1154 1808,1154 1847,1180 1986,1165 1992,1100 1950,1084 1866,1099 1806,1096 1715,1092 1616,1098 1520,1098 1436,1089 1412,1111 1265,1114 1095,1107 927,1104 865,1114 784,1100 741,1107 680,1121 633,1112 588,1117 532,1126 454,1116 417,1109"/>
+                <Baseline points="429,1157 506,1154 583,1151 661,1148 738,1146 815,1145 893,1143 970,1142 1047,1140 1125,1140 1202,1139 1279,1139 1357,1139 1434,1139 1511,1139 1589,1139 1666,1140 1743,1140 1821,1140 1898,1142 1976,1142"/>
+                <TextEquiv>
+                    <Unicode>florenorum in se continens quod in cussione monete nostre de nostris lucris per dictos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;} corr {offset:47; length:8;}">
+                <Coords points="402,1243 534,1250 601,1241 655,1236 733,1248 817,1232 983,1236 1166,1230 1457,1241 1619,1220 1725,1248 1819,1239 1897,1259 1938,1235 1993,1242 1993,1167 1938,1173 1844,1176 1802,1157 1736,1172 1661,1164 1592,1169 1491,1171 1288,1169 1191,1160 1116,1175 1048,1165 963,1173 852,1171 790,1175 701,1182 629,1197 567,1181 537,1194 458,1188 414,1209"/>
+                <Baseline points="390,1230 469,1227 549,1224 628,1221 708,1219 788,1217 867,1215 947,1214 1026,1212 1106,1211 1186,1211 1265,1209 1345,1209 1424,1211 1504,1211 1584,1211 1663,1212 1743,1214 1822,1215 1902,1217 1982,1220"/>
+                <TextEquiv>
+                    <Unicode>Georgium et Magdalenam apud Nobiles et famosos Valterum Kezinger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="415,1330 424,1355 436,1356 533,1310 761,1307 895,1315 1107,1308 1208,1310 1392,1317 1541,1309 1595,1333 1633,1301 1726,1282 1767,1303 1955,1300 2036,1339 2037,1247 1921,1251 1841,1248 1746,1252 1676,1241 1577,1241 1478,1259 1428,1234 1347,1254 1160,1239 1117,1241 969,1256 804,1259 689,1247 623,1266 549,1257 466,1270 415,1277"/>
+                <Baseline points="425,1301 503,1298 582,1296 661,1295 740,1293 818,1290 897,1289 976,1288 1055,1287 1133,1286 1212,1286 1291,1284 1370,1284 1448,1284 1527,1284 1606,1284 1685,1284 1763,1286 1842,1287 1921,1287 2000,1289"/>
+                <TextEquiv>
+                    <Unicode>procuratorem nostrum Cracoviensem et Stanislaum Mornsteen Magistros Monetariorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="416,1402 480,1387 664,1379 793,1385 916,1401 969,1397 1000,1386 1380,1377 1609,1379 1842,1375 1944,1396 1974,1379 1965,1343 1888,1297 1853,1316 1804,1311 1775,1328 1664,1318 1618,1324 1553,1314 1507,1320 1435,1315 1398,1335 1313,1320 1206,1320 1120,1328 1079,1324 935,1332 868,1311 832,1325 764,1313 719,1329 634,1317 587,1329 509,1322 488,1349 415,1352"/>
+                <Baseline points="426,1377 502,1374 579,1373 656,1370 733,1368 810,1367 887,1365 964,1364 1041,1362 1118,1361 1195,1361 1271,1361 1348,1359 1425,1359 1502,1359 1579,1359 1656,1359 1733,1359 1810,1359 1887,1361 1964,1361"/>
+                <TextEquiv>
+                    <Unicode>nostrorum debuit levari percipi et excudi de cujus debiti trium Milium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="431,1484 666,1470 872,1474 938,1457 1186,1443 1291,1451 1313,1476 1346,1470 1351,1456 1628,1435 1749,1444 1778,1469 1800,1473 1829,1465 1842,1449 1933,1452 1996,1437 1992,1401 1952,1401 1918,1389 1769,1381 1642,1397 1473,1391 1374,1392 1194,1393 1034,1395 973,1407 923,1401 890,1407 863,1396 794,1387 743,1390 687,1381 658,1396 624,1397 588,1421 509,1407 431,1409"/>
+                <Baseline points="426,1454 508,1451 590,1448 672,1446 754,1445 836,1443 918,1442 1000,1440 1082,1439 1164,1439 1246,1437 1328,1437 1410,1436 1492,1436 1574,1434 1656,1434 1738,1434 1820,1433 1902,1433 1985,1431"/>
+                <TextEquiv>
+                    <Unicode>florenorum Hungaricalium solucione nonnulla difficultas inter nos prefatos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="334,1582 440,1564 460,1549 484,1563 521,1561 574,1546 770,1545 810,1556 932,1540 1161,1532 1210,1546 1329,1533 1595,1534 1765,1527 1907,1528 1988,1532 1985,1470 1912,1465 1814,1489 1724,1454 1578,1467 1518,1478 1411,1461 1391,1482 1329,1495 1282,1470 1247,1483 1159,1485 988,1467 872,1474 771,1487 703,1492 614,1485 528,1498 461,1487 355,1470 313,1495"/>
+                <Baseline points="414,1529 492,1529 570,1529 648,1529 726,1527 804,1526 882,1524 961,1521 1039,1520 1117,1517 1195,1515 1273,1513 1351,1511 1429,1511 1508,1509 1586,1509 1664,1509 1742,1511 1820,1512 1898,1515 1977,1520"/>
+                <TextEquiv>
+                    <Unicode>Zupparios et Magistros Monetariorum nostrorum intervenit Cujus littere et debiti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="419,1612 496,1633 671,1615 818,1621 958,1607 1158,1611 1529,1605 1693,1614 1881,1612 1979,1604 1978,1535 1865,1523 1678,1534 1529,1540 1305,1537 1238,1560 1110,1543 985,1540 882,1571 767,1552 655,1566 496,1575 419,1564"/>
+                <Baseline points="429,1605 510,1604 591,1602 672,1601 753,1599 834,1596 915,1593 996,1592 1077,1590 1158,1587 1239,1585 1320,1583 1401,1581 1482,1580 1563,1579 1644,1578 1725,1578 1806,1578 1887,1580 1968,1581"/>
+                <TextEquiv>
+                    <Unicode>decisionem ad meliorem et clariorem informacionem ac indagacionem presentibus reservamus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;} unclear {offset:21; length:14;}">
+                <Coords points="330,1725 457,1724 545,1717 634,1716 645,1701 744,1699 803,1677 968,1662 1059,1675 1106,1693 1165,1679 1281,1687 1324,1688 1410,1692 2005,1674 2019,1621 1881,1618 1756,1617 1663,1609 1600,1624 1542,1598 1502,1614 1453,1609 1238,1612 1136,1631 1011,1609 907,1618 813,1633 707,1634 628,1642 561,1655 471,1628 328,1615"/>
+                <Baseline points="393,1683 473,1680 553,1677 633,1674 713,1671 793,1668 873,1665 953,1664 1033,1661 1113,1659 1193,1658 1273,1656 1353,1655 1433,1653 1513,1653 1593,1653 1673,1653 1753,1655 1833,1655 1913,1657 1994,1659"/>
+                <TextEquiv>
+                    <Unicode>Insuper si contingat domino volente quod unus ex ipsis consortibus Georgio et Ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="408,1819 445,1809 487,1785 665,1787 888,1759 998,1785 1056,1761 1224,1762 1323,1773 1360,1778 1382,1759 1412,1790 1484,1736 1527,1755 1603,1746 1674,1768 1760,1757 1856,1774 1887,1763 1965,1749 1974,1704 1815,1685 1676,1697 1438,1692 1345,1701 1204,1705 1097,1709 997,1702 905,1692 831,1687 812,1709 690,1707 588,1737 552,1721 510,1739 464,1740 404,1759"/>
+                <Baseline points="405,1778 483,1774 561,1770 639,1766 717,1761 795,1757 873,1753 951,1749 1029,1746 1107,1743 1185,1740 1263,1737 1341,1736 1419,1734 1497,1733 1575,1733 1653,1733 1731,1734 1809,1736 1887,1738 1965,1740"/>
+                <TextEquiv>
+                    <Unicode>gdalena ab hac luce decesserit extunc superstes ex eis qui remanserit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="429,1893 456,1888 464,1870 550,1870 821,1854 948,1839 995,1871 1042,1867 1063,1828 1091,1846 1395,1840 1428,1869 1459,1837 1654,1808 1734,1856 1757,1829 1814,1838 1832,1828 1991,1814 1990,1773 1871,1780 1769,1770 1710,1774 1626,1762 1522,1764 1481,1750 1448,1775 1414,1790 1347,1788 1279,1771 1234,1783 1165,1786 1089,1767 1060,1771 1003,1791 872,1781 761,1781 723,1798 625,1807 496,1805 427,1814"/>
+                <Baseline points="438,1850 515,1846 592,1842 669,1839 746,1835 823,1832 900,1829 977,1826 1054,1823 1131,1821 1209,1820 1286,1817 1363,1816 1440,1814 1517,1813 1594,1812 1671,1811 1748,1811 1825,1809 1902,1809 1980,1809"/>
+                <TextEquiv>
+                    <Unicode>succedet in omnia jura et propinquitates alterius presentis nostre inscripcionis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="359,1945 461,1968 513,1968 559,1969 592,1955 650,1988 672,1949 735,1939 873,1957 974,1947 1026,1922 1108,1939 1177,1943 1231,1914 1299,1902 1414,1912 1457,1920 1592,1886 1743,1919 1968,1904 1966,1850 1837,1826 1813,1844 1735,1851 1659,1840 1566,1840 1431,1869 1380,1849 1329,1858 1204,1856 1077,1855 1062,1871 992,1871 942,1851 877,1878 808,1859 759,1881 653,1881 497,1881 357,1897"/>
+                <Baseline points="429,1926 505,1926 581,1925 658,1923 734,1922 810,1919 887,1916 963,1911 1039,1909 1116,1904 1192,1901 1268,1896 1345,1893 1421,1890 1497,1887 1574,1886 1650,1884 1726,1883 1803,1883 1879,1884 1956,1886"/>
+                <TextEquiv>
+                    <Unicode>Insuper promittimus quod prefatos Zupparios Georgium et Magdalenam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="440,2031 518,2035 651,2032 747,2025 1028,2009 1139,2015 1252,2004 1539,1985 1615,2013 1676,1986 1749,2006 1824,1976 1976,1974 1973,1908 1877,1924 1750,1929 1678,1909 1564,1932 1446,1921 1385,1931 1314,1917 1227,1936 1133,1953 1068,1943 1021,1961 897,1977 813,1966 741,1978 651,1988 580,1982 446,1978"/>
+                <Baseline points="438,2016 514,2015 590,2013 667,2010 743,2007 819,2004 896,2000 972,1997 1048,1994 1125,1989 1201,1985 1277,1982 1354,1977 1430,1974 1506,1971 1583,1968 1659,1965 1735,1964 1812,1962 1888,1961 1965,1961"/>
+                <TextEquiv>
+                    <Unicode>Quittanciis mandatis aut Recognicionibus nostris ex sale ipso minuto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="441,2143 480,2117 482,2106 562,2106 959,2116 1022,2087 1138,2067 1296,2074 1382,2085 1411,2078 1428,2065 1568,2063 1658,2063 1785,2068 1864,2053 1908,2074 1938,2038 2004,2047 2002,1989 1952,1980 1882,2000 1787,2011 1741,2012 1611,2011 1555,1992 1423,2007 1162,2015 1038,2023 888,2023 755,2032 616,2049 506,2035 481,2058 437,2051"/>
+                <Baseline points="450,2094 527,2091 604,2088 681,2085 758,2082 836,2079 913,2076 990,2072 1067,2069 1144,2066 1222,2062 1299,2058 1376,2055 1453,2052 1530,2049 1608,2045 1685,2042 1762,2039 1839,2036 1916,2033 1994,2030"/>
+                <TextEquiv>
+                    <Unicode>solvendis aut quibusuis personis dandis non gravabimus aut quovismodo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="452,2198 486,2203 551,2177 786,2185 870,2170 985,2153 1043,2173 1136,2161 1179,2191 1228,2168 1276,2182 1359,2153 1437,2144 1524,2148 1604,2133 1639,2133 2023,2130 2016,2078 1940,2070 1896,2064 1840,2047 1804,2078 1766,2071 1689,2061 1619,2081 1558,2069 1454,2078 1387,2103 1086,2092 1000,2121 934,2125 822,2129 688,2118 566,2134 490,2113 466,2135 449,2135"/>
+                <Baseline points="438,2169 516,2168 594,2166 673,2163 751,2161 830,2159 908,2154 986,2151 1065,2147 1143,2144 1222,2139 1300,2136 1378,2132 1457,2129 1535,2124 1614,2121 1692,2118 1770,2115 1849,2114 1927,2112 2006,2111"/>
+                <TextEquiv>
+                    <Unicode>opprimemus A quorum recepcione ipsos penitus habere volumus liberos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="431,2269 636,2280 651,2262 820,2252 1023,2231 1144,2239 1182,2274 1209,2256 1261,2255 1308,2213 1426,2244 1463,2244 1511,2223 1652,2225 1689,2250 1738,2224 1827,2230 1874,2203 1922,2218 1963,2197 2035,2192 2032,2132 1976,2140 1938,2126 1869,2150 1726,2167 1578,2151 1514,2169 1442,2144 1345,2162 1281,2184 1228,2188 1158,2188 1059,2175 988,2186 942,2185 820,2189 749,2211 684,2204 488,2219 436,2222"/>
+                <Baseline points="441,2247 520,2247 599,2246 678,2244 757,2241 837,2238 916,2234 995,2230 1074,2226 1153,2222 1233,2217 1312,2213 1391,2208 1470,2204 1549,2199 1629,2196 1708,2193 1787,2190 1866,2187 1945,2186 2025,2184"/>
+                <TextEquiv>
+                    <Unicode>et exemptos Que omnia et singula prefatis Zupparis nostris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="433,2351 495,2352 695,2355 747,2360 806,2335 958,2353 1053,2301 1110,2319 1177,2318 1204,2358 1257,2335 1272,2308 1316,2314 1364,2330 1399,2298 1470,2300 1483,2350 1526,2327 1555,2301 1652,2311 1755,2279 1870,2299 1897,2329 1939,2285 2024,2280 1997,2198 1960,2228 1921,2229 1883,2240 1800,2239 1678,2239 1585,2248 1470,2252 1353,2256 1227,2251 1187,2271 1100,2268 1013,2253 873,2268 704,2284 661,2300 627,2282 523,2283 470,2285 431,2301"/>
+                <Baseline points="441,2336 519,2334 598,2331 676,2328 755,2325 833,2321 912,2318 990,2312 1069,2309 1147,2304 1226,2299 1305,2294 1383,2289 1462,2285 1540,2280 1619,2277 1697,2274 1776,2270 1854,2268 1933,2267 2012,2265"/>
+                <TextEquiv>
+                    <Unicode>verbo nostro Regio adimplere et easdem in premissis conservare et conservari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="441,2431 548,2435 590,2464 618,2469 706,2429 846,2405 931,2443 956,2416 1227,2390 1346,2418 1375,2393 1539,2368 1650,2383 1886,2395 2060,2378 2056,2292 1974,2296 1895,2329 1849,2296 1764,2286 1653,2324 1494,2345 1404,2320 1362,2341 1281,2319 1257,2341 1194,2344 1098,2357 991,2345 961,2376 901,2376 812,2342 778,2356 740,2370 633,2386 510,2360 434,2367"/>
+                <Baseline points="447,2418 527,2417 607,2415 687,2411 767,2408 847,2404 927,2400 1007,2395 1087,2391 1167,2387 1247,2381 1327,2377 1407,2373 1487,2370 1567,2366 1647,2363 1727,2360 1807,2358 1887,2358 1967,2358 2048,2358"/>
+                <TextEquiv>
+                    <Unicode>debere promittimus et pollicemur tenore presencium mediante harum quibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="430,2542 563,2532 707,2562 832,2503 936,2551 988,2504 1025,2528 1076,2507 1156,2527 1225,2523 1396,2526 1535,2467 1611,2486 1790,2461 1881,2468 1961,2487 1949,2427 1916,2399 1864,2401 1779,2395 1692,2393 1553,2397 1471,2394 1379,2405 1336,2431 1230,2428 1098,2419 927,2442 793,2431 676,2449 614,2473 548,2473 423,2469"/>
+                <Baseline points="437,2520 512,2514 588,2508 663,2503 739,2498 815,2493 890,2490 966,2486 1042,2482 1117,2478 1193,2475 1269,2472 1344,2469 1420,2466 1496,2463 1571,2459 1647,2456 1723,2453 1798,2449 1874,2446 1950,2442"/>
+                <TextEquiv>
+                    <Unicode>Sigillum nostrum presentibus est subappensum testimonio litterarum Datum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="410,2626 464,2619 568,2619 647,2613 680,2649 729,2618 844,2633 864,2632 998,2592 1099,2597 1175,2598 1202,2628 1249,2635 1291,2602 1390,2588 1465,2576 1551,2581 1576,2614 1645,2608 1703,2549 2020,2547 2017,2501 1747,2494 1607,2490 1512,2478 1458,2537 1295,2533 1224,2532 1126,2544 1037,2533 967,2558 921,2555 869,2510 818,2557 730,2566 569,2541 532,2528 506,2536 484,2561 392,2576"/>
+                <Baseline points="408,2598 488,2598 568,2597 648,2595 728,2593 808,2591 888,2587 968,2584 1048,2580 1128,2576 1208,2573 1288,2567 1368,2564 1448,2559 1528,2555 1608,2551 1688,2547 1768,2543 1848,2539 1928,2535 2009,2532"/>
+                <TextEquiv>
+                    <Unicode>in Brzesczne feria Sexta proxima ante festum Sancti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
+                <Coords points="421,2726 582,2738 649,2720 910,2698 1150,2683 1322,2670 1476,2705 1618,2658 1737,2668 1780,2700 1825,2658 2019,2635 2017,2579 1847,2563 1757,2574 1671,2607 1587,2622 1423,2587 1370,2617 1234,2640 1043,2619 991,2614 904,2643 840,2659 719,2644 672,2668 568,2660 419,2647"/>
+                <Baseline points="432,2693 510,2691 589,2690 668,2688 747,2686 826,2684 905,2681 983,2678 1062,2676 1141,2673 1220,2670 1299,2667 1378,2663 1457,2660 1535,2657 1614,2653 1693,2649 1772,2646 1851,2642 1930,2639 2009,2634"/>
+                <TextEquiv>
+                    <Unicode>Dionisii Anno Domini millesimo quadringentesimo quadragesimo tercio presentibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;} unclear {offset:31; length:3;}">
+                <Coords points="431,2827 479,2817 575,2828 639,2800 784,2823 837,2815 896,2828 915,2805 1025,2809 1150,2791 1299,2798 1559,2753 1666,2790 2030,2786 2028,2709 1778,2712 1680,2684 1472,2723 1239,2685 1106,2745 1040,2720 894,2729 743,2740 627,2732 564,2751 496,2751 426,2762"/>
+                <Baseline points="441,2805 519,2799 598,2796 677,2790 756,2787 835,2783 914,2780 993,2777 1072,2774 1151,2771 1230,2768 1308,2766 1387,2765 1466,2763 1545,2762 1624,2760 1703,2759 1782,2759 1861,2758 1940,2757 2019,2757"/>
+                <TextEquiv>
+                    <Unicode>ibidem Magnificis et Generosis etc Datum per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="347,2916 489,2919 714,2914 905,2908 958,2931 987,2900 1192,2901 1356,2904 1454,2883 1585,2878 1765,2889 1894,2910 2032,2878 1991,2803 1716,2799 1675,2815 1584,2790 1523,2781 1430,2798 1315,2809 1227,2823 1141,2840 1131,2820 1069,2813 1021,2814 996,2830 878,2836 698,2825 567,2871 472,2857 346,2868"/>
+                <Baseline points="356,2897 439,2898 522,2900 605,2898 689,2897 772,2895 855,2893 938,2889 1022,2886 1105,2882 1188,2879 1271,2874 1355,2871 1438,2868 1521,2865 1604,2861 1688,2859 1771,2858 1854,2856 1937,2856 2021,2858"/>
+                <TextEquiv>
+                    <Unicode>manus Reverendi patris domini Johannis de Brzeszye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:31;}">
+                <Coords points="455,3043 579,3001 674,3040 740,3045 820,2991 1130,3032 1276,3056 1626,2983 1624,2923 1621,2879 1550,2879 1474,2896 1375,2913 1299,2895 1157,2931 1123,2937 1011,2908 948,2938 881,2946 805,2909 705,2920 582,2931 452,2926"/>
+                <Baseline points="431,2996 490,2994 549,2991 608,2990 668,2988 727,2987 786,2985 845,2985 905,2984 964,2982 1023,2981 1082,2979 1142,2978 1201,2976 1260,2974 1319,2972 1379,2969 1438,2966 1497,2961 1556,2957 1616,2952"/>
+                <TextEquiv>
+                    <Unicode>Electi Confirmati Wladislaviensis Regni Polonie vicecancellarius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:32;}">
+                <Coords points="1248,3157 1442,3142 1477,3115 1635,3119 1711,3178 1756,3142 1888,3149 2008,3110 2008,3089 1920,3046 1776,3058 1736,3038 1699,3060 1571,2997 1416,3061 1247,3089"/>
+                <Baseline points="1259,3131 1297,3125 1336,3121 1375,3117 1414,3114 1453,3112 1492,3110 1531,3108 1570,3108 1609,3107 1647,3107 1686,3107 1725,3108 1764,3109 1803,3110 1842,3111 1881,3111 1920,3113 1959,3114 1998,3114"/>
+                <TextEquiv>
+                    <Unicode>Ad Relacionem ejusdem Reverendi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:33;}">
+                <Coords points="1307,3222 1369,3212 1434,3255 1502,3238 1546,3261 1600,3257 1656,3225 1798,3200 1835,3212 1835,3150 1756,3142 1710,3175 1650,3127 1571,3165 1517,3132 1454,3130 1373,3178 1335,3149 1306,3160"/>
+                <Baseline points="1316,3203 1341,3203 1367,3203 1392,3203 1418,3203 1443,3203 1469,3203 1494,3203 1520,3203 1545,3203 1571,3203 1596,3204 1622,3204 1647,3204 1673,3204 1698,3203 1724,3203 1749,3203 1775,3201 1800,3200 1826,3200"/>
+                <TextEquiv>
+                    <Unicode>in Christo patris etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in ipsa racione non reproductas aut exhibitas dictum Georgium et Magdalenam&#13;
+habere aut postea reproducere contingat tales ipsis Georgio et Magdalene coram nobis&#13;
+de facto consencientibus et annuentibus cassamus anullamus nulliusque roborum ad&#13;
+monniti esse decernimus tenore presencium mediante demptis litteris tribus et&#13;
+presentibus exclusis una super mille marcas in quibus scultella picari et&#13;
+vasa argentea Secunda vero debitum quadringentorum florenorum Hungaricalium in se&#13;
+continens in quibus due selle deaurate et argento reformate et confecte etc apud&#13;
+eosdem Georgium et Magdalenam in titulum obligacionis sunt reposita que&#13;
+non sunt posite ad predictam racionem Tercia vero littera debitum trium milium&#13;
+florenorum in se continens quod in cussione monete nostre de nostris lucris per dictos&#13;
+Georgium et Magdalenam apud Nobiles et famosos Valterum Kezinger&#13;
+procuratorem nostrum Cracoviensem et Stanislaum Mornsteen Magistros Monetariorum&#13;
+nostrorum debuit levari percipi et excudi de cujus debiti trium Milium&#13;
+florenorum Hungaricalium solucione nonnulla difficultas inter nos prefatos&#13;
+Zupparios et Magistros Monetariorum nostrorum intervenit Cujus littere et debiti&#13;
+decisionem ad meliorem et clariorem informacionem ac indagacionem presentibus reservamus&#13;
+Insuper si contingat domino volente quod unus ex ipsis consortibus Georgio et Ma&#13;
+gdalena ab hac luce decesserit extunc superstes ex eis qui remanserit&#13;
+succedet in omnia jura et propinquitates alterius presentis nostre inscripcionis&#13;
+Insuper promittimus quod prefatos Zupparios Georgium et Magdalenam&#13;
+Quittanciis mandatis aut Recognicionibus nostris ex sale ipso minuto&#13;
+solvendis aut quibusuis personis dandis non gravabimus aut quovismodo&#13;
+opprimemus A quorum recepcione ipsos penitus habere volumus liberos&#13;
+et exemptos Que omnia et singula prefatis Zupparis nostris&#13;
+verbo nostro Regio adimplere et easdem in premissis conservare et conservari&#13;
+debere promittimus et pollicemur tenore presencium mediante harum quibus&#13;
+Sigillum nostrum presentibus est subappensum testimonio litterarum Datum&#13;
+in Brzesczne feria Sexta proxima ante festum Sancti&#13;
+Dionisii Anno Domini millesimo quadringentesimo quadragesimo tercio presentibus&#13;
+ibidem Magnificis et Generosis etc Datum per&#13;
+manus Reverendi patris domini Johannis de Brzeszye&#13;
+Electi Confirmati Wladislaviensis Regni Polonie vicecancellarius&#13;
+Ad Relacionem ejusdem Reverendi&#13;
+in Christo patris etc</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

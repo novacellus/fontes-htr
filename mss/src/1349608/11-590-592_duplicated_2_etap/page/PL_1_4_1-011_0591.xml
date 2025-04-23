@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Gothic_Book_Scripts_XIII-XV_M4(htr_id=19285)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-07T01:16:16.711+01:00</Created>
+        <LastChange>2023-03-30T14:06:21.961+02:00</LastChange>
+        <TranskribusMetadata docId="1349608" pageId="52976416" pageNr="2" tsid="117705305" status="IN_PROGRESS" userId="110750" imgUrl="https://files.transkribus.eu/Get?id=DBOCRJATCXRCDFDTQCAKEPLD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EDCUVUGJKPAZPBBIUPTIGRLF" imageId="40332427"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-011_0591.jpg" imageWidth="2597" imageHeight="3500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681816269391" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="557,305 557,3116 2172,3116 2172,305"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="546,571 593,580 744,569 860,589 952,568 1183,562 1433,593 1554,565 1675,600 1735,578 1830,577 1892,593 1953,565 2034,555 2129,550 2129,466 1988,490 1860,502 1508,483 1026,511 546,472"/>
+                <Baseline points="557,549 635,549 713,549 791,549 869,549 947,549 1025,549 1103,551 1181,551 1259,551 1337,551 1415,551 1493,551 1571,551 1649,549 1727,549 1805,548 1883,546 1961,545 2039,543 2118,540"/>
+                <TextEquiv>
+                    <Unicode>legittimi successores tenebunt habebunt percipient et pacifice possidebunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="555,647 627,642 732,640 784,657 823,637 904,646 1029,641 1176,622 1245,655 1316,647 1425,643 1509,649 1582,658 1635,661 1741,650 1840,637 1869,627 1991,641 2126,600 2130,573 2103,546 2023,573 1985,573 1909,583 1841,584 1775,582 1742,602 1637,588 1557,579 1499,579 1450,598 1415,600 1330,591 1232,571 1170,568 1157,582 1101,592 975,582 878,595 771,594 664,581 555,601"/>
+                <Baseline points="566,626 643,624 720,622 798,621 875,620 953,620 1030,620 1108,621 1185,621 1263,623 1340,623 1417,623 1495,623 1572,622 1650,621 1727,619 1805,616 1882,612 1960,608 2037,602 2115,594"/>
+                <TextEquiv>
+                    <Unicode>modo zuppariorum nostrorum et aliarum quaruncunque personarum ex quacunque necessitate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="563,713 623,714 648,720 694,708 823,707 1004,705 1148,701 1218,701 1251,717 1277,711 1334,701 1460,695 1620,711 1715,702 1770,722 1814,705 1885,715 1950,697 1988,737 2026,694 2074,684 2144,715 2144,619 2042,624 1983,646 1950,646 1867,633 1815,652 1701,653 1639,661 1529,663 1475,658 1340,652 1303,659 1262,659 1183,651 1123,652 1001,650 918,655 869,652 835,664 790,664 721,650 653,667 563,661"/>
+                <Baseline points="573,698 650,695 728,692 805,690 883,690 961,689 1038,689 1116,689 1194,690 1271,690 1349,690 1427,690 1504,692 1582,692 1660,690 1737,689 1815,688 1893,686 1970,683 2048,678 2126,674"/>
+                <TextEquiv>
+                    <Unicode>impedimento et condiccione in his cessantibus tandiu quo ad usque prefatarum summarum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="566,814 603,798 622,781 777,764 862,792 924,790 966,794 1018,810 1052,780 1166,775 1224,793 1287,771 1514,769 1542,760 1643,776 1675,809 1691,774 1775,769 1916,763 2128,754 2118,708 2047,695 1998,730 1918,713 1813,714 1778,728 1723,711 1676,719 1589,722 1512,709 1470,719 1404,725 1288,705 1251,720 1078,700 1012,721 890,717 797,743 700,716 614,723 566,740"/>
+                <Baseline points="576,765 653,764 730,764 807,762 884,762 961,761 1038,761 1115,761 1192,761 1269,761 1346,759 1423,759 1500,759 1577,758 1654,758 1731,756 1808,755 1885,753 1962,750 2039,749 2117,744"/>
+                <TextEquiv>
+                    <Unicode>plenam et integram percepcionem excussionem extenuacionem et defalcacionem Qua summa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="581,880 638,852 779,837 840,851 975,863 1035,845 1216,853 1340,864 1381,851 1431,859 1474,847 1568,851 1648,871 1685,839 1789,822 1888,856 1908,833 1993,861 2021,833 2121,823 2120,755 2016,781 1984,776 1911,762 1866,774 1800,774 1758,791 1683,793 1610,790 1471,795 1324,805 1216,795 1143,796 1068,784 1030,803 987,800 889,801 772,787 725,805 660,814 580,812"/>
+                <Baseline points="590,836 666,836 742,836 818,836 894,836 970,836 1046,834 1122,833 1198,833 1274,831 1350,830 1426,828 1502,827 1578,825 1654,824 1730,822 1806,820 1882,818 1958,816 2034,815 2111,813"/>
+                <TextEquiv>
+                    <Unicode>per memoratos zupparios nostros sive successores eorum sive alterum ipsorum sic de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="575,955 623,933 694,924 810,921 962,912 1081,936 1146,931 1172,918 1257,942 1320,934 1382,903 1504,932 1561,908 1770,905 1876,891 1969,936 2012,898 2139,887 2127,828 2045,851 1992,861 1882,861 1805,842 1764,855 1653,864 1551,855 1463,863 1391,864 1346,873 1297,870 1174,865 991,873 870,877 808,872 660,873 574,881"/>
+                <Baseline points="584,908 661,906 738,905 815,903 893,903 970,902 1047,902 1124,900 1202,900 1279,899 1356,899 1433,897 1511,897 1588,896 1665,894 1742,893 1820,891 1897,888 1974,885 2051,882 2129,879"/>
+                <TextEquiv>
+                    <Unicode>falcata extenuata et percepta possessio dicti salis minuti ad nos spectabit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="565,993 827,1005 903,996 1069,994 1201,995 1275,989 1329,1024 1347,984 1569,974 1698,982 1772,994 1924,981 2128,975 2127,899 2059,920 2013,923 1941,916 1872,924 1764,929 1629,932 1518,932 1475,948 1404,931 1354,909 1291,950 1242,955 1093,935 1015,941 865,927 769,937 706,929 657,952 565,965"/>
+                <Baseline points="575,983 652,981 729,979 806,978 883,977 960,975 1037,974 1114,974 1191,972 1268,972 1346,971 1423,971 1500,969 1577,969 1654,968 1731,967 1808,966 1885,965 1962,963 2039,962 2117,960"/>
+                <TextEquiv>
+                    <Unicode>et revertetur pleno jure Sed quia prelibati Georgius et Magdalena Zupparii nostri vigore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="575,1068 665,1069 768,1079 889,1067 1072,1074 1116,1098 1142,1066 1189,1057 1271,1067 1350,1070 1507,1039 1636,1062 1720,1056 1855,1055 1962,1061 2031,1062 2067,1081 2156,1067 2158,986 1992,992 1916,1018 1835,983 1786,1014 1739,995 1692,998 1643,1006 1524,988 1330,1023 1292,1006 1210,1014 1159,1012 1085,1012 1017,1006 851,1017 803,1019 741,1008 676,1013 644,1007 574,1008"/>
+                <Baseline points="585,1058 663,1055 741,1052 819,1050 897,1047 975,1047 1053,1046 1131,1044 1209,1044 1287,1043 1365,1043 1443,1043 1521,1041 1599,1041 1677,1041 1755,1040 1833,1040 1911,1038 1989,1037 2067,1035 2145,1034"/>
+                <TextEquiv>
+                    <Unicode>littere nostre per eos nobis restitute zuppas nostras Wyelicenses et Bochnenses proven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} corr {offset:46; length:7;}">
+                <Coords points="563,1146 720,1139 879,1139 917,1156 943,1131 1073,1127 1364,1136 1514,1141 1551,1146 1598,1131 1649,1147 1715,1157 1755,1134 1885,1128 1945,1139 1963,1178 2004,1154 2029,1133 2120,1125 2119,1081 2043,1078 1961,1075 1890,1060 1763,1072 1664,1074 1585,1073 1499,1082 1355,1076 1287,1087 1173,1077 1124,1093 1059,1075 975,1077 878,1085 805,1082 732,1093 645,1091 563,1092"/>
+                <Baseline points="573,1130 649,1127 726,1125 803,1122 880,1121 957,1119 1033,1119 1110,1118 1187,1116 1264,1116 1341,1116 1417,1116 1494,1116 1571,1116 1648,1116 1725,1116 1801,1116 1878,1117 1955,1118 2032,1118 2109,1118"/>
+                <TextEquiv>
+                    <Unicode>tuum et reddituum salis bancati nec nobis nec cuipiam Zuppario nostro resignare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="569,1215 1010,1212 1382,1219 1543,1220 1659,1211 1675,1249 1691,1214 1725,1205 1849,1217 2119,1206 2121,1144 2024,1164 1968,1172 1703,1156 1655,1173 1631,1166 1589,1123 1573,1151 1506,1169 1439,1152 1376,1151 1269,1165 1105,1139 988,1152 931,1159 901,1151 833,1158 744,1162 638,1167 562,1176"/>
+                <Baseline points="573,1206 649,1203 726,1200 803,1199 880,1197 957,1196 1033,1194 1110,1193 1187,1193 1264,1193 1341,1193 1417,1193 1494,1193 1571,1194 1648,1194 1725,1196 1801,1197 1878,1197 1955,1199 2032,1200 2109,1200"/>
+                <TextEquiv>
+                    <Unicode>aut de illis cedere debuerunt donec eis quatuor Milia florenorum et ducenti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="569,1305 589,1319 622,1301 706,1306 779,1295 840,1306 927,1306 993,1286 1175,1285 1241,1305 1322,1294 1405,1282 1559,1288 1603,1308 1659,1282 1768,1284 1821,1301 1879,1277 2055,1283 2106,1279 2108,1232 2011,1214 1955,1228 1857,1219 1773,1223 1727,1238 1655,1225 1569,1236 1426,1233 1374,1242 1274,1225 1220,1238 1016,1238 886,1243 746,1237 704,1257 617,1244 560,1251"/>
+                <Baseline points="570,1287 645,1283 721,1280 797,1277 873,1275 949,1273 1025,1272 1100,1270 1176,1269 1252,1268 1328,1268 1404,1268 1480,1268 1556,1268 1631,1268 1707,1266 1783,1266 1859,1266 1935,1266 2011,1266 2087,1265"/>
+                <TextEquiv>
+                    <Unicode>florenorum Hungaricalium puri auri et justi ponderis in summa triginta milium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} unclear {offset:81; length:7;}">
+                <Coords points="570,1409 587,1399 629,1387 699,1392 855,1373 914,1359 1002,1372 1048,1368 1070,1403 1102,1365 1139,1359 1456,1368 1585,1369 1733,1374 1800,1361 1999,1362 2090,1364 2107,1305 1996,1297 1845,1303 1731,1303 1609,1311 1452,1298 1328,1305 1258,1311 1174,1309 1057,1304 1008,1304 937,1324 899,1313 779,1317 706,1331 623,1331 568,1329"/>
+                <Baseline points="579,1367 654,1364 730,1360 806,1357 882,1355 958,1352 1034,1350 1110,1349 1186,1346 1262,1344 1338,1344 1413,1343 1489,1341 1565,1341 1641,1341 1717,1340 1793,1340 1869,1340 1945,1340 2021,1341 2097,1341"/>
+                <TextEquiv>
+                    <Unicode>florenorum Mille quadraginta et quatuor florenos Hungaricales inclusa inserta et ꝯun̕ata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="560,1497 620,1465 763,1457 876,1439 1122,1454 1145,1475 1186,1440 1359,1424 1541,1438 1560,1476 1591,1426 1684,1422 1743,1448 1823,1432 1995,1434 2044,1451 2129,1437 2128,1368 2005,1378 1885,1369 1722,1371 1597,1377 1529,1376 1356,1379 1011,1397 970,1381 822,1388 559,1411"/>
+                <Baseline points="570,1440 646,1437 722,1434 798,1431 874,1428 950,1427 1026,1424 1103,1422 1179,1421 1255,1421 1331,1419 1407,1418 1483,1418 1559,1418 1636,1417 1712,1416 1788,1416 1864,1418 1940,1418 2016,1418 2093,1418"/>
+                <TextEquiv>
+                    <Unicode>per zupparium nostrum cui zuppas arendaverimus sive ad fideles manus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} corr {offset:7; length:6;}">
+                <Coords points="564,1538 638,1549 763,1544 1000,1508 1084,1563 1132,1534 1287,1531 1476,1525 1643,1528 1721,1519 1784,1520 1818,1559 1873,1506 2083,1526 2082,1438 1694,1448 1564,1479 1443,1432 1317,1458 1213,1457 1144,1476 1105,1467 929,1459 688,1469 564,1500"/>
+                <Baseline points="573,1517 651,1514 730,1510 809,1508 888,1506 967,1505 1046,1505 1125,1503 1204,1503 1283,1503 1361,1504 1440,1505 1519,1505 1598,1504 1677,1503 1756,1503 1835,1502 1914,1499 1993,1497 2072,1493"/>
+                <TextEquiv>
+                    <Unicode>easdem Zuppas dederimus fuissent persoluti Ideo et presentibus spondemus et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} corr {offset:84; length:6;}">
+                <Coords points="555,1621 618,1634 723,1614 856,1629 961,1621 969,1622 1030,1602 1135,1606 1301,1603 1485,1628 1584,1610 1736,1613 1840,1600 1969,1586 2136,1604 2190,1583 2190,1507 2093,1530 1962,1528 1849,1539 1817,1560 1798,1544 1697,1516 1658,1548 1593,1540 1443,1536 1335,1546 1189,1542 1077,1552 993,1534 833,1553 569,1562"/>
+                <Baseline points="566,1589 646,1587 726,1587 806,1587 887,1587 967,1586 1047,1586 1128,1586 1208,1586 1288,1584 1369,1584 1449,1584 1529,1584 1609,1583 1690,1583 1770,1581 1850,1581 1931,1580 2011,1578 2091,1577 2172,1575"/>
+                <TextEquiv>
+                    <Unicode>promittimus quod a prelibatis Georgio et Magdalena Zupparis nostris sal bancatum in dictis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="561,1692 659,1692 899,1677 1170,1674 1595,1685 1667,1669 1748,1683 1847,1692 1890,1660 2005,1713 2123,1692 2123,1602 1985,1608 1899,1600 1829,1617 1738,1634 1632,1620 1485,1620 1452,1613 1274,1605 1179,1613 1040,1609 976,1632 936,1623 874,1620 831,1637 796,1633 716,1615 658,1639 558,1630"/>
+                <Baseline points="561,1668 638,1668 716,1667 793,1665 871,1665 948,1664 1026,1664 1103,1662 1181,1662 1258,1661 1336,1661 1414,1661 1491,1659 1569,1659 1646,1659 1724,1658 1801,1658 1879,1658 1956,1658 2034,1658 2112,1658"/>
+                <TextEquiv>
+                    <Unicode>Zuppis Wyelicensibus et Bochnensibus non alienabimus nec quovismodo auferemus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="571,1765 641,1757 743,1775 802,1764 847,1799 897,1768 992,1785 1018,1755 1252,1743 1431,1742 1558,1768 1595,1774 1653,1755 1690,1797 1726,1755 1795,1743 2178,1763 2178,1709 2156,1675 2005,1711 1889,1698 1773,1692 1651,1705 1471,1703 1349,1684 1294,1695 1200,1689 1080,1703 946,1699 858,1711 717,1715 631,1690 571,1715"/>
+                <Baseline points="582,1746 661,1745 740,1743 819,1742 899,1740 978,1740 1057,1739 1137,1739 1216,1739 1295,1739 1375,1739 1454,1739 1533,1739 1612,1739 1692,1739 1771,1739 1850,1739 1930,1738 2009,1737 2088,1737 2168,1736"/>
+                <TextEquiv>
+                    <Unicode>tamdiu quousque Zupparius noster cui jamdictas zuppas salis bancati arendare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="566,1822 629,1827 709,1832 753,1868 781,1830 977,1827 1207,1838 1379,1823 1442,1816 1800,1831 1900,1845 1934,1842 2007,1850 2049,1832 2115,1846 2182,1852 2182,1763 2098,1763 1921,1770 1803,1782 1687,1800 1629,1760 1580,1790 1548,1774 1379,1769 1258,1762 1209,1781 1097,1776 1049,1787 954,1788 877,1780 811,1780 701,1775 564,1781"/>
+                <Baseline points="576,1820 654,1819 732,1818 811,1817 889,1815 968,1815 1046,1814 1125,1814 1203,1814 1282,1814 1360,1814 1438,1814 1517,1814 1595,1814 1674,1815 1752,1815 1831,1817 1909,1817 1988,1818 2066,1819 2145,1820"/>
+                <TextEquiv>
+                    <Unicode>aut ad fideles manus dare voluerimus duo milia et centum florenorum Hungaricalium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;} unclear {offset:31; length:7;}">
+                <Coords points="568,1903 791,1920 862,1915 958,1911 1039,1921 1119,1909 1171,1933 1230,1905 1359,1888 1512,1912 1558,1928 1598,1905 1673,1896 1829,1914 2023,1917 2131,1912 2138,1868 2022,1847 1884,1854 1786,1839 1656,1839 1440,1838 1279,1840 1136,1852 1012,1858 856,1847 754,1865 689,1853 568,1861"/>
+                <Baseline points="578,1892 655,1892 732,1892 809,1892 886,1890 963,1890 1040,1890 1118,1890 1195,1890 1272,1890 1349,1890 1426,1890 1503,1890 1580,1890 1658,1892 1735,1892 1812,1893 1889,1895 1966,1898 2043,1900 2121,1904"/>
+                <TextEquiv>
+                    <Unicode>jamdictis Georgio et Magdalena peratis persolvet De reliquis vero duobus milibus et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;} unclear {offset:54; length:12;}">
+                <Coords points="576,1979 686,1997 724,1995 760,2014 790,1996 880,2014 935,2000 1046,1987 1226,1990 1320,1990 1353,2012 1397,1999 1450,1985 1528,2001 1621,1987 1654,2015 1693,2032 1740,2007 1803,1986 1939,1995 1962,1985 2039,2013 2179,2034 2194,1982 2179,1938 2143,1944 2088,1931 1939,1927 1835,1936 1603,1912 1562,1933 1449,1927 1302,1919 1184,1938 1053,1925 969,1946 817,1930 723,1944 576,1932"/>
+                <Baseline points="587,1968 666,1970 745,1970 824,1970 903,1970 982,1970 1061,1970 1140,1968 1219,1968 1298,1968 1377,1968 1456,1968 1535,1968 1614,1968 1693,1968 1772,1970 1851,1971 1930,1973 2009,1974 2088,1977 2168,1980"/>
+                <TextEquiv>
+                    <Unicode>centum florenorum in tribus mensibus post recepcionem possessionis dictarum zupparum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="581,2097 594,2085 626,2066 778,2056 920,2076 1141,2077 1244,2070 1336,2072 1435,2068 1449,2104 1565,2067 2097,2071 2092,2018 1981,2011 1850,2014 1692,2033 1565,2008 1477,2003 1339,2013 1252,1995 1141,2008 1032,1996 756,2019 728,2003 652,2002 577,2009"/>
+                <Baseline points="578,2051 653,2049 728,2046 803,2045 878,2045 954,2045 1029,2045 1104,2045 1179,2045 1254,2046 1330,2046 1405,2048 1480,2048 1555,2049 1630,2051 1706,2051 1781,2051 1856,2051 1931,2051 2006,2049 2082,2048"/>
+                <TextEquiv>
+                    <Unicode>salis bancati ipse Zupparius noster qui ad fideles manus aut in arenda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} corr {offset:13; length:8;}">
+                <Coords points="580,2164 628,2166 698,2148 790,2160 867,2146 1120,2133 1193,2163 1301,2137 1413,2137 1436,2160 1501,2142 1554,2170 1608,2144 1710,2160 1766,2153 1809,2168 1877,2148 1954,2170 2048,2149 2139,2147 2140,2061 2072,2077 2019,2079 1909,2085 1809,2090 1668,2078 1593,2089 1487,2086 1434,2087 1387,2086 1253,2084 1060,2079 968,2082 896,2079 767,2076 683,2075 622,2090 581,2102"/>
+                <Baseline points="590,2124 671,2123 752,2121 833,2121 914,2120 995,2121 1076,2121 1157,2121 1238,2123 1319,2124 1400,2125 1481,2126 1562,2127 1643,2129 1724,2129 1805,2130 1886,2130 1967,2130 2048,2130 2129,2129"/>
+                <TextEquiv>
+                    <Unicode>ipsas zuppas habuerit aut per caucionem fidejussoriam sive per obligacionem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="589,2214 670,2203 718,2219 722,2254 770,2245 804,2218 843,2211 966,2217 1013,2217 1041,2236 1086,2229 1137,2219 1195,2221 1235,2240 1268,2221 1302,2219 1309,2248 1322,2222 1596,2209 1793,2235 1880,2228 1924,2252 1939,2243 2000,2228 2124,2228 2136,2175 2096,2166 2020,2156 1956,2169 1903,2167 1845,2169 1787,2167 1719,2188 1712,2168 1665,2163 1595,2150 1561,2178 1517,2174 1420,2169 1389,2157 1366,2154 1341,2165 1265,2155 1189,2176 1171,2164 1065,2169 920,2160 834,2164 755,2177 636,2167 586,2167"/>
+                <Baseline points="596,2199 675,2199 755,2198 835,2198 915,2198 995,2199 1075,2199 1155,2201 1235,2202 1315,2203 1395,2204 1475,2205 1555,2207 1635,2207 1715,2208 1795,2208 1875,2208 1955,2208 2035,2208 2115,2207"/>
+                <TextEquiv>
+                    <Unicode>et imposicionem vadiorum vel inscripcionem aut alio modo juxta beneplacitum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="597,2293 617,2310 653,2299 795,2311 883,2294 1041,2289 1197,2307 1272,2321 1363,2277 1463,2306 1525,2333 1569,2299 1613,2293 1847,2287 1914,2318 1982,2333 2033,2303 2122,2298 2123,2229 2017,2243 1918,2255 1838,2242 1743,2248 1610,2235 1502,2233 1440,2241 1354,2233 1304,2250 1278,2235 1249,2244 1223,2233 1124,2229 1051,2239 951,2237 797,2238 782,2251 723,2254 666,2214 578,2241"/>
+                <Baseline points="587,2279 663,2277 739,2276 815,2276 892,2274 968,2274 1044,2276 1120,2276 1197,2276 1273,2277 1349,2278 1425,2279 1502,2280 1578,2282 1654,2282 1730,2283 1807,2285 1883,2285 1959,2286 2035,2286 2112,2286"/>
+                <TextEquiv>
+                    <Unicode>ipsorum eosdem Georgium et Magdalenam antequam sal bancatum de possessione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;} unclear {offset:64; length:4;}">
+                <Coords points="587,2368 635,2370 685,2389 767,2375 985,2371 1075,2389 1134,2366 1262,2369 1469,2362 1507,2371 1526,2417 1563,2380 1635,2383 1742,2405 1832,2370 1904,2403 1961,2400 2006,2399 2105,2396 2148,2350 2076,2332 1924,2322 1756,2314 1672,2294 1585,2304 1557,2321 1501,2330 1348,2310 1234,2322 1016,2307 891,2319 801,2335 634,2322 583,2317"/>
+                <Baseline points="593,2360 670,2357 747,2355 824,2354 902,2354 979,2352 1056,2352 1133,2352 1211,2352 1288,2354 1365,2354 1442,2355 1520,2357 1597,2358 1674,2360 1751,2363 1829,2364 1906,2367 1983,2370 2060,2373 2138,2376"/>
+                <TextEquiv>
+                    <Unicode>dimiserint tenebitur assecurare et certos in solucione efficere Quod ex quo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;} corr {offset:56; length:14;}">
+                <Coords points="571,2478 662,2467 721,2447 832,2470 909,2458 1167,2464 1264,2434 1498,2445 1529,2465 1599,2486 1607,2450 1639,2453 1879,2437 1947,2464 1955,2502 2001,2463 2148,2469 2149,2412 2030,2395 1917,2397 1823,2379 1776,2398 1729,2408 1624,2400 1507,2406 1401,2384 1258,2382 1140,2380 1070,2400 1014,2383 934,2398 751,2386 693,2398 636,2388 572,2405"/>
+                <Baseline points="581,2436 658,2433 736,2432 814,2429 892,2427 970,2426 1048,2426 1126,2426 1204,2426 1282,2426 1360,2427 1437,2429 1515,2430 1593,2432 1671,2435 1749,2437 1827,2439 1905,2442 1983,2445 2061,2450 2139,2453"/>
+                <TextEquiv>
+                    <Unicode>prefati Zupparii Georgius et Magdalena Salaria personis ecclesiasticis et secularibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="588,2563 631,2550 676,2525 738,2540 790,2523 846,2554 903,2528 1152,2507 1208,2530 1265,2524 1317,2537 1376,2569 1435,2520 1857,2520 1958,2573 2017,2535 2128,2541 2128,2457 2000,2473 1963,2499 1794,2469 1708,2471 1661,2454 1606,2483 1461,2477 1311,2472 1210,2470 1156,2487 1005,2466 899,2461 861,2479 793,2466 722,2454 690,2484 589,2481"/>
+                <Baseline points="600,2513 675,2511 751,2510 827,2508 903,2507 979,2507 1055,2507 1131,2507 1207,2507 1283,2507 1359,2507 1434,2508 1510,2510 1586,2511 1662,2513 1738,2514 1814,2517 1890,2520 1966,2522 2042,2525 2118,2528"/>
+                <TextEquiv>
+                    <Unicode>pro quatuor temporibus Sancte Crucis proxime venturi danda et solvenda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="573,2617 698,2629 747,2613 860,2615 927,2625 947,2601 1062,2590 1132,2611 1208,2611 1369,2602 1416,2614 1469,2610 1675,2619 1702,2600 2116,2612 2118,2570 2028,2551 1958,2578 1880,2550 1783,2565 1576,2530 1513,2546 1391,2569 1347,2564 1298,2536 1197,2536 1036,2546 855,2559 806,2543 744,2537 704,2544 627,2569 566,2564"/>
+                <Baseline points="576,2595 652,2592 729,2591 805,2588 882,2588 958,2586 1035,2586 1111,2585 1188,2585 1264,2585 1341,2585 1417,2586 1494,2586 1570,2588 1647,2589 1723,2591 1800,2592 1876,2594 1953,2595 2029,2597 2106,2600"/>
+                <TextEquiv>
+                    <Unicode>in prelibato computo nobis ad racionem posuerunt Ideo et illos circa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;} corr {offset:39; length:10;}">
+                <Coords points="580,2687 624,2704 671,2688 780,2689 815,2700 878,2699 1010,2697 1090,2704 1198,2678 1291,2704 1384,2682 1548,2717 1806,2688 2056,2697 2114,2639 2073,2622 1958,2618 1872,2623 1758,2599 1690,2634 1621,2632 1478,2618 1432,2620 1378,2633 1319,2616 1259,2630 1214,2632 1173,2619 1142,2607 1116,2635 1037,2624 962,2611 913,2631 857,2633 767,2609 720,2627 663,2638 580,2635"/>
+                <Baseline points="590,2670 662,2667 735,2666 808,2664 881,2663 954,2662 1026,2661 1099,2661 1172,2663 1245,2663 1318,2664 1390,2664 1463,2666 1536,2667 1609,2667 1682,2669 1754,2670 1827,2670 1900,2672 1973,2672 2046,2672"/>
+                <TextEquiv>
+                    <Unicode>pacificam possessionem percepcionem et fruicionem Zupparum nostrarum Wyeliciensium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;} unclear {offset:25; length:6;}">
+                <Coords points="567,2749 599,2775 744,2756 855,2763 880,2801 966,2757 1001,2765 1160,2764 1293,2780 1352,2755 1466,2810 1535,2763 1855,2763 1921,2779 1936,2810 1971,2775 2050,2797 2117,2787 2112,2734 1996,2710 1883,2714 1699,2711 1569,2726 1503,2706 1437,2711 1403,2698 1314,2721 1210,2697 1071,2710 1029,2719 896,2706 847,2704 720,2697 629,2704 568,2695"/>
+                <Baseline points="597,2747 671,2745 746,2745 820,2745 895,2745 969,2745 1044,2745 1118,2745 1193,2745 1267,2745 1342,2747 1417,2748 1491,2748 1566,2750 1640,2751 1715,2753 1789,2756 1864,2757 1938,2760 2013,2763 2088,2765"/>
+                <TextEquiv>
+                    <Unicode>Bochnensium et Russie in School usque ad festum Sancti Stanislai in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="611,2833 705,2839 720,2873 790,2882 856,2865 910,2841 1088,2828 1334,2853 1374,2887 1459,2865 1594,2859 1685,2869 1720,2892 1789,2856 1928,2888 2043,2874 2105,2891 2125,2848 2086,2815 1866,2792 1698,2792 1579,2793 1473,2805 1429,2803 1372,2787 1286,2781 1190,2789 1141,2780 1015,2779 902,2795 838,2796 769,2769 747,2759 723,2767 687,2788 611,2801"/>
+                <Baseline points="605,2825 679,2823 754,2823 828,2823 903,2823 978,2823 1052,2824 1127,2825 1201,2825 1276,2826 1351,2826 1425,2828 1500,2829 1574,2831 1649,2832 1724,2834 1798,2836 1873,2838 1947,2841 2022,2843 2097,2846"/>
+                <TextEquiv>
+                    <Unicode>autumpno proxime venturum et alias ipsorum arende expiracionem promittimus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:31;}">
+                <Coords points="605,2909 707,2917 787,2919 838,2940 882,2920 961,2914 1137,2943 1176,2926 1254,2920 1296,2926 1458,2919 1617,2931 1687,2936 1761,2955 1884,2926 2095,2949 2104,2898 2009,2876 1926,2874 1888,2896 1719,2881 1623,2866 1462,2866 1416,2877 1381,2889 1350,2872 1296,2875 1195,2859 1100,2854 989,2856 921,2846 903,2866 858,2866 825,2877 790,2881 708,2885 706,2851 682,2849 664,2878 614,2870"/>
+                <Baseline points="614,2904 687,2904 761,2904 834,2904 908,2904 981,2904 1055,2904 1128,2906 1202,2906 1275,2906 1349,2907 1423,2908 1496,2909 1570,2910 1643,2912 1717,2913 1790,2915 1864,2918 1937,2919 2011,2922 2085,2925"/>
+                <TextEquiv>
+                    <Unicode>tenere et conservare Sed quia antefati Georgius et Magdalena Zupparii nonnullas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:32;} unclear {offset:19; length:7;} corr {offset:19; length:7;} unclear {offset:53; length:8;}">
+                <Coords points="601,2995 778,3020 808,3018 877,3006 907,3033 980,2995 1084,3006 1291,3007 1509,3012 1699,3017 1808,3003 1867,3029 1939,3023 2016,3056 2082,3069 2123,3038 2110,2973 2048,2979 1923,2942 1851,2951 1804,2961 1729,2948 1660,2958 1579,2935 1519,2937 1494,2954 1374,2946 1321,2932 1269,2936 1223,2950 1177,2934 1116,2955 1054,2930 994,2938 869,2947 765,2943 709,2921 679,2927 662,2941 611,2940"/>
+                <Baseline points="611,2984 685,2984 759,2984 834,2984 908,2984 983,2984 1057,2984 1131,2985 1206,2987 1280,2987 1355,2988 1429,2990 1503,2993 1578,2994 1652,2997 1727,3000 1801,3003 1875,3006 1950,3009 2024,3013 2099,3018"/>
+                <TextEquiv>
+                    <Unicode>litteras super sal minutum Bochnensis et Wyelicensis canentes nobis circa ipsam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:33;} unclear {offset:65; length:12;}">
+                <Coords points="611,3099 938,3129 1233,3083 1292,3135 1394,3123 1691,3137 1846,3122 1922,3152 2118,3119 2119,3058 2016,3062 1926,3026 1836,3033 1746,3029 1635,3019 1432,3021 1250,3008 1095,3021 1069,3026 902,3031 843,3009 799,3037 743,3034 672,3003 621,3011 613,3037"/>
+                <Baseline points="623,3066 697,3066 771,3065 845,3065 920,3065 994,3065 1068,3066 1143,3066 1217,3068 1291,3071 1366,3072 1440,3074 1514,3077 1588,3080 1663,3082 1737,3084 1811,3087 1886,3090 1960,3093 2034,3096 2109,3098"/>
+                <TextEquiv>
+                    <Unicode>racionem restitutas a nobis habuere Ideo si aliquas litteras per obligacionem eorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>legittimi successores tenebunt habebunt percipient et pacifice possidebunt&#13;
+modo zuppariorum nostrorum et aliarum quaruncunque personarum ex quacunque necessitate&#13;
+impedimento et condiccione in his cessantibus tandiu quo ad usque prefatarum summarum&#13;
+plenam et integram percepcionem excussionem extenuacionem et defalcacionem Qua summa&#13;
+per memoratos zupparios nostros sive successores eorum sive alterum ipsorum sic de&#13;
+falcata extenuata et percepta possessio dicti salis minuti ad nos spectabit&#13;
+et revertetur pleno jure Sed quia prelibati Georgius et Magdalena Zupparii nostri vigore&#13;
+littere nostre per eos nobis restitute zuppas nostras Wyelicenses et Bochnenses proven&#13;
+tuum et reddituum salis bancati nec nobis nec cuipiam Zuppario nostro resignare&#13;
+aut de illis cedere debuerunt donec eis quatuor Milia florenorum et ducenti&#13;
+florenorum Hungaricalium puri auri et justi ponderis in summa triginta milium&#13;
+florenorum Mille quadraginta et quatuor florenos Hungaricales inclusa inserta et ꝯun̕ata&#13;
+per zupparium nostrum cui zuppas arendaverimus sive ad fideles manus&#13;
+easdem Zuppas dederimus fuissent persoluti Ideo et presentibus spondemus et&#13;
+promittimus quod a prelibatis Georgio et Magdalena Zupparis nostris sal bancatum in dictis&#13;
+Zuppis Wyelicensibus et Bochnensibus non alienabimus nec quovismodo auferemus&#13;
+tamdiu quousque Zupparius noster cui jamdictas zuppas salis bancati arendare&#13;
+aut ad fideles manus dare voluerimus duo milia et centum florenorum Hungaricalium&#13;
+jamdictis Georgio et Magdalena peratis persolvet De reliquis vero duobus milibus et&#13;
+centum florenorum in tribus mensibus post recepcionem possessionis dictarum zupparum&#13;
+salis bancati ipse Zupparius noster qui ad fideles manus aut in arenda&#13;
+ipsas zuppas habuerit aut per caucionem fidejussoriam sive per obligacionem&#13;
+et imposicionem vadiorum vel inscripcionem aut alio modo juxta beneplacitum&#13;
+ipsorum eosdem Georgium et Magdalenam antequam sal bancatum de possessione&#13;
+dimiserint tenebitur assecurare et certos in solucione efficere Quod ex quo&#13;
+prefati Zupparii Georgius et Magdalena Salaria personis ecclesiasticis et secularibus&#13;
+pro quatuor temporibus Sancte Crucis proxime venturi danda et solvenda&#13;
+in prelibato computo nobis ad racionem posuerunt Ideo et illos circa&#13;
+pacificam possessionem percepcionem et fruicionem Zupparum nostrarum Wyeliciensium&#13;
+Bochnensium et Russie in School usque ad festum Sancti Stanislai in&#13;
+autumpno proxime venturum et alias ipsorum arende expiracionem promittimus&#13;
+tenere et conservare Sed quia antefati Georgius et Magdalena Zupparii nonnullas&#13;
+litteras super sal minutum Bochnensis et Wyelicensis canentes nobis circa ipsam&#13;
+racionem restitutas a nobis habuere Ideo si aliquas litteras per obligacionem eorum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

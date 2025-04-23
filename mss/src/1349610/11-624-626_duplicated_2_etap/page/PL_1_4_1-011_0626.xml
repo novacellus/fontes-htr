@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-11-07T01:16:33.724+01:00</Created>
+        <LastChange>2023-03-30T15:06:31.164+02:00</LastChange>
+        <TranskribusMetadata docId="1349610" pageId="52976499" pageNr="3" tsid="117707909" status="IN_PROGRESS" userId="110750" imgUrl="https://files.transkribus.eu/Get?id=LXFGJBIPOVBSHDZXLEYVRLCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MOLOWWHRHPQUPVOCWUZXNSMW" imageId="40332431"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-011_0626.jpg" imageWidth="2625" imageHeight="3500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681816265483" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1667782236999_1592"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1667782236999_1592" custom="readingOrder {index:0;}">
+            <Coords points="372,299 1956,299 1956,1483 372,1483"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} unclear {offset:9; length:6;} comment {offset:9; length:6;comment:nie\u0020potrafię\u0020tego\u0020odczytać,\u0020ale\u0020może\u0020chodzi\u0020o\u0020jakieś\u0020święto,\u0020szóste\u0020kalendy\u0020maja\u0020to\u002026\u0020kwietnia\u003b\u0020w\u00201462\u0020roku\u0020to\u0020był\u0020poniedziałek\u0020po\u0020niedzieli\u0020Quasimodo,\u0020dzień\u0020po\u0020oktawie\u0020Wielkanocy\u003b\u0020z\u0020większych\u0020świąt\u0020to\u0020w\u0020okolicy\u0020jest\u0020chyba\u0020tylko\u0020św.\u0020Wojciech\u002023\u0020kwietnia;} unclear {offset:66; length:3;} unclear {offset:75; length:3;}">
+                <Coords points="389,528 465,528 542,525 618,523 695,522 771,519 848,517 924,514 1001,511 1071,521 1148,518 1224,527 1301,524 1383,497 1460,495 1536,492 1606,497 1682,495 1766,484 1842,483 1919,481 1932,392 1855,394 1771,413 1694,416 1620,409 1543,412 1460,446 1383,448 1307,451 1230,454 1154,446 1077,449 1001,462 929,445 853,448 779,442 703,445 624,445 543,455 466,458 389,479"/>
+                <Baseline points="389,512 465,512 542,509 618,507 695,506 771,503 848,501 924,498 1001,495 1077,493 1154,490 1230,487 1307,484 1383,481 1460,479 1536,476 1613,473 1689,471 1766,468 1842,467 1919,465"/>
+                <TextEquiv>
+                    <Unicode>circiter fn̄tas videlicet sexto kalendas Mensis Maii proximas que ām pars est apcior</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} unclear {offset:30; length:4;}">
+                <Coords points="404,592 476,604 556,589 632,587 708,586 785,584 861,582 937,580 1013,578 1089,577 1166,574 1242,572 1276,581 1318,571 1394,569 1470,566 1543,572 1547,563 1623,562 1699,559 1772,542 1851,553 1928,550 1928,499 1851,502 1775,505 1696,492 1669,512 1651,501 1607,503 1553,498 1476,501 1362,503 1318,520 1254,532 1166,523 1089,526 1013,527 940,517 864,519 793,522 708,535 632,536 538,526 480,539 404,541"/>
+                <Baseline points="404,575 480,573 556,572 632,570 708,569 785,567 861,565 937,563 1013,561 1089,560 1166,557 1242,555 1318,554 1394,552 1470,549 1547,546 1623,545 1699,542 1775,539 1851,536 1928,533"/>
+                <TextEquiv>
+                    <Unicode>atque lepidior et tranantibus mare tranquillius indulgere solet nuncios</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="385,665 479,664 555,663 630,663 706,661 712,678 782,658 857,657 933,654 1008,652 1067,664 1160,648 1235,645 1311,642 1386,639 1462,637 1538,634 1613,631 1689,629 1764,627 1840,624 1916,622 1916,573 1826,540 1750,543 1676,580 1613,582 1541,573 1472,574 1386,590 1325,582 1221,584 1165,588 1076,577 1045,601 1008,603 1003,579 933,605 857,608 823,582 782,609 706,612 667,592 630,614 555,614 544,589 508,599 479,615 385,616"/>
+                <Baseline points="404,650 479,648 555,647 630,647 706,645 782,642 857,641 933,638 1008,636 1084,634 1160,632 1235,629 1311,626 1386,623 1462,621 1538,618 1613,615 1689,613 1764,611 1840,608 1916,606"/>
+                <TextEquiv>
+                    <Unicode>de nostros ambasiatores venturos prestolabimur dum tamen id vestram conducat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} unclear {offset:32; length:11;} unclear {offset:64; length:12;}">
+                <Coords points="411,738 417,749 485,735 559,733 633,731 670,744 707,729 782,726 856,724 924,740 998,737 1039,733 1078,718 1153,715 1227,713 1301,711 1375,709 1449,707 1526,720 1600,718 1672,702 1746,700 1820,699 1895,697 1895,648 1831,626 1746,651 1697,635 1611,633 1524,656 1449,658 1379,644 1305,646 1227,664 1153,666 1114,646 1083,649 1078,669 1004,671 930,674 856,667 782,669 707,680 633,682 588,670 550,669 485,686 451,657 411,689"/>
+                <Baseline points="411,722 485,719 559,717 633,715 707,713 782,710 856,708 930,707 1004,704 1078,702 1153,699 1227,697 1301,695 1375,693 1449,691 1524,689 1598,687 1672,686 1746,684 1820,683 1895,681"/>
+                <TextEquiv>
+                    <Unicode>serenitatem Regiis tunc desuper episcopalis per medium Rectorum honorabilium loci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="399,825 494,820 566,806 641,803 716,800 791,797 861,808 940,793 1015,802 1090,799 1165,787 1239,785 1314,784 1389,782 1464,782 1539,782 1613,781 1688,781 1765,803 1840,803 1913,784 1920,711 1845,709 1763,731 1698,711 1623,711 1527,719 1452,719 1389,731 1327,716 1252,717 1165,736 1090,737 1015,740 940,742 860,735 786,737 716,734 641,752 567,739 492,742 396,763"/>
+                <Baseline points="417,795 491,792 566,789 641,786 716,783 791,780 865,778 940,776 1015,774 1090,771 1165,770 1239,768 1314,767 1389,765 1464,765 1539,765 1613,764 1688,764 1763,765 1838,765 1913,767"/>
+                <TextEquiv>
+                    <Unicode>vestri Danczyk nobis redditis obsecramus fieri terciores Attentoque ante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="400,889 476,888 552,892 628,890 705,880 781,877 857,874 933,872 1009,869 1085,866 1161,865 1237,877 1313,875 1389,860 1465,859 1541,860 1617,862 1693,863 1769,867 1844,880 1921,885 1926,807 1849,802 1769,815 1692,784 1616,783 1541,808 1470,792 1394,793 1313,808 1237,810 1161,813 1077,802 1009,817 933,820 859,812 783,815 757,821 705,828 629,829 574,818 553,831 477,831 441,819 401,832"/>
+                <Baseline points="401,867 477,866 553,866 629,864 705,863 781,860 857,857 933,855 1009,852 1085,849 1161,848 1237,845 1313,843 1389,843 1465,842 1541,843 1617,845 1693,846 1769,850 1845,856 1922,861"/>
+                <TextEquiv>
+                    <Unicode>fato Spectato Magistro in omni qua supra forma similis his defen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="413,962 487,958 565,975 640,972 710,951 785,949 859,947 944,959 1019,958 1087,955 1164,950 1238,949 1305,940 1380,940 1454,940 1529,940 1603,941 1677,943 1752,946 1775,964 1826,949 1916,960 1916,908 1877,888 1826,897 1824,881 1781,878 1752,894 1677,891 1633,862 1608,856 1603,889 1529,888 1454,888 1399,872 1380,888 1341,872 1305,888 1252,882 1231,888 1157,889 1082,889 1008,891 933,892 860,880 785,897 710,899 612,891 561,904 496,888 422,892"/>
+                <Baseline points="413,945 487,941 561,939 636,936 710,934 785,932 859,930 933,927 1008,926 1082,924 1157,924 1231,923 1305,923 1380,923 1454,923 1529,923 1603,924 1677,926 1752,929 1826,932 1901,935"/>
+                <TextEquiv>
+                    <Unicode>samus sperantes eundem a pacis methodo declinaturum minime Offerimus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} unclear {offset:0; length:5;}">
+                <Coords points="396,1042 481,1039 556,1036 631,1033 706,1030 785,1042 860,1041 930,1027 1005,1025 1081,1063 1156,1063 1230,1025 1303,1044 1378,1044 1454,1025 1529,1025 1598,1042 1679,1025 1754,1025 1829,1024 1904,1024 1904,973 1814,956 1754,974 1681,962 1606,962 1529,974 1460,951 1386,951 1305,974 1230,964 1155,964 1080,974 1005,974 948,968 856,976 760,961 706,979 631,982 556,985 519,971 412,975"/>
+                <Baseline points="407,1025 481,1022 556,1019 631,1016 706,1013 781,1011 856,1010 930,1010 1005,1008 1080,1008 1155,1008 1230,1008 1305,1008 1380,1008 1454,1008 1529,1008 1604,1008 1679,1008 1754,1008 1829,1007 1904,1007"/>
+                <TextEquiv>
+                    <Unicode>demum et nos Regie Majestati pro bono publico cooperatores beni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="404,1112 478,1111 552,1109 627,1109 701,1124 776,1124 850,1106 930,1125 1005,1125 1073,1106 1097,1134 1148,1106 1222,1106 1233,1130 1296,1106 1371,1106 1436,1126 1511,1126 1594,1106 1656,1120 1731,1118 1817,1102 1904,1100 1911,1029 1810,1031 1736,1032 1632,1038 1594,1055 1520,1055 1445,1055 1371,1055 1298,1040 1222,1055 1148,1055 1122,1070 1090,1073 1073,1055 999,1055 935,1035 850,1055 776,1057 705,1040 631,1041 554,1049 480,1051 404,1061"/>
+                <Baseline points="404,1095 478,1094 552,1092 627,1092 701,1091 776,1091 850,1089 924,1089 999,1089 1073,1089 1148,1089 1222,1089 1296,1089 1371,1089 1445,1089 1520,1089 1594,1089 1668,1088 1743,1086 1817,1085 1892,1083"/>
+                <TextEquiv>
+                    <Unicode>volos ac Regis in obsequiis paratissimos nos executores pollicemur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="382,1195 478,1200 553,1201 628,1201 703,1201 765,1212 852,1200 927,1200 1002,1198 1076,1198 1151,1197 1226,1195 1301,1195 1375,1193 1460,1215 1535,1214 1600,1189 1674,1189 1749,1188 1833,1209 1926,1207 1915,1114 1822,1116 1749,1130 1674,1131 1597,1117 1522,1119 1450,1134 1375,1135 1286,1116 1226,1137 1151,1139 1076,1140 1002,1140 927,1128 852,1128 780,1139 706,1139 629,1123 554,1123 491,1124 382,1137"/>
+                <Baseline points="404,1181 478,1181 553,1182 628,1182 703,1182 777,1182 852,1181 927,1181 1002,1179 1076,1179 1151,1178 1226,1176 1301,1176 1375,1174 1450,1173 1525,1172 1600,1170 1674,1170 1749,1169 1824,1167 1899,1167"/>
+                <TextEquiv>
+                    <Unicode>Datum nostre Civitatis sub Sigillo Sabbato ante Nativitatem Marie Virginis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="396,1327 448,1324 498,1329 540,1291 592,1289 644,1288 696,1287 748,1285 800,1284 852,1282 904,1282 961,1322 1056,1313 1108,1313 1146,1301 1164,1277 1218,1290 1270,1289 1320,1273 1372,1272 1424,1270 1424,1212 1381,1200 1329,1192 1268,1208 1216,1218 1165,1205 1113,1206 1060,1221 1008,1221 970,1207 914,1207 862,1207 817,1201 791,1204 781,1224 761,1223 739,1209 687,1211 644,1230 603,1214 551,1216 499,1200 447,1203 384,1241"/>
+                <Baseline points="384,1280 436,1277 488,1274 540,1272 592,1270 644,1269 696,1268 748,1266 800,1265 852,1263 904,1263 956,1262 1008,1260 1060,1260 1112,1259 1164,1258 1216,1257 1268,1256 1320,1254 1372,1253 1424,1251"/>
+                <TextEquiv>
+                    <Unicode>gloriose Anno Domini etc sexagesimo secundo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="1463,1407 1488,1405 1514,1404 1540,1402 1566,1399 1591,1399 1617,1396 1643,1395 1669,1395 1695,1393 1695,1345 1669,1347 1666,1331 1635,1312 1609,1315 1586,1308 1565,1285 1490,1283 1440,1303"/>
+                <Baseline points="1463,1391 1488,1389 1514,1388 1540,1386 1566,1383 1591,1383 1617,1380 1643,1379 1669,1379 1695,1377"/>
+                <TextEquiv>
+                    <Unicode>Consules</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="1503,1467 1530,1464 1557,1463 1576,1475 1622,1484 1649,1483 1704,1452 1706,1391 1640,1399 1608,1413 1577,1404 1549,1402 1522,1403 1503,1421"/>
+                <Baseline points="1503,1452 1530,1449 1557,1448 1584,1447 1611,1446 1638,1445 1665,1443"/>
+                <TextEquiv>
+                    <Unicode>Lubucenses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>circiter fn̄tas videlicet sexto kalendas Mensis Maii proximas que ām pars est apcior&#13;
+atque lepidior et tranantibus mare tranquillius indulgere solet nuncios&#13;
+de nostros ambasiatores venturos prestolabimur dum tamen id vestram conducat&#13;
+serenitatem Regiis tunc desuper episcopalis per medium Rectorum honorabilium loci&#13;
+vestri Danczyk nobis redditis obsecramus fieri terciores Attentoque ante&#13;
+fato Spectato Magistro in omni qua supra forma similis his defen&#13;
+samus sperantes eundem a pacis methodo declinaturum minime Offerimus&#13;
+demum et nos Regie Majestati pro bono publico cooperatores beni&#13;
+volos ac Regis in obsequiis paratissimos nos executores pollicemur&#13;
+Datum nostre Civitatis sub Sigillo Sabbato ante Nativitatem Marie Virginis&#13;
+gloriose Anno Domini etc sexagesimo secundo&#13;
+Consules&#13;
+Lubucenses</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

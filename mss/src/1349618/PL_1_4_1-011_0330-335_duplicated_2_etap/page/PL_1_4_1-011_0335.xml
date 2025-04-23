@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus LA 0.8.0</Creator>
+        <Created>2022-12-13T00:14:33.172+01:00</Created>
+        <LastChange>2023-03-15T22:36:43.571+01:00</LastChange>
+        <TranskribusMetadata docId="1349618" pageId="52976734" pageNr="6" tsid="116914374" status="IN_PROGRESS" userId="110750" imgUrl="https://files.transkribus.eu/Get?id=WVXERXVCXFBYBXXBGSUVVSHC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FNXKAQNKTGMQLABDNZCWNAEC" imageId="41669615"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-011_0335.jpg" imageWidth="2597" imageHeight="3500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681816262152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1670887564369_460"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1670887564369_460" custom="readingOrder {index:0;}">
+            <Coords points="558,317 2393,317 2393,1695 558,1695"/>
+            <TextLine id="r3l3" custom="readingOrder {index:0;}">
+                <Coords points="636,500 720,504 801,509 882,512 963,519 1044,520 1125,516 1206,516 1287,516 1368,516 1449,516 1530,515 1611,515 1692,513 1773,513 1854,513 1935,515 2016,515 2097,518 2190,519 2193,472 2100,464 2016,471 1948,462 1867,460 1774,465 1693,465 1611,462 1530,462 1449,479 1368,479 1287,479 1206,471 1125,471 1047,464 966,463 882,475 801,472 717,448 633,444"/>
+                <Baseline points="639,488 720,492 801,497 882,500 963,502 1044,503 1125,504 1206,504 1287,504 1368,504 1449,504 1530,503 1611,503 1692,501 1773,501 1854,501 1935,503 2016,503 2097,506 2178,507"/>
+                <TextEquiv>
+                    <Unicode>litteram seu Privilegium introscriptum per memoratum dominum Episcopum Lubuczensem ipsis consulibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:1;}">
+                <Coords points="630,550 708,553 786,556 864,559 942,562 1020,563 1098,565 1177,570 1255,570 1333,566 1411,568 1489,568 1567,568 1645,566 1725,577 1803,577 1880,566 1958,566 2036,565 2115,574 2235,574 2234,526 2114,526 2036,532 1958,522 1880,522 1767,518 1724,526 1645,526 1567,535 1492,526 1414,526 1333,533 1255,533 1177,533 1090,515 1020,525 942,524 864,526 785,512 707,509 630,517"/>
+                <Baseline points="630,539 708,542 786,545 864,548 942,551 1020,552 1098,554 1177,555 1255,555 1333,555 1411,557 1489,557 1567,557 1645,555 1724,555 1802,555 1880,555 1958,555 2036,554 2114,554 2193,554"/>
+                <TextEquiv>
+                    <Unicode>et Comunitati in Opathow datum et concessum omnibus suis punctis clausulis articulis et condicionibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:2;}">
+                <Coords points="621,604 700,605 779,607 859,608 938,610 1016,616 1097,611 1177,613 1256,613 1336,614 1415,614 1494,616 1574,616 1653,616 1733,617 1812,617 1892,627 1971,627 2051,619 2130,635 2236,636 2236,571 2130,570 2051,586 2003,569 1961,576 1882,576 1812,584 1733,584 1653,583 1574,583 1494,583 1420,569 1336,580 1256,579 1177,580 1107,568 1028,568 938,577 859,563 779,562 695,561 621,571"/>
+                <Baseline points="621,593 700,594 779,596 859,597 938,599 1018,600 1097,600 1177,602 1256,602 1336,603 1415,603 1494,605 1574,605 1653,605 1733,606 1812,606 1892,606 1971,606 2051,608 2130,608 2210,608"/>
+                <TextEquiv>
+                    <Unicode>de nostra certa sciencia ac Consilio nostrorum Consiliariorum ad id accendente innovamus gratificamus approbamus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:3;}">
+                <Coords points="618,655 694,658 771,659 848,661 925,670 1002,672 1078,664 1155,665 1232,665 1309,665 1386,665 1462,665 1539,665 1616,679 1693,679 1770,667 1846,668 1923,668 2002,682 2079,683 2172,675 2172,642 2088,624 2011,623 1896,623 1819,623 1770,634 1693,634 1617,629 1540,627 1460,624 1384,624 1309,626 1232,626 1155,632 1078,631 997,620 920,618 848,628 773,611 696,610 618,622"/>
+                <Baseline points="618,644 694,647 771,648 848,650 925,651 1002,653 1078,653 1155,654 1232,654 1309,654 1386,654 1462,654 1539,654 1616,656 1693,656 1770,656 1846,657 1923,657 2000,659 2077,660 2154,662"/>
+                <TextEquiv>
+                    <Unicode>et confirmamus presentis scripti patrocinio mediante decernentes ea robur perpetue obtinere firmitatis preterea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:4;}">
+                <Coords points="605,698 692,704 770,714 848,717 925,712 1003,713 1081,715 1158,716 1236,718 1314,718 1392,718 1469,738 1547,738 1625,719 1702,719 1780,721 1858,721 1929,735 2007,737 2091,725 2192,730 2192,697 2097,683 2007,689 1897,671 1858,688 1780,688 1713,675 1636,675 1547,686 1468,680 1391,679 1314,679 1233,670 1155,674 1084,676 1006,674 926,673 848,677 770,674 692,665 605,659"/>
+                <Baseline points="615,689 692,693 770,696 848,699 925,701 1003,702 1081,704 1158,705 1236,707 1314,707 1392,707 1469,708 1547,708 1625,708 1702,708 1780,710 1858,710 1935,711 2013,713 2091,714 2169,716"/>
+                <TextEquiv>
+                    <Unicode>volumusque per nostram presentem confirmacionem ac litteralem approbacionem fora nundinarum seu annualia ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:5;} unclear {offset:36; length:2;}">
+                <Coords points="610,761 692,762 769,762 847,764 924,779 1001,765 1082,777 1159,777 1233,768 1311,768 1388,770 1465,770 1543,771 1620,777 1697,779 1775,773 1852,773 1929,788 2007,788 2084,774 2170,776 2170,740 2084,738 2007,738 1906,730 1829,729 1775,737 1718,728 1641,726 1543,735 1467,724 1388,734 1311,723 1233,723 1156,731 1079,731 1000,726 923,726 847,720 769,718 692,721 610,720"/>
+                <Baseline points="615,749 692,750 769,750 847,752 924,753 1001,753 1079,755 1156,755 1233,756 1311,756 1388,758 1465,758 1543,759 1620,759 1697,761 1775,761 1852,761 1929,762 2007,762 2084,762 2162,764"/>
+                <TextEquiv>
+                    <Unicode>Septimanalia vulgariter volnetargii in nullo diminuantur aut quovismodo decrescent sive prepediantur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:6;}">
+                <Coords points="620,818 701,818 782,818 851,829 932,829 1025,820 1106,820 1187,821 1268,821 1349,823 1430,824 1514,831 1595,833 1673,827 1754,827 1835,829 1916,829 1998,839 2079,839 2181,829 2181,782 2078,782 2001,787 1920,787 1839,783 1758,781 1674,783 1593,782 1511,783 1426,771 1349,789 1267,773 1186,773 1106,786 1025,780 944,778 863,784 782,781 701,781 620,784"/>
+                <Baseline points="620,807 701,807 782,807 863,807 944,807 1025,809 1106,809 1187,810 1268,810 1349,812 1430,813 1511,813 1592,815 1673,816 1754,816 1835,818 1916,818 1997,818 2078,818 2159,818"/>
+                <TextEquiv>
+                    <Unicode>quem dicto Opido Opathow teneri sunt solita et consweta Sed quod omnibus hominibus cujuscumque status</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:7;} unclear {offset:95; length:5;}">
+                <Coords points="614,872 690,872 767,872 844,872 920,872 997,872 1074,886 1150,872 1227,874 1304,874 1383,879 1459,880 1534,875 1611,875 1687,877 1765,889 1842,889 1917,878 1994,878 2071,892 2174,896 2183,835 2080,831 1997,837 1920,837 1841,843 1764,843 1677,827 1611,841 1534,841 1459,833 1383,826 1306,826 1226,831 1149,829 1095,829 997,830 920,838 844,838 767,838 690,834 614,834"/>
+                <Baseline points="614,861 690,861 767,861 844,861 920,861 997,861 1074,861 1150,861 1227,863 1304,863 1381,863 1457,864 1534,864 1611,864 1687,866 1764,866 1841,866 1917,867 1994,867 2071,867 2148,869"/>
+                <TextEquiv>
+                    <Unicode>condicionis aut preeminencie fuerint In hujusmodi foris nundinarum ac Septimanalibus videlicet solum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:8;} unclear {offset:52; length:7;}">
+                <Coords points="610,943 699,946 775,931 850,930 926,930 1002,930 1077,939 1153,939 1228,931 1304,931 1380,931 1455,931 1531,941 1606,933 1682,933 1758,933 1841,939 1909,933 1984,933 2060,933 2164,931 2164,892 2060,894 1984,894 1909,894 1833,894 1771,888 1683,885 1607,885 1529,885 1453,885 1380,892 1304,892 1228,892 1159,886 1083,886 1002,891 928,886 852,886 775,892 699,885 610,882"/>
+                <Baseline points="624,918 699,918 775,918 850,917 926,917 1002,917 1077,917 1153,917 1228,918 1304,918 1380,918 1455,918 1531,918 1606,920 1682,920 1758,920 1833,920 1909,920 1984,920 2060,920 2136,918"/>
+                <TextEquiv>
+                    <Unicode>singulis diebus Sabbatinis in prefato opido Opathow liberum sit vendere et emere negociari et mercari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:9;}">
+                <Coords points="618,992 696,992 775,992 853,992 932,990 1011,990 1089,990 1168,989 1246,989 1325,987 1404,987 1482,987 1561,987 1639,987 1718,987 1797,987 1875,988 1954,989 2032,990 2111,993 2208,995 2218,941 2121,939 2032,954 1954,939 1875,938 1806,936 1727,936 1639,951 1561,951 1482,939 1404,939 1325,941 1246,943 1167,939 1088,940 1004,937 925,937 852,945 774,945 696,956 618,956"/>
+                <Baseline points="618,980 696,980 775,980 853,980 932,978 1011,978 1089,978 1168,977 1246,977 1325,975 1404,975 1482,975 1561,975 1639,975 1718,975 1797,975 1875,976 1954,977 2032,978 2111,981 2190,983"/>
+                <TextEquiv>
+                    <Unicode>juxta veterem et antiquam conswetudinem dudum circa talia fora tentam et observatam In cujus rei testimonium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:10;}">
+                <Coords points="603,1053 691,1055 768,1046 844,1047 921,1047 998,1049 1075,1063 1152,1063 1227,1049 1304,1049 1381,1047 1457,1047 1534,1047 1610,1051 1687,1050 1764,1046 1841,1060 1918,1060 1994,1053 2071,1054 2147,1047 2160,992 2083,992 1987,998 1917,1010 1867,1002 1791,996 1687,1004 1610,994 1534,994 1457,1011 1381,1011 1304,1013 1233,1001 1157,1001 1074,1002 998,1002 921,1011 848,998 772,997 691,997 603,995"/>
+                <Baseline points="615,1029 691,1031 768,1034 844,1035 921,1035 998,1037 1074,1037 1151,1037 1227,1037 1304,1037 1381,1035 1457,1035 1534,1035 1610,1035 1687,1034 1764,1034 1840,1034 1917,1034 1993,1034 2070,1035 2147,1035"/>
+                <TextEquiv>
+                    <Unicode>Sigillum nostrum presentibus est subappensum Actum in Convencione Pyothrkoviensi generali feria secunda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:11;}">
+                <Coords points="615,1098 696,1106 773,1108 846,1103 923,1104 1000,1105 1076,1123 1154,1105 1231,1105 1308,1105 1385,1111 1462,1111 1539,1105 1615,1119 1692,1119 1770,1104 1847,1104 1948,1118 2025,1119 2086,1104 2185,1110 2185,1070 2082,1060 2000,1062 1924,1064 1847,1064 1770,1050 1693,1050 1616,1064 1539,1065 1462,1058 1385,1058 1306,1061 1231,1065 1154,1065 1077,1065 999,1057 919,1047 842,1046 769,1053 692,1051 615,1058"/>
+                <Baseline points="615,1085 692,1087 769,1089 846,1090 923,1091 1000,1092 1077,1092 1154,1092 1231,1092 1308,1092 1385,1092 1462,1092 1539,1092 1616,1091 1693,1091 1770,1091 1847,1091 1924,1091 2001,1092 2078,1092 2156,1094"/>
+                <TextEquiv>
+                    <Unicode>in crastino sancte Barbare virginis Anno Domini millesimo quadringentesimo quinquagesimo septimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:12;} sic {offset:19; length:15;}">
+                <Coords points="579,1167 655,1169 732,1161 809,1163 886,1163 963,1174 1039,1174 1116,1164 1193,1164 1270,1164 1347,1164 1423,1163 1500,1163 1577,1163 1654,1161 1731,1161 1807,1161 1884,1160 1964,1155 1992,1168 2007,1157 2041,1155 2147,1161 2147,1115 2038,1114 1961,1114 1884,1114 1822,1106 1807,1115 1735,1112 1658,1112 1577,1110 1500,1110 1423,1117 1347,1118 1270,1118 1193,1118 1116,1118 1045,1112 969,1112 886,1117 809,1117 732,1108 655,1107 579,1112"/>
+                <Baseline points="579,1143 655,1145 732,1146 809,1148 886,1148 963,1149 1039,1149 1116,1149 1193,1149 1270,1149 1347,1149 1423,1148 1500,1148 1577,1148 1654,1146 1731,1146 1807,1146 1884,1145 1961,1145 2038,1145 2115,1145"/>
+                <TextEquiv>
+                    <Unicode>Presentibus ibidem Reverēndissimo Reverendisque in Christo patribus dominis Johanne Archepiscopo et primate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:13;}">
+                <Coords points="599,1211 676,1211 753,1214 831,1214 908,1215 986,1215 1063,1217 1141,1217 1218,1217 1296,1217 1373,1217 1450,1215 1528,1215 1603,1230 1681,1229 1760,1214 1838,1212 1915,1212 1993,1211 2070,1211 2166,1216 2166,1170 2070,1161 1993,1161 1915,1166 1838,1166 1760,1168 1683,1168 1605,1169 1528,1169 1450,1169 1373,1171 1296,1171 1220,1165 1143,1165 1063,1171 986,1169 908,1169 834,1160 756,1160 676,1165 599,1165"/>
+                <Baseline points="599,1196 676,1196 753,1199 831,1199 908,1200 986,1200 1063,1202 1141,1202 1218,1202 1296,1202 1373,1202 1450,1200 1528,1200 1605,1200 1683,1199 1760,1199 1838,1197 1915,1197 1993,1196 2070,1196 2148,1194"/>
+                <TextEquiv>
+                    <Unicode>Ecclesie Gneznensi Thoma Cracoviensi Johanne Wladislaviensi Regni Polonie Cancellario Andrea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:14;} unclear {offset:72; length:11;} textStyle {offset:74; length:3;strikethrough:true;}">
+                <Coords points="590,1296 678,1286 794,1275 871,1290 948,1271 1025,1269 1101,1280 1178,1279 1255,1268 1332,1268 1404,1273 1480,1273 1562,1269 1639,1269 1718,1280 1795,1280 1869,1269 1946,1269 2023,1269 2100,1268 2189,1268 2189,1222 2100,1222 2020,1215 1943,1215 1869,1223 1793,1223 1716,1223 1639,1228 1562,1228 1485,1222 1409,1222 1332,1222 1255,1222 1186,1211 1109,1212 1025,1223 948,1225 871,1226 789,1221 717,1231 590,1230"/>
+                <Baseline points="641,1265 717,1262 794,1260 871,1257 948,1256 1025,1254 1101,1254 1178,1253 1255,1253 1332,1253 1409,1253 1485,1253 1562,1254 1639,1254 1716,1254 1793,1254 1869,1254 1946,1254 2023,1254 2100,1253 2177,1253"/>
+                <TextEquiv>
+                    <Unicode>Poznaniensi Episcopo Necnon Magnificis et Generosis Johanne de Crzyszow Cracoviensi Castellano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:15;}">
+                <Coords points="614,1334 687,1338 762,1336 838,1330 912,1330 987,1328 1062,1328 1136,1327 1211,1327 1286,1327 1361,1335 1435,1333 1510,1327 1585,1327 1659,1327 1734,1327 1809,1327 1883,1328 1958,1328 2035,1340 2146,1340 2144,1288 2033,1276 1958,1274 1883,1286 1809,1285 1734,1285 1657,1274 1583,1274 1510,1274 1435,1272 1361,1285 1286,1285 1211,1285 1136,1285 1062,1283 987,1283 912,1288 838,1288 763,1289 688,1291 613,1300"/>
+                <Baseline points="614,1320 688,1319 763,1317 838,1316 912,1316 987,1314 1062,1314 1136,1313 1211,1313 1286,1313 1361,1313 1435,1311 1510,1313 1585,1313 1659,1313 1734,1313 1809,1313 1883,1314 1958,1314 2033,1316 2108,1317"/>
+                <TextEquiv>
+                    <Unicode>et Capitaneo Cracoviensi Stanislao de Ostrorog Calischiensi Derslao de Rithwani Siradiensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:16;}">
+                <Coords points="605,1399 699,1399 778,1388 857,1388 936,1388 1014,1397 1093,1397 1172,1385 1251,1385 1329,1385 1408,1385 1487,1385 1566,1385 1644,1385 1723,1385 1802,1385 1881,1387 1959,1387 2038,1388 2117,1390 2221,1391 2221,1340 2117,1339 2029,1341 1959,1345 1881,1345 1802,1343 1723,1343 1644,1343 1566,1343 1487,1343 1408,1343 1329,1343 1251,1343 1172,1343 1093,1345 1018,1336 936,1338 857,1338 778,1346 699,1348 605,1348"/>
+                <Baseline points="621,1376 699,1376 778,1374 857,1374 936,1374 1014,1373 1093,1373 1172,1371 1251,1371 1329,1371 1408,1371 1487,1371 1566,1371 1644,1371 1723,1371 1802,1371 1881,1373 1959,1373 2038,1374 2117,1376 2196,1377"/>
+                <TextEquiv>
+                    <Unicode>Petro de Oporow Lanciensi palatinis Petro de Schamothuli Poznaniensi Petro de Gay Calischiensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:17;}">
+                <Coords points="612,1450 688,1447 764,1444 838,1455 915,1453 993,1440 1071,1453 1148,1451 1222,1438 1298,1438 1375,1438 1451,1440 1527,1440 1603,1440 1680,1441 1756,1441 1832,1443 1909,1444 1985,1444 2061,1446 2138,1446 2166,1403 2061,1395 1985,1393 1909,1405 1832,1404 1756,1402 1680,1394 1603,1393 1527,1401 1451,1401 1375,1399 1298,1399 1222,1399 1146,1399 1069,1401 993,1401 917,1402 840,1404 764,1405 687,1399 611,1402"/>
+                <Baseline points="612,1437 688,1434 764,1431 840,1430 917,1428 993,1427 1069,1427 1146,1425 1222,1425 1298,1425 1375,1425 1451,1427 1527,1427 1603,1427 1680,1428 1756,1428 1832,1430 1909,1431 1985,1431 2061,1433 2138,1433"/>
+                <TextEquiv>
+                    <Unicode>Hincza de Rogow Siradiensi Regni Polonie vicethezaurario et Andrea de Crethkow Brzestensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:18;}">
+                <Coords points="611,1503 679,1511 764,1501 841,1500 918,1498 995,1497 1072,1497 1148,1495 1225,1495 1302,1495 1381,1504 1458,1504 1533,1495 1610,1495 1686,1497 1763,1498 1847,1517 1924,1518 1994,1504 2071,1507 2177,1513 2182,1471 2074,1448 1994,1465 1917,1452 1840,1451 1763,1459 1686,1458 1610,1456 1534,1447 1456,1456 1384,1445 1307,1445 1225,1456 1143,1451 1072,1444 995,1444 918,1459 841,1461 764,1452 687,1453 611,1464"/>
+                <Baseline points="611,1490 687,1489 764,1488 841,1487 918,1485 995,1484 1072,1484 1148,1482 1225,1482 1302,1482 1379,1482 1456,1482 1533,1482 1610,1482 1686,1484 1763,1485 1840,1487 1917,1488 1994,1491 2071,1494 2148,1496"/>
+                <TextEquiv>
+                    <Unicode>Castellanis Ac aliis quampluribus testibus circa premissa Datum per manus prefati Reverendis patris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:19;}">
+                <Coords points="611,1564 688,1564 766,1562 844,1562 922,1571 1000,1570 1078,1569 1155,1567 1233,1559 1311,1559 1389,1558 1467,1558 1545,1558 1623,1559 1700,1559 1778,1561 1856,1562 1934,1564 2012,1567 2090,1571 2191,1579 2193,1518 2092,1510 2012,1524 1934,1521 1856,1519 1778,1518 1700,1516 1629,1501 1545,1515 1467,1515 1389,1515 1306,1508 1228,1508 1155,1510 1078,1512 1000,1508 922,1509 844,1519 768,1512 690,1514 611,1521"/>
+                <Baseline points="611,1550 688,1550 766,1548 844,1548 922,1548 1000,1547 1078,1547 1155,1545 1233,1545 1311,1545 1389,1544 1467,1544 1545,1544 1623,1545 1700,1545 1778,1547 1856,1548 1934,1550 2012,1553 2090,1557 2168,1560"/>
+                <TextEquiv>
+                    <Unicode>domini Johannis Episcopo Wladislawiensis Cancellarii et venerabilis Johannis de Brzezye utriusque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:20;}">
+                <Coords points="590,1631 713,1633 791,1622 868,1631 946,1631 1024,1622 1101,1622 1179,1622 1257,1621 1334,1621 1412,1621 1490,1621 1567,1621 1645,1621 1723,1621 1800,1622 1878,1624 1956,1627 2033,1630 2111,1633 2221,1637 2230,1583 2120,1579 2033,1587 1956,1584 1882,1573 1804,1571 1723,1578 1647,1564 1569,1564 1490,1578 1412,1571 1334,1571 1257,1578 1179,1579 1101,1579 1024,1579 946,1579 868,1579 791,1579 713,1573 590,1571"/>
+                <Baseline points="636,1607 713,1608 791,1608 868,1608 946,1608 1024,1608 1101,1608 1179,1608 1257,1607 1334,1607 1412,1607 1490,1607 1567,1607 1645,1607 1723,1607 1800,1608 1878,1610 1956,1613 2033,1616 2111,1619 2189,1623"/>
+                <TextEquiv>
+                    <Unicode>jurisdoctoris Apostolici prothonotarii et ejusdem pallacii causarum auditoris Archidiaconi Gneznensis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:21;}">
+                <Coords points="614,1684 669,1684 724,1684 780,1684 835,1682 891,1682 946,1682 1000,1700 1056,1700 1112,1684 1168,1684 1226,1701 1281,1701 1334,1684 1389,1684 1445,1684 1500,1684 1555,1684 1611,1685 1666,1685 1722,1685 1722,1642 1666,1642 1611,1642 1555,1641 1500,1641 1445,1641 1389,1641 1334,1641 1278,1635 1223,1635 1168,1641 1112,1641 1057,1639 1000,1631 945,1631 891,1639 835,1639 780,1641 724,1641 669,1641 614,1641"/>
+                <Baseline points="614,1670 669,1670 724,1670 780,1670 835,1668 891,1668 946,1668 1001,1668 1057,1668 1112,1670 1168,1670 1223,1670 1278,1670 1334,1670 1389,1670 1445,1670 1500,1670 1555,1670 1611,1671 1666,1671 1722,1671"/>
+                <TextEquiv>
+                    <Unicode>et vicecancellarii Regni Polonie sincere nobis dilectorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>litteram seu Privilegium introscriptum per memoratum dominum Episcopum Lubuczensem ipsis consulibus&#13;
+et Comunitati in Opathow datum et concessum omnibus suis punctis clausulis articulis et condicionibus&#13;
+de nostra certa sciencia ac Consilio nostrorum Consiliariorum ad id accendente innovamus gratificamus approbamus&#13;
+et confirmamus presentis scripti patrocinio mediante decernentes ea robur perpetue obtinere firmitatis preterea&#13;
+volumusque per nostram presentem confirmacionem ac litteralem approbacionem fora nundinarum seu annualia ac&#13;
+Septimanalia vulgariter volnetargii in nullo diminuantur aut quovismodo decrescent sive prepediantur&#13;
+quem dicto Opido Opathow teneri sunt solita et consweta Sed quod omnibus hominibus cujuscumque status&#13;
+condicionis aut preeminencie fuerint In hujusmodi foris nundinarum ac Septimanalibus videlicet solum&#13;
+singulis diebus Sabbatinis in prefato opido Opathow liberum sit vendere et emere negociari et mercari&#13;
+juxta veterem et antiquam conswetudinem dudum circa talia fora tentam et observatam In cujus rei testimonium&#13;
+Sigillum nostrum presentibus est subappensum Actum in Convencione Pyothrkoviensi generali feria secunda&#13;
+in crastino sancte Barbare virginis Anno Domini millesimo quadringentesimo quinquagesimo septimo&#13;
+Presentibus ibidem Reverēndissimo Reverendisque in Christo patribus dominis Johanne Archepiscopo et primate&#13;
+Ecclesie Gneznensi Thoma Cracoviensi Johanne Wladislaviensi Regni Polonie Cancellario Andrea&#13;
+Poznaniensi Episcopo Necnon Magnificis et Generosis Johanne de Crzyszow Cracoviensi Castellano&#13;
+et Capitaneo Cracoviensi Stanislao de Ostrorog Calischiensi Derslao de Rithwani Siradiensi&#13;
+Petro de Oporow Lanciensi palatinis Petro de Schamothuli Poznaniensi Petro de Gay Calischiensi&#13;
+Hincza de Rogow Siradiensi Regni Polonie vicethezaurario et Andrea de Crethkow Brzestensi&#13;
+Castellanis Ac aliis quampluribus testibus circa premissa Datum per manus prefati Reverendis patris&#13;
+domini Johannis Episcopo Wladislawiensis Cancellarii et venerabilis Johannis de Brzezye utriusque&#13;
+jurisdoctoris Apostolici prothonotarii et ejusdem pallacii causarum auditoris Archidiaconi Gneznensis&#13;
+et vicecancellarii Regni Polonie sincere nobis dilectorum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

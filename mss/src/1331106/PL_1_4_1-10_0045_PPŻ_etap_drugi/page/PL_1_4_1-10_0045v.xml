@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-09-09T20:21:31.617+02:00</Created>
+        <LastChange>2023-03-20T13:24:23.531+01:00</LastChange>
+        <TranskribusMetadata docId="1331106" pageId="52272695" pageNr="2" tsid="117143964" status="DONE" userId="90548" imgUrl="https://files.transkribus.eu/Get?id=NCKRPBYFIRWSPNFDEHVZPHIJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LSBFDHSWUEZGJKAJCNFVQYYS" imageId="38556766"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-10_0045v.jpg" imageWidth="2805" imageHeight="3690">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681819416379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1662747876470_508"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1662747876470_508" custom="readingOrder {index:0;}">
+            <Coords points="478,264 2592,258 2597,1639 483,1645"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="518,420 701,457 728,442 827,442 914,421 1014,424 1113,426 1178,460 1311,430 1359,447 1410,433 1510,436 1609,438 1708,441 1807,443 1869,457 1906,445 2063,441 2102,465 2131,456 2204,448 2303,448 2363,485 2502,445 2502,387 2414,377 2271,290 2204,390 2037,362 1994,359 1906,387 1858,342 1702,332 1608,344 1510,378 1453,333 1218,211 1101,258 1113,368 1020,348 910,315 815,362 717,281 617,361 518,362"/>
+                <Baseline points="518,401 617,400 716,401 815,401 914,402 1014,405 1113,407 1212,410 1311,411 1410,414 1510,417 1609,419 1708,422 1807,424 1906,426 2006,428 2105,429 2204,429 2303,429 2402,428 2502,426"/>
+                <TextEquiv>
+                    <Unicode>et clausulis postulat et requirit juribus tamen nostris regalibus per omnia semper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;} faded {offset:11; length:1;}">
+                <Coords points="516,527 629,502 729,502 809,529 928,504 1007,533 1127,505 1275,527 1326,510 1426,511 1526,513 1625,514 1679,549 1725,517 1824,517 1924,519 1938,561 1965,517 2021,571 2058,512 2171,561 2201,514 2273,536 2322,521 2444,556 2522,519 2522,461 2422,462 2275,431 2223,464 2123,464 2046,434 1951,446 1824,459 1750,446 1574,434 1526,455 1426,453 1339,435 1227,449 1108,430 1028,446 928,446 756,426 691,479 629,444 528,408"/>
+                <Baseline points="530,483 629,483 729,483 828,483 928,485 1028,485 1127,486 1227,488 1326,491 1426,492 1526,494 1625,495 1725,498 1824,498 1924,500 2024,501 2123,503 2223,503 2322,502 2422,501 2522,500"/>
+                <TextEquiv>
+                    <Unicode>salvis harum quibus sigillum nostrum presentibus est subappensum testimonio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="509,578 607,578 705,578 803,578 902,578 1048,573 1070,635 1098,586 1295,582 1393,583 1492,584 1590,586 1688,587 1786,589 1826,614 1983,591 2081,593 2180,595 2278,596 2376,598 2475,599 2475,548 2303,547 2210,511 2180,544 2068,514 2010,552 1924,520 1751,502 1688,536 1590,535 1519,501 1393,532 1295,531 1227,507 1098,529 1000,529 902,527 803,527 762,505 666,501 532,499"/>
+                <Baseline points="509,561 607,561 705,561 803,561 902,561 1000,563 1098,563 1197,564 1295,565 1393,566 1492,567 1590,569 1688,570 1786,572 1885,573 1983,574 2081,576 2180,578 2278,579 2376,581 2475,582"/>
+                <TextEquiv>
+                    <Unicode>litterarum actum in Pyothrcow in convencione generali die dominico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="518,647 531,704 587,647 682,695 712,650 799,698 831,655 852,698 876,653 1004,653 1065,666 1101,655 1198,656 1226,673 1295,658 1392,659 1490,661 1587,661 1684,662 1781,664 1878,665 1965,678 2005,655 2071,690 2092,669 2161,657 2267,668 2354,687 2476,669 2518,579 2364,617 2267,617 2170,617 2106,591 2046,590 1878,614 1781,613 1670,579 1587,610 1490,610 1477,576 1305,581 1198,605 1101,604 1005,576 882,581 809,601 712,599 615,598 492,593"/>
+                <Baseline points="518,630 615,632 712,633 809,635 906,635 1004,636 1101,638 1198,639 1295,641 1392,642 1490,644 1587,644 1684,645 1781,647 1878,648 1976,648 2073,650 2170,651 2267,651 2364,651 2462,651"/>
+                <TextEquiv>
+                    <Unicode>proximo post Lucie Virginis anno Domini milesimo quadringentesimo quadra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="494,740 507,762 691,735 789,734 888,732 940,763 1080,755 1184,732 1282,734 1381,734 1480,735 1693,734 1725,776 1775,740 1878,763 1973,743 2071,744 2170,746 2268,747 2367,748 2466,749 2466,695 2372,681 2274,680 2143,656 2071,690 2018,656 1938,669 1752,661 1677,684 1578,683 1499,661 1381,680 1280,648 1184,678 1044,659 987,678 888,678 789,680 691,681 618,662 494,686"/>
+                <Baseline points="494,722 592,719 691,717 789,716 888,714 987,714 1085,714 1184,714 1282,716 1381,716 1480,717 1578,719 1677,720 1775,722 1874,723 1973,725 2071,726 2170,728 2268,729 2367,730 2466,731"/>
+                <TextEquiv>
+                    <Unicode>gesimo nono presentibus reverendo in Cristo patre Domino Andrea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="503,827 577,843 699,816 746,849 895,812 955,833 1091,810 1189,810 1301,827 1435,845 1484,813 1563,842 1680,816 1778,818 1876,821 1974,822 2099,839 2170,824 2268,824 2297,857 2465,822 2491,770 2394,749 2271,741 2170,770 2072,768 1999,743 1876,767 1778,764 1678,738 1603,732 1511,732 1402,724 1287,756 1196,736 1091,756 993,756 895,758 797,759 699,762 601,747 473,745"/>
+                <Baseline points="503,809 601,803 699,798 797,795 895,794 993,792 1091,792 1189,792 1287,792 1385,794 1484,795 1582,797 1680,798 1778,800 1876,803 1974,804 2072,804 2170,806 2268,806 2366,806 2465,804"/>
+                <TextEquiv>
+                    <Unicode>episcopo Poznaniensi et magnificis Johanne de Czizow castellano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="510,902 607,900 705,899 802,897 900,897 998,897 1095,896 1193,897 1291,897 1390,930 1486,898 1584,899 1681,900 1779,900 1877,902 1912,935 2072,905 2177,929 2267,906 2365,907 2463,908 2463,853 2404,826 2267,851 2212,825 2141,828 1995,834 1874,814 1779,845 1706,824 1584,844 1485,813 1398,847 1291,842 1232,823 1083,811 998,842 921,821 743,854 716,829 606,817 510,847"/>
+                <Baseline points="510,884 607,882 705,881 802,879 900,879 998,879 1095,878 1193,879 1291,879 1388,879 1486,880 1584,881 1681,882 1779,882 1877,884 1974,885 2072,887 2170,887 2267,888 2365,889 2463,890"/>
+                <TextEquiv>
+                    <Unicode>et Johanne de Tanczyn palatino Cracoviensibus Johanne de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="512,988 625,1004 706,981 819,993 902,1028 917,974 1096,978 1193,979 1290,979 1344,1011 1485,983 1582,985 1680,987 1777,988 1872,990 1991,983 2018,1034 2075,991 2256,983 2289,1014 2483,988 2459,931 2361,933 2265,914 2103,907 2069,934 1972,934 1874,933 1792,909 1647,894 1582,928 1503,892 1388,924 1290,922 1193,922 1096,921 999,896 901,921 804,922 706,924 601,897 467,929"/>
+                <Baseline points="512,969 609,965 706,962 804,960 901,959 998,959 1096,959 1193,960 1290,960 1388,962 1485,964 1582,966 1680,968 1777,969 1874,971 1972,972 2069,972 2166,972 2264,972 2361,971 2459,969"/>
+                <TextEquiv>
+                    <Unicode>Oleschnicza palatino et Predborio de Conyeczpole castellano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="467,1081 589,1063 687,1060 804,1069 883,1057 981,1057 1013,1069 1177,1055 1275,1055 1373,1057 1471,1057 1569,1058 1667,1058 1724,1091 1863,1061 1961,1063 2052,1043 2137,1115 2255,1069 2353,1070 2451,1072 2451,1021 2291,1023 2251,988 2077,989 2022,1038 1957,979 1888,993 1799,986 1703,989 1574,990 1482,995 1310,979 1256,995 1177,1004 1087,984 997,977 845,995 747,996 687,1009 590,1004 448,988"/>
+                <Baseline points="491,1047 589,1046 687,1043 785,1041 883,1040 981,1040 1079,1038 1177,1038 1275,1038 1373,1040 1471,1040 1569,1041 1667,1041 1765,1043 1863,1044 1961,1046 2059,1048 2157,1050 2255,1052 2353,1053 2451,1055"/>
+                <TextEquiv>
+                    <Unicode>Sandomiriensibus Johanne de Grandi Spycimiriensi castellano et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="458,1154 589,1133 685,1132 803,1164 830,1125 923,1158 998,1131 1061,1161 1100,1134 1162,1133 1258,1135 1269,1158 1353,1136 1449,1138 1545,1139 1622,1179 1640,1141 1736,1144 1764,1214 1831,1147 1927,1150 2022,1151 2100,1204 2118,1156 2213,1158 2309,1162 2405,1166 2405,1115 2309,1111 2213,1107 2118,1105 2035,1047 1990,1056 1941,1072 1911,1081 1868,1088 1824,1069 1736,1093 1600,1073 1545,1088 1481,1061 1449,1087 1362,1061 1327,1068 1279,1061 1257,1066 1239,1056 1162,1082 999,1064 941,1044 876,1081 812,1084 764,1056 589,1082 494,1084"/>
+                <Baseline points="494,1118 589,1116 685,1115 780,1115 876,1115 971,1115 1067,1116 1162,1116 1258,1118 1353,1119 1449,1121 1545,1122 1640,1124 1736,1127 1831,1130 1927,1133 2022,1134 2118,1139 2213,1141 2309,1145 2405,1149"/>
+                <TextEquiv>
+                    <Unicode>alis multis fidedignis testibus ad premissa datum per manus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="483,1221 583,1219 683,1219 719,1249 783,1218 883,1218 931,1252 983,1219 1083,1219 1183,1221 1283,1222 1383,1224 1483,1225 1583,1228 1615,1267 1683,1230 1783,1232 1883,1234 1983,1237 2083,1239 2183,1242 2261,1280 2283,1243 2383,1246 2484,1248 2469,1149 2383,1188 2235,1169 2183,1184 2083,1181 1990,1140 1962,1177 1883,1176 1841,1155 1766,1188 1702,1148 1683,1172 1583,1170 1433,1142 1383,1166 1164,1147 1046,1167 1007,1139 941,1158 864,1138 735,1130 683,1161 583,1161 483,1163"/>
+                <Baseline points="483,1202 583,1200 683,1200 783,1199 883,1199 983,1200 1083,1200 1183,1202 1283,1203 1383,1205 1483,1206 1583,1209 1683,1211 1783,1213 1883,1215 1983,1218 2083,1220 2183,1223 2283,1224 2383,1227 2484,1229"/>
+                <TextEquiv>
+                    <Unicode>magnificorum Johannis de Conyeczpole cancellarii et Petri de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;} corr {offset:51; length:5;}">
+                <Coords points="495,1329 590,1303 687,1303 784,1303 881,1303 978,1305 1075,1306 1172,1308 1269,1309 1323,1324 1471,1334 1559,1315 1656,1318 1690,1374 1850,1324 1947,1327 2001,1371 2168,1358 2238,1338 2390,1382 2432,1345 2432,1287 2262,1279 2208,1254 2137,1260 2078,1258 1976,1243 1850,1266 1721,1229 1656,1260 1574,1246 1551,1219 1366,1253 1286,1217 1172,1250 1075,1248 978,1247 881,1245 784,1245 651,1224 590,1245 495,1221"/>
+                <Baseline points="494,1286 590,1284 687,1284 784,1284 881,1284 978,1286 1075,1287 1172,1289 1269,1290 1366,1292 1463,1294 1559,1296 1656,1299 1753,1302 1850,1305 1947,1308 2044,1311 2141,1316 2238,1319 2335,1322 2432,1326"/>
+                <TextEquiv>
+                    <Unicode>Sczekoczynii vicecancellarii regni Polonie sincere nobis dilectorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="1360,1463 1522,1460 1573,1462 1623,1465 1674,1466 1725,1518 1775,1469 1826,1471 1876,1471 1927,1473 1978,1475 2028,1476 2079,1477 2129,1479 2180,1479 2231,1480 2281,1482 2332,1483 2382,1485 2433,1486 2484,1488 2484,1430 2491,1405 2457,1383 2401,1370 2342,1371 2272,1375 2232,1371 2076,1366 2079,1419 2069,1425 2026,1373 1974,1391 1923,1389 1874,1373 1775,1411 1727,1389 1674,1408 1623,1407 1651,1398 1597,1320 1374,1313"/>
+                <Baseline points="1472,1439 1522,1441 1573,1443 1623,1446 1674,1447 1725,1448 1775,1450 1826,1452 1876,1452 1927,1454 1978,1456 2028,1457 2079,1458 2129,1460 2180,1460 2231,1461 2281,1463 2332,1464 2382,1466 2433,1467 2484,1469"/>
+                <TextEquiv>
+                    <Unicode>relatio eiusdem magnifici Johannis de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="1414,1556 1523,1559 1575,1563 1627,1566 1679,1569 1710,1645 1783,1573 1835,1575 1887,1576 1939,1604 1991,1578 2042,1578 2036,1631 2146,1578 2198,1578 2250,1578 2302,1576 2354,1576 2406,1576 2477,1615 2510,1576 2554,1519 2503,1488 2442,1494 2378,1488 2299,1487 2250,1520 2198,1520 2129,1494 2094,1520 2042,1520 1991,1520 1939,1518 1921,1487 1794,1476 1783,1515 1731,1514 1679,1511 1627,1508 1564,1469 1518,1467 1380,1453"/>
+                <Baseline points="1472,1535 1523,1540 1575,1544 1627,1547 1679,1550 1731,1553 1783,1554 1835,1556 1887,1557 1939,1557 1991,1559 2042,1559 2094,1559 2146,1559 2198,1559 2250,1559 2302,1557 2354,1557 2406,1557 2458,1557 2510,1557"/>
+                <TextEquiv>
+                    <Unicode>Conyeczpole regni Polonie cancellarii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>et clausulis postulat et requirit juribus tamen nostris regalibus per omnia semper
+salvis harum quibus sigillum nostrum presentibus est subappensum testimonio
+litterarum actum in Pyothrcow in convencione generali die dominico
+proximo post Lucie Virginis anno Domini milesimo quadringentesimo quadra
+gesimo nono presentibus reverendo in Cristo patre Domino Andrea
+episcopo Poznaniensi et magnificis Johanne de Czizow castellano
+et Johanne de Tanczyn palatino Cracoviensibus Johanne de
+Oleschnicza palatino et Predborio de Conyeczpole castellano
+Sandomiriensibus Johanne de Grandi Spycimiriensi castellano et 
+alis multis fidedignis testibus ad premissa datum per manus
+magnificorum Johannis de Conyeczpole cancellarii et Petri de
+Sczekoczynii vicecancellarii regni Polonie sincere nobis dilectorum
+relatio eiusdem magnifici Johannis de 
+Conyeczpole regni Polonie cancellarii</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

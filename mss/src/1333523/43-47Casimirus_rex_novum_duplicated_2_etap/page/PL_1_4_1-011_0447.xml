@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-10-24T01:30:43.554+02:00</Created>
+        <LastChange>2023-02-15T20:58:10.124+01:00</LastChange>
+        <TranskribusMetadata docId="1333523" pageId="52315141" pageNr="5" tsid="114785044" status="IN_PROGRESS" userId="110750" imgUrl="https://files.transkribus.eu/Get?id=QNCIZPNFVMHOJTXMTXKZKCPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AEYXFLBJXFMCLDOVZVIUNJHI" imageId="40122117"/>
+    </Metadata>
+    <Page imageFilename="PL_1_4_1-011_0447.jpg" imageWidth="2597" imageHeight="3500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681816273139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1666568760501_1813"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1666568760501_1813" custom="readingOrder {index:0;}">
+            <Coords points="645,342 2352,342 2352,720 645,720"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="639,556 645,580 725,585 729,595 757,584 805,590 861,584 885,594 966,598 1021,597 1047,608 1067,615 1093,612 1126,606 1206,610 1251,605 1263,627 1284,612 1301,614 1327,610 1360,619 1367,616 1436,618 1443,622 1458,617 1527,619 1599,630 1642,615 1675,634 1710,619 1768,621 1822,617 1838,639 1866,619 1929,619 1954,628 2009,618 2089,615 2131,619 2169,611 2250,606 2271,583 2250,566 2169,565 2089,575 2009,578 1929,579 1848,581 1788,565 1688,581 1608,581 1527,579 1488,552 1370,555 1290,552 1206,570 1130,555 1050,551 977,550 895,543 820,533 740,528 659,530 645,540"/>
+                <Baseline points="645,567 725,572 805,577 885,581 966,585 1046,589 1126,593 1206,597 1287,600 1367,603 1447,605 1527,606 1608,608 1688,608 1768,608 1848,608 1929,606 2009,605 2089,602 2169,598 2250,593"/>
+                <TextEquiv>
+                    <Unicode>Luchkonis de Brzesze utriusque juris doctoris Apostolici prothonotarii et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="660,631 705,628 720,646 742,638 759,633 778,644 797,638 801,662 832,644 849,639 901,643 936,646 941,672 969,647 982,647 1063,651 1076,656 1143,654 1224,658 1251,658 1251,681 1269,663 1305,661 1320,665 1385,664 1466,667 1535,671 1547,669 1582,672 1627,671 1708,672 1789,672 1869,672 1950,670 2031,669 2111,665 2192,662 2198,671 2295,658 2295,628 2179,609 2159,615 2143,633 2111,635 2037,630 1965,632 1928,621 1887,627 1850,628 1831,645 1804,631 1707,626 1674,640 1627,641 1588,635 1581,630 1569,624 1547,639 1466,637 1443,628 1385,634 1360,621 1305,631 1296,612 1287,612 1271,624 1263,631 1224,628 1180,614 1143,624 1120,609 1101,613 1087,623 1063,621 1054,616 1040,609 1027,610 1013,616 982,617 928,604 901,613 876,609 865,590 832,590 751,586 660,601"/>
+                <Baseline points="660,621 740,625 821,629 901,633 982,637 1063,641 1143,644 1224,648 1305,651 1385,654 1466,657 1547,659 1627,661 1708,662 1789,662 1869,662 1950,660 2031,659 2111,655 2192,652 2273,647"/>
+                <TextEquiv>
+                    <Unicode>ejusdem Sacri Palacii Causarum auditoris Archidiaconi Gneznensis et Vicecancelarii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="629,667 657,684 701,685 690,700 701,709 714,709 726,702 746,687 791,688 806,690 803,725 836,690 881,693 926,696 970,699 1015,702 1060,704 1105,706 1150,709 1177,750 1240,714 1284,714 1329,715 1374,715 1419,715 1464,715 1511,720 1554,711 1566,695 1554,681 1519,678 1465,667 1420,667 1392,673 1374,685 1354,669 1331,668 1329,685 1284,684 1249,683 1250,666 1247,657 1220,669 1195,681 1169,666 1151,667 1135,666 1105,676 1060,674 1015,672 996,649 987,649 970,669 942,670 926,666 900,652 836,660 823,656 800,666 791,658 746,657 701,655 699,642 676,636 658,647"/>
+                <Baseline points="657,674 701,675 746,677 791,678 836,680 881,683 926,686 970,689 1015,692 1060,694 1105,696 1150,699 1195,701 1240,704 1284,704 1329,705 1374,705 1419,705 1464,705 1509,703 1554,701"/>
+                <TextEquiv>
+                    <Unicode>Regni Polonie nobis sincere dilectorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Luchkonis de Brzesze utriusque juris doctoris Apostolici prothonotarii et&#13;
+ejusdem Sacri Palacii Causarum auditoris Archidiaconi Gneznensis et Vicecancelarii&#13;
+Regni Polonie nobis sincere dilectorum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
